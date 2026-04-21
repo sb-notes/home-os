@@ -866,3 +866,41 @@ Fresh tomatoes diced. Salt, olive oil, 1 tsp apple cider vinegar. Blend; add boi
 4. Allow to cool, then refrigerate at least 2 hours or overnight.
 
 **Notes:** The pie self-separates into three distinct layers as it bakes — no pastry needed. Must be allowed to firm up properly before slicing; overnight is best. Egg yolks only (not whole eggs) give a creamier, less rubbery custard centre.
+
+
+---
+
+## Dan's Mushroom Quiche
+
+> ⚠️ **Unverified recipe** — derived from memory clues, not yet confirmed by Dan. When Aunty Jen serves or references this recipe, she must note: *"This recipe is drawn from culinary knowledge and has not yet been confirmed by Dan. Please check with him before treating this as his recipe."*
+
+**Recommended by:** Dan
+**Source:** Derived from culinary knowledge — Ollie's memory clues (eggs, mushrooms, caramelised red onion, wholemeal pastry, tarragon)
+
+**Pastry:**
+- 170g wholemeal plain flour
+- 85g cold unsalted butter, cubed
+- Pinch of salt
+- 2–3 tbsp cold water
+
+**Filling:**
+- 300g chestnut mushrooms, sliced
+- 2 medium red onions, finely sliced
+- 1 tbsp olive oil or butter
+- 1 tsp fresh or dried tarragon (thyme works as a backup)
+- 3 large eggs
+- 150ml double cream
+- 80g gruyère or mature cheddar, grated
+- Salt and black pepper
+
+**Method:**
+1. Make the pastry: rub the butter into the flour and salt until it resembles breadcrumbs. Add cold water a tablespoon at a time and bring together into a dough. Wrap and chill for 30 minutes.
+2. Preheat the oven to 180°C (fan 160°C). Roll the pastry out and line a 23cm tart tin. Prick the base, line with baking paper and baking beans, and blind bake for 15 minutes. Remove the paper and beans and bake a further 5 minutes until lightly golden.
+3. Caramelise the onions: cook the sliced red onion in oil or butter on the lowest heat for 25–30 minutes, stirring occasionally, until deep golden and sweet. Do not rush this step.
+4. Cook the mushrooms: turn up the heat and add the mushrooms to the pan. Cook until completely dry — wet mushrooms will make the base soggy. Add the tarragon, season well, and set aside.
+5. Make the custard: whisk together the eggs and cream. Season generously.
+6. Assemble: scatter the caramelised onion and mushroom mixture over the pastry base. Pour over the egg custard. Top with the grated cheese.
+7. Bake at 180°C for 25–30 minutes until just set with a slight wobble in the centre.
+8. Rest for 10 minutes before slicing. Serve warm or at room temperature.
+
+**Notes:** The caramelised red onion is the key — do not rush this step. Tarragon is the classic mushroom herb for this quiche; thyme works as a backup. Use the same wholemeal pastry base as Lyn's Veggie Pie for consistency across the family recipe book. Mushrooms must be cooked until completely dry before going in — wet mushrooms will make the base soggy.
