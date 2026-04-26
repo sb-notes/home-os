@@ -1,61 +1,56 @@
+# 🧠 ProdMind — Current State (14 Apr 2026)
+
+<!-- Auto-synced from Notion. Last sync: 2026-04-26 20:04 UTC -->
+
+> Last updated: 12 April 2026
 ---
-tier: live
-project: ProdMind
-updated: 2026-04-21
----
-
-# ProdMind — Live State
-
-## Current Status: Founding — Pre-Launch (Active Outreach Beginning)
-
-- **Stage:** Infrastructure complete. Ready to invite members.
-- **Co-founders:** Ollie Happy (Kiwifruit) + Kieran Jones
+## 🟢 Current Status
+- **Stage:** Founding — pre-launch
+- **Co-founders:** Kiwifruit (Ollie Happy) + Kieran Jones
 - **Founded:** April 2026
-- **First session:** Potentially Friday 17 Apr or fourth Friday of April 2026 (TBC)
-
+- **Status:** Landing page and infrastructure in setup; member outreach not yet begun
 ---
-
-## Members
-
-| Name | Role | Joined | Status |
-|---|---|---|---|
-| Ollie Happy | Co-founder | Apr 2026 | Active |
-| Kieran Jones | Co-founder | Apr 2026 | Active |
-
+## 🎯 Purpose & Concept
+ProdMind is a free, member-run peer support group for senior product people — heads of product, group product leads, and those on the CPO track. It exists to give product leaders a confidential monthly space to voice real challenges, get honest input, and build genuine relationships with peers who understand the work.
+No coaches. No sales. No corporate framing. Run by the community, for the community.
 ---
-
-## Outreach Pipeline
-
+## 👥 Group Parameters
+- **Target size:** Up to 15 members; aim for 5–7 on each call
+- **Session frequency:** Monthly — second Friday of the month
+- **Session time:** 3:00–4:30pm or 3:30–5:00pm UK (during work hours — it's a work group)
+- **Format:** Online video call, ~90 minutes
+- **Cost:** Free
+- **Method:** Roundtable peer coaching format (adapted)
+---
+## 🗓️ Sessions
+| Date | Facilitator | Attendees | Notes |
+| --- | --- | --- | --- |
+| TBC — first session | TBC | TBC | Founding session |
+---
+## 👤 Members
+| Name | Sponsor | Joined | Status |
+| --- | --- | --- | --- |
+| Ollie Happy | — | Apr 2026 | Co-founder |
+| Kieran Jones | — | Apr 2026 | Co-founder |
+---
+## 📋 Outreach Pipeline
 | Name | Sponsor | Status | Notes |
-|---|---|---|---|
-| — | — | Not yet begun | Begin w/c 14 Apr 2026 |
-
+| --- | --- | --- | --- |
+| TBC |  |  |  |
 ---
-
-## Open Actions
-
-1. **Begin member outreach** — target 15 members total; aim for first invites this week (w/c 14 Apr)
-2. **Set first session date** — 17 Apr or fourth Friday of April. Avoid third week of each month going forward.
-3. **Add Kieran to member directory** — populate Notion member directory
-4. **Logo** — placeholder generated via Gemini and vectorised. Add to landing page if not already done.
-5. **First session facilitation plan** — who facilitates? Roundtable peer coaching method to be used.
-
+## 🔗 Key Links
+- ProdMind State Files parent: [ProdMind State Files ](https://www.notion.so/34024a1cf0f080058ca8f5dda6cee011)
+- Roundtable peer coaching method: [Untitled](https://www.notion.so/30c24a1cf0f0807fb672d0dde0d7e198)
+- Forever Dads (parallel model): [Untitled](https://www.notion.so/32124a1cf0f080348875f0377fba63c3)
 ---
-
-## Session Schedule
-
-| Session | Date | Facilitator | Attendees | Notes |
-|---|---|---|---|---|
-| Founding session | TBC (Apr 2026) | TBC | TBC | First session |
-
-**Recurring cadence:** Monthly — second Friday of the month, 3:00–4:30pm or 3:30–5:00pm UK (work hours). Third week of month to be avoided.
-
+## 📝 Running Notes
+- Kieran open to ProdMind becoming a business in future — noted as upside, not current goal
+- Start simple with roundtable method; bring in additional formats as group matures
+- Target 15 members to reliably get 5–7 per session (per Forever Dads learning: even 2 is enough to start)
+- Logo: to be generated via Gemini and added to landing page
+- Next week (w/c 14 Apr 2026): begin member outreach and aim to set a date for first session
 ---
-
-## Key Links (Notion)
-
-- State file: https://www.notion.so/34024a1cf0f08124a837d205ad3a0971
-- Member directory: https://www.notion.so/096720ae72cb426e90bd16ee29baf087
-- Teamspace: https://www.notion.so/34024a1cf0f0813695a0fab037f77a04
-- Landing page: https://www.notion.so/34024a1cf0f0812d92b2d45118928e87
-- Roundtable method: https://www.notion.so/30c24a1cf0f0807fb672d0dde0d7e198
+## Update — 14 April 2026
+- **Infrastructure:** Landing page live. Placeholder logo generated via Gemini and vectorised. Member directory created and ready to be populated by Kiwifruit and Kieran.
+- **First session timing:** Potentially this Friday (17 Apr) or fourth Friday of April. Third week of each month to be avoided going forward for scheduling.
+- **Status:** Ready to begin inviting members.

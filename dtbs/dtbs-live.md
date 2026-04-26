@@ -1,57 +1,44 @@
+# DataBoots — Current State (updated 21 Mar 2026)
+
+<!-- Auto-synced from Notion. Last sync: 2026-04-26 20:03 UTC -->
+
+**Project:** DataBoots HBN Advisory
+**Topic:** Consulting client (HBN Advisory)
+**Last updated:** 27 February 2026
 ---
-tier: live
-project: Boots
-updated: 2026-04-21
+## Current Engagement
+*To be populated from conversation threads.*
 ---
-
-# Boots — Live State
-
-## Engagement Overview
-
-- **Client:** Fern (CEO & founder, Boots)
-- **Advisor:** Pro bono product strategist
-- **Cadence:** Monthly calls, evening slot (moved from fortnightly when Ollie started new role)
-- **Session format:** 1-hour calls — advisor listens, plays back, challenges, helps Fern think through strategic pivot
-
+Last journal sync: not yet run
 ---
-
-## Current Strategic Status
-
-Boots has built a data quality and migration assessment platform — originally internal tooling, now a standalone SaaS product with real traction. The March housing conference was a watershed moment: strong market validation, 2 SOWs signed within a week.
-
-**The pivot that's happening:** the platform is now driving sales in its own right — clients are buying the health check tool directly, not just buying consultancy. This changes the strategic framing from "consultancy with software" to "software-led with consultancy as the delivery motion."
-
-**Current focus:** scaling from early traction (2 SOWs, 1 anchor client) to a repeatable pipeline. Fern is sole sales resource. CRM and pipeline management are ad hoc.
-
+## Notes
+*Add relevant updates here when prompted 'update state'.*
 ---
-
-## Open Strategic Questions
-
-1. **Dual-motion GTM** — consultancy motion vs. platform/SaaS motion. Conference proved the platform sells. How fast to shift the emphasis?
-2. **L&Q relationship** — anchor client but unhealthy: scope creep, unreasonable expectations, Fern unable to say no due to dependency. Needs managing.
-3. **Partnership strategy** — blocked until proven across 10+ clients and multiple major housing platform providers (NEC + 2–3 others). When to revisit?
-4. **Agentic AI PoC** — conversational dashboard generation is promising. When does it become a product feature?
-5. **Sales infrastructure** — Fern is sole sales resource managing leads via spreadsheet. CRM and transcription workflow needed urgently.
-6. **Website messaging** — still reads as consultancy-first. Needs to reflect platform-led positioning.
-
+## Update — 21 March 2026
+### Advisory structure changes
+- Advisory cadence moved from fortnightly to **monthly** calls
+- Notion workspace restructured by Notion AI as part of this session: Sessions and Actions are now stored in dedicated **databases** (DataBoots Sessions DB and DataBoots Actions DB), linked to each other, and embedded on the advisory page
+- The same structure was replicated for the other advisory client (Lavender Thorn)
+- Session pages migrated into the Sessions DB and renamed using the convention: `Session N: <title> (YYYY-MM-DD)`
+- This restructure was done to improve Notion AI sparring, reduce Ollie's effort, and enable automated post-session GTD action tracking
+### Session content (most recent session — date approx. March 2026)
+- Session focused on the Notion/advisory setup conversation rather than a DataBoots strategy session
+- No new DataBoots strategic content discussed in this session — the session was meta: improving the advisory infrastructure
+- Dan had previously received positive feedback at the UK housing conference and had a booth demo running; the five-day assessment offer was the planned low-risk entry point
+- Strategic "why" (snowballing Data Pain in transformation) remains the agreed anchor for positioning
+### Outstanding strategic focus areas (carried forward)
+- Conference learnings not yet captured — to be picked up in next session
+- Website messaging still needs to reflect platform-first positioning (not consultancy brochure)
+- Dual audience challenge (end clients vs consultancy partners licensing the platform) still unresolved
+- Five-day assessment offer needs refinement as a platform trial entry point
 ---
-
-## Open Actions
-
-1. **CRM setup** — Notion-based CRM or lightweight alternative (Zendesk discussed); systemise pipeline tracking
-2. **Transcription workflow** — Teams transcription + AI processing for call notes and CRM updates; explore Whisperflow
-3. **Next session (15 Apr, evening)** — Fern to prepare list of concerns and challenges (format shift: challenges-first rather than updates-first)
-4. **L&Q scope management** — address unhealthy engagement dynamic
-5. **Friday call (post-21 Mar)** — NEC-recommended migration engagement, potential second anchor client; outcome unknown
-6. **Website** — update messaging to platform-led; reduce personal profile prominence; add team section
-
----
-
-## Session Log
-
-| Session | Date | Focus |
-|---|---|---|
-| Session 1 | 3 Feb 2026 | Company origin, product vision, NEC partnership, market opportunity; Cedar intro |
-| Session 2 | 18 Feb 2026 | Conference prep: presentation structure, messaging, tiered pricing model, website |
-| Session 3 | 21 Mar 2026 | Conference debrief: exceptional results, 2 SOWs, platform-led sales validated; pipeline ops; agentic AI PoC |
-| Session 4 | 15 Apr 2026 | TBC — challenges and concerns format |
+## Update — 21 March 2026 (Session 3)
+### Notion infrastructure (completed this session)
+- Notion AI restructured the advisory workspace: Sessions and Actions now stored in dedicated linked databases for both DataBoots and Lavender Thorn
+- Session naming convention applied: `Session N: <title> (YYYY-MM-DD)`
+- Advisory cadence confirmed as monthly going forward
+- Ollie now using Notion AI as a sparring partner and for post-session summaries
+### Context note
+- This session was infrastructure/meta — no new DataBoots strategic content discussed
+- The session transcript shared was the Notion AI setup conversation, not a DataBoots strategy conversation
+- Next session should pick up: housing conference learnings, website positioning, five-day assessment offer refinement, dual-audience GTM strategy
