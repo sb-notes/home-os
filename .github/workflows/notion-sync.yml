@@ -1,0 +1,238 @@
+name: Notion → GitHub Sync
+
+on:
+  schedule:
+    # Runs nightly at 02:00 UTC (03:00 BST / 02:00 GMT)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    # Also triggerable manually from the Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests notion-to-md 2>/dev/null || pip install requests
+
+      - name: Sync Notion state files to GitHub
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+          import json
+          import requests
+          from datetime import datetime, timezone
+
+          TOKEN = os.environ["NOTION_TOKEN"]
+          HEADERS = {
+              "Authorization": f"Bearer {TOKEN}",
+              "Notion-Version": "2022-06-28",
+              "Content-Type": "application/json",
+          }
+
+          # Map: (github_folder, filename) -> Notion page ID
+          STATE_FILES = {
+              ("aloyse",        "aloyse-live.md"):          "31424a1cf0f08184aff9f94353755f72",
+              ("aunty-jen",     "aunty-jen-live.md"):       "31424a1cf0f0810f97fff43179f166d4",
+              ("bob-the-builder","bob-the-builder-live.md"):"31424a1cf0f081ccb95cfb4a5520250a",
+              ("cheryl",        "cheryl-live.md"):           "31224a1cf0f081a9816fe88cb181dce5",
+              ("dtbs",          "dtbs-live.md"):             "31424a1cf0f0818aaac2ec0ae2cb3a1e",
+              ("degen",         "degen-live.md"):            "31424a1cf0f081e080ddcd3e0b42325e",
+              ("dr-quinn",      "dr-quinn-live.md"):         "31424a1cf0f0818ba22fea1d74989f55",
+              ("fdads",         "fdads-live.md"):            "31424a1cf0f08104a03cd5edf4a7da18",
+              ("jbot",          "jbot-live.md"):             "31424a1cf0f081ac80bfcdb467e67da7",
+              ("lvtn",          "lvtn-live.md"):             "31424a1cf0f08131bb15d4a79241e0c5",
+              ("marty",         "marty-live.md"):            "31424a1cf0f08173a269f36dcfe90758",
+              ("niks",          "niks-live.md"):             "31424a1cf0f08199af3be44450656091",
+              ("prodmind",      "prodmind-live.md"):         "34024a1cf0f08124a837d205ad3a0971",
+              ("rosie-rentals", "rosie-rentals-live.md"):   "31424a1cf0f0815f88dafd7393a7745e",
+              ("sean-from-it",  "sean-from-it-live.md"):    "31324a1cf0f0817ebb47e1122906e8cd",
+              ("sadpt",         "sadpt-live.md"):            "31424a1cf0f081ebab8fc0ec4c67794b",
+              ("shula-rtm",     "shula-rtm-live.md"):       "31424a1cf0f081edb7a8c74839009609",
+              ("steve-irwin",   "steve-irwin-live.md"):     "31424a1cf0f08126a3caea81be10624f",
+          }
+
+          def get_page_title(page_id):
+              """Fetch the current page title from Notion."""
+              url = f"https://api.notion.com/v1/pages/{page_id}"
+              r = requests.get(url, headers=HEADERS)
+              r.raise_for_status()
+              data = r.json()
+              title_prop = data.get("properties", {}).get("title", {})
+              rich_text = title_prop.get("title", [])
+              return "".join([t.get("plain_text", "") for t in rich_text]).strip()
+
+          def get_block_children(block_id):
+              """Recursively fetch all block children."""
+              blocks = []
+              url = f"https://api.notion.com/v1/blocks/{block_id}/children"
+              cursor = None
+              while True:
+                  params = {"page_size": 100}
+                  if cursor:
+                      params["start_cursor"] = cursor
+                  r = requests.get(url, headers=HEADERS, params=params)
+                  r.raise_for_status()
+                  data = r.json()
+                  blocks.extend(data.get("results", []))
+                  if not data.get("has_more"):
+                      break
+                  cursor = data.get("next_cursor")
+              return blocks
+
+          def rich_text_to_md(rich_text):
+              """Convert Notion rich text array to markdown string."""
+              result = ""
+              for segment in rich_text:
+                  text = segment.get("plain_text", "")
+                  annotations = segment.get("annotations", {})
+                  if annotations.get("code"):
+                      text = f"`{text}`"
+                  if annotations.get("bold"):
+                      text = f"**{text}**"
+                  if annotations.get("italic"):
+                      text = f"*{text}*"
+                  if annotations.get("strikethrough"):
+                      text = f"~~{text}~~"
+                  href = segment.get("href")
+                  if href:
+                      text = f"[{text}]({href})"
+                  result += text
+              return result
+
+          def blocks_to_md(blocks, depth=0):
+              """Convert a list of Notion blocks to markdown."""
+              lines = []
+              indent = "  " * depth
+
+              for block in blocks:
+                  btype = block.get("type")
+                  bdata = block.get(btype, {})
+                  rt = bdata.get("rich_text", [])
+                  text = rich_text_to_md(rt)
+
+                  if btype == "paragraph":
+                      lines.append(f"{indent}{text}" if text else "")
+                  elif btype in ("heading_1", "heading_2", "heading_3"):
+                      level = {"heading_1": "#", "heading_2": "##", "heading_3": "###"}[btype]
+                      lines.append(f"{indent}{level} {text}")
+                  elif btype == "bulleted_list_item":
+                      lines.append(f"{indent}- {text}")
+                  elif btype == "numbered_list_item":
+                      lines.append(f"{indent}1. {text}")
+                  elif btype == "to_do":
+                      checked = "x" if bdata.get("checked") else " "
+                      lines.append(f"{indent}- [{checked}] {text}")
+                  elif btype == "toggle":
+                      lines.append(f"{indent}- {text}")
+                  elif btype == "quote":
+                      lines.append(f"{indent}> {text}")
+                  elif btype == "callout":
+                      emoji = bdata.get("icon", {}).get("emoji", "")
+                      lines.append(f"{indent}> {emoji} {text}")
+                  elif btype == "divider":
+                      lines.append(f"{indent}---")
+                  elif btype == "code":
+                      lang = bdata.get("language", "")
+                      code_text = rich_text_to_md(rt)
+                      lines.append(f"{indent}```{lang}\n{code_text}\n{indent}```")
+                  elif btype == "table":
+                      # Tables handled by children (table_row blocks)
+                      pass
+                  elif btype == "table_row":
+                      cells = bdata.get("cells", [])
+                      row_text = " | ".join([rich_text_to_md(cell) for cell in cells])
+                      lines.append(f"{indent}| {row_text} |")
+
+                  # Recurse into children if present
+                  if block.get("has_children") and btype not in ("code",):
+                      try:
+                          children = get_block_children(block["id"])
+                          # Insert table header separator after first row
+                          if btype == "table":
+                              child_lines = blocks_to_md(children, depth)
+                              if child_lines:
+                                  # Add separator after header row
+                                  header = child_lines[0]
+                                  col_count = header.count("|") - 1
+                                  separator = "| " + " | ".join(["---"] * col_count) + " |"
+                                  lines.append(header)
+                                  lines.append(f"{indent}{separator}")
+                                  lines.extend(child_lines[1:])
+                          else:
+                              lines.extend(blocks_to_md(children, depth + 1))
+                      except Exception as e:
+                          lines.append(f"{indent}<!-- error fetching children: {e} -->")
+
+              return lines
+
+          def page_to_markdown(page_id, title):
+              """Convert a full Notion page to a markdown string."""
+              blocks = get_block_children(page_id)
+              md_lines = blocks_to_md(blocks)
+              # Clean title of date suffixes for the header
+              clean_title = re.sub(r'\s*\d{1,2}\s+\w+\s+\d{4}$', '', title).strip()
+              header = [
+                  f"# {clean_title}",
+                  f"",
+                  f"<!-- Auto-synced from Notion. Last sync: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')} -->",
+                  f"",
+              ]
+              return "\n".join(header + md_lines) + "\n"
+
+          # Main sync loop
+          updated = []
+          errors = []
+
+          for (folder, filename), page_id in STATE_FILES.items():
+              filepath = f"{folder}/{filename}"
+              print(f"Syncing {filepath} from Notion page {page_id}...")
+              try:
+                  title = get_page_title(page_id)
+                  markdown = page_to_markdown(page_id, title)
+
+                  os.makedirs(folder, exist_ok=True)
+                  with open(filepath, "w", encoding="utf-8") as f:
+                      f.write(markdown)
+
+                  updated.append(filepath)
+                  print(f"  ✓ {filepath}")
+              except Exception as e:
+                  errors.append((filepath, str(e)))
+                  print(f"  ✗ {filepath}: {e}")
+
+          print(f"\nSync complete: {len(updated)} updated, {len(errors)} errors")
+          if errors:
+              for path, err in errors:
+                  print(f"  ERROR {path}: {err}")
+              exit(1)
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit — Notion state files unchanged since last sync."
+          else
+            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "chore: nightly Notion → GitHub sync (${TIMESTAMP})"
+            git push
+            echo "Changes committed and pushed."
+          fi
