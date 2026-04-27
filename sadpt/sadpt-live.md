@@ -1,6 +1,6 @@
 # Secret Adopters — Current State (updated 5 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-26 20:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
 
 **Project:** Secret Adopters
 **Description:** A blog written anonymously and in several anonymous voices, which draws on the adoptive experiences of Ollie and Hannah. This state file is used to generate anonymous blogs, which are posted to [secretadopters.com](http://secretadopters.com/) using WordPress hosted on [Hostinger.com](http://hostinger.com/).

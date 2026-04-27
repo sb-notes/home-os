@@ -1,10 +1,18 @@
-# Sean from IT — Current State (14 Apr 2026)
+# Sean from IT — Current State (26 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-26 20:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
 
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors
 > Last updated: 1 April 2026
 ---
+## 🟢 Current Status — 26 April 2026
+- **Notion → GitHub sync automation live (26 Apr 2026):** GitHub Action (`notion-sync.yml`) deployed to `sb-notes/second-brain` repo. Runs nightly at 02:00 UTC (03:00 BST). Reads all 18 Second Brain v2 live state files from Notion API, converts to markdown, commits to GitHub. Skips commit if no changes. Can also be triggered manually from GitHub Actions tab. First manual run: success, 2m 8s, all 18 files synced.
+- **GitHub Action secrets configured:**
+  - `NOTION_TOKEN` — Notion "GitHub Sync" internal integration token, stored as org-level secret in `sb-notes` org, scoped to public repositories. Integration has access to "Second brain state files" parent page (covers all 19 projects).
+  - `GH_PAT` — Fine-grained personal access token (resource owner: `sb-notes` org, repo: `sb-notes/second-brain`, permission: Contents read/write). Stored as repo-level secret in `second-brain`. Expiry: 1 year.
+- **Notion integration in use:** "GitHub Sync" integration (internal connection in Kiwifruit's Notion workspace). Token retrieved and stored in GitHub this session. Access granted to "Second brain state files" teamspace page and all children.
+- **Nightly sync architecture note:** The nightly sync keeps GitHub (Claude's read source) current with Notion (Claude's write destination). Without it, Claude reads stale GitHub files if Notion was updated but the repo wasn't manually pushed. The Action eliminates all manual GitHub pushes going forward. Workflow file: `.github/workflows/notion-sync.yml` in `sb-notes/second-brain`.
+- **Second Brain v1 and v2 architecture documented in Notion (26 Apr 2026):** Two new pages created under "Second brain state files": (1) Second Brain v1 — Architecture & Deprecation — what v1 was, the five failure modes, deprecation decision; (2) Second Brain v2 — Architecture & Design — full design spec, session flow, data flow, trigger words, codename system, bug fixes, the nightly sync automation, all 19 projects listed.
 ## 🟢 Current Status — 14 April 2026
 - **Wispr Flow — Android power settings note (14 Apr):** Wispr Flow icon periodically disappears from Gboard toolbar after Android power management kills background processes. Mental note from Kiwifruit: always toggle Wispr Flow off and back on again before starting a journal transcription session on Android. Battery Unrestricted fix was applied (4 Apr 2026) but may need re-checking after OS updates.
 ## 🟢 Current Status — 13 April 2026

@@ -1,6 +1,6 @@
 # Lavender Thorn — Current State (updated 4 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-26 20:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:21 UTC -->
 
 **Project:** Lavender Thorn HBN Advisory
 **Topic:** Consulting client (HBN Advisory)

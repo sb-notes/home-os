@@ -1,6 +1,6 @@
 # Steve Irwin — Current State (updated 22 Mar 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-26 20:05 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
 
 **Project:** Steve Irwin
 **Topic:** Outdoor equipment, camping, and gardening (merged from Green thumbs + Steve Irwin)

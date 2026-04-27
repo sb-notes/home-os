@@ -1,6 +1,6 @@
 # Aloyse — Current State (19 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-26 20:03 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:20 UTC -->
 
 **Project:** Aloyse
 **Topic:** Parenting and adoption advice. Doing the best we can as parents for Bunny and Fox.
