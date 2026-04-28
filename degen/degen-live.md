@@ -1,6 +1,6 @@
 # Degen — Current State (25 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
 
 **Project:** Degen
 **Topic:** Family financial planning

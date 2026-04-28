@@ -1,9 +1,24 @@
-# Shula RTM — Current State (17 Apr 2026)
+# Shula RTM — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:30 UTC -->
 
 Last journal sync: 6 April 2026
 Last journal sync: 6 April 2026
+---
+## Journal sync — 22–23 April 2026 (sources: "Wednesday by the sea by the sea", "Thursday")
+### 22 Apr — Flat 7, admin fee, and director handover
+- Extensive email correspondence with Hannah Benamari (Austin Rees) re flat 7. Flat 7 leaseholders have a sale about to go through but have been blocking fire door survey access (two attempts refused). Third attempt booked. They've put themselves in a difficult position: can't complete sale without fire safety compliance, but keep blocking the survey. Kiwifruit's view: not his problem, they can sort it out
+- Admin fee proposal sent: £49/half-year for all leaseholders to cover RTM administration and accountancy costs going forward
+- Handed off Luke and Barney director additions to Radicchio (Radicchio to manage from here)
+- Clean separation now in place: Rosie Rentals = all tenancy (3 properties); Shula RTM = RTM admin only
+- Feeling in control and no longer stressed about Shula matters; not worried about issues of this type anymore
+### 23 Apr — Director additions confirmed & fire safety progress
+- **Radicchio (Cedro and Borragine):** Successfully added Borragine and Cedro as directors on Companies House — action complete ✓
+- Radicchio filed confirmation statement — complete ✓
+- Fire door surveys and Louvre smoke escape survey nearly done. Once complete: gather contractor details → Section 20 notices → raise funds for fire doors
+- Radicchio resisting holding a leaseholder meeting. Kiwifruit's view: no hurry on that; wait until Austin Rees property manager is back from sick leave and things are more settled
+- EICR at Hereford Court (done by Jamie): didn't pass — needs fuse board replacement and earthing fix. Jamie to return in next week or so
+- Jamie also installed powerline adapters at Hereford Court — internet improved
 ---
 ## Journal sync — 15 April 2026 (source: "The next chapter")
 ### Companies House — director additions (15 Apr)
@@ -251,10 +266,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -281,10 +298,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -311,10 +330,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -341,6 +362,7 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -356,10 +378,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>

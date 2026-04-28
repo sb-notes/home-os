@@ -1,6 +1,6 @@
-# Jamesbot — Current State (21 Apr 2026)
+# Jamesbot — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
 
 **Project:** Jamesbot
 **Topic:** Job hunting and HR questions
@@ -321,6 +321,8 @@ You negotiated well using James Gunaca principles. EMI scheme alone worth £75k.
   - **Unfair dismissal:** SoS asks to be dismissed from UD element — irrelevant as under 2 years' service means no UD claim
   - **8-week payment cap:** SoS confirms protective award treated as arrears of pay, capped at 8 weeks under s.184(1)(a)
 - FRP Advisory (Laura Herd) also copied on the ET3 correspondence
+- **27 Apr 2026:** Kiwifruit forwarded ET3 documents directly to Steve Chadwick, Rhys Evans, and Laura Herd at FRP Advisory ([Steve.Chadwick@frpadvisory.com](mailto:Steve.Chadwick@frpadvisory.com), [Rhys.Evans@frpadvisory.com](mailto:Rhys.Evans@frpadvisory.com), [Laura.Herd@frpadvisory.com](mailto:Laura.Herd@frpadvisory.com)) at their request, relayed via former Chief of Staff Denise Khalil who had spoken with FRP. FRP indicated they will draft a response to the court. Awaiting FRP's response — this could be consent to lift the stay.
+- Tribunal email re: individual standing (appropriate representative point) held pending FRP's response to court
 ## VITRIFI LAPTOP — ASSET RETURN (27 Mar 2026)
 - Vitrifi went into administration 10 December 2025; a MacBook Pro 16" (Model A2780, M2 Max, serial W31R7NXHPJ) remained in Ollie's possession
 - FRP Advisory (Chloe Henshaw) confirmed the asset in January 2026 and directed Ollie to Kirsteen Osborn at Vorboss for collection

@@ -1,6 +1,6 @@
-# Aloyse — Current State (19 Apr 2026)
+# Aloyse — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:28 UTC -->
 
 **Project:** Aloyse
 **Topic:** Parenting and adoption advice. Doing the best we can as parents for Bunny and Fox.
@@ -16,6 +16,55 @@
 - **Kiwifruit back at work:** Rightbrain since 19 March. Love-bombing strategy active on return; 10-min one-on-one with Fox on Kiwifruit's return from work daily.
 - **Open clinical watch:** Fox's throwing schema in confined spaces; bedtime regulation; Fox's grief-cry pattern post-work-return; Bunny's separation anxiety arc.
 ---
+---
+## Journal sync — 20–26 April 2026 (sources: "A new week", "Chilly Tuesday", "Wednesday by the sea by the sea", "Thursday", "Friyay", "Caspar's first haircut!", "Sunday fun day")
+### 20 Apr — Trust model & behaviour
+- Poop log: Bunny 2, Fox 2 (both at same time, morning and night) — excellent gut progress
+- Trust model food log: moderate day (1.25 breakfast, 2× lunch, 1.5× dinner). Toddler group breakthrough: Bunny didn't ask for biscuit or juice — forgot completely and played. Buggy: neither asked for snack on arrival
+- Meals still running long (45min+). Circuit breaker working: dry toast, then rice + steamed veg triggers them to recognise they're done
+- Transition chippy continues to work well. Food/cutlery on floor = meal finished rule in place
+- Loutish mealtime behaviour continuing (shouting, throwing cutlery/food, testing all boundaries)
+- Bedtime: Fox manic/catatonic at end of day, ~16kg, increasingly hard to contain for nappy changes
+- Attachment: Fox completely ignores Carciofi when another adult gives him full attention — gravitates to that adult, cuts Carciofi out entirely. Bunny checks in with Carciofi as secure base during same scenarios. Fox's attachment pattern flagged as different trajectory to Bunny's
+- Kiwifruit building Fox's attachment through: loved-up moments every couple of days, playground one-on-ones, being very present
+### 21 Apr — Preschool & Trust model
+- No nap day (preschool to 3pm, straight to park)
+- Poop log: both at preschool
+- Trust model: breakfast 1.25, lunch normal, dinner very light (chicken soup rejected — stringy chicken problem; note for future: small cubes of chicken). About 1/3 of dinner eaten
+- New insight: boring/unfamiliar food makes stopping much easier — considering intentional "boring seconds" strategy every few days to give gut a rest
+### 22 Apr — Attachment & Trust model breakthrough
+- 7 months since placement milestone (22 Apr)
+- Trust model breakthrough: for first time since starting protocol, children ate only a normal meal and did not ask for more — neither of them once
+- Bunny got a cut on chin at preschool
+- Fox attachment: at toddler group, fully ignored Carciofi while focused on another woman. Carciofi reported feeling like "an awkward random adult hanging around someone else's kid"
+- Anger episode: Fox thrashing at nappy change — Kiwifruit briefly held chest, then lifted by one arm too roughly. Carciofi noted this wasn't ideal. Flagged for awareness
+- Children exhausted from 2 consecutive no-nap days. Considering bringing home at 1pm
+### 23 Apr — Preschool timing & natural consequences
+- No wake-ups
+- Phoenix a "mess" at dinner (like having 4 hours sleep, per Carciofi)
+- Plan forming: bring home at 1pm on some days to preserve nap. Considering adding Monday. Possibly bank hours for summer (Sunshine daycare)
+- Fox threatened to hit Kiwifruit with push toy when stopped from wheelbarrow → mild response → made up quickly
+- Children exhausted → in bed 6:30, straight to sleep, no callbacks
+- Natural consequences very well established: "if you throw your spoon, your spoon is gone; if you throw food, dinner is finished" — children responding well to logical consequences
+### 24 Apr — Language & preschool schedule
+- **Milestone:** Fox calling Bunny "Phoenix" — name recognition replacing "weenie" (previous nickname)
+- Preschool schedule crystallising: Tue, Wed, Fri 9–12 (half days to preserve nap). Monday full (not available)
+- Emmaus collection: children's old clothes and items going out
+- Fox taking comfort from Carciofi — confirmed pattern for ~1 month
+- **Attachment milestone:** Bunny started giving Kiwifruit proper cuddles (running over, arms around) — last 1–2 weeks
+### 25 Apr — Fox's first haircut & attachment milestones
+- **Fox's first haircut** at age just over 2. Hairdresser: Chloe. Setup: racing car seat, TV. Scissors first (fine baby hair), lock of hair kept. Clippers introduced via hand vibration technique — Fox excellent throughout. Great experience
+- Preschool plan: Tue 9–12 (nap), Wed 9–3, Fri 9–12 (nap) — so at least 2 nap days per week
+- Fox ~16kg — physical power balance shifting; Kiwifruit developing reasoning/guiding approaches as primary tools
+- **Attachment milestone:** Fox giving Kiwifruit proper hugs — head on shoulder, arms wrapped around, patting — last 3–4 days. Significant progress
+- Trust model: feast/famine cycle now visible — children self-regulating between high and low intake days. Serving food after children sit down (no longer pre-placed on plates)
+### 26 Apr — Weights & trust model insight
+- **Weight log:** Fox 15.9 kg, Bunny 12.2 kg
+- Children visibly slimmer compared to previous week
+- **Major trust model insight:** boring carbs = self-limiting. Normal portion + optional quarter portion + boring carbs left on table → children get down naturally. Intake can now be gently managed without restricting
+- Children saying "please" when asking for more food — major behavioural shift
+- Loutish mealtime behaviour calming significantly
+- Lunch with visitors (Maddy, Hattie, baby Loic who just turned 1) — no meltdown, children sat at table, minimal fuss
 ---
 ## Journal sync — 17 April 2026 (source: "First call with Ben birth dad")
 ### Birth father Ben — video call completed (17 Apr 2026)

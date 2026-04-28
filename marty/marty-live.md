@@ -1,10 +1,40 @@
-# Marty — Current State (14 Apr 2026)
+# Marty — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
 
 **Project:** Marty
 **Topic:** Kiwifruit's work coach / Product Management
 **Last updated:** 26 April 2026
+---
+## Journal sync — 20–25 April 2026 (sources: "A new week", "Wednesday by the sea by the sea", "Thursday", "Friyay", "ProdMind session 24 Apr", "Caspar's first haircut!")
+### 20 Apr — Podcast & ProdMind
+- Adventures in AI podcast episode 1 published. ~84 views on YouTube already with zero promotion. Kiwifruit put out first LinkedIn post about the podcast
+- ProdMind group: 8 confirmed, 9 likely. Good mix: couple of SVPs, multiple-founder types, GPMs, product lead (Kiwifruit), IBM product/AI lead consultant. First session Friday 15 May
+- Kiron has suggested sharing the entire Notion workspace with the ProdMind group — Kiwifruit likes this idea; next step: collect email addresses and send invite
+### 22 Apr — Work progress
+- Roadmap now refined and shared; first pass of improvements and comments added. Working on SDLC end-to-end process
+- Weekly with Pete: Pete very happy with what Kiwifruit is doing. Happy to see roadmap being structured. Agreed to merge Agent Delivery teamspace + roadmap databases (drop one on each side, cross-tag agents, clients, skills, partners, tasks)
+- Pete wants to go north next week together for team lunch once push to production done — Pete to hand over product delivery to Kiwifruit and step back to CEO focus
+- **Chris (product advisor)** identified as implementing/delivering agent builds for clients alongside Kiwifruit's PM work — clear division: Kiwifruit does PM/strategy, Chris does agent delivery and deployment
+- UAT database set up in Notion: transcribe session notes, add [jam.dev](http://jam.dev/) links, mine with Claude later to de-dupe bugs and extract UX themes — working well
+- **Morning report v1 finished** — big win. Will run it tomorrow (23 Apr) and see what comes out before refining and converting to Rightbrain agent
+- Pete confirmed: "this is the moment we give the sales team everything they need to sell to everybody." Slack integration coming — will "blow the doors off"
+- **Podcast milestone: 100 listens** on episode 1 after one LinkedIn post. Multiple people from Kiwifruit's past reaching out saying they really liked it. "Quite amazing how much it's put me out there as an AI guy"
+- Extra work hour after children's bedtime on both Tue and Wed this week — note pattern of feeling unfinished at end of day (Cheryl thread)
+### 24 Apr — ProdMind session (first sharing round)
+- **What went well (30 calendar days):** Built scaffold of product function — roadmap (Notion + Claude), SDLC end-to-end, podcast episode 1, weekly wrap-ups to Pete. Feels like "ours to lose"
+- **Struggling with:** Overwhelm from volume — strategy, process, delivery all at once. Lack of management structure (Pete is a founder not a manager; Kiwifruit needs to be the manager). Tech founders built GitHub at 2,500 people scale — adding Notion layer is a political play. Four engineers on four boards not linked
+- **Looking forward to:** Meeting full team in person next week in Newcastle ("Toon")
+- **Kiron's feedback:** Time to define the product vision. Reading list: Good Strategy Bad Strategy + Jackie Bavaro substack on product strategy. Recommended subscribe to Simon Waldman's Bugle newsletter
+- **Kiron's core advice:** Nail "what is Product, how to do Product" — propose it, get it agreed, build credibility
+- **Company context shared:** ~12-13 people. 2 years, burned £2M (lean). Just taken second seed stage funding; partner has said will see them through to Series A if metrics are there. MRR/ARR breached ~1.5 months ago. Major partner launch imminent
+- **Key strategic challenge:** Establishing as CPO-level leader. Getting wins on board, setting up monthly all-hands, strategic planning, reporting to board — all driven by Kiwifruit
+- **Vision gap identified:** Product/company vision exists only in founders' heads and investor deck; not written down in Notion yet. Kiwifruit identified this as a near-term priority
+### 25 Apr — Automation & morning report
+- Morning report v1 generated and first product update produced using Claude skills — working well
+- **Human-in-the-loop logic established** for all automations: Generate → Print to screen → Loop to check → Ask any questions → Revise → Create. Key principle: automation only as good as the setup investment; human review essential even for templated outputs
+- **ChatGPT Pro licence requested** from Pete (already has Gemini Pro). Will explore skills in both platforms for different question types
+- Still feeling like "not done enough" at end of each day — workaholism theme active (Cheryl)
 ---
 ## Journal sync — 26 April 2026
 ### Shoreham Tech — new informal advisory relationship

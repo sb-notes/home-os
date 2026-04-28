@@ -1,6 +1,6 @@
-# Dr Quinn — Current State (19 Apr 2026)
+# Dr Quinn — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
 
 **Project:** Dr Quinn
 **Topic:** Family medical file — holistic health for all 4 family members (Kiwifruit, Carciofi, Bunny, Fox)
@@ -492,8 +492,23 @@ Pharma Nord Omega-7 SBA24: purchased 27 Mar 2026 — 150 caps, BB 12/28, £29.81
 Newson Clinic consultation: being booked — in progress 🔄
 Mr Narendra Pisal / endo investigation: pending Newson consultation first ⏳
 Pelvic floor physiotherapy: not yet booked — outstanding ⏳
-OptiBac For Women probiotic: 14-day course completed ✅ — continue ongoing, see clinical note
+OptiBac For Women probiotic: 14-day course completed ✅ — continue daily for minimum 3 months total; repurchase required
 Yes VM vaginal moisturiser: not yet purchased — recommended to replace Vagisil ⏳
+Vagisil: in use for symptom relief — acceptable occasionally but not for ongoing use; transition to Yes VM
+### 🔬 Vaginal pH Test (25 Apr 2026)
+Home pH test result: normal (within healthy 3.8–4.5 range). Confirms vaginal pH being maintained despite hormonal disruption. Ovestin and OptiBac working as intended. Odourless grey discharge therefore almost certainly Ovestin cream residue rather than BV (BV reliably raises pH above 4.5). Recheck pH if discharge returns with odour or increases in volume.
+### 📅 Ovestin Dosing Schedule — Updated (25 Apr 2026)
+Loading phase (first 3 weeks from start): nightly application — now complete or nearly complete.
+Maintenance phase (ongoing, indefinitely): twice weekly — Wednesday evening and Sunday evening. Do not stop without specialist review. Tissue will gradually decline again without ongoing oestriol support. Safe for long-term use at this dose. Reassess at Newson Clinic consultation.
+### 📈 Progress Update (25 Apr 2026)
+Positive: vaginal soreness markedly improved. Less white colouring around vulva. Skin more supple. Protocol working as designed.
+Setback: soreness worsened again with period approaching — cyclical worsening consistent with endometriosis/prostaglandin inflammation. This is expected and does not represent protocol failure. The period inflammatory surge temporarily outpaces the healing progress. Each cycle should show incrementally less setback as tissue rebuilds and hormonal management improves.
+Management during period: ibuprofen 400mg with food every 6–8 hours — specifically targets prostaglandins driving endo inflammation; considerably more effective than paracetamol for this.
+### 💊 Hepar Sulph — Updated Clinical Note (25 Apr 2026)
+Hepar Sulphuris Calcareum 30c indicated in two separate strands:
+1. Anal fissure (rectal thread) — primary use: hot, inflamed, hypersensitive anal tissue. Dose: 3x daily during active discomfort, reducing to 2x daily as eases.
+1. Vaginal soreness — acute flare support: same keynote of hypersensitive inflamed tissue. Dose: 2–3 days only during acute flare, not on same day as Sepia.
+Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute remedies can interfere. Sepia 200c once weekly (Sunday) is the constitutional lead; Hepar Sulph 30c is the acute flare remedy only.
 | Item | Status |
 | --- | --- |
 | Slynde | Stopped ~2 weeks ago ✅ |
@@ -781,6 +796,7 @@ Yes VM vaginal moisturiser: not yet purchased — recommended to replace Vagisil
 - **CRITICAL NOTE:** Never apply hydrocortisone to this lesion while active fungal infection present — will cause tinea incognito
 ### Progress Log (continued)
 - **9 Apr 2026:** Switched from Canesten to Daktarin (miconazole 2%) — broader spectrum, antibacterial + antifungal. Tea tree cream midday added. Protocol: Daktarin morning + evening, tea tree midday, neem + coconut oil evening, propolis spray night.
+- **27 Apr 2026:** Three-photo review. Main lesion still active but wider shin calmer. Back-of-left-leg bumps now visible — body-wide urticarial reaction to terbinafine/die-off confirmed. Smaller satellite lesion on lower leg also visible and reacting to treatment. Symptom review: itchy only (no burning), arms affected (gnat season confounding), feeling better systemically, mouth ulcers + scratchy eyes attributed to hay fever, fatigue from sleep debt. Decision: continue terbinafine. Cetirizine 10mg OD added for 5–7 days (antihistamine support + hay fever). Daktarin extended to cover new satellite lesion.
 - **17 Apr 2026 (pm):** Systemic die-off / Herxheimer response noted — right temporal headache, generalised fatigue, flu-like malaise, body-wide itchy raised bumps. No abdominal pain, no nausea, no jaundice. Assessed as fungal die-off reaction, not drug toxicity or allergy. Advised paracetamol (not ibuprofen), rest, hydration. Continue terbinafine. NAC supplement supportive for clearance.
 - **25 Apr 2026:** Six-photo review. Wide shin view shows satellite dots largely resolved — dramatic improvement vs 9 Apr. Main lesion in active shedding phase: white dry scale lifting, underlying skin visible in patches. Classic healing tinea morphology. Body-wide symptoms (dry kneecaps, itchy bumps) consistent with ongoing die-off and mild terbinafine hypersensitivity — monitor. Sulphur 30c and Arsenicum Album 30c added to homeopathic protocol by Ollie — both well-indicated. Classic Sulphur aggravation response noted.
 - **13 Apr 2026:** Best photo set to date — satellite dots across wider shin significantly reduced. Main lesion crust largely shed, flatter wound bed visible. Two small open points noted — Manuka honey overnight recommended. Daktarin clearly working.
@@ -902,6 +918,44 @@ Yes VM vaginal moisturiser: not yet purchased — recommended to replace Vagisil
 - [ ] Carciofi: pelvic floor physio — still not booked
 - [ ] Carciofi: monitor perianal/vulval symptoms; GTN and Ovestin both active
 ---
+---
+## Journal sync — 20–26 April 2026 (sources: "A new week", "Chilly Tuesday", "Wednesday by the sea by the sea", "Thursday", "Friyay", "Caspar's first haircut!", "Sunday fun day")
+### Kiwifruit — Wake log
+- 20 Apr: Fox 6:30 (felt good — woken by light, not distress)
+- 21 Apr: Fox 12:30 (brief), Fox 6:30
+- 22 Apr: Bunny 00:30 (Carciofi went), Fox 5:15 (Kiwifruit woken, didn't go back to sleep)
+- 23 Apr: No wake-ups
+- 24 Apr: Bunny 4:15 (woke Fox briefly; Fox settled)
+- 25 Apr: No wake-ups
+- 26 Apr: No wake-ups (family woke at 6:40)
+### Kiwifruit — Tinea corporis protocol (ongoing)
+- **20 Apr:** Turbinafine/Terbinafine en route. Rash outside edge dying back. Pink showing at edges of lesion (fungal roots clearing to surface). Sulphur (morning) + Arsenicum album (evening) both feeling good. Itchy raised bumps on arms/legs — possibly gnat/midge bites from lying on grass and/or sulphur/arsenicum eruption response. Mouth ulcers noted (run-down indicator). Steps: 10k+ Sun, 9k Mon
+- **21 Apr:** Daktarin cycle established — daktarin → wait 30min → coconut+neem → wait 20min → wash off → daktarin on lesion → coconut oil overnight. Both kneecaps very dry; right kneecap cracking — treated with layers of coconut oil then Sucan body moisturiser. Homeopathics causing itchy raised bumps all over; satellite dots coming to surface
+- **22 Apr:** **Terbinafine 250mg started 21 Apr 2026** (day 1 = Tuesday 21 Apr; day 2 = Wednesday 22 Apr). Taking mid-afternoon with food. Leg feeling like it's turning a corner. Also expecting Terbinafine to clear right big toe nail fungal infection (present 2–3 years; white powdery toenail, previously treated with Daktarin + tea tree)
+- **23 Apr:** Day 3 Terbinafine. Red lesion drying and reducing; getting thinner; skin showing through. Protocol continuing. Steps 9,000–9,500. Gummy eyes from pollen
+- **24 Apr:** Main lesion fading. New small lesion on back of left leg — possible eruption from combined Sulphur/Arsenicum/Terbinafine action. Arsenic alba 30c: no food/flavour for 15–30 min before. Melatonin being used for sleep
+- **25 Apr:** Detox reactions continuing. Small rash on back of left shin/calf — new cluster of tinea being raised to surface. Size of little fingernail. Daktarin applied. Propolis applied. Body-wide itchy bumps. Sleep disrupted by overheating (duvet bunched) + possibly homeopathics/Terbinafine — bad dreams. Note: time to switch to summer duvet
+- **26 Apr:** Main lesion ~10% reduced — visible improvement. Redness coming to surface from all satellite spots. Left shin cluster: small (little fingernail size), applying Daktarin, monitoring. Propolis applied — hurt slightly on application (good sign). Full protocol continuing
+### Kiwifruit — Hay fever / seasonal symptoms
+- 20–24 Apr: Gummy eyes, mild seasonal symptoms (much reduced vs previous years). Not itching/running like historical Melbourne hay fever
+- Bunny had cough on 20 Apr: Elderberry Syrup given twice (once 19 Apr, twice 20 Apr). Likely hay fever/pollen or park exposure; not severe
+### Kiwifruit — General physical
+- 20 Apr: Mouth ulcers — run-down indicator. Body feeling good overall despite minor symptoms
+- 25 Apr: Physically tired/run down from detox protocol. Detox cleanse taking toll
+- 23 Apr: 9,000–9,500 steps daily average. Feeling much better physically from daily walking
+### Carciofi — Gynaecological update
+- 23 Apr: Front bum sore again — period approaching, cyclical worsening expected and consistent with endometriosis/prostaglandin inflammation pattern
+- 23 Apr: Back bum responding really well
+- 25 Apr: Front bum still sore. Intimacy attempted but discomfort limited what was possible
+- Ovestin and protocol continuing
+### Children — Poop log
+- 20 Apr (pm update): Bunny 2, Fox 2 (both at same time morning and night) — excellent progress
+- 21 Apr: Both at preschool (one each confirmed)
+- 22 Apr: Both children having good days
+- 25–26 Apr: Trust model / feast-famine cycle settling, children looking slimmer
+### Children — Weights
+- 26 Apr: **Fox 15.9 kg, Bunny 12.2 kg** (weighed at home)
+- Previous weights for reference: Fox 15.7 kg (15 Apr), Bunny 12.0 kg (15 Apr)
 ---
 ## Journal sync — 18 April 2026 (source: "Saturday")
 ### Wake-up log (18 Apr)

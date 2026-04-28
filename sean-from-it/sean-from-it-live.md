@@ -1,6 +1,6 @@
 # Sean from IT — Current State (26 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
 
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors
 > Last updated: 1 April 2026
@@ -302,6 +302,19 @@ Last journal sync: not yet run
 - Home setup: all files cloud-based and API-accessible (Notion, Google Drive, Gmail) — no local compute needed; existing Android → Claude mobile workflow already covers async task dispatch well enough
 - Work setup: M5 is work-only machine; separation of concerns means no personal Claude Cowork session running on it
 - **Future trigger for revisiting:** If Ollie begins running local LLMs or processing heavy client data dumps locally on the M5 for Rightbrain work, Dispatch would become worth evaluating at that point
+---
+## Journal sync — 20–24 April 2026 (sources: "A new week", "Chilly Tuesday", "Wednesday by the sea by the sea", "Friyay")
+### Second Brain v2 completion sprint
+- **20 Apr:** 5 of ~17 projects done via Co-Work (Cheryl, Aloyse, Dr Quinn, Sean from IT, Shula RTM, Marty completed). Sonnet 4.6 with no extended thinking confirmed as best model for Co-Work (long but not complex tasks). Token limits causing repeated interruptions — workaround: set next project running and step away
+- **21 Apr:** Bob the Builder and Aunty Jen processed this morning. Next: Degen. After Degen, Tier 1 projects all done. Then Tier 2 to follow at leisure. Note for State File Index: needs to be updated to replace v1 state file URLs with v2 live GitHub URLs for each project; also needs to document the broader set of state files per project
+- **22 Apr:** Second Brain v2 nearly complete — all but 2 minor projects remaining. Plan to complete both over lunchtime today. Then: populate split state files, test whole system. Very confident this will reduce Claude response delays and improve conversation quality. Intent: roll out at work + share on podcast
+- **24 Apr:** 2 small projects still to split. Writing Markdown to Notion still to do. GitHub Action to sync Notion → GitHub being planned (likely a scheduled GitHub Action). Testing and refinement after that. V2 should work until the Obsidian V3 migration (mid-term, not now)
+### YouTube Music → Plex migration (ongoing)
+- Still pending: metadata rewriting (YouTube Music strips metadata; Claude/Claude Code to help rewrite) + playlist import into Plex
+- Goal: cancel YouTube Music Premium (~£260/year saving). Also need to save Miss Rachel + Miss Apple catalogues to Nassy before cancelling
+- Fix Plex on Shield TV still outstanding (works on other devices)
+### Obsidian V3 (mid-term exploration)
+- Kiwifruit explored Obsidian as potential V3 for Second Brain via Perplexity session (24 Apr, late evening). Not acting on this now — committed to v2 through to testing. Will collect data points over time. Decision: mid-term consideration only; V2 system to run until a clear case exists for V3
 ---
 ## Journal sync — 1–2 March 2026
 ### Pixel 8 migration context

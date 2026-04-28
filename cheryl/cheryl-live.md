@@ -1,6 +1,6 @@
-# Cheryl — Current State (19 Apr 2026)
+# Cheryl — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:28 UTC -->
 
 *Last updated: 13 April 2026*
 *This document is read by Claude (as Cheryl) via MCP. Update it at the end of each meaningful session.*
@@ -31,6 +31,62 @@
 - **Next session:** Thursday 17 Apr — first active EMDR processing session likely.
 ---
 ## 🟢 ---
+---
+## Journal sync — 20–26 April 2026 (sources: "A new week", "Chilly Tuesday", "Therapy/Catarina 22 Apr", "Wednesday by the sea by the sea", "Thursday", "Friyay", "Caspar's first haircut!", "Sunday fun day")
+### 20 Apr — Emotional state & morning routine
+- Strong sense of calm, lightness, and hope. Inner child feels seen and loved. Affirmations going well
+- Morning walk + personal journal + affirmations outside + work journal routine working very well. Building a new daily rhythm
+- Steps: 10k+ Sunday, ~9k Monday — aiming for 10k daily
+- Fascia bodywork with somatic-therapist-1 booked for 5–6 May for both Kiwifruit and Carciofi — planning monthly
+- Floating planned fortnightly (as morning/afternoon off on weekend)
+- Weekend half-day protocol agreed: each parent gets a half day off per weekend
+- Feeling really loved and seen. Relationship with Carciofi feeling warm and connected
+### 21 Apr — Stress event (Vinted threat)
+- Vinted seller became aggressive after microphone (Shure MV7 Plus purchased end of March) failed to arrive. Seller sent threatening message referencing AK-47. Assessed as likely throwaway line from angry man-child
+- Reported to Vinted Support — blocked sender. Reported to police — they took it seriously, said not to worry. Vinted will cooperate with police if contacted
+- Shared this with Carciofi just before sleep — flagged as mistake. Pre-sleep window should only be gratitude, love, intimacy — never serious topics. Likely affected sleep
+- Morning walk with song for day feels like a loving gift to inner child. Building playlist called "Dad Emerged"
+### 22 Apr — EMDR preparation session with therapist-c
+- EMDR preparation session completed 22 Apr with therapist-c
+- EMDR mechanism: bilateral stimulation (eye movements/tapping) — may replicate REM sleep processing. Moves unprocessed memories from right posterior brain (felt as current/raw) to left brain (stored as distant, without charge)
+- Two phases: desensitisation (removing emotional charge) + reprocessing (integrating memory)
+- 8-phase protocol: opening (5 min), processing (40–45 min), closing (5–10 min). Client observes without analysing. Therapist checks in every ~30 seconds
+- **Target issue identified:** Current anxiety = job security. Root event = redundancy in 2002. Underlying belief = "I'm not good enough" / imposter syndrome / fear of being found out. Earlier possible origin: father's job/money worries in childhood created nervous system pattern around financial security
+- Will start with 2002 redundancy as "seed event" then work chronologically to present
+- **Calm place established:** "out the back". Installed with slow bilateral tapping. Can be accessed anytime for self-regulation (1–2 min)
+- Between-session instructions: put material in mental bag, don't prepare, don't process it, focus on resources and good activities
+- EMDR Session 1 planned for next Wednesday (29 Apr)
+- After session: picked up children. EMDR discussion had stirred material about father's job loss — contributed to anger episode with Fox at nappy change
+- Did extra hour of work after children's bedtime — mild Cheryl note on workaholism pattern
+### 22 Apr — General emotional themes
+- A few disagreements with Carciofi this week but feeling loved-up overall. Carciofi making good progress on book; Kiwifruit happy to see her with that time
+- Going to sleep too late (working after children go down, leg treatment cycle taking time). Goal: screens off 8:30, TV until 9:30, sleep 10:00
+- Fox waking 5:15am (light); disrupting sleep significantly
+### 23 Apr — New limiting belief identified
+- Identified new limiting belief: **"I don't deserve to rest"** / workaholism. Expressed as overworking, inability to stop. Noted this was missing from therapy list
+- Emailed (or planning to email) therapist-c to add: (1) Work Anxiety (already being worked on), (2) Workaholism / "I don't deserve rest"
+- EMDR starting next Wednesday — very excited about releasing work
+- Morning walk continuing to create balance, calm, vitality. Identity shift noted: Kiwi accent returning as authenticity grows
+- "Dad Emerged" playlist continuing — symbolic of becoming the father others always saw Kiwifruit as
+### 24 Apr — Social planning & inner child
+- Social connections forming in Shoreham: Nelson (musician), Ricky, Charlie (next door), Matt, Luke. All keen to meet
+- Weekend plan: Kiwifruit sleeps in Saturday to 7, walks straight from bed before breakfast. Sunday morning = Kiwifruit's half day off
+- Inner child: when Carciofi goes out for brunch, Kiwifruit feels a pang — recognising the importance of organising his own social time
+- Anger episode (mild): Fox pulled cable conduit off wall, Kiwifruit said "idiot" and was too rough. Fox cried. Kiwifruit recognises pattern traces back to dad's side. Looking forward to EMDR to work this through
+- Exploring Obsidian as V3 for Second Brain (mid-term idea) — done too late at night, missed TV/wind-down time again
+### 25 Apr — Intimacy & rest themes
+- Intimacy update: Kiwifruit initiated two days ago, pleasured Carciofi (front bum sore so focused on clitoris). Carciofi didn't reciprocate — likely due to pain/low libido from menopause effects, not intentional. Kiwifruit had withheld from masturbating in hope of reciprocity; masturbated instead next day
+- Pattern surfaced: Kiwifruit gives sexually but doesn't ask or create space to receive. Theme to hold for therapy
+- Running on low energy from detox protocol. Physical toll of sulphur/arsenicum/Terbinafine cleanse
+- Tension with Carciofi around Saturday morning logistics (haircut timing, brunch scheduling). Kiwifruit felt not respected; Carciofi did not apologise. Familiar push-pull pattern
+- Half-day off every weekend now essential — currently happening only every ~3 weekends. Must become consistent
+- Workaholism: still feeling "not done enough" at end of each workday
+### 26 Apr — First solo brunch since children moved in
+- **Milestone:** First brunch out at a cafe without children since placement in September 2026. Major inner child win
+- Had brunch with Jeevan (founder of Shoreham Tech community group). Lovely connection; will advise monthly. Introducing him to local community builder
+- Reconnected with Chris (closest friend, NZ) — going through messy divorce. Long call in churchyard. Also called parents
+- Anger incidents today (minor, rough with Fox). Continuing to work on it — much reduced compared to before
+- Feeling good overall despite tiredness
 ---
 ## Journal sync — 18 April 2026 (source: "Saturday")
 - **Anger: one week clear** — no incidents in the last week; one near-incident (Fox hit Kiwifruit on nose with nail clippers accidentally; response was to put him calmly in cot and talk to him, not an anger outburst). Feeling really good about this progress.

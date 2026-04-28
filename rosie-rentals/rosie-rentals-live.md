@@ -1,6 +1,6 @@
-# Rosie Rentals — Current State (17 Apr 2026)
+# Rosie Rentals — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
 
 Purpose: Living current state file for all Rosie Rentals properties. Update after each significant event, communication, or decision. Last updated: 31 March 2026
 ## Journal sync — 31 March 2026
@@ -424,6 +424,11 @@ Last journal sync: 6 April 2026
   - Must serve EICR, CP12, and EPC copies to Molly on or before move-in day
 - **Tenants section update:** Current tenants are now Molly (Bed 1), Lucie (Bed 2), Amy (Bed 3). Holly has vacated.
 ---
+---
+## Journal sync — 22 April 2026 (source: "Wednesday by the sea by the sea")
+### Portfolio admin clarification
+- Clean split now in place: Rosie Rentals = all tenancy matters across all three properties (Hereford Court, Bedford Square, Ventnor Villas); Shula RTM = RTM administration only. No crossover
+- Both properties fully tenanted. Kiwifruit's nervous system settling. No active issues requiring attention this week
 ---
 ## Journal sync — 15 April 2026 (source: "The next chapter")
 ### Ventnor Villas (36 Ventnor Villas) — maintenance work (15 Apr)

@@ -1,6 +1,6 @@
-# 🧠 ProdMind — Current State (14 Apr 2026)
+# 🧠 ProdMind — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-27 05:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
 
 > Last updated: 12 April 2026
 ---
@@ -54,3 +54,22 @@ No coaches. No sales. No corporate framing. Run by the community, for the commun
 - **Infrastructure:** Landing page live. Placeholder logo generated via Gemini and vectorised. Member directory created and ready to be populated by Kiwifruit and Kieran.
 - **First session timing:** Potentially this Friday (17 Apr) or fourth Friday of April. Third week of each month to be avoided going forward for scheduling.
 - **Status:** Ready to begin inviting members.
+---
+## Journal sync — 20–24 April 2026 (sources: "A new week", "ProdMind session 24 Apr")
+### 20 Apr — Membership update
+- **8 confirmed, 9 likely** members as of 20 Apr. Strong seniority: couple of SVPs, multiple-founder types, GPMs, Kiwifruit (product lead), IBM product/AI consulting lead
+- **First session: Friday 15 May 2026** — date agreed
+- **Notion workspace sharing:** Kiron has suggested sharing the entire Notion workspace with the group. Kiwifruit likes this — would allow members to add resources, access member directory, contribute to team space. Likely to implement
+- **Next steps:** Collect email addresses → send invite for Session 1
+### 24 Apr — First session content (Kiwifruit's sharing round)
+- First ProdMind session held (first sharing round). Session format confirmed working — Kiron established ground rules; listener role observed (not to interject)
+- **Kiwifruit shared:**
+  - What went well: built scaffold of product function in 30 days (roadmap, SDLC, podcast ep1, weekly wrap-ups)
+  - Struggling with: overwhelm from strategy + process + delivery simultaneously; lack of management structure; navigating GitHub-centric tech culture
+  - Looking forward to: meeting team in person in Newcastle next week
+- **Kiron's feedback to Kiwifruit:**
+  - Time to define product vision
+  - Read Good Strategy Bad Strategy
+  - Subscribe to Jackie Bavaro substack and Simon Waldman's Bugle newsletter (links provided)
+  - Core challenge: establish and get agreement on "what is Product and how to do Product" as the credibility-building move
+- **Group dynamics:** Kiron noted importance of establishing listener ground rules at start of future sessions; Kiwifruit interjected in this first session before being aware of the norm — corrected and agreed for next time
