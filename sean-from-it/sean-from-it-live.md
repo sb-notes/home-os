@@ -1,6 +1,6 @@
-# Sean from IT — Current State (26 Apr 2026)
+# Sean from IT — Current State (28 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-29 05:25 UTC -->
 
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors
 > Last updated: 1 April 2026
@@ -303,6 +303,10 @@ Last journal sync: not yet run
 - Work setup: M5 is work-only machine; separation of concerns means no personal Claude Cowork session running on it
 - **Future trigger for revisiting:** If Ollie begins running local LLMs or processing heavy client data dumps locally on the M5 for Rightbrain work, Dispatch would become worth evaluating at that point
 ---
+## Journal sync — 27 April 2026 (source: "Monday")
+- Second Brain V2 confirmed fully operational. Kiwifruit has written up V1 vs V2 architecture as a comparison document and saved it in Notion. Shared at work (Rightbrain) with intent to roll out as “Product Second Brain” and talk about it with the team.
+- Immediate benefit observed: fewer token-limit interruptions, faster responses from Claude.
+---
 ## Journal sync — 20–24 April 2026 (sources: "A new week", "Chilly Tuesday", "Wednesday by the sea by the sea", "Friyay")
 ### Second Brain v2 completion sprint
 - **20 Apr:** 5 of ~17 projects done via Co-Work (Cheryl, Aloyse, Dr Quinn, Sean from IT, Shula RTM, Marty completed). Sonnet 4.6 with no extended thinking confirmed as best model for Co-Work (long but not complex tasks). Token limits causing repeated interruptions — workaround: set next project running and step away
@@ -335,8 +339,8 @@ Last journal sync: not yet run
 - **🏠 Home** page created as top-level hub for all current state files
 - **Sean from IT — Current State** (this page) is the first child page
 - Future current state pages to be added as sub-pages of Home: Aloyse Adoption, Aunty Jen Cooking, Bob the Builder, etc.
-- State File Index (routing table) is at: [📋 State File Index v2 ](https://www.notion.so/31424a1cf0f081a186aade69d7e17878)
-- Home hub page: [Second brain state files](https://www.notion.so/31324a1cf0f08174a3c4fcbeba44664f)
+- State File Index (routing table) is at: [📋 State File Index v2 ](https://app.notion.com/p/31424a1cf0f081a186aade69d7e17878)
+- Home hub page: [Second brain state files](https://app.notion.com/p/31324a1cf0f08174a3c4fcbeba44664f)
 ---
 ## 🗂️ Project Files Review — Updates (5 Mar 2026)
 ### NAS Upgrade Research (Jan 2026)

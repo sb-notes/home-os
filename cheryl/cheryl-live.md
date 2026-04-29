@@ -1,6 +1,6 @@
-# Cheryl — Current State (27 Apr 2026)
+# Cheryl — Current State (28 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-29 05:24 UTC -->
 
 *Last updated: 13 April 2026*
 *This document is read by Claude (as Cheryl) via MCP. Update it at the end of each meaningful session.*
@@ -29,6 +29,23 @@
 - **Dreams / spontaneous imagery:** Not recorded.
 - **Felt sense toward material:** Optimistic and ready. Body described as anticipating relief "like the feeling before a massage or float."
 - **Next session:** Thursday 17 Apr — first active EMDR processing session likely.
+---
+## 🟢 ---
+---
+## Journal sync — 27 April 2026 (source: "Monday")
+### Relationship — pre-sleep dynamics
+- Kiwifruit and Carciofi discussed next-day logistics just before sleep, which led to a disagreement immediately before going to sleep — disrupted both of them.
+- Key learning articulated: anything about the next day should be discussed at dinner time, not at bedtime. Bedtime is for comfort and going to sleep only.
+### Emotional state — evening
+- Three anger rushes during solo evening parenting (4:45–7pm): Fox nappy incident (threw drawing tablet), Fox taking from Bunny, Bunny taking from Fox. Each involved a physically reactive response and raised voice.
+- Kiwifruit explicitly named sadness at these reactions. Articulated clearly what he wished he’d done differently for each incident — strong reflective capacity present even in difficult moments.
+- Went to bed shortly after children’s bedtime; felt weary.
+### Dysregulation drivers — 27 Apr
+- Sleep the previous night ~11:15pm, up 6:30am — approximately 45 minutes shorter than target.
+- Terbinafine antifungal treatment identified as a significant fatigue contributor (ongoing).
+- Heat also noted.
+- Came straight from work at 4:45pm into solo parenting — no decompression window before children.
+- All three factors combined to reduce regulatory capacity in the evening parenting window.
 ---
 ## 🟢 ---
 ---

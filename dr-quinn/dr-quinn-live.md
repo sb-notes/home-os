@@ -1,6 +1,6 @@
-# Dr Quinn — Current State (27 Apr 2026)
+# Dr Quinn — Current State (28 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-29 05:24 UTC -->
 
 **Project:** Dr Quinn
 **Topic:** Family medical file — holistic health for all 4 family members (Kiwifruit, Carciofi, Bunny, Fox)
@@ -917,6 +917,18 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - [ ] Carciofi: Newson Clinic — still in progress
 - [ ] Carciofi: pelvic floor physio — still not booked
 - [ ] Carciofi: monitor perianal/vulval symptoms; GTN and Ovestin both active
+---
+---
+## Journal sync — 27 April 2026 (source: "Monday")
+### Fox (Caspar) — wake log
+- Single wake at 3am — had retrieved his own pacifier before Kiwifruit entered the room. Kiwifruit patted his back; no pickup needed; settled quickly. Self-settling progression noted.
+### Kiwifruit — sleep & fatigue
+- Sleep previous night ~11:15pm, wake 6:30am (~7.15hrs). Felt tired on alarm; approximately 45 minutes shorter than target.
+- Terbinafine antifungal treatment explicitly identified as causing significant fatigue — "wearing me out."
+- Heat contributing to fatigue.
+- Went to bed early (shortly after 7pm children’s bedtime).
+### Carciofi (Hannah) — gynaecological update
+- Bum (perianal/vulval) pain returning — period feeling imminent. Cyclical worsening pattern consistent with previous documentation (endometriosis/prostaglandin inflammation). Expected and noted.
 ---
 ---
 ## Journal sync — 20–26 April 2026 (sources: "A new week", "Chilly Tuesday", "Wednesday by the sea by the sea", "Thursday", "Friyay", "Caspar's first haircut!", "Sunday fun day")

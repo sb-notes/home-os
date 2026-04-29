@@ -1,6 +1,6 @@
-# Aloyse — Current State (27 Apr 2026)
+# Aloyse — Current State (28 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-29 05:23 UTC -->
 
 **Project:** Aloyse
 **Topic:** Parenting and adoption advice. Doing the best we can as parents for Bunny and Fox.
@@ -15,6 +15,27 @@
 - **Love Me Feed Me protocol:** Active since 20 March. Yoghurt at all three meals; pre-placed before children sit down. Marked reduction in food-demanding behaviour confirmed.
 - **Kiwifruit back at work:** Rightbrain since 19 March. Love-bombing strategy active on return; 10-min one-on-one with Fox on Kiwifruit's return from work daily.
 - **Open clinical watch:** Fox's throwing schema in confined spaces; bedtime regulation; Fox's grief-cry pattern post-work-return; Bunny's separation anxiety arc.
+---
+---
+## Journal sync — 27 April 2026 (source: "Monday")
+### Wake-up log
+- Fox (Caspar): single wake at 3am — had retrieved his own pacifier before Kiwifruit entered the room; Kiwifruit patted him on the back; no need to pick up; settled easily. Positive self-settling trajectory noted — fewer angry outbursts, more whiny/manageable pattern emerging.
+### Children's day
+- Toddler group with Carciofi in the morning — no snack demanding at the group.
+- Lunch at home: food on the table in 10–15 minutes; no meltdowns; minimal telling off.
+- Both children went down for nap without calling anyone back into the room — good settling.
+- Garden play in the afternoon on the Montessori climbing frame — lovely extended outdoor session.
+- Children were with Kiwifruit from 4:45pm until 7pm; approximately 2 hours 15 minutes solo parenting.
+### Parenting — anger incidents (evening, Kiwifruit solo)
+- **Incident 1:** Fox threw drawing tablet at Kiwifruit during nappy change. Kiwifruit picked Fox up, placed him in the hallway on hands and knees, closed the door for approximately 5 seconds, then returned and comforted him; Fox calmed. Kiwifruit's preferred response (reflected on after): step away, fuss over Bunny until Fox accepted the nappy calmly; say "we don't throw things at Daddy" then return once Fox settled.
+- **Incident 2:** Fox took something from Bunny during floor play. Kiwifruit picked Fox up and moved him away — assessed as too physically reactive.
+- **Incident 3:** Bunny took something from Fox a couple of minutes later. Kiwifruit picked Bunny up, moved her across the mat; she cried. Kiwifruit told her "we don't do that; say sorry to Caspar" then cuddled her. Assessed as close to target parenting but still reactive in the initial physical response.
+- Three anger rushes in the evening noted. Kiwifruit expressed sadness and clearly articulated what calmer, more regulated responses would look like for each incident. Strong self-reflective capacity present.
+### Context / dysregulation drivers
+- Kiwifruit solo parenting (Carciofi not present for the 4:45–7pm window); children may have sensed fatigue.
+- Previous night: sleep ~11:15pm, wake 6:30am — approximately 45 minutes shorter than target.
+- Antifungal treatment (terbinafine) identified as a significant fatigue contributor.
+- Heat also noted as a factor.
 ---
 ---
 ## Journal sync — 20–26 April 2026 (sources: "A new week", "Chilly Tuesday", "Wednesday by the sea by the sea", "Thursday", "Friyay", "Caspar's first haircut!", "Sunday fun day")

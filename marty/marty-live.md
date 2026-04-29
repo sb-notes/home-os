@@ -1,6 +1,6 @@
-# Marty — Current State (27 Apr 2026)
+# Marty — Current State (28 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-28 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-29 05:24 UTC -->
 
 **Project:** Marty
 **Topic:** Kiwifruit's work coach / Product Management
@@ -60,6 +60,17 @@
 ### Coaching note
 - Shoreham Tech advisory is a good fit: genuine, low-commitment, community-facing, speaking-adjacent
 - Risk named: it can expand. Monthly brunch = the container. Hold it.
+---
+## Journal sync — 27 April 2026 (source: "Monday")
+### Second Brain V2 — complete and functional
+- Second Brain V2 confirmed complete and fully operational.
+- Kiwifruit wrote it up as a V1 vs V2 architecture comparison document — saved in Notion for posterity.
+- Shared with work (Rightbrain) — plan to roll it out as “Product Second Brain” and present it to the team as a flagship example of AI-augmented product workflow.
+- Already seeing benefits: fewer maxed-out token issues, questions answered faster.
+### Work rhythm — adjustment to children-punctuated day
+- Kiwifruit’s working day is structured around the children: lunch break to sit with them, putting them down for nap, getting them up at ~3pm, and handing off to Carciofi at 4:45pm.
+- Last work block is typically only ~3:15–4:45pm (approximately 90 minutes).
+- Identifying this as a new rhythm to get used to rather than a problem — efficiency within the blocks is high; it’s the structure that’s novel.
 ---
 ## 🟢 Current Status — 1 April 2026
 - **Role:** Product Lead at Rightbrain AI — active, Day 14
@@ -349,7 +360,7 @@ Last journal sync: 27 March 2026 — "🐣 1 week in!"
 - Externally-demonstrable rule: at least one OneBrain workflow must be packageable as a prospect proof point ("we built this for ourselves in 2 days")
 - **P0 target:** Transcript → insights pipeline — demonstrated live on Day 1, low effort, high visibility, directly relevant to B2B service business ICP
 - Coaching challenge left open: what is genuinely different about Rightbrain vs previous "this is it, let’s do it" moments? Ollie to name specific anchors for his own clarity when Month 2 gets hard
-- OneBrain spec page: [Untitled](https://www.notion.so/32924a1cf0f08181bf01d8f61704d538)
+- OneBrain spec page: [Untitled](https://app.notion.com/p/32924a1cf0f08181bf01d8f61704d538)
 ---
 ## COACHING SESSION — 3 MAR 2026
 ### Dex vs GitHub Agentic Workflows — Tool Exploration
