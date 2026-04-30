@@ -1,6 +1,6 @@
 # Nik's List — Current State (11 Mar 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-29 05:25 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-04-30 05:29 UTC -->
 
 **Project:** Nik's List
 **Topic:** Travel advice, NZ relocation planning, lifestyle research
