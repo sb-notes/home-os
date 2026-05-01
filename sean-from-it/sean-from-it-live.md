@@ -1,10 +1,21 @@
-# Sean from IT — Current State (28 Apr 2026)
+# Sean from IT — Current State (30 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-30 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
 
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors
 > Last updated: 1 April 2026
 ---
+## 🟢 Current Status — 30 April 2026
+- **Second Brain v3 planning session (30 Apr 2026):** Explored migration options away from Notion + public GitHub. Five options evaluated against 7 use cases: (1) Obsidian + Copidian Copilot + Obsidian Sync, (2) Obsidian + Claude Code/Cowork, (3) Notion Business + AI Agents, (4) Obsidian + Smart Connections, (5) Hybrid Notion journal + Obsidian state files. **Decision: stay on v2 for now, revisit in 1–2 months.** Obsidian is philosophically the right direction (local-first, markdown, model-agnostic, private) but mobile plugin startup times (10–15 seconds reported) make it a downgrade from current mobile workflow at 80% phone usage.
+- **v3 trigger events to watch monthly:**
+  - GitHub MCP connector appearing in Claude's registry — unlocks private repo reads, eliminates both Notion and public GitHub dependency
+  - Obsidian mobile performance improvements — if plugin startup drops to 3–4 seconds, Obsidian becomes viable as primary
+  - Obsidian Copilot project feature maturing — needs structured 20-project routing comparable to Claude Projects
+- **Notion frustrations documented:** MCP server flaky, mobile app slow, databases no longer used meaningfully (only for templates), general bugginess. Kiwifruit would like to move away from Notion when a viable replacement exists.
+- **Notion AI Meeting Notes plugin:** Decision to drop. Will switch Catarina therapy session recording to BlackHole + QuickTime + MacWhisper on personal MacBook Air M1. Saves subscription cost; stack already owned.
+- **Mac Mini server idea:** Parked. Overkill for this problem — likely solved by a registry connector appearing. Nassy covers most home server needs already.
+- **Key insight from session:** The constraint shaping the v3 decision is mobile AI chat performance. At 80% mobile usage, Notion + Claude is hard to beat today. The frustration is Notion as the storage layer, not Claude as the conversation layer. Claude Projects + MCP is one of the better chat-with-structured-data implementations available. Kiwifruit's Rightbrain experience confirms the model layer and app layer are separating — staying model-flexible is important but not urgent.
+- **Hannah confirmed:** Does not use Notion and will never use it. Not a factor in platform decisions.
 ## 🟢 Current Status — 26 April 2026
 - **Notion → GitHub sync automation live (26 Apr 2026):** GitHub Action (`notion-sync.yml`) deployed to `sb-notes/second-brain` repo. Runs nightly at 02:00 UTC (03:00 BST). Reads all 18 Second Brain v2 live state files from Notion API, converts to markdown, commits to GitHub. Skips commit if no changes. Can also be triggered manually from GitHub Actions tab. First manual run: success, 2m 8s, all 18 files synced.
 - **GitHub Action secrets configured:**

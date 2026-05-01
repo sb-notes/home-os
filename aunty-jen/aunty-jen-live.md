@@ -1,6 +1,6 @@
 # Aunty Jen — Current State (18 Mar 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-30 05:27 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:39 UTC -->
 
 **Project:** Aunty Jen
 **Topic:** Cooking advice

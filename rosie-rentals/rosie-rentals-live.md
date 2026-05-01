@@ -1,6 +1,6 @@
 # Rosie Rentals — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-30 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
 
 Purpose: Living current state file for all Rosie Rentals properties. Update after each significant event, communication, or decision. Last updated: 31 March 2026
 ## Journal sync — 31 March 2026

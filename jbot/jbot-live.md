@@ -1,6 +1,6 @@
-# Jamesbot — Current State (27 Apr 2026)
+# Jamesbot — Current State (30 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-30 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
 
 **Project:** Jamesbot
 **Topic:** Job hunting and HR questions
@@ -333,6 +333,8 @@ You negotiated well using James Gunaca principles. EMI scheme alone worth £75k.
 - Current market value of asset: approximately £1,400–1,800 (eBay/Gumtree), £900–1,100 trade-in
 - **Action taken 27 Mar 2026:** Formal email sent to [chloe.henshaw@frpadvisory.com](mailto:chloe.henshaw@frpadvisory.com) (CC: [steve.chadwick@frpadvisory.com](mailto:steve.chadwick@frpadvisory.com)) documenting all prior collection attempts, requesting written instructions, and giving 28-day deadline before treating asset as abandoned
 - Next step: if no response by ~24 April 2026, asset can reasonably be treated as abandoned by the estate
+- **30 Mar 2026:** FRP (Rhys Evans, Graduate Trainee) responded by forwarding correspondence to Kirsteen Osborn at Vorboss, CC'ing Ollie and Steve Chadwick — no direct instructions given, no collection arranged
+- **30 Apr 2026:** 28-day deadline elapsed with no contact from Kirsteen or Vorboss. Follow-up email sent to Rhys Evans (CC: Steve Chadwick) requesting FRP arrange collection directly rather than via Vorboss — further 14-day deadline given (~14 May 2026). If no response, asset to be treated as abandoned by estate.
 ---
 ## TOOLS & RESOURCES — 1 MAR 2026
 ### 20 AI Prompts for PM Job Search (Alex Rechevskiy)

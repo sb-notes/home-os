@@ -1,6 +1,6 @@
 # Dr Quinn — Current State (28 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-04-30 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
 
 **Project:** Dr Quinn
 **Topic:** Family medical file — holistic health for all 4 family members (Kiwifruit, Carciofi, Bunny, Fox)
