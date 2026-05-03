@@ -1,7 +1,8 @@
-# Marty — Current State (28 Apr 2026)
+# Marty — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
 
+<!-- ANCHOR -->
 **Project:** Marty
 **Topic:** Kiwifruit's work coach / Product Management
 **Last updated:** 26 April 2026
@@ -61,6 +62,50 @@
 - Shoreham Tech advisory is a good fit: genuine, low-commitment, community-facing, speaking-adjacent
 - Risk named: it can expand. Monthly brunch = the container. Hold it.
 ---
+## Journal sync — 28 Apr–2 May 2026 (sources: "Travelling to toon", "Toon", "Still in Toon", "The morning after", "Home again")
+### 28 Apr — Newcastle prep; managing Pete's working style
+- Last-minute slides for team presentation created on the train to Newcastle using Claude + work journal + meeting transcripts as source material — solid output but not how Kiwifruit wants to work.
+- Key learning: proactively ask Pete ahead of any event, "Hey what are you thinking? I was thinking of something like this — what do you reckon?" Managing up to Pete's last-minute style is the core discipline needed here.
+- Podcast microphone not yet arrived but "doesn't stop me from continuing to record."
+### 29 Apr — Team day; presentation received well
+- Kiwifruit's presentation went well despite the "doom slot" (last, 3:30–4:30pm). Pete stepped out during the live roadmap section, but team remained engaged. Humour in slides landed.
+- Pete's specific feedback: fewer slides, more visuals. Kiwifruit received this positively — good coaching signal.
+- Team agreed with what was shared and the direction. Questions asked; no strong pushback.
+- Pete demoed a live agent build at the meetup that evening — Kiwifruit observed Pete's approach: lead with who he is and career history, then demonstrate. Effective. Kiwifruit plans to model his own first meetup/demo on this.
+- Centurion pub (Regency/Georgian-tiled bar inside Newcastle train station) — team evening. 3 pints; back to hotel at 11:30pm.
+- **Key personal realisation:** Kiwifruit is proving to himself he can do this job more than proving it to the team. Past roles (often below his level, multiple company failures) eroded confidence. This role is rebuilding it.
+### 30 Apr — Jamesbot updates; Sean from IT (V3); Shoreham Tech
+- **Jamesbot:** Chased laptop return to Vitrify. Also chased ET3 form with employment tribunal to keep claim open — critical administrative action.
+- **Shoreham Tech:** Arranging a walk with Matt and Jeevan together — good moment for Jeevan to get strategic advice and introductions.
+- See Sean from IT file for full Second Brain V3 / Obsidian exploration notes from this period.
+### 1 May — Team Thursday; return priorities
+- Team day Thursday: excellent. Sam (sales) booked first or second demo through Flow — marketing agency #2 now on hook. Met Pete’s wife Nat — an absolute character, the perfect match for him.
+- Bowling: Kiwifruit near bottom score and didn’t care — just enjoyed being there and participating. Laughed more on this away day than any previous team experience.
+- **On-train priorities (train back Fri morning):**
+  - Extract actions from Wednesday team day notes
+  - Run morning report; scan last 3 morning reports for roadmap additions
+  - Consolidate VMV and propose a working set (build into doc: VMV → business strategy → product vision → product strategy)
+  - Fine-tune roadmap: rename, tag, add detail; then sync with GitHub at feature-to-issue level
+  - Begin delivery work; consider journey mapping (better when Hugo and Chris back in office Monday)
+  - Podcast episode: "The Temple of Claude" — slides covering how Claude works, what Kiwifruit loves and hates, how Rightbrain exists to improve on this
+### 2 May — Week overview; Pete’s role; product priorities
+- Outstanding week at Rightbrain. Team is exceptional — “so, so, so great.” Real watershed moment recognising he works with people who give full agency.
+- **Pete’s role (clearly articulated):** Visionary + technical; not a good line manager or communicator by own admission. Almost completely absent as a line manager — Kiwifruit needs to manage up and find time-efficient ways to get what he needs from Pete. Weekly wrap-ups have been critical; monthly wrap-ups will be too.
+- **Pete’s key asks from Kiwifruit:** Product keeps getting better and easier to use; roll out to more clients and increase agent count per client; hand over delivery — specifically monitoring Slack channels (tech, biz dev, design, front end, product) and ensuring pieces of work are resolved, specs written, features launched.
+- **Podcast microphone arrived.** “Now fully ready and can cut it out.”
+- **Product priorities (immediate):**
+  1. Finish VMV and strategy — propose working set; Pete/Matt/Flow to fine-tune
+  1. Fine-tune roadmap (prioritised, populated, detail added) — probably with Pete and Flow first (Chris away until next Monday)
+  1. Sync roadmap with GitHub at feature-to-issue level where practical
+  1. Usability work — identify key user journeys; start with create agent flow + onboarding (invite process) + agent delivery/handover via Chris
+  1. Begin working on delivery day-to-day
+  1. Roll out Rightbrain agents in next week — transition morning report to Rightbrain agent; podcast about it
+- **Company orbit problem:** Pete knows what’s going on; Matt knows (coffee with Pete daily); Flow is engaged. Everyone else on secondary orbit. Kiwifruit’s role: everyone knows the plan — coming through him.
+- **Leadership team:** Probably Matt, Flow, Pete gang — Kiwifruit to test this through VMV process and see if these three are who run the company.
+- **Podcast strategy:** Pete T (legal) and Grace (finance) now building agents on production. Kiwifruit wants to stay close to their use cases and bring them onto Adventures in AI to share learnings. This is the flywheel for building the team as thought leaders.
+- **Advisory changes:** DataBoots appears to have drifted away (possibly travelling or no longer needs help — that's OK). Lavender Thorn getting a lot from advice — going well. Shoreham Tech with Jeevan likely to replace DataBoots advisory slot — Kiwifruit completely comfortable with this.
+- **OneBrain / Product Second Brain:** Next piece of work = roll out Product Second Brain V2 by dividing up state files. V3 will then be Rightbrain agent-controlled with information access control layer.
+---
 ## Journal sync — 27 April 2026 (source: "Monday")
 ### Second Brain V2 — complete and functional
 - Second Brain V2 confirmed complete and fully operational.
@@ -70,7 +115,33 @@
 ### Work rhythm — adjustment to children-punctuated day
 - Kiwifruit’s working day is structured around the children: lunch break to sit with them, putting them down for nap, getting them up at ~3pm, and handing off to Carciofi at 4:45pm.
 - Last work block is typically only ~3:15–4:45pm (approximately 90 minutes).
-- Identifying this as a new rhythm to get used to rather than a problem — efficiency within the blocks is high; it’s the structure that’s novel.
+- Identifying this as a new rhythm to get used to rather than a problem — efficiency within the blocks is high; it's the structure that's novel.
+---
+## Journal sync — 1 May 2026 (source: "The morning after")
+### Newcastle team trip — felt seen, validated
+- Team away day (Wed 30 Apr) genuinely wonderful — "I've never laughed so much on a team away day." Cocktails in the sun, ten-pin bowling, easy warmth across the group.
+- John (video guy, Mango's close friend) at dinner: when Mango first met Kiwifruit, he sent John a message saying *"I've never seen anything like it before. I can't wait to have him on board."* Landed as deep validation — "I just don't get feedback like that very often."
+- Met partner-mango-1 — "absolute character and the perfect match for him." Inner-circle warmth.
+- Salary/equity reframe complete: they didn't move on salary because it's already good; they didn't move on equity because the equity is going to be worth a lot and more is coming. "I feel like I've been seen and like I'm valued."
+- Less competitive need to win observed — second-to-bottom on bowling, content to participate. Named as a shift from previous self.
+### Office day Thu — Newcastle
+- Hoped to nail VMV with Finocchio + Fico + Mango — too busy / "we just wanted to talk to each other" (Aglio's framing). PR was the priority and got done — felt good.
+- Mango took the leftover bread home for his family — fitting.
+- Tech chats with the team in office were rich — "if possible it would be really good for me to come up regularly" (balance against family).
+- Rucola (SDR) booked first/second demo through to Finocchio — looks like marketing agency #2 is on the hook.
+- Finocchio joined lunch in good mood after the demos. Read of the team: "such good people."
+### Friday 1 May — train home — focus list
+- Extract actions from Wed team day notes
+- Run morning report
+- Scan last 3 morning reports for items to add to the roadmap
+- Consolidate VMV — propose working set, then chain VMV → business strategy → product vision → product strategy → prioritised roadmap reflections; propose to Mango and Fico for comment
+- Cover delivery items needing work now — possible journey mapping with Aglio back in office Monday
+- Groom backlog — review Claude-scraped items, titles match, fully populated, status correct (will need a sync chat)
+- Prep next podcast: "The Temple of Claud" — slides on how Claude works, what Kiwifruit loves and hates, how Rightbrain exists to improve on that
+### Microphone
+- Still hasn't arrived. Recording continues without it.
+### Career-pattern reframe (cross-link: Cheryl, EMDR Session 1)
+- "Maybe I'm always in the right place at the right time." Vitrifi, 101 Ways, Credo, Form Three, Validis — each landed in the right place. Applying the reframe forward: Rightbrain is the next instance of that pattern, not the exception. Directly relevant to the 2002 Marshall Software redundancy memory just processed in EMDR.
 ---
 ## 🟢 Current Status — 1 April 2026
 - **Role:** Product Lead at Rightbrain AI — active, Day 14
@@ -360,7 +431,7 @@ Last journal sync: 27 March 2026 — "🐣 1 week in!"
 - Externally-demonstrable rule: at least one OneBrain workflow must be packageable as a prospect proof point ("we built this for ourselves in 2 days")
 - **P0 target:** Transcript → insights pipeline — demonstrated live on Day 1, low effort, high visibility, directly relevant to B2B service business ICP
 - Coaching challenge left open: what is genuinely different about Rightbrain vs previous "this is it, let’s do it" moments? Ollie to name specific anchors for his own clarity when Month 2 gets hard
-- OneBrain spec page: [Untitled](https://app.notion.com/p/32924a1cf0f08181bf01d8f61704d538)
+- OneBrain spec page: [Untitled](https://www.notion.so/32924a1cf0f08181bf01d8f61704d538)
 ---
 ## COACHING SESSION — 3 MAR 2026
 ### Dex vs GitHub Agentic Workflows — Tool Exploration

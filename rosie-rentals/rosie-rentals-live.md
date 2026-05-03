@@ -1,7 +1,8 @@
 # Rosie Rentals — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:29 UTC -->
 
+<!-- ANCHOR -->
 Purpose: Living current state file for all Rosie Rentals properties. Update after each significant event, communication, or decision. Last updated: 31 March 2026
 ## Journal sync — 31 March 2026
 - Hereford Court: Awaiting final confirmation from Molly (new tenant, large master bedroom) on move-in date. Two alternative candidates held in reserve.

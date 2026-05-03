@@ -1,7 +1,8 @@
-# Aloyse — Current State (28 Apr 2026)
+# Aloyse — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:27 UTC -->
 
+<!-- ANCHOR -->
 **Project:** Aloyse
 **Topic:** Parenting and adoption advice. Doing the best we can as parents for Bunny and Fox.
 **Last updated:** 1 April 2026
@@ -16,6 +17,29 @@
 - **Kiwifruit back at work:** Rightbrain since 19 March. Love-bombing strategy active on return; 10-min one-on-one with Fox on Kiwifruit's return from work daily.
 - **Open clinical watch:** Fox's throwing schema in confined spaces; bedtime regulation; Fox's grief-cry pattern post-work-return; Bunny's separation anxiety arc.
 ---
+---
+## Journal sync — 28 Apr–2 May 2026 (sources: "Travelling to toon", "Toon", "The morning after", "Home again")
+### Wake-up log
+- Fox 11:30pm (28 Apr): grief-cry, looking for pacifier which had fallen behind the cot. Had actually tried to climb and get it himself — positive self-advocacy sign. Settled once pacifier found and Kiwifruit cuddled him.
+- Tuesday night (away): both Fox and Bunny woke.
+- Wednesday night (away): just Fox.
+- Thursday night (away): Fox 3x wakes — struggling with Kiwifruit's absence.
+- Friday night (away): Bunny 2x wakes — starting to feel it too.
+- Saturday morning (2 May): Bunny 6:30am.
+### Fox — separation distress & attachment during absence
+- Fox clearly struggling with Kiwifruit being away (first time since placement in September). Winding Carciofi up, finding anything he could do to annoy her — classic anxious-avoidant attachment move: push people away to get their attention. Still winds both parents up even when understood.
+- Less securely attached than Bunny in this situation — Bunny managed better. Fox needs TLC and extra one-on-one time on Kiwifruit's return.
+- Caspar possibly getting back bottom molar — possible pain not yet communicated; worth monitoring.
+- Big poo just before bed on 28 Apr.
+### Fox — return attachment moment (2 May)
+- When Kiwifruit came home, Fox woke up saying "Daddy, daddy", was picked up, and fell straight into Kiwifruit's arms just wanting to be held. Then did the head-on-forehead thing — has only done this for Carciofi a couple of times and for Kiwifruit over the last 4–5 weeks; held it for 2–3 minutes. Profound attachment signal.
+- Obviously much comforted by his caregiver being home. After a rough few days of illness and Kiwifruit's absence, the co-regulation was immediate and visible.
+### Bunny — notes
+- Managed the absence better than Fox. Described as "such a crackpot but amazing little character and such a sweetheart and so thoughtful — remarkable." Social skills of both children far in excess of children their age (twins dynamic + who they are).
+- Bunny starting to cough 2 May (see Dr Quinn — may be getting Caspar's illness).
+### Kiwifruit reflection — parenting growth
+- Developing strategies for the harder moments; getting a thicker skin over time. Feels encouraging.
+- Key realisation articulated: how much value it adds to the whole process for Kiwifruit to be present for wake-up, put-down, and throughout the day as much as possible — Fox especially needs to know Kiwifruit is always nearby.
 ---
 ## Journal sync — 27 April 2026 (source: "Monday")
 ### Wake-up log

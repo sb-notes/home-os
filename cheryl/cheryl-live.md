@@ -1,7 +1,8 @@
-# Cheryl — Current State (28 Apr 2026)
+# Cheryl — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
 
+<!-- ANCHOR -->
 *Last updated: 13 April 2026*
 *This document is read by Claude (as Cheryl) via MCP. Update it at the end of each meaningful session.*
 > ⚠️ Codename rule: always substitute real names with codenames when writing to this file. Kiwifruit = Ollie, Carciofi = Hannah, Bunny = Phoenix, Fox = Caspar. Use real names in conversation only.
@@ -9,7 +10,7 @@
 ---
 ## 🔵 EMDR Processing Thread — live tracker
 *Update this section after every session or significant between-session processing.*
-- **Current target / focus:** Active treatment phase beginning. Session 3 (8 Apr) completed full memory disturbance review with Catarina. Key high-disturbance targets identified: Camping/Daniel (7/10, shame), Sister/walked in (high, "I'm dirty"), Car crash/grandmother's death (significant, multiple layers including identifying the body). These are the first processing targets.
+- **Current target / focus:** EMDR Session 1 complete (1 May 2026). Target was 2002 Marshall Software redundancy (first job post-university). Disturbance resolved 6/10 → 0. Positive beliefs installed: "I can start to believe I am enough" + "This is not my fault." VOC 6.5–7/7. Memory now feels like "black and white in a comic book somebody else made" — no longer live. Next: confirm memory holds at 0, then move to Memory 18 (current job insecurity). Still queued: Camping/Daniel (7/10), Sister/walked in ("I'm dirty"), Car crash/grandmother's death.
 - **Memory disturbance ratings from Session 3 (8 Apr):**
   - Low/processed: Surfboard, broken arm, high school punch, cousin/showing, friend/F off, car stolen
   - Moderate (5/10): Mum leaving, school bus/wet self — beliefs of "I'm shameful", "there's something wrong with me"
@@ -21,7 +22,8 @@
 - **Between-session processing (since 8 Apr):** Significant activation after completing memories list — anger increase, road rage, intense reactions with children. Foster carer visit (11 Apr) identified as attachment-threat trigger. Equilibrium regained via float (12 Apr) and Forever Dads call.
 - **Dreams / spontaneous imagery:** Not recorded.
 - **Felt sense toward material:** Optimistic and ready. Body described as anticipating relief "like the feeling before a massage or float."
-- **Next session:** Thursday 17 Apr — first active EMDR processing session.
+- **Last session (1 May 2026):** EMDR Session 1. Target: Marshall Software redundancy 2002. Disturbance 6 → 0. Positive cognition VOC 6.5–7/7. Post-session: felt cleansed and calm; brain continuing to process.
+- **Next session:** Wednesday 6 May — check Marshall Software memory disturbance level; if 0, begin Memory 18 (current job insecurity).
 *Update this section after every session or significant between-session processing.*
 - **Current target / focus:** Pre-EMDR preparation complete. Active treatment phase beginning imminently. No single memory targeted yet — Catarina working through chronological memories list submitted by Kiwifruit.
 - **Last session status (8 Apr):** Session 3 with Catarina. Resourcing phase complete. Container/bag visualisation practised. Memories list submitted. EMDR activation effect noted (anger increase since).
@@ -31,6 +33,46 @@
 - **Next session:** Thursday 17 Apr — first active EMDR processing session likely.
 ---
 ## 🟢 ---
+---
+## Journal sync — 28 Apr–2 May 2026 (sources: "Travelling to toon", "Toon", "Still in Toon", "The morning after", "Therapy/Catarina", "Home again")
+### 28 Apr — Anger load & departure guilt
+- 4 anger incidents in 24 hours. 11:30pm wake-up incident with Fox: pacifier had fallen behind the cot; Fox screaming into Kiwifruit's ear, struggling; Kiwifruit pressed him down on the bed briefly before regaining composure — voice stayed calm and soothing throughout; found pacifier, sat cuddling Fox until he settled.
+- Guilt and ambivalence about leaving: "God I need it. I just need some time away." First clear realisation that since September, the longest time away from the children has been ~5 hours — 7 months without a proper break.
+- Stirred up, anxious about travel. Goal: treat trip as a holiday-with-work; maintain 9:30 downtools and morning walk. Self-observation: "putting myself last again."
+- Whole nervous system had been looking forward to EMDR. Session due Wednesday 29 Apr but conflicted with team day — explored rescheduling, sent messages to Ashleigh and therapist-c. (Session ultimately happened Thursday 1 May.)
+- Milk kefir, water kefir, and bread-baking identified as the family's health baseline — extra daily work Kiwifruit is carrying without it being named.
+### 29 Apr — Job identity; confidence rebuilding
+- Key realisation walking in Newcastle: proving to himself he can do this job more than proving it to the team. Past roles (often below his level, multiple failing companies) have eroded confidence over years. Six months off with the children set in motion a genuine rebuild.
+- Morning walks named as the single most important daily reset: "It's incredible to think how much has come from the simple decision to go out for a walk every morning."
+- Growing sense of safety in the role — feeling that sharing with the team today will deepen it further.
+### 30 Apr — Space, gratitude, first real break
+- Feeling really lucky and happy. No ego in the team; warm, funny, genuinely successful people.
+- First time properly away from the children since September. Genuinely enjoying the space and the time.
+### 1 May — Feeling seen; old anxieties falling away
+- Old anxieties surfacing and falling away at moments where things were expected to go wrong — but nothing bad happened. Reflection on career pattern: Vitrifi, 101 Ways, Credo, Form Three, Validis — always landed in the right place. "Maybe I'm always in the right place at the right time."
+- John (Mango's close friend) told Kiwifruit at dinner that when Mango first met him, he sent a message saying "I've never seen anything like it. I can't wait to have him on board." Received as deep validation — feeling seen and valued in a way that rarely comes.
+- Less competitive need to win — happy to just be there, participate, let others take the limelight. Noticed as a shift from previous self.
+- Salary/equity reflection: they didn't negotiate on either because the salary is genuinely good and the equity is going to be worth more.
+### 1 May — EMDR Session 1 (therapist-c, Zoom, ~50 mins)
+- **Target memory:** 2002 Marshall Software redundancy — first job after university, felt like a real achievement after a competitive graduate market. Made redundant first despite being the most recent hire. News over email; then the meeting with hr-marshall-1 (HR) and mgr-marshall-1 (manager) — both very sad, hr-marshall-1 crying.
+- **Initial disturbance:** 6/10. Negative belief: "I'm not good enough."
+- **Emotions during processing:** Tearful with hollow sensation in stomach; sadness → emptiness → relief; anger at having bottled the experience and not told the founders how it affected him; feeling silly for not seeing it coming; sense of rejection and being kicked out; feeling excluded and like an outsider (connected to being homeschooled and living in the country); underlying belief "things are easy for others but not for me."
+- **Processing arc:** Disturbance 6 → 2 → 0. Memory became "black and white in a comic book that somebody else made" — no longer felt live. Older self began reassuring younger self everything's okay. Processed reassuring the people in the room (May in HR) that it's all fine now.
+- **Positive beliefs installed:** "I can start to believe that I am enough." "This is not my fault — not mine, just something that happened." "Everything's going to be okay." VOC 6.5–7/7.
+- **Body scan:** Minor sensation behind belly button (shock residue) — resolved with additional bilateral processing.
+- **Grounding:** Stream of light in favourite colour, washing away anything that doesn't belong. Felt "cleansed."
+- **Post-session state:** Good but overwhelmed; strange not to have thinking mind engaged. Mind felt a "loose end" during the bilateral work — clearly emotional processing happening without cognitive direction. Yawning ~40 mins in, weary, then really calm and good afterwards. Brain will continue processing; may show in dreams.
+- **Kiwifruit's reflection:** Compared to psychedelics/magic mushrooms — a gentle way to create space and get connected. "Really, really good." Excited for the next session.
+- **Post-session guidance given:** Avoid journaling tonight; let brain process naturally. Keep repeating: "I can start to believe I am enough" and "It wasn't my fault."
+### 2 May — Home; first time away; missing Carciofi
+- First time away from Fox since placement in September — 7 months. "Quite extraordinary."
+- Didn't want to leave Tuesday on every level. Put it off, missed the train, caught the next one. "This is my place." Feeling truly ensconced at home — described as a new feeling.
+- Really missed Carciofi. Coming home and cuddling her: "really quite wonderful."
+### Open actions — updated 2 May 2026
+- [ ] 💪 FOR OLLIE: Contact hr-marshall-1 (HR) and mgr-marshall-1 from Marshall Software — let them know you're okay now
+- [ ] 💪 FOR OLLIE: Incorporate "I can start to believe I am enough" and "This is not my fault" into daily FME affirmations practice
+- [ ] 🗣️ FOR CATARINA: Wednesday session — check if Marshall Software memory still holds at 0 disturbance
+- [ ] 🗣️ FOR CATARINA: If neutral, move to Memory 18 (current job security / Rightbrain anxiety)
 ---
 ## Journal sync — 27 April 2026 (source: "Monday")
 ### Relationship — pre-sleep dynamics

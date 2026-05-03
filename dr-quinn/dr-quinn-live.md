@@ -1,7 +1,8 @@
-# Dr Quinn — Current State (28 Apr 2026)
+# Dr Quinn — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
 
+<!-- ANCHOR -->
 **Project:** Dr Quinn
 **Topic:** Family medical file — holistic health for all 4 family members (Kiwifruit, Carciofi, Bunny, Fox)
 **Last updated:** 2 April 2026
@@ -918,6 +919,29 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - [ ] Carciofi: pelvic floor physio — still not booked
 - [ ] Carciofi: monitor perianal/vulval symptoms; GTN and Ovestin both active
 ---
+---
+## Journal sync — 28 Apr–2 May 2026 (sources: "Travelling to toon", "Toon", "Still in Toon", "Home again")
+### Kiwifruit (Ollie) — tinea / shin (28 Apr–2 May)
+- **28 Apr (night, on train):** Main lesion showing first patch of clear normal skin through it for the first time — "a big chunk of skin showing through." Recognised as iceberg problem: much more growing under the surface than visible above it. Turbinafine identified as the winning factor; Daktarin took it to initial improvement; neem + tea tree maintained it but Terbinafine (+ sulphur + arsenicum alb) knocked it over. Projection: clear leg by end of programme.
+- **29 Apr:** Main lesion showing normal skin through it; strong draining visible at all satellite spots — clear improvement trajectory.
+- **30 Apr:** Itching significantly. Angry-looking as fungus drawn to surface (positive sign). Applied Daktarin last night + tea tree oil across rest of shin — helped. Travel/late nights/poor diet (hamburgers and chips) slowing healing; accepting this as temporary and OK. Taking vitamins. Huel for breakfast.
+- **Daktarin supply:** Running low — plan to get more from a chemist in Newcastle or ask Carciofi to obtain.
+### Kiwifruit (Ollie) — general physical (28–30 Apr)
+- Body feeling tired in a cleansing way — like the end of having a cold; attributed to Turbinafine/sulphur/arsenicum treatment load.
+- 29 Apr: 6.5 hours sleep (11pm–06:00). Sore throat, runny nose. Some fatigue; taking vitamins; Huel for breakfast.
+- Morning walks in Newcastle providing good daily reset despite fatigue.
+### Fox (Caspar) — acute illness (2 May)
+- Sick since approx Tuesday or Wednesday: significant coughing and wheezing.
+- Friday was the worst day. Treatment given by Carciofi: Calpol, Sabacol, manual nasal suction (pipe), atomiser nebulizer with saline mist, asthma puffs.
+- Breathing quickly and slightly raspy; slightly elevated temperature in one ear on Friday (other ear fine). “Double propped” for sleep (elevated positioning). Slept soundly despite rasping.
+- Wake log (illness/absence-related): Caspar 3x Thursday night; Caspar 3x Friday night.
+### Bunny (Phoenix) — developing illness (2 May)
+- Overnight (Fri–Sat): coughing quite a bit; woke calling for pacifier at 6:30am Saturday. Runny nose previous day.
+- Wake log: Phoenix 2x Friday night.
+- Assessment: likely catching Fox’s illness.
+### Carciofi (Hannah) — gynaecological/menstrual (2 May)
+- Back and bum bleeding. Heavy period started Friday — Kiwifruit attributes to peri-menopause. Periods much more drawn out: pain for at least 10 days before bleeding began; bleeding then started very heavily. Also pain with period in front bum. 
+- Carciofi managed all children’s care solo from Tuesday evening to Friday lunchtime under these conditions — significant physical strain on top of existing symptoms.
 ---
 ## Journal sync — 27 April 2026 (source: "Monday")
 ### Fox (Caspar) — wake log

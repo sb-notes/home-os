@@ -1,7 +1,8 @@
 # Forever Dads — Current State (8 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
 
+<!-- ANCHOR -->
 **Project:** Forever Dads
 **Topic:** Monthly support group for adoptive fathers, founded by Ollie Happy
 **Last updated:** 28 February 2026

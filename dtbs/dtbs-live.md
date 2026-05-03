@@ -1,7 +1,8 @@
 # DataBoots — Current State (updated 21 Mar 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
 
+<!-- ANCHOR -->
 **Project:** DataBoots HBN Advisory
 **Topic:** Consulting client (HBN Advisory)
 **Last updated:** 27 February 2026

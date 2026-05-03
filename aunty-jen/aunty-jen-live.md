@@ -1,7 +1,8 @@
-# Aunty Jen — Current State (18 Mar 2026)
+# Aunty Jen — Current State (1 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:27 UTC -->
 
+<!-- ANCHOR -->
 **Project:** Aunty Jen
 **Topic:** Cooking advice
 **Last updated:** 27 February 2026
@@ -29,6 +30,14 @@
 ---
 Last journal sync: 2 March 2026 — no new food/nutrition content to add from this batch.
 ---
+### Sourdough — Newcastle Team Lunch Transit Method (1 May 2026)
+- Panasonic breadmaker rapid cycle (Programme 7, ~3 hours) confirmed viable for sourdough; produces a good loaf.
+- Baking plan for 3 loaves on a single day (e.g. 6am start, leaving at 4:30pm): Loaf 1: 6:00am → out 9:00am; Loaf 2: 9:00am → out 12:00pm; Loaf 3: 12:00pm → out 3:00pm.
+- Feed starter Monday evening (~9–10pm) so it peaks by 6am Tuesday.
+- **Confirmed transit method for sourdough loaves:** Wrap each loaf in a clean cotton tea towel, carry in a cloth bag. Keep out of the fridge entirely (fridge accelerates staling). Leave unwrapped overnight to breathe at room temperature. Re-wrap loosely in tea towels for Wednesday. Unwrap and air for 30–60 mins before serving.
+- All 3 loaves were same-day fresh (baked Tuesday, eaten Thursday). Result: excellent. This is now Kiwifruit's confirmed method for transiting homemade sourdough to team lunches in Newcastle.
+- Key principle: do NOT refrigerate sourdough in transit — fridge is the enemy of bread crust and crumb texture.
+- For 12 people at a bread-centred team lunch with generous toppings: 3 loaves (Programme 7 size) is the right quantity.
 ### Ninja Combi — Fish Cakes & Fish Fingers (18 Mar 2026)
 - Lidl fish cakes: **Air Fry 180°C, 15 mins, full tray** — confirmed perfect result.
 - Cooked alongside a full tray of fish fingers for the kids at the same setting.

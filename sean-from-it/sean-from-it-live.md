@@ -1,7 +1,8 @@
 # Sean from IT — Current State (30 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:29 UTC -->
 
+<!-- ANCHOR -->
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors
 > Last updated: 1 April 2026
 ---
@@ -314,6 +315,10 @@ Last journal sync: not yet run
 - Work setup: M5 is work-only machine; separation of concerns means no personal Claude Cowork session running on it
 - **Future trigger for revisiting:** If Ollie begins running local LLMs or processing heavy client data dumps locally on the M5 for Rightbrain work, Dispatch would become worth evaluating at that point
 ---
+## Journal sync — 30 April 2026 (source: "Still in Toon")
+- **Public GitHub repo flagged as a bad idea:** Kiwifruit explicitly identified the current public `sb-notes/second-brain` repo as a privacy risk during a discussion with team members (Anthony, Hugo, Pete T) in Newcastle. Needs to be made private or migrated away from GitHub. 💪 FOR OLLIE: resolve this — change repo visibility to private or migrate.
+- **V3 Obsidian brainstorm (transit notes):** Key insight from Pete T — most team members interact with their second brain primarily from laptop; Kiwifruit interacts mostly from phone (journal input + starting chats). This is the constraint shaping V3 decisions. Obsidian local vaults on phone + Claude reading/writing vault files = removes GitHub entirely; SyncThing + Nassy/QFile for backup. Hugo suggested Cursor as a layer for model flexibility, but Cursor is laptop-only. Trial path: Obsidian Notion export community plugin on journal DB as a test case. See Current Status (30 Apr) for full evaluated options and decision to stay on V2 for now.
+---
 ## Journal sync — 27 April 2026 (source: "Monday")
 - Second Brain V2 confirmed fully operational. Kiwifruit has written up V1 vs V2 architecture as a comparison document and saved it in Notion. Shared at work (Rightbrain) with intent to roll out as “Product Second Brain” and talk about it with the team.
 - Immediate benefit observed: fewer token-limit interruptions, faster responses from Claude.
@@ -350,8 +355,8 @@ Last journal sync: not yet run
 - **🏠 Home** page created as top-level hub for all current state files
 - **Sean from IT — Current State** (this page) is the first child page
 - Future current state pages to be added as sub-pages of Home: Aloyse Adoption, Aunty Jen Cooking, Bob the Builder, etc.
-- State File Index (routing table) is at: [📋 State File Index v2 ](https://app.notion.com/p/31424a1cf0f081a186aade69d7e17878)
-- Home hub page: [Second brain state files](https://app.notion.com/p/31324a1cf0f08174a3c4fcbeba44664f)
+- State File Index (routing table) is at: [📋 State File Index v2 ](https://www.notion.so/31424a1cf0f081a186aade69d7e17878)
+- Home hub page: [Second brain state files](https://www.notion.so/31324a1cf0f08174a3c4fcbeba44664f)
 ---
 ## 🗂️ Project Files Review — Updates (5 Mar 2026)
 ### NAS Upgrade Research (Jan 2026)

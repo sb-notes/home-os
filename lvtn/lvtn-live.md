@@ -1,7 +1,8 @@
-# Lavender Thorn — Current State (updated 4 Apr 2026)
+# Lavender Thorn — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
 
+<!-- ANCHOR -->
 **Project:** Lavender Thorn HBN Advisory
 **Topic:** Consulting client (HBN Advisory)
 **Last updated:** 4 April 2026
@@ -85,6 +86,8 @@
 - Legacy session pages migrated as DB entries (21 Mar 2026)
 - Structure mirrors DataBoots advisory setup
 ## Session Log
+- **Session 7 (27 Apr 2026):** Working on site revisions Matt was planning. Naming still unresolved (Paul and Matt not yet aligned). Paul stepping back — has some paid work in; Matt stepping up. Communication and agreement between the two remains a challenge; things tend not to move without Kiwifruit facilitating. Advised pivot framing: away from twenty-something fangirl persona; toward tech bros and "last-minute Larry" (male, happy to buy perfume online, wants it tomorrow). Core strategic issues discussed: (1) people may prefer to smell perfume before buying — samples as "sale before the sale"; Kiwifruit to raise £5–10 sample entry point next session as list-builder + user research mechanism. (2) Language for male audience: cologne not perfume; brand must flex for both without defaulting to one. Paul generated a full animated AI mascot series. 8,000 impressions/month via Google Search but zero clickthrough — need a compelling hook. **Uncle Sniff concept surfaced:** Dog in a lab coat (a Labrador, doing lab tests and teardowns with the paw). Strapline: "Smell better for less using science." Mascot-led viral content that cuts through without an influencer budget. Possible comparison site angle with affiliate links to purchase. Key enduring advice: "Be something to someone rather than nothing to everyone." Shoreham Tech note: Paul Collingwood and Matt both flagged as likely pre-launch drinks attendees for Shoreham Tech.
+- **Session 7 follow-up (28–29 Apr):** Uncle Sniff idea elaborated further. If brand moves to Uncle Sniff, mascot is a Labrador in a lab coat with lab tests. Scratch-and-sniff sample sheets as a product: "Here you are wanting CK1 but here are three cheaper ones that smell really good. Here’s your scratch-and-sniff sheet." Ordering of samples and testers identified as a key mechanic to explore for next session.
 - **Session 1 (29 Jan 2026):** Diagnostic session; Perfumista status, acquisition/activation/retention framing, SEO + blog + mailing list recommended, "Last Minute Larry" persona coined, "sniping" launches strategy, brand name concerns raised
 - **Session 2 (12 Feb 2026):** Rebrand to Lavender Thorn; blog + mailing list shipped; ~1000 perfume pages generated; Google Trends + bestseller mapping for SEO; analytics instrumentation recommended; click-first UX over chat-first
 - **Session 3 (26 Feb 2026):** Major redesign demo; ICP pivot to young women (24F); celebrity-driven impressions validated; perfume houses + launches + budget browsing shipped; mobile-first; newsletter strategy; competitor analysis approach; Mackmyra whiskey inspiration; focus on perfume before adjacent markets

@@ -1,7 +1,8 @@
 # Jamesbot — Current State (30 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-01 05:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
 
+<!-- ANCHOR -->
 **Project:** Jamesbot
 **Topic:** Job hunting and HR questions
 **Last updated:** 1 April 2026
