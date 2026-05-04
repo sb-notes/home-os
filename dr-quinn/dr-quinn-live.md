@@ -1,6 +1,6 @@
 # Dr Quinn — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Dr Quinn
@@ -773,7 +773,16 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - **7 Apr 2026:** Spread pattern worsening — scattered red dots across wider shin area. Missed coconut oil applications one day. Tea tree ointment added at midday slot as second antifungal agent. E-consult to GP planned. Holding protocol: Canesten morning + evening, tea tree midday, neem + coconut oil evening, propolis spray at night.
 - **8 Apr 2026:** Hannah found Boots Dermacare Hydrocortisone 1% cream. Pharmacist suggested it. Ollie applied briefly then washed off immediately after Dr Quinn warning — hydrocortisone contraindicated on active fungal infection (causes tinea incognito). No significant exposure. Protocol reverted. E-consult to ADA Health Partnership GP submitted 8 Apr 2026. Requesting oral terbinafine 250mg OD x 2 weeks per NICE guidance.
 ### Current Active Protocol (from 25 Apr 2026)
-- **Terbinafine 250mg:** Once daily with food — started 21 Apr 2026, day 5 of 28 as of 25 Apr 2026. Do NOT stop early.
+- **Terbinafine 250mg:** Once daily with food — started 21 Apr 2026, day 13 of 28 as of 3 May 2026. Course ends 19 May 2026. Do NOT stop early.
+- **Daktarin (miconazole 2%):** Twice daily to main lesion + left calf satellite — simplified from 3x daily now systemic treatment running
+- **Tea tree cream:** Now optional — can drop if compliance is difficult; Daktarin twice daily sufficient alongside terbinafine
+- **Neem oil (1:5 in coconut oil):** Every evening — continue through and beyond terbinafine course as relapse prevention
+- **Coconut oil:** Daily after shower to whole area
+- **Cetirizine 10mg:** Once daily — added 27 Apr for body-wide itch/hay fever
+- **Homeopathic:** Sulphur 30c + Arsenicum Album 30c continuing
+- **Manuka propolis spray:** Now optional as bacterial component resolved
+- **Avoid:** Alcohol until course complete (exception: 1–2 pints 30 Apr — approved, low risk)
+- **Avoid:** Hydrocortisone — permanent flag
 - **Daktarin (miconazole 2%):** Twice daily to whole area + 4cm margin
 - **Tea tree cream:** Once daily (midday) — leave on
 - **Neem oil (1:5 in coconut oil):** Every evening — 20 mins, rinse, plain coconut oil overnight
@@ -797,6 +806,8 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - **CRITICAL NOTE:** Never apply hydrocortisone to this lesion while active fungal infection present — will cause tinea incognito
 ### Progress Log (continued)
 - **9 Apr 2026:** Switched from Canesten to Daktarin (miconazole 2%) — broader spectrum, antibacterial + antifungal. Tea tree cream midday added. Protocol: Daktarin morning + evening, tea tree midday, neem + coconut oil evening, propolis spray night.
+- **3 May 2026 (today):** Six-photo review. Day 13 of 28 terbinafine. Main lesion predominantly white dry scale — normal skin visible beneath in patches, flat, no active weeping, ring border softened. Wide shin view shows scattered satellite dots fading. Left calf satellite lesion clearly retreating. No new lesions. Best position across entire 10-week timeline. Protocol simplified: Daktarin 2x daily (tea tree now optional), neem + coconut oil evening, coconut oil daily. Course ends 19 May 2026.
+- **3 May 2026:** Six-photo review. Day 13 of 28 terbinafine. Main lesion predominantly white dry scale — normal skin visible beneath in patches, flat, no active weeping, ring border softened. Clear healing tinea morphology. Wide shin view shows scattered satellite dots fading — less red, smaller than 27 Apr. Left calf satellite lesion clearly retreating, surrounding skin normal. No new lesions appearing. Overall: best position across entire 10-week timeline. Terbinafine response as expected at day 13.
 - **27 Apr 2026:** Three-photo review. Main lesion still active but wider shin calmer. Back-of-left-leg bumps now visible — body-wide urticarial reaction to terbinafine/die-off confirmed. Smaller satellite lesion on lower leg also visible and reacting to treatment. Symptom review: itchy only (no burning), arms affected (gnat season confounding), feeling better systemically, mouth ulcers + scratchy eyes attributed to hay fever, fatigue from sleep debt. Decision: continue terbinafine. Cetirizine 10mg OD added for 5–7 days (antihistamine support + hay fever). Daktarin extended to cover new satellite lesion.
 - **17 Apr 2026 (pm):** Systemic die-off / Herxheimer response noted — right temporal headache, generalised fatigue, flu-like malaise, body-wide itchy raised bumps. No abdominal pain, no nausea, no jaundice. Assessed as fungal die-off reaction, not drug toxicity or allergy. Advised paracetamol (not ibuprofen), rest, hydration. Continue terbinafine. NAC supplement supportive for clearance.
 - **25 Apr 2026:** Six-photo review. Wide shin view shows satellite dots largely resolved — dramatic improvement vs 9 Apr. Main lesion in active shedding phase: white dry scale lifting, underlying skin visible in patches. Classic healing tinea morphology. Body-wide symptoms (dry kneecaps, itchy bumps) consistent with ongoing die-off and mild terbinafine hypersensitivity — monitor. Sulphur 30c and Arsenicum Album 30c added to homeopathic protocol by Ollie — both well-indicated. Classic Sulphur aggravation response noted.
@@ -941,7 +952,39 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - Assessment: likely catching Fox’s illness.
 ### Carciofi (Hannah) — gynaecological/menstrual (2 May)
 - Back and bum bleeding. Heavy period started Friday — Kiwifruit attributes to peri-menopause. Periods much more drawn out: pain for at least 10 days before bleeding began; bleeding then started very heavily. Also pain with period in front bum. 
-- Carciofi managed all children’s care solo from Tuesday evening to Friday lunchtime under these conditions — significant physical strain on top of existing symptoms.
+- Carciofi managed all children's care solo from Tuesday evening to Friday lunchtime under these conditions — significant physical strain on top of existing symptoms.
+---
+## 🗺️ Carciofi — Gynaecological Pathway Revision (3 May 2026)
+### Newson Clinic — Clinician Selection
+- Decision made to wait for a higher-priority clinician rather than defaulting to first available
+- £200 appointment cost justifies waiting for the best clinical fit for Carciofi's complex multi-strand presentation (probable endo, GSM/vulvodynia, pelvic floor hypertonicity, contraception review)
+- Ranked priority list:
+  1. Dr Clair Crockett — O&G trained before GP; uniquely qualified for endo/surgical pathway understanding
+  1. Dr Farah Ahmed — DRCOG + DFSRH; 20+ years GP; video available
+  1. Dr Hollie Jackson — DRCOG + DFSRH; holistic approach
+  1. Dr Sandra Ives — sexual health specialty; directly relevant to GSM/vulvodynia strand
+  1. Dr Rebecca Lewis — co-founder; DRCOG; most experienced overall
+- Note: Dr Maqsuda Zaman (only Thursday availability) sits ~#7 on this list — qualified but lacks O&G/sexual health/contraception credentials this presentation demands
+- Target booking: earliest available from ranked list, likely w/c 11 or 18 May 2026
+### NHS Appointment — Repositioned
+- NHS Friday appointment (new GP) being delayed — without Newson letter, new GP has no context and will treat as first presentation
+- Revised sequence: Newson first → then NHS with Newson letter in hand
+- NHS appointment remains valuable for: free blood tests, repeat prescriptions (Ovestin, magnesium), pelvic floor physio referral
+### Immediate Actions (this week, no appointment needed)
+- [ ] Book pelvic floor physiotherapy — Brighton/Hove, POGP-registered — most overdue outstanding action in the entire pathway; does not depend on Newson or NHS
+- [ ] Buy Yes VM vaginal moisturiser (Boots/Superdrug/Amazon) — replace Vagisil
+- [ ] Restock OptiBac For Women — 14-day course complete; continue daily to 3 months total
+### Newson Appointment — Deliverables to Request
+- Hormonal blood panel: FSH, LH, oestradiol, testosterone, SHBG
+- Ovestin adequacy review — twice weekly maintenance vs cyclical breakthrough soreness
+- Systemic HRT discussion — layer low-dose transdermal oestrogen alongside local Ovestin?
+- Mirena IUS recommendation in writing (for NHS GP)
+- Clinical letter documenting diagnosis and treatment plan — addressed to new GP
+- Referral pathway note for endo investigation (laparoscopy via Mr Pisal or Mr Nunns)
+### Post-Newson Actions
+- Book NHS appointment armed with Newson letter
+- Book endo surgical consultation: Mr Narendra Pisal (London Gynaecology) or Mr David Nunns (Nuffield Health Brighton)
+- Call Bupa 03456 040623 re: MHD underwriting terms — critical if laparoscopy on the horizon (£3,500–6,000 without cover)
 ---
 ## Journal sync — 27 April 2026 (source: "Monday")
 ### Fox (Caspar) — wake log

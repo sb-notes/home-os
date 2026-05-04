@@ -1,11 +1,13 @@
-# Sean from IT — Current State (30 Apr 2026)
+# Sean from IT — Current State (3 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
 
 <!-- ANCHOR -->
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors
 > Last updated: 1 April 2026
 ---
+## 🟢 Current Status — 3 May 2026
+- [**Sender.net**](http://sender.net/)** mailing list connected to **[**italianwithhannah.com**](http://italianwithhannah.com/)** (3 May 2026):** DNS records added in Hostinger. DKIM CNAME added with correct name `sender._domainkey` (not `@`). DMARC TXT added as `_dmarc`. Existing SPF record (`v=spf1 include:spf.titan.email ~all`) edited to merge [Sender.net](http://sender.net/) include: `v=spf1 include:spf.titan.email include:sendersrv.com ~all`. Propagation confirmed within 15–30 mins. See `## 📧 Email & Mailing List — italianwithhannah.com` section below for full how-to.
 ## 🟢 Current Status — 30 April 2026
 - **Second Brain v3 planning session (30 Apr 2026):** Explored migration options away from Notion + public GitHub. Five options evaluated against 7 use cases: (1) Obsidian + Copidian Copilot + Obsidian Sync, (2) Obsidian + Claude Code/Cowork, (3) Notion Business + AI Agents, (4) Obsidian + Smart Connections, (5) Hybrid Notion journal + Obsidian state files. **Decision: stay on v2 for now, revisit in 1–2 months.** Obsidian is philosophically the right direction (local-first, markdown, model-agnostic, private) but mobile plugin startup times (10–15 seconds reported) make it a downgrade from current mobile workflow at 80% phone usage.
 - **v3 trigger events to watch monthly:**
@@ -87,6 +89,29 @@ Key milestones and their impact on consumption:
 - **Sep 2025:** Children moved in
 - **Dec 2025:** Google Nest replaced with Drayton Wiser + TRVs on all radiators → house noticeably warmer
 - **Jan 2026:** New front door fitted — entire house now double glazed
+---
+## 📧 Email & Mailing List — [italianwithhannah.com](http://italianwithhannah.com/)
+### Setup summary
+- **Domain registrar / DNS:** Hostinger ([hpanel.hostinger.com](http://hpanel.hostinger.com/) → Domains → DNS / Nameservers)
+- **Email provider:** Titan Email (via Hostinger) — MX records point to [mx1.titan.email](http://mx1.titan.email/) / [mx2.titan.email](http://mx2.titan.email/)
+- **Mailing list platform:** [Sender.net](http://sender.net/)
+### How to connect [Sender.net](http://sender.net/) to a Hostinger domain
+In [Sender.net](http://sender.net/): Settings → Sender Domains → Authenticate → your domain → shows DKIM, SPF, DMARC records to add.
+**DKIM (CNAME record)**
+- Type: CNAME
+- Name: `sender._domainkey` ⚠️ Hostinger pre-fills `@` here — change it
+- Target: `dkim.sendersrv.com`
+- TTL: 14400
+**DMARC (TXT record)**
+- Type: TXT
+- Name: `_dmarc`
+- Content: `v=DMARC1; p=none;`
+- TTL: 14400
+**SPF (TXT record — edit existing, do not add new)**
+- Hostinger already has a TXT `@` record from Titan: `v=spf1 include:spf.titan.email ~all`
+- Click **Edit** on that record and merge — only one SPF per domain allowed
+- Updated value: `v=spf1 include:spf.titan.email include:sendersrv.com ~all`
+**Verify:** Return to [Sender.net](http://sender.net/) → click **Check SPF, DKIM and DMARC records**. Propagation typically 15–30 mins on Hostinger.
 ---
 ## 🌐 Network & Connectivity
 - **Broadband: BT (fibre)** — main internet connection

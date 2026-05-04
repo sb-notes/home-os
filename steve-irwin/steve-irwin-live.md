@@ -1,6 +1,6 @@
-# Steve Irwin — Current State (updated 22 Mar 2026)
+# Steve Irwin — Current State (updated 3 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Steve Irwin
@@ -147,6 +147,56 @@
 - Deodoriser: bicarbonate of soda — leave 30–60 mins, vacuum off
 - Drying: dehumidifier aimed at patch; never use heat
 - Toddler bed quick-change hack: double-layer system (waterproof protector → sheet → second protector → second sheet) enables 3-minute night change
+---
+## Footwear — Kiwifruit
+**Research date:** 3 May 2026 (updated same day with foot photos and actual sizing charts)
+### Foot profile
+- Length: 30–30.5cm right foot (confirmed) → EU 49 for Freet, EU 48 for Feelgrounds
+- Width: 11.5cm at 5th metatarsal head / little toe joint (widest point) — originally mismeasured as 12.5cm; photos confirm lean midfoot/heel, spread concentrated at forefoot. Classified: Very Wide.
+- Volume: moderately high; shallow shoes cause top-of-foot compression (e.g. Vibram Ra II)
+- Shape: Egyptian — big toe longest; wide forefoot spread visible in photos
+- Sizing history: all shoes worn at EU 48; Freet requires EU 49 due to last length
+### Current shoe inventory
+| Shoe | Size | Fit notes |
+| --- | --- | --- |
+| Vibram Ra II (black leather) | EU 48 | Snug all round but soft leather made it work; 12 years old |
+| Lems Primal 2 | EU 48 | Good fit but asymmetric empty space at outer forefoot — foot isn't round |
+| Lems Primal Zen | EU 48 | Best current fit; mesh blew out over little toes; wide midsection required break-in |
+| Lems Boulder Boot (nylon/leather) | EU 48 | Too narrow on Lems "natural" last; passable after 1+ year |
+| Lems 9to5 (brown leather) | EU 48 | Pressure on big toes and right midsole; required insole removal + 6 months to resolve |
+**Key learning:** Lems sizing is generally right (EU 48) but their last is too narrow/low-volume at the midfoot. All Lems shoes required a 6-month break-in to expand. Primal Zen insoles improved fit significantly.
+### Research conclusion: move to Freet
+- Freet's "5in1" last is more generous in midfoot width and vertical volume than Lems — better suited to 11.5cm-wide foot
+- Freet EU 49 internal upper width ~118–120mm — foot sits entirely on sole with room to splay
+- Feelgrounds Patrol Lite sole width 107–110mm at EU 48/49 — too narrow for 11.5cm foot in non-stretch vegan leather; ruled out
+- **Recommended size for Freet: EU 49** (not 48) — needed for ~12mm length clearance and to avoid midfoot compression
+### Sizing chart data (from screenshots, 3 May 2026)
+- Freet EU 48 = 307mm insole / 106mm width
+- Freet EU 49 = 313mm insole / 107mm width (upper flares wider than insole)
+- Freet Flex (original, sale) only available to EU 48 — ruled out on length
+### Final purchase decision (3 May 2026)
+**Plan: Freet Flex 2 EU 49 + Freet Mudee 2 EU 49**
+- Flex 2 (£80) — summer/dry weather, river walks, everyday warm-weather use
+- Mudee 2 (£115) — all-season, water-resistant microfiber, South Downs mud and wet river paths
+- Total: ~£175.50 after 10% mailing list discount on non-sale items
+- Sign up at [freetbarefoot.com](http://freetbarefoot.com/) before checkout to claim discount
+**Ruled out:**
+- Freet Flex original (£40 sale) — EU 48 only, too short
+- Freet Citee (£45 sale) — black leather aesthetic not versatile enough; cost-per-use doesn't stack up
+- Feelgrounds Patrol Lite — sole too narrow for 11.5cm foot in vegan leather
+- Mudee L — sold out
+### Fitting tips (on receipt)
+- Remove 2.5mm Ortholite insole if midfoot feels compressed vertically (keep out for first ~80km to allow upper to settle)
+- Use window lacing (skip a crossover at midfoot) if pressure on top of foot
+- Mudee 2 microfiber softens fast — first 3–5km, not a 6-month Lems-style process
+### Care & maintenance
+- **Mudee 2:** Rinse with lukewarm water after mud/river use. No direct heat — radiators degrade waterproof membrane.
+- **Flex 2:** Machine washable on cool/gentle cycle. Air dry only.
+- **Insoles:** Remove on arrival if midfoot feels tight; allow upper to settle before re-inserting.
+### Next action
+- ⚠️ Sign up to Freet mailing list for 10% off before ordering
+- Order Freet Flex 2 EU 49 + Freet Mudee 2 EU 49 from [freetbarefoot.com](http://freetbarefoot.com/)
+- Log fit results after first week of wear
 ---
 ## Notes
 - Green thumbs Perplexity threads migrated into this state file: 2 March 2026

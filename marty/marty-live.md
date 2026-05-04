@@ -1,6 +1,6 @@
 # Marty — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-03 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Marty
@@ -78,6 +78,13 @@
 - **Jamesbot:** Chased laptop return to Vitrify. Also chased ET3 form with employment tribunal to keep claim open — critical administrative action.
 - **Shoreham Tech:** Arranging a walk with Matt and Jeevan together — good moment for Jeevan to get strategic advice and introductions.
 - See Sean from IT file for full Second Brain V3 / Obsidian exploration notes from this period.
+### 3 May — Shoreham Tech; local government angle; Origano as connector
+- Chance street conversation with Gerry Thompson (Green district councillor, St Nick's Ward, Adur) while he was out campaigning ahead of 7 May local elections
+- Gerry fully supportive of [shoreham.tech](http://shoreham.tech/); flagged Thriving Together Grant (£60k pot, £10–15k grants, Adur & Worthing) as a strong fit; suggested approaching Shoreham Library as a free first-talk venue
+- **Advisory positioning note:** Kiwifruit identified Origano (Matt Bagwell) as potentially well-placed to advise on local authority engagement — he has relevant community-building experience with local councils. Could also become a public spokesperson for Shoreham Tech if he chooses to get involved
+- **Speaking opportunity confirmed:** Kiwifruit and butler may co-present the first AI Awareness talk at Shoreham Library — low-stakes public speaking run ahead of mtpcon and AI in Production (June)
+- **Positioning shift identified:** Shoreham Tech best framed as a *local business support hub*, not just a public education initiative — this is where council support and funding is more likely, and where the most engaged audience lives (solo operators, self-employed)
+- Gemini research filed in Shoreham Tech database: local government landscape, Sussex & Brighton Strategic Authority, grant programmes, ward councillor contact strategy
 ### 1 May — Team Thursday; return priorities
 - Team day Thursday: excellent. Sam (sales) booked first or second demo through Flow — marketing agency #2 now on hook. Met Pete’s wife Nat — an absolute character, the perfect match for him.
 - Bowling: Kiwifruit near bottom score and didn’t care — just enjoyed being there and participating. Laughed more on this away day than any previous team experience.
