@@ -1,6 +1,6 @@
-# Rosie Rentals — Current State (27 Apr 2026)
+# Rosie Rentals — Current State (4 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:59 UTC -->
 
 <!-- ANCHOR -->
 Purpose: Living current state file for all Rosie Rentals properties. Update after each significant event, communication, or decision. Last updated: 31 March 2026
@@ -128,7 +128,8 @@ Top floor two-bedroom flat with unconverted loft office space (accessed by ladde
 - **Freeholder:** The four flat owners collectively (Ollie/Hannah hold one quarter)
 - **Managing agent:** None — self-managed by owners. Julia Harvie-Liddell (+44 7823 537735) coordinates communal admin
 - **Block structure:** 4 flats. Flat 1 (ground — patio flat), Flat 2, Flat 3 (Ollie/Hannah — top floor), Flat 4. Ben & Jodie are owners of another flat.
-- **House account:** Monthly contributions per flat. Current rate £60/month (Ben & Jodie underpaying at £50 — ongoing issue as of Feb 2026)
+- **House account:** Monthly contributions per flat. Rate reduced to **£30/month from May 2026** (was £60/month). One-off lump sum of £350/flat paid May 2026 to fund new annual building insurance policy. Going forward: Julia to obtain insurance quote each April, lump sum collected from all flats to cover annual premium. Ben & Jodie underpayment issue (£50 vs £60) now moot given new £30 rate — watch whether they pay the £350 lump sum promptly.
+- **Building insurance:** Switched from Aviva/Brown & Brown to **Coversure** effective 2 May 2026. New annual premium: **£1,390.60** (saving £901.31 vs renewal quote of £2,296.91). Paid in full upfront annually. ⚠️ Coversure requires notification if any flat is vacant/untenanted for >60 days, or if there is a change of freeholder ownership.
 ## Purchase & Financials
 - **Purchased:** 2020
 - **Purchase price:** £362,000
@@ -197,7 +198,7 @@ Top floor two-bedroom flat with unconverted loft office space (accessed by ladde
 ## Actions & Watch Points
 - **URGENT: SE chimney repair** — chase Arrow Roofing and MB Roofing for quotes this week. Share with group. Get agreement within two weeks. Work needed before next winter.
 - **Internal redecoration (SE bedroom)** — plan for 3–4 months' time, once chimney confirmed fixed. This is Ollie/Hannah's cost.
-- Monitor Ben & Jodie house account shortfall — if unresolved, consider direct contact as co-freeholder
+- ~~Monitor Ben & Jodie house account shortfall~~ — moot at new £30/month rate. Watch whether they pay their £350 insurance lump sum (due May 2026).
 - EICR status: [Please confirm last check date]
 - Mortgage fixed rate ends December 2028 — begin reviewing mid-2028. Most financially squeezed BTL property.
 - Rent review due [please confirm month]. 2026 increase TBD.
@@ -470,3 +471,14 @@ Last journal sync: 6 April 2026
 - **Purchased for:** Victoria Road (53 Victoria Road, Shoreham) — Burlington close-coupled pan, cracked existing seat replaced with wood-look
 - **Also purchased:** Angel Shield older model (non-soft-close, hinge spread 107–203 mm) for Hereford Court and Ventnor Villas — wider hinge spread suits standard modern pans at those properties
 - **Note:** Previous Sanilo Bamboo seats at Ventnor Villas lasted ~2–3 years under rental use. Angel Shield chosen for improved hinge quality (metal adjustable) and higher review volume (1,825 reviews, 4.3★).
+---
+## Journal sync — 4 May 2026
+### Ventnor Villas — building insurance and house account (4 May 2026)
+- Julia Harvie-Liddel (building admin coordinator) emailed all freeholders 3 May 2026 with 2025–26 annual accounts and new insurance arrangements.
+- **Accounts 1 Apr 2025 – 31 Mar 2026:** Opening balance £411.25, closing balance £373.60. Deficit of £37.65 (insurance was main cost at £1,968.99 via Aviva).
+- **Insurance switched to Coversure:** Annual premium £1,390.60 (saving £901.31 vs Aviva renewal quote of £2,296.91). Paid in full upfront annually. Brown & Brown broker fee (£70/year) also eliminated.
+- **One-off payment:** £350/flat paid into shared account by Ollie — 4 May 2026. ✅
+- **Standing order reduced:** From £60/month to £30/month — effective immediately. ✅
+- **Sanction Search:** Ollie and Hannah's DOBs and address (53 Victoria Road, Shoreham-by-Sea BN43 5WR) provided to Julia for Coversure compliance. ✅
+- **Going forward:** Julia to obtain insurance quotes each April; lump sum collected from all flats to cover annual premium.
+- **Key compliance note:** Coversure requires notification if any flat is vacant/untenanted for >60 days, or if there is a change of freeholder ownership. No current vacancy issue (Andy in situ).

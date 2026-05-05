@@ -1,9 +1,56 @@
-# Aloyse — Current State (2 May 2026)
+# Aloyse — Current State (4 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:31 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:58 UTC -->
 
 <!-- ANCHOR -->
-**Project:** Aloyse
+---
+## Journal sync — 3–4 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
+### Settling technique discovery
+- **Distraction-with-love** identified as effective alternative to physical removal: when a child is naughty at night or doing something wrong, offering something warm and loving (e.g. a nappy change) disarms the situation rather than escalating it
+- Successfully used during 3am wake-up (Sat 3 May): offered Fox a nappy change, he resisted initially then agreed, calmed completely during the change; Bunny then asked for hers; both settled within 30 mins
+- Subacol (elderberry + sugar) confirmed as effective "medication-love" settling tool at night — children love sweet medicines; it’s calming and they don't differentiate it from Calpol; being used as a comfort/settling alternative when pain relief isn't specifically needed
+### Caspar's first extended separation (28 Apr – 1 May)
+- First 4 days without Kiwifruit since placement in September 2025
+- Anxious-ambivalent attachment pattern clearly visible: wound Hannah up, tested all boundaries, woke more at night, kept seeking attention through naughty behaviour
+- On phone calls: happy to see Kiwifruit but noticeably less engaged than Bunny — consistent with dismissing/avoidant pattern when attachment figure is absent
+- Reconnection on return: Fox pressed forehead to Kiwifruit’s and held it there for several minutes — profound attachment moment
+- Kiwifruit’s two anger incidents post-return likely disrupted smooth reconnection; noted with regret
+- Value of consistent presence confirmed: the effort to be there for wake-ups and put-downs clearly matters to Fox’s felt security
+### Biting behaviour
+- Both children biting each other and mimicking biting as a game ("rarr")
+- Suspected to be coming from an older child at preschool
+- Fox had a bite mark (possibly from Bunny or from preschool child)
+- Open question for coaching: what to do when one child goes to bite the other while parent is standing right there? Kiwifruit’s instinct: physical removal (to another room/upstairs) doesn’t feel right; distraction or comfort for the bitten child feels more appropriate
+### Developmental observations (May 2026)
+- **Language:** Both children at 4-word sentences; echoing everything; narrating what adults are doing; Caspar strongly using "I want" pattern
+- **Caspar:** Motivated by "if Bunny has it, I must have it"; throwing schema very active (loves throwing ball, throws bibby inside); taller now, reaching onto counters; mischievous and curious; comprehension catching up to Bunny’s on "nappy first, then food" bargaining
+- **Bunny (Phoenix):** More independent and mature; comforts Fox when he’s upset; brings things to him in meltdowns; quick to say sorry; instigates most play; likes rough play (throws herself on Fox on changing mat); walks more, walked further than Fox into town
+- **Relationship between them:** Wonderful; Fox still does the "take Bunny’s thing and see what happens" schema that Bunny was doing a couple of months ago; but the mutual care and social skills are far in excess of other children their age
+### Cot safety
+- Velcro cuffs around each ankle connected by short rope, worn under sleep sack and sleep suit, in place every night for overnight sleep
+- Fox accepting them and hasn’t been able to remove them
+- Not used for lunchtime nap
+### Bedtime routine change
+- Simplifying to reduce up-down trips: dinner → milk as transition object → upstairs for gym jams and bath (3 nights/week) → teeth → book → bed
+- Closing curtains / magnet-sealed curtains to block summer daylight — accepting children sleep less in summer months
+### Food / LMFM trust model
+- Trust model continuing to work: boundary testing has eased to normal two-year-old level
+- Children eating 1.25–1.5x what they were eating a few weeks ago; showing us how much they need
+- Phoenix growing in height, catching up to Caspar in some respects
+- Self-selecting well when given full access to what they like plus boring carbs/veg as fallback; not anxiously eating; seldom demanding snacks (outside of boredom/unsettled moments)
+- Experimenting with sitting alongside children eating different things (simpler children’s meal, adults eating alongside)
+- Rear molars coming through for both children (barely perceptible)
+### Preschool schedule
+- Changing to: Mon 9–1, Tue 9–1, Fri 9–12; children home with a nap after Monday and Tuesday
+- Accepting some funded hours will go unused to prioritise children’s need for nap
+- Children still clearly need a nap — even a 10–15 min car nap is enough to prevent the lunchtime nap, creating a very hard afternoon
+- Long-term goal: full days Tue and Wed (9–3), half day Fri (9–12); possibly add another half day later. This gives Carciofi uninterrupted book time and Kiwifruit a less punctuated work day
+- Summer warmth and light transforming family wellbeing; both children and parents much better in warmer months
+### Open items
+- Coaching sought on: biting management strategy (in the moment)
+- Coaching sought on: what to expect next developmentally and how to manage emerging behaviours
+---
+## Journal sync — 28 Apr–2 May 2026 (sources: "Travelling to toon", "Toon", "The morning after", "Home again")
 **Topic:** Parenting and adoption advice. Doing the best we can as parents for Bunny and Fox.
 **Last updated:** 1 April 2026
 > ⚠️ Codename rule: real names replaced with codenames in this file. Bunny = Phoenix, Fox = Caspar, Kiwifruit = Ollie, Carciofi = Hannah. Use real names in conversation only.
@@ -16,6 +63,49 @@
 - **Love Me Feed Me protocol:** Active since 20 March. Yoghurt at all three meals; pre-placed before children sit down. Marked reduction in food-demanding behaviour confirmed.
 - **Kiwifruit back at work:** Rightbrain since 19 March. Love-bombing strategy active on return; 10-min one-on-one with Fox on Kiwifruit's return from work daily.
 - **Open clinical watch:** Fox's throwing schema in confined spaces; bedtime regulation; Fox's grief-cry pattern post-work-return; Bunny's separation anxiety arc.
+---
+---
+## Journal sync — 3 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
+### Wake-up log
+- Sat 2 May night: Fox and Bunny both woke 3am. Took half hour and double nappy changes to settle.
+- Sun 3 May night: No wake-ups. Fox woke at 7:20 with very full nappy; settled, grumbled, left while breakfast prepared.
+### Trust model / feeding
+- Children eating 1.25–1.5x what they were a few weeks ago — self-selecting appropriate amounts.
+- Bunny growing in height, catching up to Fox. Previous portions were likely insufficient.
+- Trust model: significant success. No anxious eating, no snack demands at prep time.
+- Household now eating with children ~2 meals/day (always breakfast, dinner when possible).
+- Simplifying meals so adults and children can eat alongside each other, even if eating different things.
+### Boundary testing / behaviour
+- Boundary testing eased significantly. Children calmer, know where limits are.
+- Continues at normal two-year-old level rather than the chaotic earlier phase.
+- Biting: both children biting each other occasionally. Possibly learned from older preschool child. Bite mark observed. Open question: how to respond in the moment — not closing doors, not carrying upstairs.
+- Fox: throwing schema very active (ball, toys, bibby). Now reaching counters. Curious and mischievous with new objects.
+- Bunny: more independent and mature. Instigates play, comforts Fox during meltdowns, quick to apologise. Rough play preferred. Difficult around nappy times.
+- Post-Newcastle return (Kiwifruit): Bunny had been sharing Carciofi with Fox for 4 days, then suddenly sharing Kiwifruit with Fox — explains biting/goading. Resolving.
+- Fox post-return: catatonic at nappy time for a couple of days. Now improving. "Nappy first, then breakfast" comprehension starting to land.
+### Language development
+- Both at 4-word sentences. Echoing key words from almost everything said.
+- Narrating what adults are doing — a new milestone.
+- Fox: very into "I want [this/that]". Still driven by "if Bunny has it, I need it."
+- Bunny: more independent; "I want" present but less comparison-driven.
+### Walking
+- Both walking more. Town walk: Fox made it almost to the bridge before getting in buggy. Bunny walked to the churchyard.
+### Cot escape / sleep safety
+- Fox was climbing out of cot. Solution: Velcro cuffs + rope under sleep suit/sleep sack. Fox accepting them; unable to remove so far.
+- Overnight use only — not for lunchtime nap.
+### Bedtime routine (Carciofi trialling)
+- Simplified: dinner → milk (transition) → upstairs: gym jams → bath 3x/wk → teeth → book → bed.
+- All downstairs transitions before going up. Magnets on curtains for summer light. Working better.
+- Children circadian; later/less sleep in summer — accepted.
+### Preschool schedule
+- Current: Tue/Wed 9–3 (no nap) + Fri 9–1 (changing to 12). After 2 no-nap days: children exhausted, "drunk toddler" behaviour.
+- Planned: Mon 9–1, Tue 9–1, Fri 9–12. Children home for afternoon nap each day.
+- 15 funded hours; some will go unused — accepted.
+- Both still need daily nap. 45-min car sleep can pre-empt proper nap — problem.
+- Longer-term goal: migrate to Tue/Wed full days as nap need drops.
+### Night settling — new technique
+- Nappy change as distraction-with-love during 3am waking: Fox calmed during change, Bunny asked for one too. Both settled in ~30 min.
+- Lesson: offering something positive (not just firm "sleepy time") disarms difficult night wakings.
 ---
 ---
 ## Journal sync — 28 Apr–2 May 2026 (sources: "Travelling to toon", "Toon", "The morning after", "Home again")

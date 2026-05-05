@@ -1,6 +1,6 @@
 # Sean from IT — Current State (3 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:59 UTC -->
 
 <!-- ANCHOR -->
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors

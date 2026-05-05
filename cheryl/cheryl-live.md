@@ -1,12 +1,38 @@
-# Cheryl — Current State (2 May 2026)
+# Cheryl — Current State (4 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:32 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:58 UTC -->
 
 <!-- ANCHOR -->
-*Last updated: 13 April 2026*
-*This document is read by Claude (as Cheryl) via MCP. Update it at the end of each meaningful session.*
-> ⚠️ Codename rule: always substitute real names with codenames when writing to this file. Kiwifruit = Ollie, Carciofi = Hannah, Bunny = Phoenix, Fox = Caspar. Use real names in conversation only.
-> 📋 **Catarina report skill:** Type `Catarina report` to generate a pre-session summary for Catarina. The skill reads this file and asks 1–2 clarifying questions before producing the report.
+*Last updated: 4 May 2026*
+---
+## Journal sync — 3–4 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
+### Anger update
+- Post-Newcastle: anger different quality — more self-righteous than bubbling; still physical (carrying Fox out of room; 3am wake-up handled too roughly, accidentally bumped foreheads)
+- Distraction-with-something-nice technique discovered — nappy change as warm distraction worked as de-escalation
+- **Milestone: no shouting at children for weeks; voice never raised.** Vocal control holding
+- First angry incident directed at Bunny (Phoenix) — major signal of running on empty post-return
+### EMDR integration
+- Session 1 (1 May) feeling integrated; Kiwifruit feels "more integrated and comfortable" since
+- Two good nights' sleep post-Newcastle making substantial regulatory difference
+- EMDR Session 2: Wednesday 6 May — check Marshall Software memory disturbance; if 0, move to Memory 18
+### Emotional state
+- Bickering with Carciofi from mutual exhaustion (pre-Newcastle burnout + Carciofi solo parenting at difficult time of month)
+- Growing sense of overall wellness; tinea resolving, walks continuing, more settled in job
+### Self-care
+- Yoga still absent; exploring morning post-walk slot before children wake rather than post-7pm
+### Spiritual coaching territory (Sandy Stevenson, for Catarina)
+- Three articles at [lightascension.com](http://lightascension.com/) (26 Apr, 1 May, 3 May 2026) directly relevant as coaching material
+- Weariness as signal: chronic tiredness framed as running on personal energy rather than universal flow — is there a background tiredness pointing at misalignment?
+- NZ move: soul knowing arrives instantly, fades if missed; has there already been a moment of knowing, and has the mind been building a story since?
+- Pre-sleep intention practice: ask a specific question before sleep then fully release it — high-leverage given Kiwifruit's sleep-state work
+### Open actions — updated 4 May 2026
+- [ ] 🗣️ FOR CATARINA: Wed 6 May — check Marshall Software memory; if 0, begin Memory 18
+- [ ] 🗣️ FOR CATARINA: Anger at Bunny for the first time — sign of running on empty; explore in session
+- [ ] 🗣️ FOR CATARINA: Sandy weariness-as-signal framing — background tiredness question
+- [ ] 🗣️ FOR CATARINA: NZ move — soul knowing question
+- [ ] 💪 FOR OLLIE: Continue daily EMDR affirmations from Session 1
+- [ ] 💪 FOR OLLIE: Trial Sandy pre-sleep conscious intention practice
+- [ ] 💪 FOR OLLIE: Find yoga slot — explore morning post-walk window
 ---
 ## 🔵 EMDR Processing Thread — live tracker
 *Update this section after every session or significant between-session processing.*

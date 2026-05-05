@@ -1,11 +1,39 @@
-# Marty — Current State (2 May 2026)
+# Marty — Current State (4 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:59 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 3–4 May 2026 (source: "Journal monday")
+### Mindset
+- Feeling temptation to work longer/harder; committed to keeping work in its box and not overrunning
+- Still experiencing the feeling that family punctuates work rather than the inverse — working on accepting the rhythm as permanent and not fighting it
+- Last week (Newcastle team offsite) effectively "lost" for delivery — important to factor this into self-expectations and not pile pressure on this week to compensate
+### Microphone situation
+- Purchased a microphone on Vinted that never arrived; purchased another on eBay but the wrong microphone was delivered by the Chinese seller
+- Awaiting seller response: refund, partial refund, or correct microphone sent
+- Current mic is "good enough" — not letting this prevent recording episodes; just wants the right one eventually
+### Podcast
+- Next episode in preparation; microphone situation should not block recording
+- Pressure to get episode ready is playing on Kiwifruit's mind
+### Product priorities
+- Feeling pressure to get roadmap system refined — needs time in use to continue evolving fields
+- Core challenge: product strategy and business strategy need to reach version 1 before getting into writing delivery tickets; this is the standard product discipline and is being held
+- Pete wants to hand over delivery to Kiwifruit; aware this is a full-time job in itself and needs the strategic layer bedded in first before taking it on fully
+- Getting things organised and humming, then rinse and repeat — this is the near-term goal
+- On the advisory side: Lavender Thorn going well; DataBoots has drifted; Shoreham Tech with butler taking DataBoots advisory slot — all fine
+---
 **Project:** Marty
 **Topic:** Kiwifruit's work coach / Product Management
 **Last updated:** 26 April 2026
+---
+## Journal sync — 3 May 2026 (source: "Journal monday")
+- Microphone debacle: Vinted purchase (no-show); eBay purchase (wrong model arrived). Working on refund/replacement. Recording can continue regardless.
+- Work lost most of last week to Newcastle trip — accepted as worthwhile; back to priorities this week.
+- Still feeling pressure to get roadmap refined. Backlog items need reviewing, renaming, and tagging — probably with Mango and Finocchio while Fico (Chris) is away until next Monday.
+- Pete keen to hand delivery over to Kiwifruit — feels like a full-time job. Kiwifruit wants VMV and product strategy at least in a v1 state before diving into ticket-level delivery.
+- Work-life balance: temptation to work longer hours, but holding the line. Children at preschool this week = more uninterrupted blocks.
+- Yoga still not resumed. Contemplating: shorter morning walk (30–45 min) + yoga slot on return before children wake, rather than full hour walk.
 ---
 ## Journal sync — 20–25 April 2026 (sources: "A new week", "Wednesday by the sea by the sea", "Thursday", "Friyay", "ProdMind session 24 Apr", "Caspar's first haircut!")
 ### 20 Apr — Podcast & ProdMind

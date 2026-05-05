@@ -1,8 +1,50 @@
-# Dr Quinn — Current State (2 May 2026)
+# Dr Quinn — Current State (4 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:33 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:59 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 3–4 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
+### Wake-up log
+- Sat night (2/3 May): Both Fox and Bunny, 3am. Took ~30 mins and double nappy changes to settle them. (Note: Bunny may appear as "Felix" in source transcript — Wispr mishearing; confirmed as Bunny/Phoenix.)
+- Sun night (3/4 May): No wake-ups. Fox woke at 7:20 — normal time; very full nappy
+### Fox (Caspar) — illness recovery
+- Significantly better by Saturday 3 May following illness (coughing/wheezing from Tuesday 28 Apr)
+- Still coughing quite a bit Saturday night
+- Dr Quinn-confirmed: illness largely resolved over 5 days
+### Bunny (Phoenix) — illness
+- Coughing a lot on Saturday night and during Saturday afternoon
+- Progressed from runny nose (Fri) to cough (Sat) — catching Fox's illness
+- Subacol (elderberry + sugar) found to be effective as "medication-love" settling at night — children respond well to it; being used as alternative to Calpol when medication-love is the goal rather than specific symptom relief
+### Poo log — both children (3–4 May 2026)
+- **Major milestone: both children fully normalised.** Both averaging 2 BMs/day. Phoenix 3 at times, Caspar 1 at times
+- Historical comparison: Phoenix was 5–6 loose/diarrhoea movements per day at placement; Caspar was 1 very dense painful movement every 1–4 days. Both now entirely resolved
+- Attributed to: fermented foods in all meals, diet, movement, and time. Kiwifruit notes: "I don't remember the last time Caspar had a day without a poop"
+- Kiwifruit celebrates every poop enthusiastically with children — children now feel positive about pooping
+- Still eating more than a few weeks ago (1.25–1.5x portions); Phoenix growing in height, catching up to Fox in some respects
+- Rear molars coming through for both children (barely perceptible)
+### Fox (Caspar) — food / LMFM trust model update
+- Trust model continues to work well — boundary testing has eased significantly
+- Fox now showing comprehension of "nappy first, then breakfast" bargaining: beginning to work in the way it has for Bunny for months
+- Velcro cuffs and rope between them in place under sleep sack every night — preventing cot escapes
+### Kiwifruit (Ollie) — physical health
+- Knees getting sore under the kneecap — old injury pattern from mountain biking; tendons along top of knee to hip shortening from sustained daily walking
+- Plan: limit morning walk to 30–45 mins rather than full hour; add yoga post-walk before children wake
+- Best stretching approach: kneeling and leaning back with both knees (yoga-compatible); standing single-foot pull also possible but less preferred
+- Tinea: resolving well — halfway through Turbinafine course (day ~13 of 28 as of 3 May); feeling better and clearer-headed overall
+### Carciofi (Hannah) — gynaecological update
+- Significant period pains: front, bum (perianal), and back bum pain
+- Booking private Newsom clinic appointment as a result — £200 decided on as worth it for best care available
+- This is the cyclical endometriosis/prostaglandin worsening pattern consistent with prior documentation; expected at period time
+- Had been managing solo child care from Tuesday evening through Friday lunchtime while under this physical strain
+### Open health actions — updated 4 May 2026
+- [ ] Kiwifruit: limit morning walk to 30–45 mins; add quad/hip-flexor stretching (yoga post-walk)
+- [ ] Kiwifruit: continue Turbinafine 250mg OD through 19 May 2026; do not stop early
+- [ ] Carciofi: book Newson clinic appointment (decided, in progress)
+- [ ] Carciofi: GP practice change — preferred target Charter Medical, Hove. First step: call Charter and request out-of-area registration (legally permitted since 2015 NHS reforms, no address required). Do NOT use Hove property address — tenants create correspondence/privacy risk. If Charter declines, try Brunswick Medical or The Hove Medical Centre with same request. (4 May 2026)
+- [ ] Carciofi: pelvic floor physio — still outstanding
+- [ ] Both children: monitor rear molars; Subacol and Calpol as needed for comfort
+---
 **Project:** Dr Quinn
 **Topic:** Family medical file — holistic health for all 4 family members (Kiwifruit, Carciofi, Bunny, Fox)
 **Last updated:** 2 April 2026

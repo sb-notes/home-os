@@ -1,6 +1,6 @@
-# Aunty Jen — Current State (1 May 2026)
+# Aunty Jen — Current State (4 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-04 05:31 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:58 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Aunty Jen
@@ -28,7 +28,17 @@
 - Already own Sistema small round pots for snacks, which pair well alongside the box.
 - Note: 1.48L Bento Create's moveable divider feature considered unnecessary complexity for under-3s.
 ---
-Last journal sync: 2 March 2026 — no new food/nutrition content to add from this batch.
+## Journal sync — 3 May 2026 (source: "Journal monday")
+### Children's food preferences — current picture
+- Both children love meat: ham off-cuts (off the bone, less processed), sausage, chunks of chicken. They reject stringy chicken (e.g. soup-cooked pulled chicken) — must be discernible chunks.
+- Lentils are a sweet spot for both children (red and green). A reliable base.
+- Both will eat mash: Fox (Caspar) always willing; Bunny (Phoenix) more variable — sometimes keen, sometimes refuses.
+- Winning meal tested: pork belly pieces on lentils with five spice — went down a treat.
+### Next ideas to test
+- Lentils (red/green) with spices pressure-cooked, then sausage and potato added to get them nice and tender
+- Continue building around the lentil + meat + gentle spice template
+---
+Last journal sync: 1 May 2026
 ---
 ### Sourdough — Newcastle Team Lunch Transit Method (1 May 2026)
 - Panasonic breadmaker rapid cycle (Programme 7, ~3 hours) confirmed viable for sourdough; produces a good loaf.
