@@ -1,8 +1,30 @@
-# Dr Quinn — Current State (4 May 2026)
+# Dr Quinn — Current State (5 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:59 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-06 05:27 UTC -->
 
 <!-- ANCHOR -->
+---
+## 🚨 Carciofi — Rectal/Anal Health Thread 2 (5 May 2026)
+**New presentation:** Anal fissure symptoms resolved over approximately 2 weeks (pain-free, no bleeding). With onset of current menstrual period, pain and rectal bleeding have returned.
+**Clinical reassessment:** This is NOT fissure recurrence. The cyclical pattern — 2-week pain-free window followed by return of symptoms at period onset — is the hallmark of **bowel/rectovaginal endometriosis**, not anal fissure. Endometrial implants on or near the rectum/recto-sigmoid junction engorge and bleed in response to the same hormonal cycle as the uterus.
+**Key differentiating features from fissure:**
+- Two-week pain-free window (fissures do not give prolonged pain-free gaps without healing)
+- Symptoms return *precisely* at menstrual onset
+- Known suspected endometriosis background (unconfirmed since 2020)
+- GTN not indicated — this is not sphincter spasm
+**Concurrent documentation:** This pattern was already being noted in journal sync entries (27 Apr, 2 May 2026) as cyclical bum pain at period time, consistent with endometriosis/prostaglandin pattern.
+**Immediate management for current period:**
+- Ibuprofen 400mg with food — anti-prostaglandin, more effective than paracetamol for endo-driven pain; take regularly through period not PRN
+- Heat to lower abdomen (not perineum directly)
+- Continue magnesium bisglycinate at bedtime
+- Sitz baths after BMs for any perianal inflammation
+- Maintain soft stool protocol (fibre, kiwi, flaxseed, olive oil) to avoid fissure aggravation under inflammation
+- GTN: not indicated for this presentation; hold unless fissure symptoms specifically recur
+**Pathway escalation triggered:**
+1. **Newson Clinic (priority raised):** Attend with cyclical rectal pain/bleeding documented explicitly. Newson can optimise hormonal environment which may reduce endometriosis activity.
+1. **Mr Narendra Pisal (London Gynaecology) — now the priority action:** Cyclical rectal bleeding in known suspected endometriosis = indication for MRI pelvis + laparoscopy. Pisal has specific expertise in deep infiltrating/bowel endometriosis. Ideally book with Newson letter in hand.
+1. **Investigation pathway:** MRI pelvis (first-line for rectovaginal/bowel endo) → laparoscopy (diagnostic and therapeutic gold standard).
+**Clinical question to monitor:** Is pain and bleeding worst on days 1–2 of period, easing as period progresses? Yes = clean endometriosis signature. Bleeding continuing/worsening *after* period ends → add colonoscopy/sigmoidoscopy to workup to rule out internal haemorrhoid or polyp.
 ---
 ## Journal sync — 3–4 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
 ### Wake-up log
@@ -40,7 +62,7 @@
 ### Open health actions — updated 4 May 2026
 - [ ] Kiwifruit: limit morning walk to 30–45 mins; add quad/hip-flexor stretching (yoga post-walk)
 - [ ] Kiwifruit: continue Turbinafine 250mg OD through 19 May 2026; do not stop early
-- [ ] Carciofi: book Newson clinic appointment (decided, in progress)
+- [ ] Carciofi: book Newson clinic appointment — **now more urgent** following cyclical rectal symptom recurrence (see 5 May entry below)
 - [ ] Carciofi: GP practice change — preferred target Charter Medical, Hove. First step: call Charter and request out-of-area registration (legally permitted since 2015 NHS reforms, no address required). Do NOT use Hove property address — tenants create correspondence/privacy risk. If Charter declines, try Brunswick Medical or The Hove Medical Centre with same request. (4 May 2026)
 - [ ] Carciofi: pelvic floor physio — still outstanding
 - [ ] Both children: monitor rear molars; Subacol and Calpol as needed for comfort

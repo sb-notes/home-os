@@ -1,6 +1,6 @@
 # Bob the Builder — Current State (26 Mar 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:58 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-06 05:26 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Bob the Builder

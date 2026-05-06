@@ -1,6 +1,6 @@
-# Degen — Current State (25 Apr 2026)
+# Degen — Current State (5 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:59 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-06 05:27 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Degen
@@ -547,6 +547,35 @@ Last journal sync: not yet run
 - Koinly + Maslins to confirm exact figures at year end (5 April 2026)
 *Updated: 21 March 2026*
 ---
+## PENSION UPDATE — 5 MAY 2026
+### Smart Pension — Confirmed Policy Numbers (29 Apr 2026)
+- **Policy 921974169** — [form3.tech](http://form3.tech/) pot | Current value: £2,983.60 | Transfer to InvestEngine initiated
+- **Policy 922623376** — 101 ways/crosstide pot | Current value: £17,994.04 | Transfer to InvestEngine initiated
+- **Policy 923952637** — Kiwifruit Rightbrain pot | Active, contributions ongoing | **DO NOT transfer**
+- Note: Original Smart Pension email concatenated two policy numbers (921974169 + 923952637) — since clarified by Bruno (SP Admin) on 29 Apr 2026
+- Both transfers submitted via InvestEngine (Origo route — no Smart Pension paperwork required)
+### Pension Contribution Update — 5 May 2026
+- **Employee contribution increased to 17%** (from 10%)
+- Employee: 17% = £1,700/month | Employer: 4% = £400/month | **Total: £2,100/month | £25,200/year**
+- Rationale: 17% takes adjusted net income to ~£99,600, fully exhausting the 60% effective relief in the personal allowance taper band (£100k–£125,140)
+- Real net cost vs 10%: ~£280/month additional reduction in take-home (extra £700 to pension × 40% real cost after 60% relief)
+- Revised take-home estimate: ~£5,920/month (down from ~£6,200 at 10%)
+- **Review trigger remains:** September 2026 — confirm cash flow comfortable after mortgage restart before increasing further
+- ⚠️ Do not increase beyond 17% until cross-border UK/NZ pension drawdown tax treatment confirmed with Maslins
+### Pension Taper Analysis Correction — 5 May 2026
+- **Critical finding:** 17% contribution decision was modelled on salary only — property income was not included in adjusted net income calculation
+- Salary after 17% sacrifice: £99,600 | Property profit (Kiwifruit share): ~£33,654 | **Total adjusted net income: ~£133,254**
+- This is above £125,140 — personal allowance already fully withdrawn regardless of pension contribution level
+- The 60% effective relief window (£100k–£125,140) does not apply; contributions attract standard 40% higher-rate relief
+- To enter the 60% taper zone would require ~£28,500/year employee contribution (~24%) — not viable at current cash flow
+- **17% decision still stands** — 40% relief is still highly efficient; rationale shifts from "restoring PA" to "tax-efficient pension building at higher rate"
+- **Action:** Ask Maslins to confirm: does property profit in adjusted net income mean PA taper benefit from pension contributions does not apply?
+- Related: Section 24 restriction means mortgage interest on rentals gives only 20% basic rate credit, not full marginal deduction — further increases effective tax on property profit at Kiwifruit’s income level
+### Smart Pension Transfers — 5 May 2026
+- Both transfers submitted via InvestEngine (Origo route)
+- [form3.tech](http://form3.tech/) pot (921974169): £2,983.60 — transfer submitted
+- 101 ways/crosstide pot (922623376): £17,994.04 — transfer submitted
+- Rightbrain pot (923952637) confirmed separate and untouched
 ## PENSION UPDATE — 20 APRIL 2026
 ### Total Pension Pot
 - **101 Ways (old pot) discovered:** £17,640 — transfer to InvestEngine initiated

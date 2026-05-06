@@ -1,6 +1,6 @@
 # Nik's List — Current State (11 Mar 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-05 04:59 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-06 05:27 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Nik's List
@@ -137,6 +137,9 @@ Last updated: 2 March 2026
 - Ollie experiencing urgency about the NZ move, partly driven by observing the direct impact of England's cold/wet climate on the children's regulation and mood
 - Three consecutive sunny days (5–7 Mar) produced marked positive transformation in both children — running, playing, transformed energy — reinforcing the view that the environment is actively working against the family's wellbeing
 - Ollie asked for a developmental phase difficulty analysis for Hannah as near-solo parent; ratings (out of 5, hardest = 5):
-<!-- error fetching children: 502 Server Error: Bad Gateway for url: https://api.notion.com/v1/blocks/0fab359a-a01c-4593-95a3-b2759a5864dc/children?page_size=100 -->
+  - Age 2–3 (now): ★★★★ 4/5 — twin frustration gap, attachment still forming, English winter
+  - Age 3–4 (coming): ★★★★★ 5/5 — peak challenging behaviours, twin coalition dynamic, no self-regulation, adoption identity questions beginning
+  - Age 4–5: ★★★★ 4/5 — more verbal and capable but identity questions intensifying
+  - School entry 5–7: ★★★ 3/5 — emotionally demanding but physically easier; NZ school system better suited to adopted children (individual start date at 5th birthday vs Reception cohort at 4)
 - Best case NZ arrival: late 2027 / early 2028 — landing in the 3.5–4 age window at peak difficulty but with significantly better environmental tools (beach access, outdoor regulation year-round, family network, slower pace)
 - Key note for NZ planning: moving itself is a significant destabilisation for children from care; a staged, planned transition with 3–6 month attachment regression expected should be built into the plan
