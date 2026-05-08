@@ -1,8 +1,27 @@
 # Dr Quinn — Current State (5 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-07 05:30 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:52 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 6 May 2026 (source: "Journal weds")
+### Wake / sleep log
+- Fox: 3 wakes (1:30am, 2:15am, 2:20am) — attributed to aftermath of 5 May meltdown
+- Sleep quality significantly impacted by wine spritzer + sloe gin berries at 9pm the previous evening; Kiwifruit noted this directly as a cause of poor sleep quality
+- Tired day overall following EMDR session (morning) + Sarah massage (afternoon)
+### Somatic-therapist-1 (Sarah) — Kiwifruit massage (6 May)
+- Front line work: stomach, chest, neck, shoulders
+- Knee alignment assessment included — Sarah identified alignment issue; will do a dedicated alignment training session with Kiwifruit
+- Kiwifruit's leg soreness from a split in the leg; took 2x paracetamol for this
+### Kiwifruit (Ollie) — physical health (6 May)
+- Feeling cold and tired after the combined EMDR + massage day
+- Wine spritzer + sloe gin infused berries consumed at 9pm — confirmed sleep quality impact
+- Bed at 9:35pm (on target)
+### Open health actions — updated 6 May 2026
+- [ ] Kiwifruit: knee alignment training session with somatic-therapist-1 (flagged at massage)
+- [ ] Kiwifruit: avoid alcohol/late eating on days with heavy therapeutic load (EMDR + massage)
+- [ ] Carciofi: Newson Clinic — still in progress
+- [ ] Carciofi: pelvic floor physio — still outstanding
 ---
 ## 🚨 Carciofi — Rectal/Anal Health Thread 2 (5 May 2026)
 **New presentation:** Anal fissure symptoms resolved over approximately 2 weeks (pain-free, no bleeding). With onset of current menstrual period, pain and rectal bleeding have returned.
@@ -24,7 +43,31 @@
 1. **Newson Clinic (priority raised):** Attend with cyclical rectal pain/bleeding documented explicitly. Newson can optimise hormonal environment which may reduce endometriosis activity.
 1. **Mr Narendra Pisal (London Gynaecology) — now the priority action:** Cyclical rectal bleeding in known suspected endometriosis = indication for MRI pelvis + laparoscopy. Pisal has specific expertise in deep infiltrating/bowel endometriosis. Ideally book with Newson letter in hand.
 1. **Investigation pathway:** MRI pelvis (first-line for rectovaginal/bowel endo) → laparoscopy (diagnostic and therapeutic gold standard).
-**Clinical question to monitor:** Is pain and bleeding worst on days 1–2 of period, easing as period progresses? Yes = clean endometriosis signature. Bleeding continuing/worsening *after* period ends → add colonoscopy/sigmoidoscopy to workup to rule out internal haemorrhoid or polyp.
+**Clinical question — RESOLVED (5 May 2026):** Rectal bleeding confirmed only on days 1–2 of period bleed. After that: painful BMs and post-BM pain for some hours, but no further blood. **Clean endometriosis signature confirmed.** Internal haemorrhoid and polyp effectively ruled out as significant contributors. Colonoscopy/sigmoidoscopy not indicated. Bowel symptoms are downstream of endometriosis — one laparoscopy with the right surgeon (Pisal) addresses the full picture including rectovaginal/bowel involvement. Post-period painful BMs managed with ibuprofen (anti-prostaglandin, residual inflammation), sitz baths post-BM, soft stool protocol.
+---
+## Journal sync — 5 May 2026 (source: "Journal hard Tuesday")
+### Wake / sleep log
+- No wake-ups overnight
+### Bunny (Phoenix) — post-preschool state
+- Attended full preschool day; came home looking completely wrecked — almost bloodshot eyes; described as looking like she'd been up all night
+- Demanded to be carried home from preschool
+### Fox (Caspar) — post-preschool state
+- Demanded to be carried home from preschool
+- One-hour meltdown post-arrival (see Aloyse for detail)
+### Carciofi (Hannah) — gynaecological update
+- Period + possible endometriosis — really suffering today; described as broken from last week
+- See also: 5 May endometriosis clinical reassessment at top of this file
+### Somatic-therapist-1 (Sarah) — massage sessions
+- Sarah came today for Carciofi's massage
+- Sarah coming tomorrow (Wed 6 May) for Kiwifruit's massage
+- Kiwifruit wants focus on: shoulders and front line (front of body tightening from daily walking)
+### Kiwifruit (Ollie) — physical health
+- Morning walk: 30 minutes (shorter than usual to rest legs)
+- Tomorrow: Catarina session in morning then Sarah massage at lunchtime
+### Open health actions — updated 5 May 2026
+- [ ] Kiwifruit: Sarah massage tomorrow — shoulders and front line
+- [ ] Carciofi: Newson Clinic appointment — priority raised given cyclical rectal symptom recurrence (see 5 May endo section above)
+- [ ] Adjust preschool to lunchtime pickup — both children clearly not ready for full days without a nap
 ---
 ## Journal sync — 3–4 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
 ### Wake-up log
@@ -62,7 +105,8 @@
 ### Open health actions — updated 4 May 2026
 - [ ] Kiwifruit: limit morning walk to 30–45 mins; add quad/hip-flexor stretching (yoga post-walk)
 - [ ] Kiwifruit: continue Turbinafine 250mg OD through 19 May 2026; do not stop early
-- [ ] Carciofi: book Newson clinic appointment — **now more urgent** following cyclical rectal symptom recurrence (see 5 May entry below)
+- [x] Carciofi: Newson Clinic appointment — booked for w/c 12 May 2026 ✅
+- [ ] Carciofi: NHS GP appointment — 6 May 2026. Attend. Objectives: (1) hormone bloods: FSH, LH, oestradiol, testosterone, SHBG; (2) Ovestin repeat prescription on NHS; (3) pelvic floor physio referral (POGP-registered, Brighton/Hove); (4) document cyclical rectal symptoms in notes. Do not expect GP to lead endometriosis pathway — Newson handles that next week.
 - [ ] Carciofi: GP practice change — preferred target Charter Medical, Hove. First step: call Charter and request out-of-area registration (legally permitted since 2015 NHS reforms, no address required). Do NOT use Hove property address — tenants create correspondence/privacy risk. If Charter declines, try Brunswick Medical or The Hove Medical Centre with same request. (4 May 2026)
 - [ ] Carciofi: pelvic floor physio — still outstanding
 - [ ] Both children: monitor rear molars; Subacol and Calpol as needed for comfort
@@ -870,6 +914,7 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - **CRITICAL NOTE:** Never apply hydrocortisone to this lesion while active fungal infection present — will cause tinea incognito
 ### Progress Log (continued)
 - **9 Apr 2026:** Switched from Canesten to Daktarin (miconazole 2%) — broader spectrum, antibacterial + antifungal. Tea tree cream midday added. Protocol: Daktarin morning + evening, tea tree midday, neem + coconut oil evening, propolis spray night.
+- **7 May 2026:** Five-photo review. Day 17 of 28 terbinafine. Main lesion still actively crusting with golden-orange scale — similar to 25 Apr character, not dramatically resolved. New inner shin strip of connected red lesions visible (image 2) — not present on 3 May photos. Interpretation: either dying fungal tissue becoming visually apparent before shedding (reassuring), or continued spread on inner shin (cautious). Warm days causing itch flare — heat amplifying inflammatory response. Left calf satellite small and contained. Decision: no protocol change, continue full course. Daktarin explicitly extended to cover inner shin strip. Temperature management reinforced. Photo review requested Saturday/Sunday to monitor inner shin strip. Course ends 19 May 2026.
 - **3 May 2026 (today):** Six-photo review. Day 13 of 28 terbinafine. Main lesion predominantly white dry scale — normal skin visible beneath in patches, flat, no active weeping, ring border softened. Wide shin view shows scattered satellite dots fading. Left calf satellite lesion clearly retreating. No new lesions. Best position across entire 10-week timeline. Protocol simplified: Daktarin 2x daily (tea tree now optional), neem + coconut oil evening, coconut oil daily. Course ends 19 May 2026.
 - **3 May 2026:** Six-photo review. Day 13 of 28 terbinafine. Main lesion predominantly white dry scale — normal skin visible beneath in patches, flat, no active weeping, ring border softened. Clear healing tinea morphology. Wide shin view shows scattered satellite dots fading — less red, smaller than 27 Apr. Left calf satellite lesion clearly retreating, surrounding skin normal. No new lesions appearing. Overall: best position across entire 10-week timeline. Terbinafine response as expected at day 13.
 - **27 Apr 2026:** Three-photo review. Main lesion still active but wider shin calmer. Back-of-left-leg bumps now visible — body-wide urticarial reaction to terbinafine/die-off confirmed. Smaller satellite lesion on lower leg also visible and reacting to treatment. Symptom review: itchy only (no burning), arms affected (gnat season confounding), feeling better systemically, mouth ulcers + scratchy eyes attributed to hay fever, fatigue from sleep debt. Decision: continue terbinafine. Cetirizine 10mg OD added for 5–7 days (antihistamine support + hay fever). Daktarin extended to cover new satellite lesion.

@@ -1,6 +1,6 @@
 # Steve Irwin — Current State (updated 3 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-07 05:31 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:53 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Steve Irwin

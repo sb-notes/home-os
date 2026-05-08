@@ -1,6 +1,6 @@
-# Aunty Jen — Current State (4 May 2026)
+# Aunty Jen — Current State (5 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-07 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:51 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Aunty Jen
@@ -27,6 +27,17 @@
 - Decided on **Sistema 1.1L Ocean Bound Bento Box** — reasoning: already more volume than kids' current lunch plates, and preschool provides a banana snack separately.
 - Already own Sistema small round pots for snacks, which pair well alongside the box.
 - Note: 1.48L Bento Create's moveable divider feature considered unnecessary complexity for under-3s.
+---
+## Journal sync — 5 May 2026 (source: "Journal hard Tuesday")
+### Sloe gin & port — bottling complete
+- Sloe port bottled (batch complete)
+- Remaining sloe gin also bottled
+- Approximately 3kg of gin and port-infused sloe berries packed away as cooking ingredients
+- Ideas for using the infused berries:
+  - Kiwifruit: sloe berry compote to stir through yoghurt
+  - Kiwifruit: apple and sloe crumble
+  - Carciofi: prosecco-based cocktails using the infused berries
+  - Both: general use in stewing and cooking meat
 ---
 ## Journal sync — 3 May 2026 (source: "Journal monday")
 ### Children's food preferences — current picture

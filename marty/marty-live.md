@@ -1,8 +1,17 @@
-# Marty — Current State (4 May 2026)
+# Marty — Current State (6 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-07 05:30 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:53 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 6 May 2026 (source: "Therapy/Catarina EMDR 2")
+### CPO identity — post-EMDR realisation
+- EMDR Session 2 (job security anxiety) generated a powerful post-session empowerment that landed directly in career thinking
+- "I am the CPO and everything but name and a bit of time spent doing it and being accepted by Fico and Mango as that role. They've absolutely left the door open for me in that."
+- "All I need to do is begin to be that person, continue to be that person. That starts today."
+- Career arc now clearly seen: CPO stage → advisor stage — both clear, both as they should be and as Kiwifruit wishes them to be
+- "All of the steps have got me to here and that here is a very great place, a place I can be grateful to be in, a good place."
+- Previous career pattern reframed from trauma to resource: each previous step (SaaS, cloud, fintech, payments, AI) built toward this exact moment
 ---
 ## Journal sync — 3–4 May 2026 (source: "Journal monday")
 ### Mindset

@@ -1,8 +1,88 @@
-# Aloyse — Current State (4 May 2026)
+# Aloyse — Current State (6 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-07 05:28 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:51 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 6 May 2026 (source: "Journal weds")
+### Wake / sleep log
+- Fox: 3 wakes (1:30am, 2:15am, 2:20am) — attributed to previous day's meltdown and anger episodes
+- Note: harder to come out of sleep at 1:30/2:30 (deep sleep phase)
+### New settling technique — boring presence (third wake)
+- On the third wake, tried a new approach: sat down on the floor about a metre from the cot, facing Fox but not looking at him; closed eyes
+- Fox visibly bored, not upset — just dragging his foot backwards and forwards in the cot
+- After about a minute: pointed to his pillow and said quietly "Caspar, it's sleepy time" then waited; then "Time to lie down" — Fox lay down immediately
+- Went over, kissed him good night, went to Bunny (who had also got up), put her down, kissed Fox again, then left
+- Conclusion: once genuine anxiety has passed, making the return visit boring and using one quiet instruction is effective
+### LMFM — food update (6 May)
+- Eating approximately 1.5x portions today; slightly more anxious than yesterday
+- Attributed to disrupted night/previous day — expected temporary uptick
+- Carciofi observed at the park: children not showing cross-modelling anxiety around other children's food; haven't ballooned despite eating freely
+- Kiwifruit: "I just can't really believe it. It's wonderful."
+### Preschool — positive observation
+- One of the teachers said (when Kiwifruit ran over to the door): "They're such happy children"
+- Kiwifruit: "I'm really proud of them"
+### Fox (Caspar) — language milestone (FIRST TIME)
+- Fox can now report what he did at preschool — first time this has been possible
+- Kiwifruit: "Did you have a nice day today?" — Fox: "Yeah."
+- Kiwifruit: "What did you do today?" — Fox: "Teeth. Drawing." (brushing teeth + drawing at preschool)
+- Kiwifruit: "We're really getting something. This is so cool that we could talk to them."
+- Also: "Hold my hand" and Fox holds his hand — instruction comprehension confirmed
+### Fox — delayed pacifier gratification (milestone)
+- Couldn't find pacifier in school bag — Fox accepted waiting until they got home to find it
+- Significant — previous pattern was immediate demand and distress
+### Bedtime (6 May evening)
+- Same teeth resistance as previous night: yes/no/yes/no cycle; eventually teeth done
+- Carried upstairs; not as catatonic as previous night; accepted comforters/Dottie (pacifier) once upstairs
+- Nappy change: 25-month-old at 15.5kg; sitting behind Fox worked much better than frontal approach
+- Sleep sack on; book; both dropped straight off to sleep
+### Open actions — updated 6 May 2026
+- [x] New settling technique trialled — boring presence + single quiet instruction: **WORKS**
+- [ ] Build "boring presence" into standard 3+ wake protocol going forward
+---
+## Journal sync — 5 May 2026 (source: "Journal hard Tuesday")
+### Wake / sleep log
+- No wake-ups overnight
+- Previous night: children did not settle until ~8:30 despite being in bed by 7:15 — high energy, attributed to daylight saving
+- Children wanted to get up at 6:40 (one hour earlier than usual); Kiwifruit settled them and went for a 30-min walk
+### Trust model / LMFM
+- Good day: children eating ~1.25–1.5x normal portions
+- Meals getting shorter; less food anxiety; boundary testing reducing
+- Children becoming comfortable within the new boundaries
+### LAC healthcare worker visit
+- Looked-after children (LAC) healthcare worker visited — Kiwifruit assessed as useless and counterproductive
+- Lanyard massively unsettled both children (official visitor = potential life change in their nervous systems)
+- Worker stayed too long; Kiwifruit had to take time off work to come down and stabilise children
+- Reportedly the last such visit (schedule is 6-monthly)
+### Preschool — full day and aftermath
+- Both children attended a full day at preschool today
+- Bunny post-preschool: looked wrecked — almost bloodshot eyes, completely depleted
+- Fox demanded to be carried home from preschool
+- **Decision confirmed: change preschool to lunchtime pickup to preserve nap** — full days without a nap clearly not working yet; children not ready
+### Fox (Caspar) — one-hour meltdown
+- After arriving home, Fox had approximately one-hour meltdown
+- Attachment pattern: defeatist loop — demanded milk, pushed it away, threw it; demanded dummy, pushed it away; repeated for an hour
+- Kiwifruit's interpretation: "I'm not lovable because good things have gone away and somehow that's my fault" — magical toddler thinking consistent with anxious-ambivalent attachment
+- Context factor: Kiwifruit had been away; Fox still settling from that absence
+### Strategies tried — what worked / what didn't
+- Holding from behind: Fox went mental — did not work
+- Sitting next to him, handing things: partially helped
+- Offering to go outside: Fox couldn't commit; started throwing the family's shoes outside instead
+- Giving space, doing dishes on other side of kitchen: worked somewhat — Fox began fighting with doormat ("mat away")
+- Soothing sounds from Kiwifruit: first point Fox began to de-escalate
+- Offering toothbrush when partially settled: yes/no/yes/no cycle then he did his teeth — first genuine settle point of the meltdown
+### De-escalation pathway identified
+- Bedroom/upstairs confirmed as Fox's safest and happiest place when dysregulated
+- Once offered bath (with Bunny visibly enjoying it): Fox settled completely
+- Floods of relief visible in Fox during bath — and in Kiwifruit
+- Both children asleep just before 7:00 (completely exhausted)
+### Anger incidents — Kiwifruit (2 today)
+- Incident 1: Shouted at Fox when Fox hit Kiwifruit while being given a nose wipe
+- Incident 2: Picked Fox up and carried him across the room when Fox spilled milk over Kiwifruit's feet; also poured out Fox's milk after the hour-long cycle
+- Kiwifruit expressed regret about both incidents
+### Open actions — updated 5 May 2026
+- [ ] Full-day preschool paused; revert to lunchtime pickup until nap need reduces
+- [ ] Note LAC visit as dysregulation factor for future scheduling
 ---
 ## Journal sync — 3–4 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
 ### Settling technique discovery

@@ -1,9 +1,111 @@
-# Cheryl — Current State (4 May 2026)
+# Cheryl — Current State (6 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-07 05:29 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:52 UTC -->
 
 <!-- ANCHOR -->
-*Last updated: 4 May 2026*
+*Last updated: 6 May 2026*
+---
+## Journal sync — 6 May 2026 (evening, source: "Journal weds")
+### Peer support pillars — three now named
+- **Forever Dads**: adoption and parenting peer support, monthly
+- **Augmented**: general work and AI peer support (newly launched)
+- **ProdMind**: role-specific product leadership peer support
+- All three now active or imminent — a meaningful support infrastructure milestone
+### Coach search — readiness
+- Feeling ready to begin searching for an exec coach
+- Plan: start the search in approximately 2 weeks, after 3–4 EMDR sessions have cleared more past trauma first
+- Sequence: EMDR stabilisation → then coaching on top of a cleaner foundation
+### Self-care — 6 May evening
+- Feeling cold and tired after EMDR (morning) + somatic-therapist-1 massage (afternoon) — a lot released
+- Paracetamol x2 for leg soreness; imagining a lot has been released
+- Walk timing experiment: tried post-work walk instead of pre-work; confirmed strongly prefer pre-work walk
+  - Morning walk: better because not purposeful at that time anyway; may as well walk and start wJournal
+  - Will try 6am walk tomorrow morning
+- Bed at 9:35 — on target
+### Anger log
+- 6 May (full day): 0 incidents
+---
+## Therapy/Catarina EMDR Session 2 — 6 May 2026
+### Marshall Software memory (Session 1 target) — confirmed resolved
+- When Kiwifruit connected with the memory at session start: body echo only, ~2/10 — then went away completely when he went back for it
+- "My body was expecting to react but there was nothing, but it was empty" — body memory of old response, no live charge
+- Confirmed: memory 1 (Marshall Software redundancy) fully processed and neutral
+### EMDR Session 2 — Target: current job security anxiety (Memory 18)
+- **Image:** Reading the redundancy message — typically Slack, text, or email. Most recent = text from hr-marshall-1 last December
+- **Disturbance:** 7-9.5/10. Manifesting as: self-sabotage, distraction, holding back, excessive worry rather than action
+- **Context:** 16th company overall; 7th in England in 12 years; 7 previous companies failed
+- **Negative beliefs:** "I should have seen this coming" / "I don't deserve success" / powerlessness / "I don't belong or fit in" / "things are harder for me"
+- **Historical roots identified:**
+  - Father's redundancy (Kiwifruit age ~4-7): family culture of "if you don't work, you don't eat"
+  - Homeschooled/national park outcast: secondhand clothes, different haircuts, not belonging
+  - Most traumatic moment: most recent redundancy was 3 weeks before completing house purchase needed for adoption; called hr-marshall-1 for employment letter — she said "I'm so sorry, we can't give you the letter"
+### Processing arc (bilateral stimulation)
+- Initial: mental self rejecting the negative belief while simultaneously feeling it deeply
+- Embarrassment about repeatedly having to tell Carciofi another company has ended
+- Sadness about losing workplace friendships each time
+- Dizziness/destabilisation (normal)
+- Feelings of being out of control; not knowing what will happen next
+- Recognition that some "being pushed out" moments were actually supportive transitions
+- Embarrassment about not being able to protect team members
+- Feelings of unfairness and betrayal
+- Fear of never feeling safe — only preparedness
+- Anger emerging — self-righteous anger
+- Imagined conversations with founders — saying things never said at the time
+- End state: empowered, new possibilities, "did nothing wrong — just things that happened", responses to each situation were "really great"
+### Session closure
+- Time ran out — material is complex and multi-layered (many redundancies in one)
+- Continue next session (Wed 13 May); 1-2 more sessions likely needed
+- Instruction: hold positive insights and reframes; put everything else in the silver bag
+- Kiwifruit: "I feel very comfortable with that"
+### Post-session reflections
+- Eye movement confirmed as more powerful than tapping for Kiwifruit
+- **Key realisations to hold:**
+  - "It's not a mistake to hope and be optimistic and enthusiastic — that's part of what's beautiful about me"
+  - Not his fault that each company ended and each role ended
+  - "I was moved on when I needed to be moved on and in every case I was moved on to something better"
+  - "I am absolutely looked after. I will always be looked after, watched over, protected. My purpose here is to help others so I will be supported in that"
+  - His responses to each difficult situation were "really amazing and appropriate"
+- Lots of unshed tears and unsaid things — particularly angry things to founders. Society does not allow employees to say what they need to say
+- Intention to do a walking exercise (while tapping) after the EMDR course is complete: say the unsaid things to each key founder/actor at each company — starting with Vitrify and Aglio's exec team
+- Feeling very empowered post-session
+### Anger log
+- 6 May: 0 incidents
+### EMDR Processing Thread — updated 6 May 2026
+- **Memory 1 (Marshall Software redundancy 2002):** CONFIRMED RESOLVED. Disturbance 0/10 at session start. Body echo only, no live charge. Memory fully integrated.
+- **Memory 18 (current job security anxiety):** Session 2 begun. Initial disturbance 7-9.5/10. One session of bilateral processing completed. Positive shifts by session end. 1-2 more sessions needed to fully process. Material held in silver bag between sessions.
+- **Next session:** Wednesday 13 May 2026 — continue Memory 18
+### Open actions — updated 6 May 2026
+- [x] 🗣️ FOR CATARINA: Wed 6 May — check Marshall Software memory; if 0, begin Memory 18 — **DONE**
+- [ ] 💪 FOR OLLIE: Incorporate new realisations into daily affirmations: "I am absolutely looked after", "It's not a mistake to hope and be optimistic"
+- [ ] 💪 FOR OLLIE: Walking/tapping exercise (post-full course): say unsaid things to each founder/key actor at each redundancy
+- [ ] 🗣️ FOR CATARINA: Wed 13 May — continue Memory 18 processing
+---
+## Journal sync — 5 May 2026 (source: "Journal hard Tuesday")
+### Affirmations — somatic resonance update
+- Affirmations at the river working well and landing in the body, not just intellectually
+- "Great Father", "Completely Abundant", "Great Leader" all resonating strongly in somatic sense
+- "I am" statement landing more than "I am particularly" phrasing
+### Anger log
+- Yesterday: 0 incidents
+- Today: 2 incidents during Fox's one-hour meltdown:
+  - Shouted at Fox when he hit Kiwifruit during a nose wipe
+  - Picked Fox up and carried him across the room when Fox spilled milk on Kiwifruit's feet; later poured out Fox's milk after an hour of the demand-and-reject cycle
+- Kiwifruit expressed remorse about both incidents
+### Emotional state — hard day
+- One of the hardest days in a long time
+- Three compounding factors: (1) Kiwifruit had been away and Fox still settling; (2) Carciofi unwell (period, possible endo) and suffering; (3) useless LAC healthcare worker visit unsettled children badly
+- Fox's one-hour post-preschool meltdown was exhausting to witness and navigate — defeatist attachment loop, demanding then rejecting comfort repeatedly
+- Kiwifruit stayed mostly calm, used earplugs; tried many approaches before finding what worked
+### Positive notes
+- Nice chat with Kiwifruit's parents while Carciofi was at choir
+- Anger log the previous day was clean (0)
+- Bath and bedtime brought relief for both children and Kiwifruit — floods of relief visible
+### Upcoming therapeutic support
+- Catarina session (therapist-c) tomorrow morning (Wed 6 May) — EMDR Session 2
+- Somatic-therapist-1 (Sarah) massage at lunchtime tomorrow for Kiwifruit
+### Open actions — updated 5 May 2026
+- [ ] 🗣️ FOR CATARINA: Wed 6 May — bring hard Tuesday, anger incidents, Fox's defeatist meltdown, guilt thread
+- [ ] 💪 FOR OLLIE: Note what worked during Fox's meltdown (space + soothing sounds + toothbrush offer)
 ---
 ## Journal sync — 3–4 May 2026 (sources: "Sunday and Shoreham tech", "Journal monday")
 ### Anger update
