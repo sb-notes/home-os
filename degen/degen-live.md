@@ -1,8 +1,18 @@
-# Degen — Current State (5 May 2026)
+# Degen — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:19 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 7 May 2026 (source: "Journal Thu")
+### NZ family home — inheritance planning update (7 May)
+- sister-1 (Sam) has indicated she is keen to hold on to mother-1 and father's (NZ) home for as long as possible
+- House is currently in trust, split 50/50 between Sam and Kiwifruit; estimated value ~$1M NZD
+- Adjacent to the house: a bed and breakfast which mother-1 and father are eyeing up; Sam and her partner could potentially move into the B&B
+- Likely scenario: Sam and partner will want a fresh start elsewhere together; they will probably sell and move to a new location
+- If Sam moves up north (NZ): mother-1 and father may follow, in which case they could sell their own place and use that equity to move alongside
+- If mother-1 and father do NOT follow: future financial planning should expect the NZ house to be retained and rented to two families (main house + B&B) — this would be a source of rental income for both Kiwifruit and Sam
+- Treat as contingent upside; planning assumption updated to: house likely retained and rented rather than sold in the near term
 **Project:** Degen
 **Topic:** Family financial planning
 **Last updated:** 2 April 2026

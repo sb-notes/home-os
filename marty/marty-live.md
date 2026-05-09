@@ -1,8 +1,32 @@
-# Marty — Current State (6 May 2026)
+# Marty — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:20 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 8 May 2026 (source: "Journal Friday")
+### Product Second Brain v2 — upgrade complete (8 May)
+- Product Second Brain v2 upgrade finally complete; stayed up too late and sacrificed Friday evening with Carciofi to finish it
+- Kiwifruit notes this was the right call — needed it done to feel good about the weekend
+- Two big things completed this week: VMV (vision/mission/values) work AND product second brain upgrade — feeling good about both
+- V3 direction: moving away from Claude skills entirely; Rightbrain agents will be the infrastructure. Kiwifruit describes this transition as "an absolute delight" and notes he has learned a lot from the skills-based approach
+### Work — user research and usability (8 May)
+- Good couple of hours on user research and usability during the day; working with Aglio (Hugo, design lead)
+- Kiwifruit feels he can add a lot of value in the usability space and is feeling good about the work
+---
+## Journal sync — 7 May 2026 (source: "Journal Thu")
+### Product Second Brain v2 — near completion (7 May)
+- Product Second Brain B2 (v2) upgrade at work almost finished; 2 steps remaining:
+  1. Update custom instructions
+  1. Update board skills
+- Two fundamental architectural shifts made:
+  1. State file split now matches stages of production: discovery, build, launch, delivery, run — Kiwifruit notes this will be important for how time is split and where things are tracked going forward
+  1. Morning routine split into two separate projects:
+    - Product Ops Assistant: morning report, scraping, reviewing, prioritising, logging to roadmap, writing back to wJournal entry
+    - Marty coaching corner: starts with enthusiastic support (inner child needs), moves to tough love coaching (tracking against priorities, where to put attention for highest impact), ends with enthusiastic support
+### Peer group — Augmented (7 May)
+- Members of Augmented are messaging Kiwifruit about setting up products and talking about it — exactly what the group is for
+- Feels like a really positive coaching support signal
 ---
 ## Journal sync — 6 May 2026 (source: "Therapy/Catarina EMDR 2")
 ### CPO identity — post-EMDR realisation

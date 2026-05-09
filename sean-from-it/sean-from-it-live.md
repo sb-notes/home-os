@@ -1,8 +1,17 @@
-# Sean from IT — Current State (3 May 2026)
+# Sean from IT — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:21 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 7 May 2026 (source: "Journal Thu")
+### Home Second Brain V3 — early thinking (7 May)
+- Now that Product Second Brain v2 is almost complete at work, Kiwifruit starting to think about what V3 might look like at home
+- Pete T at work suggested: if moving to Obsidian vault, host the Git repo of Markdown files on Nassy via Tailscale — accessible from phone, laptop, and Carciofi's phone; only requirement is Tailscale running continuously
+- This is noted as a good direction to explore when the time comes
+- Prerequisite before V3 exploration: first complete the YouTube Music → Plex migration (based on Nassy) — this is the next home infrastructure project
+- V3 home second brain is explicitly parked until after the music migration is complete
+- Current home second brain continues to run well on v2
 > **Shoreham-by-Sea, West Sussex, BN43** — Victorian mid-terrace, 3 floors
 > Last updated: 1 April 2026
 ---

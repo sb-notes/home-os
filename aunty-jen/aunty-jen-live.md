@@ -1,8 +1,19 @@
-# Aunty Jen — Current State (5 May 2026)
+# Aunty Jen — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:51 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:19 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 8 May 2026 (source: "Journal Friday")
+### Shopping list Claude skill — to-do (8 May)
+- Kiwifruit had the idea of creating a shopping list skill that Carciofi can use to input items into WIRE, which then generates a structured shopping list in Notion
+- The skill would organise items by order of movement through the supermarket (by aisle), so Kiwifruit can navigate with both children in the trolley without backtracking
+- Will require: a Notion page (possibly a DB) that maps grocery items to their location in the supermarket
+- Goal: simplify the current workflow of Carciofi writing items → sending to Kiwifruit → Kiwifruit manually building an ordered checklist in Notion
+- This is a to-do for Kiwifruit to build in collaboration with Claude
+### Blackout curtain — to-do (8 May)
+- Children's bedroom window letting in too much early morning light; waking children at 5:15am
+- To-do: measure children's bedroom window recess and order a velcro-on blackout curtain to fit inside the recess beneath the existing curtains
 **Project:** Aunty Jen
 **Topic:** Cooking advice
 **Last updated:** 27 February 2026

@@ -1,8 +1,57 @@
-# Aloyse — Current State (6 May 2026)
+# Aloyse — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:51 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:19 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 8 May 2026 (source: "Journal Friday")
+### Wake / sleep log
+- Bunny (Phoenix) then Fox (Caspar): 5:15am, first light wake-up
+- Children chatting until ~8:30pm before sleeping — UK May light driving later bedtimes and earlier wake-ups
+- Sleep management question: pushing bedtime back to 7:30/8pm (trialled last few days) has NOT translated to later wake-ups — if anything they wake earlier because daylight activates them
+- Nap: ~2hrs; longer creates unhappy waking
+- Action item: velcro-on blackout curtain for inside recess beneath bedroom curtains — measure window and order
+### Sleep/light reflection (8 May)
+- Children ideally need 12–14 hours (e.g. 8pm–8am + 2hr nap) but summer light disrupting this
+- Currently: going to sleep ~8:30pm, waking ~5:15am; nap ~2hrs — may be sufficient for where they are developmentally
+- Blackout curtain solution prioritised as first intervention before adjusting bedtime further
+### Children — Ella visit (8 May)
+- Ella (foster child, ~3 months placed, described as ADHD presentation, very live wire) visited during the day
+- Both Fox and Bunny anxious and noisy after Ella's visit; Ella ran around slamming doors, described as quite overwhelming
+- Fox was particularly anxious and distressed
+- Carciofi's insight: neutral ground is better for intense children — having an in-your-face child in the family home can make the space feel unsafe/uncontrolled to children who need their home as a safe base
+### Children — general (8 May evening)
+- Children delightful in the garden on a sunny Friday evening; lovely to be around them
+- Went to sleep easily, no re-entry demands
+- Food: fish pie and potato — ate very quickly (possibly elevated anxiety from Ella's visit); transitioned off main course by leaving vegetables/carbs, then milk
+### Adoption Order — Hearing 2 (8 May 2026)
+- Today is the date of Hearing 2 per the legal timeline; Kiwifruit did not reference the outcome in today's entry — outcome to be followed up
+### Fox (Caspar) — post-daycamp return (8 May, 1pm)
+- Children arrived home at 1pm, both still very tired
+- Fox started crying and melting down almost immediately — wanted to come in and eat another lunch; food anxiety triggered by tiredness
+- Difficult to get him into bed and through the nappy change; resisted
+- Pattern confirmed: he gives in after a certain point once he has his comforting items and the nappy is mostly done and he begins to feel comfortable and safe
+### Fox (Caspar) — attachment moments (8 May evening)
+- When Kiwifruit came downstairs after work at dinner time: Fox looked at him, smiled, and just put his hand out for a cuddle — unprompted, warm, secure
+- When Fox woke up from his nap and saw Kiwifruit: reached his arm up; Kiwifruit reached his arm down; they held hands for a minute
+- Kiwifruit's note: "The bonds are forming"
+---
+## Journal sync — 7 May 2026 (source: "Journal Thu")
+### Wake / sleep log
+- No overnight wake-ups
+- Bunny (Phoenix): cried out at ~6:00am but had self-settled before Carciofi reached the room
+- Children settled well after Kiwifruit returning from Newcastle trip
+### Children — day camp / exhaustion (7 May)
+- Both children exhausted from day camp — significantly better than previous day
+- Fox (Caspar): one meltdown at end of evening — over-tiredness and over-stimulation after full daycare day
+### Parenting insight — post-daycare approach (7 May)
+- Key learning confirmed: after a full day of daycare, children are over-tired and over-stimulated; correct approach is to be very gentle with them
+- Boundaries can still be held but must be held much more gently
+- No lessons should be taught at this point; gentleness and understanding is the therapeutic response
+### Children — food log (7 May)
+- Fox (Caspar): large breakfast (excited about new bigger cereal pots); did not eat lunch; fairly normal dinner
+- Bunny (Phoenix): slightly larger breakfast than usual; fairly normal dinner
+- Children self-regulating as expected — Kiwifruit noting this positively
 ---
 ## Journal sync — 6 May 2026 (source: "Journal weds")
 ### Wake / sleep log

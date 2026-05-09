@@ -1,6 +1,6 @@
 # Steve Irwin — Current State (updated 3 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:21 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Steve Irwin
@@ -201,5 +201,23 @@
 ## Notes
 - Green thumbs Perplexity threads migrated into this state file: 2 March 2026
 - Threads covered: turf care, robot mower, sprinkler, rosemary, smoke bush, treated timber, hardcore sourcing, trellis for jasmine, lawn edging, garden storage, watering cans, peony care, garden furniture
+---
+## Clothing
+### Bamboo Trackies — BAM Yoga Balance
+- **Decision:** BAM Yoga Balance Joggers, Size Medium (covers 32–34" waist, fits better than Large which required excessive drawstring)
+- **Fabric:** 67% bamboo viscose, 28% organic cotton, 5% elastane — classic jersey version (lighter, drapier than Heavyweight)
+- **Colours ordered:** Navy + Black (2 pairs)
+- **Length note:** Inseam ~30–31" on a 33–34" leg frame — expect ankle-bone cuff, not full coverage; testing before committing
+- **Boody rejected:** Boody Weekend Sweatpant inseam only 69cm (27") — effectively 3/4 length on a 187cm frame
+- **Care:** Wash 30°C, air dry only — no tumble drying (affects length on tall frame)
+- **Vinted/eBay:** BAM men's trackies do appear occasionally; useful for future replacements
+### Jeans — Levi's 513 Alternatives
+- **Profile:** W32 L34, slim-straight with 1–4% stretch for toddler-chasing lifestyle
+- **Primary target:** Lee Daren W32 L34 — source secondhand via Vinted/eBay (target NWT ~£25–35)
+- **Fallback if Daren doesn't fit:** Wrangler Greensboro W32 L34
+- **Also to check:** Community Clothing stretch slim W32 L34 (~£65 new)
+- **Ruled out:** M&S 360 Stretch — tried, didn't fit right
+- **Inseam strategy:** Buy L34 to allow 3cm roll-up or professional hem to 33" (~£10)
+- **Budget:** ~£50/pair new; ~£25–35 secondhand
 ---
 Last journal sync: 8 March 2026

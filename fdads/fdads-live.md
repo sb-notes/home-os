@@ -1,6 +1,6 @@
 # Forever Dads — Current State (8 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:20 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Forever Dads

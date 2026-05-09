@@ -1,9 +1,45 @@
-# Cheryl — Current State (6 May 2026)
+# Cheryl — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:19 UTC -->
 
 <!-- ANCHOR -->
-*Last updated: 6 May 2026*
+---
+## Journal sync — 8 May 2026 (source: "Journal Friday")
+### Emotional state (8 May)
+- Mixed feelings: frustration at not having got certain things done this week; relief it's almost the weekend; disappointment that weekends no longer feel like own time
+- Carciofi looks forward to weekends (parenting relief); organised two nice things (farm trip with friends, Jeeves/Ruth/Daya playdate on Sunday)
+- When Kiwifruit asked where his half-day float might fit in, Carciofi paused and it became clear it probably wouldn't happen easily this weekend
+- Decision: float postponed to next weekend; having had therapy + massage this week, Kiwifruit is not going to push; inner child will accept a one-week delay as a week is not long to wait
+### Friday evening togetherness (8 May)
+- New idea: alarm at 10pm on Friday night, 8pm–10pm as a proper Friday evening together as a couple
+- Challenge this in Cheryl and focus on making it happen
+### sister-1 (Sam) — emotional resonance (8 May)
+- Lovely call with sister-1 (from previous day) — Dwayne is now officially a relationship
+- Dwayne: builder turned building inspector, his own business, doing well, very mature, listens, remembered things she told him — Kiwifruit finds the "low bar" observation both poignant and funny
+- Kiwifruit genuinely moved and happy for sister-1; it's a real daughter/sibling-growing-up moment even though she's in her early 40s
+- Deep reflection: parenting doesn't end at 18 — the demands can be varied and long-lived; c'est la vie
+### Work completion — emotional cost (8 May evening)
+- Stayed up too late and sacrificed Friday night and time with Carciofi to complete the product second brain v2 upgrade
+- Notes this was what he needed to do to feel better about the weekend; feels it was the right call
+- Completed two big things: vision/mission/values work AND product second brain upgrade — sense of accomplishment alongside the cost
+---
+## Journal sync — 7 May 2026 (source: "Journal Thu")
+### Physical and emotional state (7 May)
+- Very weary after previous day's combined EMDR + Sarah massage; body heavy but feeling unburdened and empowered after the treatments
+- Sleep 10:30pm–6:15am — improved; next target is earlier ("return to the south")
+### sister-1 (Sam) — phone call on walk (7 May)
+- Really lovely call with sister-1 on the morning walk; she is very happy with her new boyfriend Dwayne — now officially a relationship
+- Dwayne has a little staffy dog called Bailey; has met Sam's friends and Hazel (niece-1); all have gone well
+- Kiwifruit feels deeply grateful for the morning walks as an opportunity to call people he cares about
+- Also called Yashoda (university friend, reference for adoption process) on a recent walk — just lovely to talk to her
+- Feeling really good about the walking and the space it creates for meaningful connections
+### Evening state (7 May)
+- Feeling resentful: hasn't had a shower again; no time to watch TV before sleep (multiple nights in a row); describes this as "fucking awful" and making him feel like crying
+- Stayed up working after children went to sleep because he felt so interrupted during the day
+- Plan for tomorrow morning: walk at 6am, then shower when back before helping with children's breakfast — active decision to prioritise own self-care first regardless of what is happening in the house
+### Peer/community — emotional boost (7 May)
+- Augmented: 8 people signed up for first session in two weeks; one in US, one in Luxembourg — feels really exciting
+- ProdMind: feeling really good about it; sees it as a really useful outlet
 ---
 ## Journal sync — 6 May 2026 (evening, source: "Journal weds")
 ### Peer support pillars — three now named

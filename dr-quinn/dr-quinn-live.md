@@ -1,8 +1,64 @@
-# Dr Quinn — Current State (5 May 2026)
+# Dr Quinn — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-08 04:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:20 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 8 May 2026 (source: "Journal Friday")
+### Wake / sleep log
+- Bunny (Phoenix) then Fox (Caspar): 5:15am, woken by first light
+- Kiwifruit did not return to sleep after children woke; brain engaged with work/home matters immediately
+- Children chatting until ~8:30pm before sleeping — UK May light driving later bedtimes and earlier wake-ups
+- Action item: measure children's bedroom window, order velcro-on blackout curtain to fit inside recess beneath existing curtains
+### Kiwifruit — tinea update (8 May)
+- ~70% of main lesion now close to skin level and becoming skin-coloured
+- Receding to characteristic ringworm frontier line at outer edge
+- 11 Terbinafine tablets remaining; course ends ~19 May 2026
+- No alcohol for remainder of course
+- Last week's load (Newcastle travel, drinking, late nights, overworking) attributed to delayed healing — noted as avoidable and not to be repeated
+- Open question for next session: can neem/coconut oil be applied during the day (wearing shorts)? Maximum safe application time before wiping off? Considering moving to lunchtime slot for ease
+- Now applying neem/coconut to both legs (front shins + calves) for full coverage
+- Evening: Daktarin applied; Terbinafine taken; neem/coconut applied ~2hrs during day — itching slowed after coconut oil
+### Children — sleep & behaviour (8 May)
+- Both children went to sleep easily; no re-entry demands
+- Noise and chat until ~8:30pm — light confirmed as factor; blackout curtain prioritised
+- Ella (foster child, ~3 months placed, described as ADHD presentation and very live wire) visited during day — both Fox and Bunny anxious and noisy after visit; Ella was running around slamming doors, described as overwhelming
+- Carciofi's insight: neutral ground better for intense children, as an intense child in the family home can make the space feel unsafe/uncontrolled
+### Children — food log (8 May)
+- Dinner: fish pie and potato d'urbonois — both children ate very quickly and enthusiastically
+- Eating pace possibly elevated by anxiety following Ella's visit
+- Transitioned off main course by leaving only vegetables/carbs, then offering milk; both settled
+---
+## Journal sync — 7 May 2026 (source: "Journal Thu")
+### Wake / sleep log
+- No overnight wake-ups
+- Bunny (Phoenix): cried out at ~6:00am but had self-settled before Carciofi reached the room — positive self-settling noted
+- Kiwifruit: sleep 10:30pm–6:15am — improved; body still very heavy on waking
+### Children — general (7 May)
+- Children settled well following Kiwifruit's return from Newcastle
+- Exhausted from day camp; significantly better than previous day
+- Fox (Caspar): one meltdown at end of evening — attributed to over-tiredness and over-stimulation after full daycare day; parents noting this as expected pattern, responding with gentleness
+### Children — food log (7 May)
+- Fox (Caspar): large breakfast (excited about new bigger cereal pots); no lunch; fairly normal dinner
+- Bunny (Phoenix): slightly larger breakfast than usual; fairly normal dinner
+- Both self-regulating as expected per LMFM trust model
+### Carciofi (Hannah) — pelvic health (7 May)
+- Significant front bum and back bum pain continuing
+- GP appointment Friday 8 May — considering attending vs. moving appointment
+- Actively considering registering with a Hove clinic (Charter Medical or equivalent) using the Hove flat address
+- Newsome Clinic booked next week — priority
+### somatic-therapist-1 (Sarah) — new recommendations from session (7 May)
+- Fascia release cone — for perineum/pelvic area; fascia/pelvic tension connection with endometriosis and inflammation; Carciofi tried it and found it beneficial; Kiwifruit also noted potential benefit
+- Togu ball (gently inflated Pilates ball) — abdominal resistance and therapeutic purposes; plan to purchase
+- Alignment training session offered: Sarah to visit and teach both Kiwifruit and Carciofi knee/leg and elbow/shoulder/arm alignment exercises for home practice — agreed and to be booked
+### Kiwifruit — physical health (7 May)
+- Very weary after previous day's combined EMDR + massage; body heavy but feeling unburdened and empowered
+- Sleep 10:30pm–6:15am — an improvement; next target is earlier
+### Kiwifruit — tinea update (7 May)
+- Main lesion continuing to thin; natural skin colour showing through
+- Fraying at edges and beginning to reduce in size — positive trajectory
+- Significant flaring around main lesion interpreted as tinea clearing/surfacing (expected die-off pattern)
+- somatic-therapist-1 (Sarah) suggested twice-yearly herbal parasitic cleanse; heavy on liver; plan to research and order from Poland; timeline: at least 1 week after Terbinafine course completes for liver recovery (~2+ weeks away)
 ---
 ## Journal sync — 6 May 2026 (source: "Journal weds")
 ### Wake / sleep log
@@ -43,7 +99,19 @@
 1. **Newson Clinic (priority raised):** Attend with cyclical rectal pain/bleeding documented explicitly. Newson can optimise hormonal environment which may reduce endometriosis activity.
 1. **Mr Narendra Pisal (London Gynaecology) — now the priority action:** Cyclical rectal bleeding in known suspected endometriosis = indication for MRI pelvis + laparoscopy. Pisal has specific expertise in deep infiltrating/bowel endometriosis. Ideally book with Newson letter in hand.
 1. **Investigation pathway:** MRI pelvis (first-line for rectovaginal/bowel endo) → laparoscopy (diagnostic and therapeutic gold standard).
-**Clinical question — RESOLVED (5 May 2026):** Rectal bleeding confirmed only on days 1–2 of period bleed. After that: painful BMs and post-BM pain for some hours, but no further blood. **Clean endometriosis signature confirmed.** Internal haemorrhoid and polyp effectively ruled out as significant contributors. Colonoscopy/sigmoidoscopy not indicated. Bowel symptoms are downstream of endometriosis — one laparoscopy with the right surgeon (Pisal) addresses the full picture including rectovaginal/bowel involvement. Post-period painful BMs managed with ibuprofen (anti-prostaglandin, residual inflammation), sitz baths post-BM, soft stool protocol.
+**Clinical question — PARTIALLY RESOLVED then REVISED (5 May 2026):** Rectal bleeding on days 1–2 of period bleed — consistent with endo. However: further review reveals rectal bleeding has *not* always coincided with period bleeds. There has been rectal bleeding without period symptoms, and period symptoms without rectal bleeding. Picture is therefore NOT a clean endometriosis-only signature.
+**Revised working model — two overlapping pathways:**
+1. Intermittent/residual anal fissure — most parsimonious explanation for non-cyclical rectal bleeding given confirmed fissure history
+1. Endometriosis-driven component — cyclical pain and bleeding at period onset still points here
+**Pathway revision:** Proctoscopy/internal colorectal examination reinstated. Non-cyclical rectal bleeding not fully accounted for by fissure warrants internal anal canal visualisation (proctoscopy) to rule out internal haemorrhoid, polyp, or persistent internal fissure. Runs in parallel with gynaecological pathway, not instead of it.
+**GP appointment (6 May) objectives — final list:**
+- Hormone bloods: FSH, LH, oestradiol, testosterone, SHBG
+- Ovestin repeat prescription on NHS
+- Referral 1: Gynaecology — **request BSGE-accredited endometriosis centre specifically, not general gynaecology.** Previous NHS gynae pathway failed: negative ultrasound used to deny laparoscopy. New symptom: cyclical rectal bleeding (new, distinct from previous presentation). Ask GP to reference NICE NG73 in referral: negative ultrasound does not exclude endo; laparoscopy indicated where symptoms suggest endo despite normal imaging; cyclical bowel symptoms warrant specialist referral.
+- Referral 2: Colorectal — intermittent rectal bleeding, known fissure history, query internal pathology (proctoscopy)
+- Referral 3: Pelvic floor physiotherapy — POGP-registered, Brighton/Hove
+- Document cyclical rectal symptom pattern in notes
+- Principle: start all NHS pathways now regardless of private route. NHS gynae previously failed — BSGE referral and NICE NG73 framing are the levers to prevent repeat. Pisal (private) remains the realistic accelerator — his laparoscopy recommendation breaks the NHS deadlock if needed.
 ---
 ## Journal sync — 5 May 2026 (source: "Journal hard Tuesday")
 ### Wake / sleep log
@@ -105,8 +173,26 @@
 ### Open health actions — updated 4 May 2026
 - [ ] Kiwifruit: limit morning walk to 30–45 mins; add quad/hip-flexor stretching (yoga post-walk)
 - [ ] Kiwifruit: continue Turbinafine 250mg OD through 19 May 2026; do not stop early
-- [x] Carciofi: Newson Clinic appointment — booked for w/c 12 May 2026 ✅
-- [ ] Carciofi: NHS GP appointment — 6 May 2026. Attend. Objectives: (1) hormone bloods: FSH, LH, oestradiol, testosterone, SHBG; (2) Ovestin repeat prescription on NHS; (3) pelvic floor physio referral (POGP-registered, Brighton/Hove); (4) document cyclical rectal symptoms in notes. Do not expect GP to lead endometriosis pathway — Newson handles that next week.
+## GP Appointment — 6 May 2026 (Outcome)
+**Examination findings:**
+- Anal fissure: healing but still present
+- Small external haemorrhoid identified — likely explains non-cyclical rectal bleeding episodes; simplifies the picture
+- Internal rectal examination attempted but had to stop due to pain — strong indicator of pelvic floor hypertonicity
+- Vaginal walls: whitish, reddish internally; soreness and burning (not itch) — mucosal inflammatory changes confirmed visually; GP considered lichen sclerosus but symptom character (burning/soreness, not itch) makes this less likely; oestrogen-deficient mucosal changes possible despite normal pH (pH can be preserved in early stages)
+**Prescriptions/actions from appointment:**
+- Ovestin pessaries prescribed (replacing cream — better direct mucosal delivery)
+- Follow-up 12 June; if not resolved → dermatology referral for possible steroid cream
+- Hormone bloods ordered: FSH, LH, oestradiol, testosterone, SHBG ✅
+- Pelvic floor physiotherapy referral submitted ✅
+- Colorectal referral: submitted as urgent (2-week cancer pathway — GP does not suspect cancer, using pathway to accelerate). Stool sample required.
+- Gynaecology referral: submitted with letter requesting surgical examination, different clinician from previous, noting previous poor treatment and refusal of laparoscopy. GP confirmed previous doctor was nominally BSGE-accredited but agrees Hannah was not well served.
+- Mirena coil discussed (also raised by previous GP): GP and previous GP both suggested as option for period/perimenopause symptom management and endo management. Decision deferred to Newson (see below).
+**Mirena coil — assessment and deferred decision:**
+- Reasonable option in principle: reduces bleeding/prostaglandins, local progestogen, can be HRT progestogen component
+- Caveats: (1) levonorgestrel is synthetic — Newson likely to prefer Utrogestan (body-identical); (2) insertion likely difficult given pelvic floor hypertonicity and mucosal changes — needs experienced clinician, possibly post-physio; (3) does not treat structural endo deposits — laparoscopy still needed for that
+- Questions for Newson next week: Mirena vs Utrogestan as progestogen component? If Mirena, how to approach insertion? How does it fit with planned oestrogen?
+**GP appointment — COMPLETE ✅**
+**Vaginal atrophy / GSM — confirmation pending (5 May 2026):** Oestriol cream prescribed on working hypothesis; diagnosis not formally confirmed. Steps to confirm: (1) vaginal pH test strips (home, immediate — order today; pH >4.5 consistent with atrophy/GSM); (2) oestradiol + FSH from bloods tomorrow; (3) GP visual examination of vaginal walls tomorrow — ask explicitly; (4) Newson assessment next week. Differential if pH normal and oestradiol not low: vulvodynia/vestibulodynia, lichen sclerosus, provoked vestibulodynia, pelvic floor hypertonicity. Continue oestriol/Omega-7/OptiBac regardless — appropriate across the differential.
 - [ ] Carciofi: GP practice change — preferred target Charter Medical, Hove. First step: call Charter and request out-of-area registration (legally permitted since 2015 NHS reforms, no address required). Do NOT use Hove property address — tenants create correspondence/privacy risk. If Charter declines, try Brunswick Medical or The Hove Medical Centre with same request. (4 May 2026)
 - [ ] Carciofi: pelvic floor physio — still outstanding
 - [ ] Both children: monitor rear molars; Subacol and Calpol as needed for comfort
