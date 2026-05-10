@@ -1,8 +1,14 @@
 # Forever Dads — Current State (8 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:36 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 9 May 2026 (source: weekly wrap-up clarification)
+### Cadence — corrected
+- **Cadence updated to 2nd Monday each month, 7:30pm** (was 2nd Wednesday per March 2026 session planning; corrected by Kiwifruit 9 May 2026).
+- Next session: **Monday 11 May 2026, 7:30pm**.
+---
 **Project:** Forever Dads
 **Topic:** Monthly support group for adoptive fathers, founded by Ollie Happy
 **Last updated:** 28 February 2026

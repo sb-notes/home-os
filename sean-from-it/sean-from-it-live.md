@@ -1,8 +1,16 @@
 # Sean from IT — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:36 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 9 May 2026 (source: weekly wrap-up clarification)
+### Microphone saga — current status
+- **Three purchases now in flight:**
+  1. **Vinted (no-show, purchase #1):** Visa dispute filed with Nationwide w/c 27 April. Royal Mail review expected within 22 days at the latest.
+  1. **eBay (Chinese seller, wrong model, purchase #2):** Seller has provided a DPD QR code — return path active.
+  1. **eBay (purchase #3):** Made Thursday 7 May. Delivery expected early w/c 11 May.
+- Recording can continue with current setup regardless of outcome on any of the three.
 ---
 ## Journal sync — 7 May 2026 (source: "Journal Thu")
 ### Home Second Brain V3 — early thinking (7 May)

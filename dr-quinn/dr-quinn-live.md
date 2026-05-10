@@ -1,6 +1,6 @@
 # Dr Quinn — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:35 UTC -->
 
 <!-- ANCHOR -->
 ---

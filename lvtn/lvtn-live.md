@@ -1,8 +1,14 @@
 # Lavender Thorn — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:36 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 9 May 2026 (source: weekly wrap-up clarification)
+### Session cadence
+- **4th Wednesday of each month, 7:30pm.**
+- Next session: **Wednesday 27 May 2026, 7:30pm.**
+---
 **Project:** Lavender Thorn HBN Advisory
 **Topic:** Consulting client (HBN Advisory)
 **Last updated:** 4 April 2026

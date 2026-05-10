@@ -1,6 +1,6 @@
 # Marty — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:36 UTC -->
 
 <!-- ANCHOR -->
 ---

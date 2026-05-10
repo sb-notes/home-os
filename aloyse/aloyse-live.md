@@ -1,8 +1,24 @@
 # Aloyse — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-09 05:19 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:34 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 9 May 2026 (source: weekly wrap-up clarification)
+### Adoption Order — Hearing 2 postponed
+- **Hearing 2 postponed from Friday 8 May to Friday 3 July, 2pm in Hastings.**
+- Cause: Cafcass were only notified by the court on 22 April — a long, avoidable delay.
+- Richard Madge has been reappointed as Children's Guardian; he has asked for an early video call — provisionally **Wednesday 13 May, 1.30pm**.
+- **birth-mother-1 has applied for leave to oppose** and has separately requested a different Guardian; Cafcass deciding, judge will likely have a view.
+- Final order timeline (adopter-sw-1, RAPS South / Adoption South East): "Septemberish at the earliest, could be more or less, depending on hearing outcome and the judge's decisions on the various reports requested."
+- Carciofi's tone in reply: disappointment, especially as the delay sounds avoidable.
+- **For Cheryl:** the timeline shift is real material for coaching — what does the inner child need around it, what does the parent need.
+### Wellington Wailers — Carciofi's choir (schedule)
+- **Practice:** 2nd Thursday each month, 7:30pm at The Duke of Wellington.
+- **Gig:** 3rd Thursday each month, 7:30pm at The Duke of Wellington.
+- Affects household schedule on those evenings — Kiwifruit solo parenting for the bedtime routine.
+- This month: practice Thu 14 May, gig Thu 21 May.
+- ⚠️ Codename gap: Richard Madge (Children’s Guardian) — no codename defined yet.
 ---
 ## Journal sync — 8 May 2026 (source: "Journal Friday")
 ### Wake / sleep log
