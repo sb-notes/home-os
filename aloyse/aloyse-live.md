@@ -1,8 +1,37 @@
 # Aloyse — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:34 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:55 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 10 May 2026 (source: weekly coaching session)
+### Parenting observations
+- **Fox — Tuesday's defeatist-loop meltdown** was the hardest in months. Magical-toddler thinking ("I'm not lovable because good things have gone away and somehow that's my fault") — consistent with anxious-ambivalent attachment, expected after Kiwifruit's Newcastle absence.
+- **What worked in Fox's meltdown:** space (Kiwifruit doing dishes on the other side of the kitchen, not pursuing), soothing sounds (first point of de-escalation), toothbrush offer at partial-settle (first genuine settle), then the bath with Bunny already in it. Floods of relief in Fox and in Kiwifruit.
+- **Fox milestones banked from mid-week:** first preschool report ("Teeth. Drawing."); first delayed-pacifier acceptance (couldn't find pacifier in school bag, accepted waiting until home); Friday's unprompted hand-out cuddle at dinner — "the bonds are forming."
+- **Bunny continues as more independent/mature one** — instigates play, comforts Fox in meltdowns, brings him things, quick to apologise. Cough/runny-nose recovery complete. Unsettled by Ella's Friday visit (live-wire) — Carciofi's insight: neutral ground better for intense visitors than the family home.
+### Techniques banked
+- **Distraction-with-love** (3am Saturday): when a child is doing something they shouldn't at night, offering something warm and loving (e.g. a nappy change) disarms rather than escalates. Fox resisted briefly then calmed; Bunny asked for hers; both settled in 30 minutes.
+- **Boring-presence** (third wake Wednesday): once genuine anxiety has passed, sit a metre from the cot, face them but don't look at them, eyes closed. After a minute, one quiet instruction ("Fox, it's sleepy time"). Fox lay down immediately. Build into standard 3+ wake protocol.
+- **Pick-up-and-cuddle** as primary de-escalation when Kiwifruit is at limit. By the time Fox is in arms and cuddles back, what matters has reasserted itself. Confirmed across multiple recent incidents.
+- **Sitting behind Fox for nappy changes** when he resists — works far better than frontal approach at 15.5kg.
+### Legal / SW / birth-family context affecting parenting bandwidth
+- **Adoption Order Hearing 2 postponed** from Friday 8 May to Friday 3 July, 2pm in Hastings. Cause: Cafcass court-notification delay (notified 22 April), avoidable.
+- Richard Madge (Children's Guardian) reappointed; early video call provisionally Wed 13 May 1.30pm. ⚠️ Codename gap: Richard Madge — no codename defined yet, flagged.
+- birth-mother-1 has applied for leave to oppose and separately requested a different Guardian. Cafcass deciding, judge will have a view.
+- adopter-sw-1's read on final order: "Septemberish at the earliest, could be more or less."
+- Carciofi's reply tone: disappointment, especially as delay sounds avoidable. Real material for coaching going forward.
+### Preschool decision crystallised
+- Lunchtime pickup confirmed: Mon 9–1, Tue 9–1, Fri 9–12. Full days clearly not yet right; some funded hours forfeited to protect the nap.
+- Light is the dominant sleep disruptor now — blackout curtain to be measured and ordered for the recess.
+### Anger / regulation context (parenting bandwidth implication)
+- Second physical incident with Fox in five days (10 May evening): Kiwifruit shook Fox on the changing mat until he stopped laughing and started crying. Carciofi said "No" because she was reading Kiwifruit for what might come next. Earlier same evening: Fox threw a shaker at Kiwifruit mid-nappy-change; put in bed not very forcefully, scared, peed because nappy wasn't on; repair held in the room ("Daddy shouldn't have done that").
+- Pattern read: depletion + no rest + Carciofi unable to absorb = eruption. Twice in recent weeks, same constellation.
+- Pick-up-and-cuddle is the proven in-the-moment intervention.
+- For Origano (Wed 13 May): regulation system has changed (heat cooled, threshold cooled with it). Material being brought to therapist directly via heads-up Mon 11 May AM.
+### LMFM trust model — current state
+- Both children 25 months, self-regulating excellently. Meals shorter, less anxiety, both averaging 2 BMs/day.
+- Both at four-word sentences, narrating adult action; Fox's comprehension catching up to Bunny's on bargaining ("nappy first, then breakfast").
 ---
 ## Update — 9 May 2026 (source: weekly wrap-up clarification)
 ### Adoption Order — Hearing 2 postponed

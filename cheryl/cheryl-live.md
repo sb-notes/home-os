@@ -1,8 +1,31 @@
 # Cheryl — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:35 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:56 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 10 May 2026 (source: weekly coaching session)
+### Themes raised
+- **CPO identity landing.** Post-EMDR clarity: *"I am the CPO and everything but name and a bit of time spent doing it."* Internal recognition ahead of external scaffolding; body knows the gap.
+- **Self-care collapse under pressure** — recurring. Multiple no-shower nights, no-TV nights, working past 22:30 Friday, float postponed. Pattern from earlier weeks surfaced again exactly when load was highest.
+- **Anger pattern shifted, not resolved.** Kiwifruit's own read: *"the heat is cooler, but I still hit my limit."* Gina anchor was hooked to heat; without heat, observer gap has nothing to fire on. Threshold for action has come down alongside the surface temperature.
+### What landed
+- CPO question landed cleanly: three concrete moves listed without hesitation (Product SB v2 to Mango, strategy + VMV doc to Mango Friday going to team Monday, Marty v2 launching tomorrow).
+- Pick-up-and-cuddle move named as real craft: by the time Fox is in arms and cuddles back, Kiwifruit has found him again. Bank it.
+- Career arc reframed from trauma to resource via EMDR Session 2: "I was moved on when I needed to be moved on, in every case to something better."
+### What was pushed back on
+- Fast-reframe move named in real time: *"I'm feeling much better about the anger"* said five minutes after disclosing a physical incident with Fox tonight (shook Fox on the changing mat until he stopped laughing and started crying; Carciofi said *"No"*). Tonight wasn't Tuesday repeated — it was a step further. Pattern hasn't fizzled, it's escalated.
+- *"I don't know"* for Plan B when Carciofi can't absorb. Structural mitigations (half-days off, no double visits) assume reciprocity; right now Carciofi is in real medical distress and can't be the relief valve.
+### Focus chosen for the week
+*"Definitely not working Friday night until 22:30."* Protect Friday evening — the week catches up Monday morning if it has to.
+### Asks committed (max 3)
+1. Send Origano a short heads-up message Mon 11 May AM — pattern shifted, tonight a step beyond Tuesday. Priority for Wed 13 May session.
+1. Friday 16 May: laptop down by kids' bedtime.
+1. Begin sketching Plan B for when Carciofi can't absorb — third source of relief needed while she's in active medical distress through Newson cycle.
+### Open clinical threads for Origano (Wed 13 May)
+- Anger pattern shift: heat cooled but threshold also cooled — Gina anchor no longer firing because nothing for it to fire on. New regulation mechanism needed for the no-heat presentation.
+- The constellation that produces eruptions: depletion + no rest + Carciofi unable to absorb. Twice now. Same pattern needs naming as a system, not a moment.
+- Fast-reframe move noted in real time — closing the loop too fast on incidents.
 ---
 ## Journal sync — 8 May 2026 (source: "Journal Friday")
 ### Emotional state (8 May)

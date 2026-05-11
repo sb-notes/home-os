@@ -1,8 +1,29 @@
 # Marty — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:36 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:57 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 10 May 2026 (source: weekly coaching session)
+### CPO identity — the line has landed
+- Kiwifruit's own framing from EMDR Session 2: *"I am the CPO and everything but name and a bit of time spent doing it. They've absolutely left the door open for me in that."*
+- Three weeks ago Kiwifruit was naming he hadn't "fully stepped in." That sentence no longer fits. Confirmed in this session.
+### Three concrete CPO moves in one week
+1. **Product Second Brain v2 closed and shared with Mango** — Mango said he loved it and asked how it could port to Rightbrain. OneBrain user research use cases 1–5 now in production via run-product-in-engineering. Working well.
+1. **Strategy + VMV document landed with Mango Friday.** Sent late Friday after long week. Monday 11 May: Kiwifruit to hand-edit (it was crafted with Claude help and careful prompting) and then share with the team. Frame in his own words: *"Here I am. I listened to you all at the away day and here is what I heard. This is where I think we are. This is where I think we are going."*
+1. **Marty v2 launching Monday 11 May AM** — first coaching session under new structure (Product Ops Assistant + Marty coaching corner split).
+### Cost of the three moves
+- Kiwifruit worked Friday until 22:30 to complete SB v2 — at the cost of Friday evening with Carciofi. Named in coaching as the recurring self-care collapse pattern.
+- *"My week had been so interrupted by the family that I felt like it hadn't got the big things done."* That feeling — and the late Friday push to relieve it — is the pattern. Friday evening as the absorbing variable.
+### Focus chosen for the week
+*"Definitely not working Friday night until 22:30."* Friday 16 May laptop down by kids' bedtime. The week catches up Monday morning if it has to, not Friday night.
+### Follow-ups
+- Did Monday's strategy doc hand-edit and team share happen? How did Mango and Fico receive it?
+- How did Marty v2 feel on Monday morning's first session?
+- ProdMind first session Friday 15 May — how did it land?
+- Did Friday 16 May evening hold?
+### System note
+- Career arc reframe via EMDR ("moved on each time to something better; not a mistake to hope; absolutely looked after") landed inside the work context, not separate from it. CPO identity arrived alongside body recognising it had arrived. Hold this — it doesn't need to be re-earned every week.
 ---
 ## Journal sync — 8 May 2026 (source: "Journal Friday")
 ### Product Second Brain v2 — upgrade complete (8 May)

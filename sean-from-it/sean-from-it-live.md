@@ -1,6 +1,6 @@
 # Sean from IT — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:36 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:57 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -397,7 +397,7 @@ Last journal sync: not yet run
 - **🏠 Home** page created as top-level hub for all current state files
 - **Sean from IT — Current State** (this page) is the first child page
 - Future current state pages to be added as sub-pages of Home: Aloyse Adoption, Aunty Jen Cooking, Bob the Builder, etc.
-- State File Index (routing table) is at: [📋 State File Index v2 ](https://www.notion.so/31424a1cf0f081a186aade69d7e17878)
+- State File Index (routing table) is at: [📋 State File Index v2](https://www.notion.so/31424a1cf0f081a186aade69d7e17878)
 - Home hub page: [Second brain state files](https://www.notion.so/31324a1cf0f08174a3c4fcbeba44664f)
 ---
 ## 🗂️ Project Files Review — Updates (5 Mar 2026)

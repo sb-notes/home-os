@@ -1,6 +1,6 @@
 # Degen — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:35 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:56 UTC -->
 
 <!-- ANCHOR -->
 ---

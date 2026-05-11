@@ -1,8 +1,31 @@
 # Dr Quinn — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:35 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:57 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 10 May 2026 (source: weekly coaching session)
+### Body observations — Kiwifruit
+- Tinea ~70% of main lesion back to skin level. Terbinafine course ends ~19 May; 11 tablets to go. No alcohol for the rest of it. Last week's load (Newcastle, drinking, late nights) directly cost healing speed — the body being explicit.
+- Body weary all week after Wednesday's combined EMDR + somatic-therapist-1 massage. Sleep nudging earlier; target 6:15 wake.
+- Knees flagging — old mountain-bike pattern; walking shortening the front line without yoga to balance it.
+- Multiple no-shower / no-TV nights flagged this week as the recurring self-care collapse pattern.
+### Body observations — Carciofi
+- Pelvic/perianal pain remains serious. Wednesday GP visit done — external haemorrhoid identified (likely explains non-cyclical bleeding); vaginal walls showing inflammatory changes (GSM/atrophy differential pending Newson + bloods); Mirena coil discussed but deferred to Newson.
+- Multiple referrals in motion: BSGE-accredited gynae with proper letter referencing NICE NG73; urgent 2-week colorectal; pelvic floor physio.
+- Carciofi explicit this weekend: *"Sorry I can't. I can't handle it. Sorry my body's broken."* Real material for the system — she is in genuine medical distress and cannot be the relief valve right now. Affects Kiwifruit's regulation pathway directly.
+- somatic-therapist-1's fascia release cone and Togu ball helping; alignment training session for both Kiwifruit and Carciofi booked.
+### Invitations offered (not prescriptions)
+- Yoga in the post-walk window, even ten minutes, would lengthen what the walking is shortening. Knees, front line, recovery from EMDR + massage day.
+- For days of heavy therapeutic load (EMDR + massage): avoid alcohol and late eating that night. Last cycle: wine spritzer + sloe gin berries 9pm cost sleep quality directly.
+- Neem/coconut oil daytime application in shorts — open question to bring to next somatic-therapist-1 consult.
+### Anything committed
+- Newson Clinic this coming week is the priority — the lever that unlocks the multi-referral pathway.
+- somatic-therapist-1 alignment training session for both Kiwifruit and Carciofi — to be booked.
+- Kiwifruit: Friday 16 May laptop down by kids' bedtime — protects sleep window and weekend foundation (chosen focus for the week).
+### System note for the coach's view
+- Self-care collapse pattern recurring under high cognitive load. Two big things shipped (SB v2, VMV) at the cost of Friday evening; the body is consistently the absorber of the cost when boundaries don't hold.
+- Anger regulation has shifted at the somatic level: heat that used to fire as warning signal has cooled. Behaviour threshold has dropped with it. The somatic anchor (Gina) was hooked to the heat — now needs a new signal. Bringing to Origano Wed 13 May via Mon 11 May heads-up.
 ---
 ## Journal sync — 8 May 2026 (source: "Journal Friday")
 ### Wake / sleep log

@@ -1,6 +1,6 @@
 # 🧠 ProdMind — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-10 05:36 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:57 UTC -->
 
 <!-- ANCHOR -->
 > Last updated: 12 April 2026
@@ -40,7 +40,7 @@ No coaches. No sales. No corporate framing. Run by the community, for the commun
 | TBC |  |  |  |
 ---
 ## 🔗 Key Links
-- ProdMind State Files parent: [ProdMind State Files ](https://www.notion.so/34024a1cf0f080058ca8f5dda6cee011)
+- ProdMind State Files parent: [ProdMind State Files](https://www.notion.so/34024a1cf0f080058ca8f5dda6cee011)
 - Roundtable peer coaching method: [Untitled](https://www.notion.so/30c24a1cf0f0807fb672d0dde0d7e198)
 - Forever Dads (parallel model): [Untitled](https://www.notion.so/32124a1cf0f080348875f0377fba63c3)
 ---
