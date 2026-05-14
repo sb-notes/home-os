@@ -1,6 +1,6 @@
 # Dr Quinn — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:57 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-14 05:45 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -196,7 +196,25 @@
 ### Open health actions — updated 4 May 2026
 - [ ] Kiwifruit: limit morning walk to 30–45 mins; add quad/hip-flexor stretching (yoga post-walk)
 - [ ] Kiwifruit: continue Turbinafine 250mg OD through 19 May 2026; do not stop early
-## GP Appointment — 6 May 2026 (Outcome)
+## Carciofi — Blood Results Analysis (11 May 2026)
+**Hormone panel:**
+- Oestradiol: 310 pmol/L — reasonable for cycling woman in follicular phase (normal 70–530). NOT significantly oestrogen deficient systemically. Vaginal mucosal changes therefore not driven by systemic oestrogen deficiency — likely local tissue sensitivity or inflammatory process. Ovestin pessaries still appropriate (local delivery). Newson should know systemic oestradiol is not low.
+- FSH: 11.3 IU/L — borderline (upper normal ~10 in follicular phase). Single reading, cycle-day dependent. Early perimenopause worth investigating but not confirmatory. Newson to contextualise.
+- LH: 7.2 IU/L — normal. LH:FSH ratio normal, no PCOS signal.
+- Testosterone: 0.66 nmol/L — low-normal. Discuss topical testosterone at Newson. SHBG result missing — chase; needed for free testosterone calculation.
+- TSH: 1.37 mU/L — normal. Thyroid clear.
+**Iron stores:**
+- Ferritin: 61 µg/L — down 37 points from previous result. Significant decline, likely from rectal bleeding. Hb holding at 137 (not anaemic yet) but stores depleting. Monitor. Food-first: red meat, liver, lentils + vitamin C. If drops below 40 on next test → iron supplementation.
+**Other:**
+- Folate: 15.5 — good.
+- Active B12: pending — results due 8 June. Flag when available.
+- Liver, kidneys, FBC, electrolytes: all within normal range.
+## Carciofi — Fissure/Haemorrhoid Pain Management Update (11 May 2026)
+- Germoloids stinging explained: lidocaine brief afferent nerve stimulation before block takes effect; cream base irritates raw tissue. Fix: apply 15–20 mins *before* anticipated BM (pre-emptive), not after.
+- **Diltiazem 2% cream (priority ask):** GTN alternative, relaxes internal sphincter, no vasodilatory side effects. Ask GP to prescribe ahead of June follow-up if possible. Apply to inner anal wall twice daily.
+- **Scheriproct or Proctosedyl:** prescription steroid + cinchocaine for haemorrhoid component. Request at June follow-up.
+- **Sitz baths post-BM:** 37–40°C, 10–15 mins. Most effective immediate pain relief if not being done consistently.
+- **Pain relief:** paracetamol 1g + ibuprofen 400mg together (not alternating); naproxen 250–500mg (OTC, longer-acting) as alternative to ibuprofen. AVOID co-codamol — codeine causes constipation.
 **Examination findings:**
 - Anal fissure: healing but still present
 - Small external haemorrhoid identified — likely explains non-cyclical rectal bleeding episodes; simplifies the picture

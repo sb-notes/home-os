@@ -1,6 +1,6 @@
 # Degen — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:56 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-14 05:45 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -879,124 +879,82 @@ Requested clarification on:
   - [ ] **Re-tag SOL** from Portfolio 1 → TDR portfolio tracker mentally (14.78 SOL + 16.62 SOL = 31.4 SOL total)
   - [ ] **Next TDR signal** → execute within 24h. Deploy $2,053 USDT dry powder. Most likely target: BTC on weakness or next watchlist entry.
   - [ ] **CMC exit trigger** — sell XRP + ETH when TDR signals full risk-off. Do not act ahead of signal.
-  **Last updated:** 12 April 2026, 21:44 UTC+1
+  **Last updated:** 12 May 2026
   **Total portfolio value:** ~$24,313 (~£19,207 at 0.79)
   **Currency:** USD
   > **How to update this page:** Export CSVs from CoinMarketCap (one per portfolio tracker) → paste into the Degen thread with the command `portfolio update` → Claude rewrites this page automatically using the Portfolio Update skill.
   ---
   ## 📊 Summary
-  - **TDR Pro (Portfolio 3):** $9,967 | All-time P&L: -$242 (-2.4%) | Strategy: PRIMARY — follow TDR signal emails only
-  - **CMC (Portfolio 2):** $13,441 | All-time P&L: -$18,693 (-40.9%) | Strategy: HOLD — reviewing over time whether to convert to TDR
-  - **My Portfolio (Portfolio 1):** $906 | All-time P&L: -$12,632 (-26%) | Strategy: WIND DOWN — sell dead alts, crystallise CGT losses
-  - **Total:** ~$24,313
+  - **TDR Pro (Portfolio 3):** $10,722 | All-time P&L: +$514 (+5.03%) | Strategy: PRIMARY — follow TDR signal emails only
+  - **CMC (Portfolio 2):** $14,843 | All-time P&L: -$17,291 (-37.87%) | Strategy: HOLD — exit on TDR risk-off signal
+  - **My Portfolio (Portfolio 1):** $1,019 | All-time P&L: -$12,520 | Strategy: WIND DOWN
+  - **Total:** ~$26,585
   ---
   ## 🟢 Portfolio 3 — TDR Pro
   *Strategy: Follow The DeFi Report signal emails only. Execute within 24h of signal. No independent positions. Hold stables until next signal.*
-  **Value:** $9,967 | **24h change:** -$257 (-2.5%) | **All-time P&L:** -$242 (-2.4%)
-  ### Holdings
-  - **Bitcoin (BTC)**
-    - Price: $71,295.82 | 24h: -2.8% | 7d: +5.5%
-    - Holdings: 0.06998 BTC | Value: $4,989.93
-    - Avg buy: $77,827.16
-    - P&L: -$457 (-8.4%) — bought above current price; TDR thesis intact, bear market ongoing
-  - **Ethereum (ETH)**
-    - Price: $2,207.19 | 24h: -3.8% | 7d: +6.6%
-    - Holdings: 1.3249 ETH | Value: $2,924.25
-    - Avg buy: $2,044.83
-    - P&L: +$215 (+7.9%) ✅ in profit
-  - **Tether (USDT) — dry powder**
-    - Holdings: 2,052.45 USDT | Value: $2,052.70
-    - Status: Awaiting next TDR buy signal
-  ### TDR Watchlist (from subscriber emails)
-  - KMNO (Kamino Finance) — Feb 2026
-  - SUI (Sui) — Jan 2026
-  - HYPE (Hyperliquid) — Jan 2026
-  - SOL, ETH — Q4 2025 updates
-  - HOOD, PUMP, UNI, ENA — late 2025
-  ### TDR Current Posture
-  - Risk-off. ~50% cash/stables held by TDR themselves.
-  - BTC added at $65,312 (40% of target allocation). Further entries expected on weakness.
-  - No new alt entries signalled.
-  - Action: hold, do not pre-empt. Deploy USDT dry powder only on next signal email.
+  *Last updated from TDR Portfolio Alert: 7 May 2026 | Source: *[*thedefireport.io/portfolio*](http://thedefireport.io/portfolio)
+  *Note: asset names below are partially truncated from the PDF — cross-check full names at the TDR portfolio link above.*
+  ### TDR Reference Portfolio — 7 May 2026
+  - **BTC** (Bitcoin) — avg entry $55,323 | gain/loss +46.42% | portfolio weight 31.57%
+  - **[Ab]ract Network** (likely ETH — avg entry $1,732 matches ~35% gain to current ETH price) — avg entry $1,732 | gain/loss +34.70% | portfolio weight 5.20%
+  - **LIT** (Lighter — Perps DEX) — avg entry $0.95 | gain/loss 0.00% | portfolio weight 3.61% | 🆕 first purchase added 7 May 2026
+  - **[La]unchpad + DEX + Trading App** (token identity unclear — SOL ecosystem likely) — avg entry $0.001814 | gain/loss +13.01% | portfolio weight 8.11%
+  - **[Yieldi]ng stablecoin** (token identity unclear — possibly ENA/Ethena) — avg entry $0.1146 | gain/loss +9.08% | portfolio weight 3.89%
+  - **[...]Identity** (token identity unclear) — avg entry $0.2632 | gain/loss -1.86% | portfolio weight 3.52%
+  - **~~USELESS** (memecoin) — avg entry $0.0419 | **EXITED 12 May 2026 at $0.0749 (+78.7%)** | was 3.24% of portfolio~~
+  - **COIN** (Coinbase — services & trading) — avg entry $99.58 | gain/loss +98.79% | portfolio weight 1.51%
+  - **Cash** — portfolio weight 39.35%
+  ### Ollie's Actual Holdings (MEXC) — 12 May 2026
+  - **BTC:** 0.06998 BTC | price $80,670 | value $5,646 | avg buy $77,827 | **above cost basis** ✅
+  - **ETH:** 1.324 ETH | price $2,283 | value $3,025 | avg buy $2,044 | **in profit** ✅
+  - **USDT (dry powder):** 2,052 USDT | value $2,052 | pre-LIT entry
+  - **LIT:** 🟡 recommended entry ~$387 at ~$0.97 (~400 LIT). Signal: 7 May 2026 at $0.95. Confirm execution.
+  - **USELESS:** not held — no action required
+  ### TDR Current Posture (as of 6–12 May 2026)
+  - Cautious. Cash 39–45% of portfolio.
+  - BTC overbought on 14-day RSI. Current rally is the longest bear-market rally across the last two cycles (36% from $60k Feb low).
+  - Spot volumes weak, short squeeze driving recent price action. TDR sees probable pullback toward $55–65k fair value range.
+  - No new signals beyond LIT (7 May, added) and USELESS (12 May, exited).
+  - Critical BTC zones: $79k (STH/ETF cost basis), $85k (200-day MA), $95k (50 WMA = bull confirmation).
   ---
   ## 🟡 Portfolio 2 — CMC (CopyMyCrypto)
-  *Strategy: HOLD and review. CMC subscription cancelled April 2026. Monitoring XRP and ETH as key positions. Reviewing over time whether to sell down and consolidate into TDR. Do not add to positions.*
-  **Value:** $13,441 | **24h change:** -$285 (-2.1%) | **All-time P&L:** -$18,693 (-40.9%)
-  ### Core Holdings
-  - **XRP** ← carrying the portfolio
-    - Price: $1.3349 | 24h: -1.9% | 7d: +2.4%
-    - Holdings: 3,034.37 XRP | Value: $4,050.44
-    - Avg buy: $0.5646
-    - P&L: +$2,659 (+155%) ✅
-  - **Ethereum (ETH)**
-    - Price: $2,207.19 | 24h: -3.8% | 7d: +6.6%
-    - Holdings: 1.9594 ETH | Value: $4,324.83
-    - Avg buy: $3,104.04
-    - P&L: -$1,757 (-28.9%)
-  - **Cardano (ADA)**
-    - Price: $0.2388 | 24h: -5.0% | 7d: -2.2%
-    - Holdings: 6,698.68 ADA | Value: $1,599.75
-    - Avg buy: $0.3443
-    - P&L: -$707 (-30.7%)
-  - **Solana (SOL)**
-    - Price: $82.32 | 24h: -3.5% | 7d: +2.8%
-    - Holdings: 16.62 SOL | Value: $1,368.21
-    - Avg buy: $113.28
-    - P&L: -$515 (-27.3%)
-  - **Bitcoin (BTC)**
-    - Price: $71,295.82
-    - Holdings: 0.007461 BTC | Value: $531.95
-    - Avg buy: $67,013.92
-    - P&L: +$32 (+6.4%)
-  - **Centrifuge (CFG)**
-    - Price: $0.1939 | 7d: +25.4%
-    - Holdings: 2,707.27 CFG | Value: $525.16
-    - Avg buy: $0.4393
-    - P&L: -$817 (-46.2%)
-  - **Oasis (ROSE)** — staked in Oasis Wallet
-    - Price: $0.01083
-    - Holdings: 26,032.32 ROSE | Value: $282.05
-    - Avg buy: $0.06484
-    - P&L: -$1,558 (-83.3%)
-  ### Dead Alt Tail — sell to crystallise CGT losses (~$600 total)
-  - Sonic (S): $154 | -92%
-  - Flux (FLUX): $128 | -89%
-  - Celer (CELR): $127 | -84%
-  - Gala (GALA): $85 | -68%
-  - Cartesi (CTSI): $84 | -86%
-  - VAIOT: $14 | -90%
-  - Verasity (VRA): $6 | -101% ← check KuCoin delisting first
-  - XEN Crypto: $4 | -98%
-  - Silly Dragon: <$1 | -100%
-  - MultiversX (EGLD): <$1
-  - Polkadot (DOT): negligible
-  - Casper (CSPR): $0 (sold)
+  *Strategy: HOLD. CMC subscription cancelled April 2026. Exit trigger for all positions: TDR risk-off signal. Core positions held. Dead alt tail to be sold for CGT losses.*
+  **Value:** $14,843 | **All-time P&L:** -$17,291 (-37.87%)
+  ### Core Holdings — 12 May 2026
+  - **ETH** | price $2,283 | value $4,474 | 1.959 ETH
+  - **XRP** ← carrying the portfolio | price $1.439 | value $4,368 | 3,034.37 XRP
+  - **ADA** | price $0.2718 | value $1,821 | 6,698.68 ADA
+  - **SOL** | price $94.72 | value $1,574 | 16.62 SOL
+  - **CFG** (Centrifuge) | price $0.2822 | value $764 | 2,707.27 CFG
+  - **BTC** | price $80,670 | value $602 | 0.007461 BTC
+  ### Dead Alt Tail — sell to crystallise CGT losses
+  - **S** (Sonic) | $0.05053 | value $379 | 7,504 S — consider selling
+  - **ROSE** (Oasis) | $0.01098 | value $286 | 26,032 ROSE — staked in Oasis Wallet
+  - **FLUX** | $0.08318 | value $184 | 2,209.99 FLUX
+  - **CELR** (Celer) | $0.003105 | value $165 | 53,058 CELR — sell for CGT losses
+  - **GALA** | $0.003762 | value $109 | 29,092 GALA — sell for CGT losses
+  - **CTSI** (Cartesi) | $0.03465 | value $92 | 2,645 CTSI — sell for CGT losses
+  - **VAI** | $0.005195 | value $15 | 2,943 VAI
+  - **VRA** (Verasity) | $0.00001788 | value $5 | 277,464 VRA — sell
+  - **XEN** | ~$0.009 | value ~$33 | — sell
+  - *(additional small positions below — sell all)*
   ### CMC Notes
-  - Subscription cancelled 4 April 2026 — saving £37/month
   - Without XRP, CMC portfolio is ~$21k underwater on cost
-  - XRP (+$2,659) is the only reason to stay patient
-  - Exit trigger for all positions: TDR risk-off signal or joint review decision
-  - Losses on any position may be crystallised opportunistically for CGT purposes
+  - XRP is the sole reason to stay patient
+  - Exit trigger for all core positions: TDR risk-off signal
   ---
   ## 🔴 Portfolio 1 — My Portfolio (Residual)
   *Strategy: WIND DOWN. No new entries. Sell remaining positions to stables. Crystallise CGT losses.*
-  **Value:** $906 | **24h change:** -$17 (-1.8%) | **All-time P&L:** -$12,632 (-26%)
-  ### Active Holdings
-  - **Solana (SOL)** — mentally re-tagged to TDR tracking
-    - Price: $82.32
-    - Holdings: 14.78 SOL | Value: ~$1,217
-    - Avg buy: $79.99
-    - P&L: +$34 (+2.9%) ✅
-    - Note: tracker total ($906) is stale; SOL value ($1,217) is accurate
-  - **USDT (residual stables):** $1.24 — tracker artefact from prior sales
-  ### Already Sold (CGT losses crystallised)
-  - HBAR: sold ~15 Mar 2026 at ~$0.093 → proceeds to USDT
-  - Qubic: sold Mar 2026 | loss ~$851
-  - MLC (My Lovely Planet): sold Mar 2026 | loss ~$1,804
-  - Dead alt tail (~25 tokens): sold Mar 2026 | loss ~$2,000+ estimated
-  ### Remaining Dead Alt Tail — sell when convenient
-  - Kusama, GMX, Nexa, Quant, Ondo, The Graph, Moonwell, Clearpool, NEAR, Aethir, KlimaDAO, Cellframe, FET, TARS AI, Ethervista, CARV, HashAI, Pangolin, Altura, Echelon, Filecoin, Lumia, ANyONe, peaq, Alien Base, ICP, Flux, Myria, Aerodrome, Render, Sei, Zeus, and others
-  - Estimated additional CGT losses: >£5,000
+  **Value:** $1,019 | **All-time P&L:** -$12,520
+  ### Active Holdings — 12 May 2026
+  - **SOL** | price $94.72 | value $1,400 | 14.78 SOL | avg buy $79.99 | in profit ✅
+  - **KSM** | $5.64 | $27 | 4.853 KSM
+  - **GMX** | $7.301 | $11 | 1.529 GMX
+  - **NEXA** | $0.0649 | $8 | 16.28M NEXA
+  - **ONDO** | $0.3908 | $3 | 8.690 ONDO
+  - **QNT** | $72.96 | $3 | 0.04 QNT
+  - **GRT** | $0.02954 | $3 | 85.00 GRT
+  - *(additional sub-$3 positions — sell all)*
   ---
   ## 🧾 CGT Tracking
   - **Losses carried forward (pre-Mar 2026):** >£15,000
@@ -1007,8 +965,10 @@ Requested clarification on:
   - **Status:** Losses carry forward indefinitely — crystallise more opportunistically from dead alt tails above
   ---
   ## ⚡ Pending Actions
+  - [ ] 🔴 **TODAY (12 May):** Check MEXC for USELESS — sell if held (TDR exit at $0.0749, 78.7% gain)
+  - [ ] **LIT (7 May signal):** Confirm whether you executed entry at $0.95. 24h window has passed — record outcome.
   - [ ] Sell CMC dead alt tail (VRA, XEN, Silly Dragon, VAIOT) — ~$26 value, ~£1,700 CGT losses. Check VRA KuCoin delisting first.
   - [ ] Sell Portfolio 1 dead alt tail — 20+ tokens, sub-$10 each. Crystallise losses.
   - [ ] Re-tag SOL (14.78 + 16.62 = 31.4 SOL total) from Portfolio 1 → TDR tracker
-  - [ ] Await next TDR signal → deploy $2,053 USDT dry powder within 24h
-  - [ ] Review CMC portfolio — decide over time whether to sell down and consolidate into TDR
+  - [ ] Identify 3 truncated TDR positions ([La]unchpad+DEX, [Yieldi]ng stablecoin, [...]Identity) at [thedefireport.io/portfolio](http://thedefireport.io/portfolio) — update names above
+  - [ ] Await next TDR signal → deploy USDT dry powder within 24h

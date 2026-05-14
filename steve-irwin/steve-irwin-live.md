@@ -1,6 +1,6 @@
-# Steve Irwin — Current State (updated 3 May 2026)
+# Steve Irwin — Current State (updated 12 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-11 05:57 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-14 05:46 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Steve Irwin
@@ -193,6 +193,7 @@
 - **Mudee 2:** Rinse with lukewarm water after mud/river use. No direct heat — radiators degrade waterproof membrane.
 - **Flex 2:** Machine washable on cool/gentle cycle. Air dry only.
 - **Insoles:** Remove on arrival if midfoot feels tight; allow upper to settle before re-inserting.
+- **Lems Primal Zen (EU 48) — machine wash protocol (Samsung):** Place in mesh bag. Delicates cycle, 20°C, spin 400rpm, Level 1 (~28 min). Stuff with hand towel to hold shape; dry with dehumidifier on low. No tumble drying. No fabric softener (degrades sole adhesive). Check mesh upper above little toes for separation before washing — apply Shoe Goo first if lifting.
 ### Next action
 - ⚠️ Sign up to Freet mailing list for 10% off before ordering
 - Order Freet Flex 2 EU 49 + Freet Mudee 2 EU 49 from [freetbarefoot.com](http://freetbarefoot.com/)
