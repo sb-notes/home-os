@@ -1,6 +1,6 @@
 # Shula RTM — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-14 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-15 05:55 UTC -->
 
 <!-- ANCHOR -->
 Last journal sync: 6 April 2026
