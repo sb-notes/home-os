@@ -1,6 +1,6 @@
 # Cheryl — Current State (8 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-16 05:25 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:45 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -610,7 +610,7 @@ Journal sync — 14 April 2026 (source: today's journal entry + Catarina report 
 - **Parenting stress load (9 Apr):** Moderate-high. 5am wake. Still finding it hard to make up time lost to A&E Monday. Lunch times fully taken. No respite.
 - **Transition from baby to child — developmental shift named (9 Apr):** Children shifting from “baby” to “child” — can now kick a ball, play independently at dinner time. Finding this healthier and more rewarding as a parenting dynamic.
 - **Open actions — tagged:**
-<!-- error fetching children: 504 Server Error: Gateway Timeout for url: https://api.notion.com/v1/blocks/07e9cc96-6cb1-43c9-876a-91ef93d682e0/children?page_size=100 -->
+  - [ ] 💪 FOR OLLIE: Read *"When Anger Scares You"* (Josh recommendation)
 ---
 > ✅ **MCP write confirmed 25 Feb 2026** — Claude can update this page directly. No copy-pasting required. At the end of each session, just say "Update my Notion pages."
 ---
