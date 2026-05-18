@@ -1,8 +1,28 @@
-# Degen — Current State (8 May 2026)
+# Degen — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:10 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 13–14 May 2026 (sources: "Journal weds", "Journal Thursday")
+### TDR signal — LIT entry (13–14 May)
+- TDR sent buying signal; Kiwifruit followed into LIT (lighter, at 3.96% of portfolio)
+- **14 May:** Executed US$400 into LIT on MEXC following TDR portfolio entry
+### Blue chips moved to Tangem (14 May)
+- SOL, ETH, and BTC moved from MEXC to Tangem hardware wallet
+- Rationale: Korean hacker group (from January phishing attack) has tried to sign into MEXC twice; 2FA and passkeys blocked them; reminder to not hold wealth on a CEX exchange
+- Small staking yield on MEXC Earn not worth the risk
+### CMC altcoin cleanup (13–14 May)
+- Sold Flux from MEXC (~$141); converted to USDT
+- Intend to flip remaining CMC Portfolio altcoins in next few days after current dip levels out
+- Blue chips retained in personal portfolio; tracking now: own portfolio, TDR portfolio, CMC dust
+- Feeling strongly about this decision; letting go of the CMC moonshot idea; market shifted, strategy pivoted to stables and blue chips following TDR only
+- Feeling good about not receiving daily CMC chart updates
+### Pension transfers — Smart Pension (13 May)
+- Transfers from Smart Pension (101 Crosstide pot and old Form 3 pot) proceeding; SP called to ask why; Kiwifruit explained
+- Outstanding: contact Penfold to chase why that transfer has not occurred yet
+### Portfolio TDR Notion log (13 May)
+- Updated Notion portfolio with TDR portfolio section for running record — can read/write during Degen conversations
 ---
 ## Journal sync — 7 May 2026 (source: "Journal Thu")
 ### NZ family home — inheritance planning update (7 May)

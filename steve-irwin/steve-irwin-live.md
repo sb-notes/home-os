@@ -1,8 +1,20 @@
-# Steve Irwin — Current State (updated 12 May 2026)
+# Steve Irwin — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:47 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 13–15 May 2026 (sources: "Journal weds", "Journal Thursday", "Journal Friday!!")
+### Car MOT (13–14 May)
+- Car booked in with Perkins Garage (next to Shoreham station, 13 May); MOT had expired
+- Car taken for MOT at Toyota dealership in Worthing Thursday morning (14 May) to maintain warranty on hybrid cells; service done there to preserve warranty for another couple of years
+### Asgard bike shed — decision confirmed (14 May)
+- Asgard metal shed for bikes confirmed as the right unit to go for
+- The second-hand one from handyman Ollie's mum is not available for a few months (she is in a chain and storing her bike in it)
+- Decision: **purchase new shed for £700** + handyman Ollie to set it up and install it in the front yard
+- Working through timing for when this happens
+- Note: this supersedes the earlier Trimetals unit decision from March 2026
+---
 **Project:** Steve Irwin
 **Topic:** Outdoor equipment, camping, and gardening (merged from Green thumbs + Steve Irwin)
 **Last updated:** 8 March 2026

@@ -1,8 +1,18 @@
 # 🧠 ProdMind — Current State (27 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 17 May 2026 (source: weekly wrap-up clarification)
+### Session 1 — 15 May 2026 (retro summary)
+- **Attendees:** Cardamomo + 5 members (codenames TBD — Anna, Harsha, Adam, Florence; 6th pending); full retro doc in ProdMind Planning DB
+- **Format:** Roundtable worked well; Cardamomo as timekeeper/MC effective
+- **What went well:** Great group, excellent mix of seniority; strong problems — Anna (productising vibe-coded banking app) and Florence (human-centred) were highlights; preparation paid off, came across as safe hands
+- **Key improvement:** Share-back ran 15 mins over; session 2 needs tighter framing and Cardamomo as dedicated MC while Kiwifruit hosts
+- **Decisions:** Notion workspace to be split into admin and members areas; challenge bank DB + resources DB to be created; no auto-transcription; optional transcription for the member whose question is chosen
+- **Next session: Friday 12 June 2026** (2nd Friday monthly)
+- Cross-pollination with Augmented planned — session structure to be tested and tweaked there
 > Last updated: 12 April 2026
 ---
 ## 🟢 Current Status

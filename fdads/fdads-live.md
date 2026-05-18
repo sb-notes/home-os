@@ -1,8 +1,20 @@
-# Forever Dads — Current State (8 Apr 2026)
+# Forever Dads — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 12–13 May 2026 (sources: "Journal glorious Tuesday", "Journal weds", "Therapy/Catarina")
+### Session — 12 May 2026 (Tuesday, 7:30pm)
+- Session ran Tuesday 12 May 2026
+- Kiwifruit attended despite being tired (ProdMind session also that week on Friday)
+- Found camaraderie to be well worth it — notes it fulfils a similar recharging function to TV
+### EMDR sharing at Forever Dads (13 May — Therapy/Catarina session reference)
+- Kiwifruit shared his EMDR journey and progress with the Forever Dads group at a recent session
+- Two other fathers opened up about their own intense anger responses
+- This normalised the experience significantly for Kiwifruit: "it's really not just me"
+- Therapy note: Kiwifruit had felt previous sessions were "too English" (understated) and not validating enough; this session broke through that
+- Finding Forever Dads as the primary male peer support pillar now that men's clearing circle is harder to access
 ---
 ## Update — 9 May 2026 (source: weekly wrap-up clarification)
 ### Cadence — corrected

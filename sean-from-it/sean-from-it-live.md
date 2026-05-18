@@ -1,8 +1,16 @@
-# Sean from IT — Current State (8 May 2026)
+# Sean from IT — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:47 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 10 May 2026 (source: "Journal Sunday")
+### Plex — not working (correction to previous state)
+- Plex migration from YouTube Music is not complete; Plex not working on any device
+- Root cause: Carciofi was moving things in her studio and the server was unplugged
+- Fix needed: restart Plex Media Server via web browser console; then fix TV access issue (something to do with getting access without going out to web)
+- YouTube Music migration also still outstanding; still need to cancel to save ~£260/year
+- Both items are the next big home IT projects
 ---
 ## Update — 9 May 2026 (source: weekly wrap-up clarification)
 ### Microphone saga — current status

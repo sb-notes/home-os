@@ -1,8 +1,17 @@
-# Shula RTM — Current State (27 Apr 2026)
+# Shula RTM — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:47 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 13 May 2026 (source: "Journal weds")
+- Radicchio (Neil) moving back into the building; will be more active and aware of what's going on
+- High volume of email traffic back and forth
+- Asset register and monthly spending update received from Austin Rees
+- Cedro (Luke) becoming more active as director since being added — positive
+- Solicitor's bill for the four other parties: all four have paid Kiwifruit their £114; received
+- To-do: get in touch with Radicchio to see if he wants to gather leaseholders and whether anything else is required
+---
 Last journal sync: 6 April 2026
 ---
 ## Journal sync — 22–23 April 2026 (sources: "Wednesday by the sea by the sea", "Thursday")
@@ -52,7 +61,7 @@ Last journal sync: 6 April 2026
 - Combined total from Barney + Albert: approximately £7,000 due into coffers
 - Austin Rees meeting scheduled for Wednesday 1 April 2026 — expected to move things forward
 - Luke's PA has completed his ID verification on Companies House — Ollie can now add Luke as a director
-- Grace (Rightbrain finance/ops) to be involved in RTM administration — to talk to Neil about how this works; intended as a way for Ollie to step back further from day-to-day RTM management
+- Pesca (Rightbrain finance/ops) to be involved in RTM administration — to talk to Neil about how this works; intended as a way for Ollie to step back further from day-to-day RTM management
 ---
 Last updated: 2 March 2026
 ---
@@ -227,7 +236,7 @@ No building condition survey has been commissioned. This is the foundation of th
 - Note: 53 Victoria Road, Shoreham-by-Sea BN43 5WR is Ollie's personal home address and the company's registered office — not to be offered to other directors as a service address
 ---
 ### 6. 🌿 Services
-- **Cleaner:** Togun (Adecco Cleaning) — appointed
+- **Cleaner:** cleaner-1 (Adecco Cleaning) — appointed
 - **Gardener:** Neil appointed — PL insurance (Brown & Brown / Intact, £160.64/yr). **Policy incepted 9 March 2026. Invoice to be settled from service charge funds. Neil can garden immediately.**
   - **"Voluntary" status:** Intact confirmed via live-chat (copy on file with Kerry Vidler) — no exclusions for voluntary work; no policy conditions limiting how or whether the policyholder is paid or in what capacity.
   - **Permitted activities:** Cover applies to anything related to the trade of "Gardening" — no defined list. Subject to standard policy conditions/clauses including height restriction (TMP036).
@@ -268,10 +277,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -302,10 +315,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -336,10 +353,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -370,6 +391,8 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -387,10 +410,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -435,7 +462,7 @@ No building condition survey has been commissioned. This is the foundation of th
 - ✅ Tetra fire door survey completed (18 February 2026)
 - ✅ Terry Kinch / JBA AOV inspection completed
 - ✅ Galloways appointed for financial investigation
-- ✅ Cleaner (Togun/Adecco) appointed
+- ✅ Cleaner (cleaner-1/Adecco) appointed
 - ✅ Neil PL insurance (gardening) — both written confirmations received from Intact via broker (5 March 2026). Policy can now proceed. No further blockers.
 ---
 ## NEW ACTIONS (added 5 March 2026)
@@ -522,7 +549,7 @@ No building condition survey has been commissioned. This is the foundation of th
 - HS handover: minimal financial information provided — mostly 2019–2020 documents; missing leaseholder statements, bank statements, invoices; 28-day deadline passed; Common Hold and LR Act requires full information handover
 - Accountant: Galloways proposed to act as intermediary with HS and conduct mid-year reconciliation; Ollie knows them from Hove Rugby Club
 - Service charge demands: to use HS's existing budget for Dec 24–Jun 25 period; budget expected to have excess (gardening/cleaning savings); pro-rata charge from 3–24 Dec also to be collected; budget to be reassessed in June
-- New cleaner Togun (Luke's recommendation) appointed; PL insurance requirement confirmed (£1m for gardeners/cleaners, £5m for building work)
+- New cleaner cleaner-1 (Radicchio's recommendation) appointed; PL insurance requirement confirmed (£1m for gardeners/cleaners, £5m for building work)
 - Insurance: enforcement notice disclosure to insurer queried — Hannah to check with Rosie; insurer unlikely to invalidate automatically
 - Utilities: SSE (electric) and Business Stream/Southern Water to be transferred; AR uses broker; SSE confirmed no supply cut during transition; meter location unknown
 - Flat 8 (Heather) sale: LPE1 issued with broad responses due to missing HS info; refund on SC handled via sale apportionment; Heather not an RTM member
@@ -557,7 +584,7 @@ No building condition survey has been commissioned. This is the foundation of th
 **Pest control (ladybirds)**
 - Betapest attended and sprayed. Window gaps in stairwells identified as ingress points
 - Ventnor Building Services attending to quote for sealing gaps
-- Togun (cleaner) had been managing ladybirds by vacuuming — now asked to flag issues proactively
+- cleaner-1 (cleaner) had been managing ladybirds by vacuuming — now asked to flag issues proactively
 - Becky (AR property manager, on sick leave) to begin monthly visits on return
 **ESFR / AR Legal — RTM enforcement powers confirmed**
 - Ben Riches (AR) provided formal written position: RTM can escalate to solicitors and pursue legal action for lease covenant breaches; forfeiture remains with freeholder (Maxiwood)

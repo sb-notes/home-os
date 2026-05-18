@@ -1,8 +1,59 @@
-# Marty — Current State (8 May 2026)
+# Marty — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 17 May 2026 (source: weekly wrap-up clarification)
+### ProdMind Session 1 — 15 May 2026
+- 6 attendees: Cardamomo + 5 members (codenames TBD: Anna, Harsha, Adam, Florence, plus one more)
+- Great group; excellent mix of seniority and perspectives; clear theme around "what to do next" for product leaders
+- Strongest problems: Anna (productising a vibe-coded banking app for a consultancy) and Florence (human-centred challenge)
+- Preparation and test run with Cardamomo paid off — safe hands came across clearly
+- Share-back section ran 15 mins over — key improvement for session 2: tighter facilitation, crisper framing, Cardamomo as dedicated MC/timekeeper while Kiwifruit hosts
+- Notion workspace to be split: admin area + members area; challenge bank DB and resources DB to be set up
+- Cross-pollination with Augmented planned; session structure from ProdMind to be tested/tweaked in Augmented
+- Next session: Friday 12 June (2nd Friday monthly)
+### Weekend work pattern — 16–17 May
+- Work crept in Saturday and Sunday (Claude skills update); managed as async rhythm — set going, phone away, 30 mins of something else, next step, repeat; more sustainable than solid blocks; "almost there"
+- Pattern: still not switching off cleanly on weekends; to discuss in coaching
+### Augmented — session 1: Friday 21 May
+- Using ProdMind intro template; Jitsi with breakout rooms; round-table peer coaching method; goal 3–7 attendees
+---
+## Journal sync — 11 May 2026 (source: "Journal monday")
+### Work — Monday 11 May (productive day)
+- Good day at work despite difficult Sunday evening
+- VMV and strategy improved; ready for Mango to critique; 100-day plan to be built from it
+- Added user journey map database into the roadmap
+- User journeys (based on Aglio/Hugo's Cursor output from codebase) now categorised in Notion; ready to review and rate on readiness and effort
+- Morning report refined; coaching session near complete
+- Skill library fully populated; ready to share with team
+- Implemented logging and cron jobs on home Second Brain
+- Claude episode 2 all set up (screen size, slide size); may record tomorrow
+- Flow 1:1 done (weekly); time to shift focus to product delivery and discovery
+- Feeling ready for handover from Mango; looking forward to moving 100-day plan forward
+- Second Brain v2.1 upgrade: added logging + cron jobs at home (was missing visibility layer); same to be done at work
+---
+## Journal sync — 12–15 May 2026 (sources: "Journal glorious Tuesday", "Journal weds", "Journal Thursday", "Journal Friday!!")
+### ProdMind — first session (15 May)
+- First ProdMind session ran Friday 15 May; Kiwifruit crafted intro to share with Cardamomo for comment; intro template to be reused for first Augmented session (next Friday, likely 22 May)
+- Feeling really good about both groups; Augmented almost verging on too large (positive problem); goal: 3–7 people per session; Jitsi with breakout rooms; round-table peer coaching method
+### PXN one-pager (13–15 May)
+- More work on PXN one-pager; had drifted from what Mango wanted; fine-tuned based on Mango's direct feedback; felt good to work together on it
+- **Forked to two versions:** (1) why Rightbrain for PXN / investor framing; (2) why Rightbrain for a technical/core AI users audience
+- To-do: port both into Finocchio's growth team Notion space
+### Salica board pack (14 May)
+- Applied Finocchio's comments to Salica board update; reached a really good place; Pesca (finance) very happy
+- **Pesca use cases logged:** (1) board pack assistant; (2) annual budget assistant
+- V1/V2/V3 progression discussed with Pesca: V1 manual process → V2 Claude + Notion (embedding in next few days) → V3 Rightbrain agents (eventual podcast/thought leadership content)
+- Note: Pesca and Pepe already building agents on production — want to stay close to use cases for Adventures in AI
+### 100-day plan (14–15 May)
+- Drafted 100-day plan document with Claude last evening; sent Pete strategic options; proposed one direction
+- Going through it Friday morning; will share with full team by end of day Friday
+- Feels like a strong CPO move
+### Working patterns (14 May)
+- Worked 7:30–9:30pm — not ideal; driven by having a lot ready to go; Kiwifruit to time-box evening work with an alarm going forward
+- Monthly London day agreed with team: travel with growth team and agent delivery team; train and subsistence covered by Rightbrain; first trip booked for Tuesday 19 May
 ---
 ## Update — 10 May 2026 (source: weekly coaching session)
 ### CPO identity — the line has landed
@@ -93,7 +144,7 @@
 ### 20 Apr — Podcast & ProdMind
 - Adventures in AI podcast episode 1 published. ~84 views on YouTube already with zero promotion. Kiwifruit put out first LinkedIn post about the podcast
 - ProdMind group: 8 confirmed, 9 likely. Good mix: couple of SVPs, multiple-founder types, GPMs, product lead (Kiwifruit), IBM product/AI lead consultant. First session Friday 15 May
-- Kiron has suggested sharing the entire Notion workspace with the ProdMind group — Kiwifruit likes this idea; next step: collect email addresses and send invite
+- Cardamomo has suggested sharing the entire Notion workspace with the ProdMind group — Kiwifruit likes this idea; next step: collect email addresses and send invite
 ### 22 Apr — Work progress
 - Roadmap now refined and shared; first pass of improvements and comments added. Working on SDLC end-to-end process
 - Weekly with Pete: Pete very happy with what Kiwifruit is doing. Happy to see roadmap being structured. Agreed to merge Agent Delivery teamspace + roadmap databases (drop one on each side, cross-tag agents, clients, skills, partners, tasks)
@@ -108,8 +159,8 @@
 - **What went well (30 calendar days):** Built scaffold of product function — roadmap (Notion + Claude), SDLC end-to-end, podcast episode 1, weekly wrap-ups to Pete. Feels like "ours to lose"
 - **Struggling with:** Overwhelm from volume — strategy, process, delivery all at once. Lack of management structure (Pete is a founder not a manager; Kiwifruit needs to be the manager). Tech founders built GitHub at 2,500 people scale — adding Notion layer is a political play. Four engineers on four boards not linked
 - **Looking forward to:** Meeting full team in person next week in Newcastle ("Toon")
-- **Kiron's feedback:** Time to define the product vision. Reading list: Good Strategy Bad Strategy + Jackie Bavaro substack on product strategy. Recommended subscribe to Simon Waldman's Bugle newsletter
-- **Kiron's core advice:** Nail "what is Product, how to do Product" — propose it, get it agreed, build credibility
+- **Cardamomo's feedback:** Time to define the product vision. Reading list: Good Strategy Bad Strategy + Jackie Bavaro substack on product strategy. Recommended subscribe to Simon Waldman's Bugle newsletter
+- **Cardamomo's core advice:** Nail "what is Product, how to do Product" — propose it, get it agreed, build credibility
 - **Company context shared:** ~12-13 people. 2 years, burned £2M (lean). Just taken second seed stage funding; partner has said will see them through to Series A if metrics are there. MRR/ARR breached ~1.5 months ago. Major partner launch imminent
 - **Key strategic challenge:** Establishing as CPO-level leader. Getting wins on board, setting up monthly all-hands, strategic planning, reporting to board — all driven by Kiwifruit
 - **Vision gap identified:** Product/company vision exists only in founders' heads and investor deck; not written down in Notion yet. Kiwifruit identified this as a near-term priority
@@ -191,7 +242,7 @@
   1. Roll out Rightbrain agents in next week — transition morning report to Rightbrain agent; podcast about it
 - **Company orbit problem:** Pete knows what’s going on; Matt knows (coffee with Pete daily); Flow is engaged. Everyone else on secondary orbit. Kiwifruit’s role: everyone knows the plan — coming through him.
 - **Leadership team:** Probably Matt, Flow, Pete gang — Kiwifruit to test this through VMV process and see if these three are who run the company.
-- **Podcast strategy:** Pete T (legal) and Grace (finance) now building agents on production. Kiwifruit wants to stay close to their use cases and bring them onto Adventures in AI to share learnings. This is the flywheel for building the team as thought leaders.
+- **Podcast strategy:** Pepe (legal) and Pesca (finance) now building agents on production. Kiwifruit wants to stay close to their use cases and bring them onto Adventures in AI to share learnings. This is the flywheel for building the team as thought leaders.
 - **Advisory changes:** DataBoots appears to have drifted away (possibly travelling or no longer needs help — that's OK). Lavender Thorn getting a lot from advice — going well. Shoreham Tech with Jeevan likely to replace DataBoots advisory slot — Kiwifruit completely comfortable with this.
 - **OneBrain / Product Second Brain:** Next piece of work = roll out Product Second Brain V2 by dividing up state files. V3 will then be Rightbrain agent-controlled with information access control layer.
 ---
@@ -423,7 +474,7 @@ Ollie arrived with a RevOps/mid-size SaaS hypothesis (200-800 employee SaaS comp
 - Conference speaking schedule drafted and shared with Pete: progression planned from local Brighton meetup → London meetups → virtual → in-person → ultimately Mind the Product London (2,000 people). First step: shape a talk and deliver it locally.
 - First monthly team get-together at end of April — planned and in progress.
 ### Executive coaching — plan forming (14 Apr)
-- Kiron introduced Kiwifruit to Simon (a product executive coach). Funding for coaching already approved in interview process.
+- Cardamomo introduced Kiwifruit to Simon (a product executive coach). Funding for coaching already approved in interview process.
 - ProdMind group first session likely next Friday or fourth Friday of this month.
 - Marty daily morning self-coaching sessions to begin today — identified as high leverage for stepping into CPO-level thinking.
 ### Emotional state (14 Apr)

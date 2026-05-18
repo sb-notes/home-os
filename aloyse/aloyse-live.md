@@ -1,8 +1,88 @@
-# Aloyse — Current State (8 May 2026)
+# Aloyse — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:45 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:10 UTC -->
 
-<!-- ANCHOR -->
+<!-- <!-- ANCHOR -->
+---
+## Update — 17 May 2026 (source: weekly wrap-up clarification)
+- Worthing Hospital appointment for Carciofi confirmed for next week (back/bum symptoms review)
+- A friend of Carciofi's (codename TBD: Jen) will help Carciofi get to the appointment so Kiwifruit can attend the Augmented peer group call on 21 May
+---
+## Journal sync — 10–11 May 2026 (sources: "Journal Sunday", "Journal monday")
+### Trust Model — major milestone (10 May)
+- **Children's farm lunch (Sunday):** Remarkable Trust Model breakthrough eating out in public; children calm, not demanding food, understood it was coming; did drawing while waiting; ate pizza; finished at same time without rushing; completely different to meals out before the protocol
+- Hannah's framing: order food they prefer; Kiwifruit's interpretation: the trust model working — food always comes
+### Caspar (Fox) — arc (10–11 May)
+- **Throwing schema:** Deeply involved; throwing things constantly including at people; does it to get a rise; throws things and looks pleased with himself; very wearing
+- **Rattle incident (Sunday):** Threw rattle at Kiwifruit hard; hit him in chest; Kiwifruit contained anger; Caspar urinated when put in bed (fright)
+- **Bedtime incident (Sunday):** Thrashing during nappy change; pressed down on mat 3 times; cried; repair cycle followed; Caspar snuggled up and engaged with repair — may enjoy the repair cycle
+- **Clingy during play date:** Very clingy when Daya (16 months) visited; did a lot of watching; worked best when Ruth reading with all three; when outside playing ball, handled sharing well (ball sharing with Daya)
+- **Monday:** Woke twice at first light 5:30am; bath screaming corrected well by Kiwifruit; bedtime without drama; smooth; going to sleep calmly
+- **Voice:** Found a very loud voice; screeching and yelling; partly joyful, partly attention-seeking; especially at kitchen table when waiting for food
+### Bunny (Phoenix) — arc (10–11 May)
+- **Monday dinner:** Initially refused pork/lentil stew ("No no no"); asked for apple yoghurt; given it; later ate ~¾ bowl after Caspar's peer pressure example
+- **Bedtime (Monday):** Teeth brushing improving; understands "side", "top", "bottom" instructions; brushing herself with guidance
+- Wild at bedtime Sunday — possible reaction to two play dates in one day
+- Often the one who starts testing behaviour that Caspar then copies and escalates
+### Play date — Jeeves/Ruth/Daya (Sunday 10 May)
+- Jeeves (butler), Ruth (Rabarbaro), Daya (Daikon, 16 months) visited
+- Daya just starting to walk; good indoor session with Ruth reading; good outdoor session with balls
+- Children affected by fresh memory of Ella (Cicoria) tearing around house on Friday — both more unsettled than usual with new child in house
+- Kiwifruit was cooking and not giving Caspar enough attention during the play date
+### Parenting techniques — active
+- **"Foxy peek" stair technique:** Used Foxy toy to peek through bannister to coax children up stairs to bed (Monday)
+- **Double nappy strip:** Strip one nappy, let bum dry, do other's nappy, come back — both children on mats 5–10 mins; accepted the routine
+- **Holding in bed without voice:** Lay Caspar down gently, said "that's ok, daddy will come back" — he didn't cry; jumped in bed but settled
+- **Earplugs:** Must carry in pocket at all times; Kiwifruit to wear jeans with two good pockets
+- **Evening run before bedtime:** 25 minutes outside with balls — drained energy dramatically; smooth bedtime followed
+- **Apple yoghurt bridge:** When Phoenix refuses food, offer preferred item as bridge rather than fighting; comes back to the food herself
+- **Withdrawing without leaving the room:** Agreed new technique when Caspar thrashes; step back, let him be alone with Kiwifruit present; let him choose to acquiesce
+### Blackout curtain (11 May)
+- Arrived today (Monday 11 May); to be installed in recess of double glazing Tuesday
+- Currently: thick curtain + magnets; not full blackout; children waking at first light 5:30am
+- Kiwifruit looking forward to it significantly
+---
+## Journal sync — 12–15 May 2026 (sources: "Journal glorious Tuesday", "Journal weds", "Therapy/Catarina", "Journal Thursday", "Journal Friday!!")
+### Preschool
+- **13 May (Wednesday):** Preschool day; children went to nursery. Kiwifruit and Carciofi picked them up — Fox/Caspar ran to the fence, jumped into Kiwifruit's arms; asked to be carried home; very affectionate, wanted to be held close
+- **14 May (Thursday):** Preschool day 2 (9–1); put down for nap 1:30pm; up at 3pm; high energy evening (batteries not fully run down after nap) — still making noise and chatting to each other at 9:30pm
+### children-sw-1 visit — 15 May 2026
+- children-sw-1 and student-sw-1 visited
+- Positive feedback: children comfortable and happy, engaged in play with both visitors; children-sw-1 and student described as "really surprised" by level of comfort
+- Good feedback on how well children have settled in
+### Adoption legal update — 15 May 2026
+- birth-mother-1 (Nicola) shared through children-sw-1 that she thinks Kiwifruit and Carciofi are "great people" and the contest is not personal — she is doing it so children know she always did everything she could to keep them
+- The conciliation meeting with birth-mother-1 and birth-gm-1 (Denise) appears to have landed well — she came away thinking "these are really nice people, the right people"
+- Important for children's life story work: birth-mother-1 really wanted them and always loved them but wasn't able to care for them
+- foster-carer-1 (Olwen) noted: contested adoption means children can be told their birth mum always fought for them — better for children than a non-contested disappearance, which can cause anger and unresolved pain
+### Children's development — personalities and attachment
+- **14 May:** Children described as a "delight to be around"; personalities emerging clearly; level of joie de vivre noted as "off the charts"; comparison to Ginepro's adopted daughter Ella (Cicoria) as similarly outgoing
+- Kiwifruit's love and connection to both children deepening with every moment; feeling strongly that being their dad is "quite wonderful"
+- **13 May:** Kiwifruit shifting — wanting to pick Fox up and hold him when Fox winds him up in the evening, rather than disengaging; cuddles becoming more two-way
+- Story time in children's room working well for bedtime
+### Parenting techniques — new / active
+- **Say sorry quickly technique:** When Kiwifruit loses balance or reacts badly — say "silly daddy", explain what happened and why; apologise quickly; even at age 2 Bunny/Phoenix beginning to understand; good habit to establish for Fox/Caspar too
+- **Pick-up before responding:** When anger rising, pick up child first, then decide how to respond; add a deep breath to the routine (Origano-recommended)
+- **Trust Model / perceivable chunks:** Children eating far better with food that has identifiable chunks — sausage, potato, carrot work well; stringy meat (e.g. curry) rejected by both; Kiwifruit bought sausages to make sausage casserole
+- **Milk as transition object:** Morning and evening milk works reliably to transition children away from meals; elderberry ("berry meds") also works as a transition treat
+- **Story time in room:** Working well for bedtime routine
+- **Forgotten teeth (12 May):** Noted as a miss — watch going forward
+### Fox (Caspar) — individual arc
+- Running to gate at preschool pick-up and jumping into Kiwifruit's arms; asked to be carried home 13 May
+- Caspar 3:30am or 1:30am wake most nights; losing dummy; settling relatively well
+- 15 May: unusual weeing during nappy change at 3:15am (3rd time since placement)
+- Eats more than Bunny/Phoenix; still heavier (15.9kg); trust model suggests amounts may be settling
+- Loving pork and lentils more than Phoenix; getting more excited about cereal in morning (larger pot)
+- Evening high energy after late nap (14 May) — chatting to Phoenix until 9:30pm
+- Yellow sleep discharge in eye 13 May (passing infection); runny nose; elderberry syrup ongoing
+- Cuddles becoming more two-way; pressed forehead against Kiwifruit's; climbing into lap
+- Bedtime 14 May: some resistance initially; eventually settled
+### Bunny (Phoenix) — individual arc
+- Self-regulating appetite: eating faster but stopping when done; lighter than Caspar (12.6kg)
+- Rejecting food without perceivable chunks (curry); self-selected serving sizes
+- Chatting to Caspar at bedtime; joie de vivre noted
+- Reacts to Carciofi's pain: 12 May (Carciofi very poorly) — Phoenix aware and affected
+- Beginning to understand explanations; cognitive understanding growing
 ---
 ## Update — 10 May 2026 (source: weekly coaching session)
 ### Parenting observations

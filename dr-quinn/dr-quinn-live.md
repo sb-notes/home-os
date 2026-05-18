@@ -1,8 +1,59 @@
-# Dr Quinn — Current State (8 May 2026)
+# Dr Quinn — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
-<!-- ANCHOR -->
+<!-- <!-- ANCHOR -->
+---
+## Journal sync — 10–11 May 2026 (sources: "Journal Sunday", "Journal monday")
+### Wake-up log
+- **10 May (Sunday entry covers Fri/Sat nights):** No wake-ups Friday night; no wake-ups Saturday night — family feeling renewed as a result
+- **11 May:** Caspar twice at first light 5:30am (no wake-ups earlier in night; light disruption)
+### Poo log — children (10 May)
+- Phoenix: 2/day
+- Caspar: 1/day
+- Friday: 1 compact poop
+- Saturday: explosion
+### Kiwifruit physical health (11 May)
+- Tinea update: 70% of main lesion now showing skin; redness fading; starts to crust and scab off; other patches also fading; ~10 days of Terbinafine remaining; applying neem oil for ~1.5 hours; question for Dr Quinn — is 1.5 hours too long?
+- Yoga: 10 minutes after morning walk on Sunday evening — helped lengthen what walking had shortened; continuing
+### Hannah (11 May)
+- Blood test this morning (Monday); Hannah had to go to medical centre before work
+- In pain during Sunday evening; period pains returned after period ended (likely inflammatory cycle connection); unable to take ibuprofen; going through motions
+### Trust Model / food log (11 May)
+- **Eating out at children's farm (Sunday):** Major Trust Model milestone — children were calm, not demanding food, understood food was coming; did drawing while waiting; fed pizza, all finished at same time without rushing; Hannah's observation: best to order food they prefer over what adults order; Kiwifruit's interpretation: trust model working, food always comes
+- **Monday evening dinner (solo parent):** Pressure-cooked pork/lentil stew + rice; Caspar demolished his bowl, asked for more rice and pork; Phoenix initially refused ("No no no"), asked for apple yoghurt, given it, then ate ~¾ of bowl after peer pressure from Caspar; significant improvement on Sunday's half-bowl
+- **Key technique (Monday):** When Phoenix said no to food, offered apple yoghurt as bridge rather than fighting — she ate it, then came back to the food; worked well
+---
+## Journal sync — 12–15 May 2026 (sources: "Journal glorious Tuesday", "Journal weds", "Therapy/Catarina", "Journal Thursday", "Journal Friday!!")
+### Wake-up log — Kiwifruit
+- **12 May:** Caspar 2:15am (pacifier issue — woke Phoenix; both easily settled); Caspar again 3am (dropped backup dummy, had to move dresser to retrieve it; ~30–45 min lost)
+- **13 May:** Caspar 3:30am (crying for pacifier, easily settled; woke Phoenix, also settled)
+- **14 May:** Caspar 3:30am; Phoenix 6:30am
+- **15 May:** Caspar 1:30am (lost dummy — found it himself and went back down; Kiwifruit noted this felt really good); Caspar 3:15am (needed nappy change; unusual weeing during change — 3rd time since placement; easily settled after)
+### Kiwifruit physical health
+- **12 May:** Ear itching during night when warm; applied Daktarin in morning. Hannah got more Daktarin during the day
+- **13 May:** Front of right leg stiff on walk; doing yoga daily (salute to sun + yin-style stretches); yoga lengthening what walking shortens; notes this is working well
+- **14 May:** Right hip / top of right thigh stiff at start of walks (several days); doing kneeling-on-floor / lean-back-on-chair stretch for top of thigh; ~5 miles walking daily
+- **15 May (tinea update):** Tinea / itchy leg clearing through skin; areas: front of right shin (large area), three patches left shin, left ankle (significant), right ankle (patches), right big toe; redness giving way to pale pink as expelled; body reminder of immune system load; notes how much healing has occurred without NHS
+- **EMDR somatic integration (13–14 May):** Heels now dropping in yoga downward dog — held fear pattern released; walking by river, first time able to activate core/stomach muscles that hadn't activated before; solar plexus area lifting
+### Hannah physical health
+- **12 May:** Blood tests from Monday — results back; see below
+- **13 May:** Newsome Clinic appointment — confirmed treatment plan; nothing further can happen until laparoscopy. Hannah also had GP visit with new doctor (went in very prepared, using Dr Quinn project in Claude); GP accepted and agreed with all her documented symptoms
+- Blood results: oestrogen slightly low; iron lower than last tested (previously hyper-elevated by matcha — probably about right now, maybe slightly under)
+- GP referrals: (1) referred to Worthing Hospital urgently (cancer flag to expedite only — not actual suspected cancer); appointment end of next week; (2) review of back/bum symptoms
+- Laparoscopy likely outcome through NHS; may not need private route (£5k)
+- **somatic-therapist-1 recommendations:** fascia release cone for pelvic release + Togu ball (semi-inflated for abdominal area resistance work); Hannah tried both and liked them
+- **13 May:** In visible pain (back and bum); taking serious painkillers; couldn't solo parent for Kiwifruit to make choir on time
+### Children health
+- **12 May weights:** Caspar 15.9kg; Phoenix 12.6kg (weighed at preschool or at home)
+- **12 May poo log:** 1 poop each at preschool
+- **13 May:** Caspar — yellow sleep discharge in centre of lower eyelid (presumed passing infection); little runny nose; otherwise both children well
+- **Both children (ongoing):** Elderberry syrup 2.5ml twice daily continuing (were ill previous week; maintaining to ensure full recovery)
+- Elderberry referred to by children as "berry meds" — working well as transition treat away from mealtime
+### Trust Model / food log — children
+- **12 May:** Phoenix self-regulating — eating faster but also sometimes stopping; Caspar still eating more (heavier); Caspar loving pork and lentils more than Phoenix who rejected it
+- **14 May:** Children singing, laughing, making appreciative eating noises during meals — noted as transformed compared to earlier months; Phoenix rejecting food without perceivable chunks (curry, stringy meat); Caspar also dislikes stringy meat; **cooking note: ensure perceivable chunks — potato, carrot, sausage (big winner)**; Caspar amounts settling; milk (morning and evening) working as transition object; "berry meds" as transition treat
+- **15 May:** Trust Model continuing to deliver; Phoenix self-regulating appetite
 ---
 ## Update — 10 May 2026 (source: weekly coaching session)
 ### Body observations — Kiwifruit
@@ -1008,7 +1059,8 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - **7 Apr 2026:** Spread pattern worsening — scattered red dots across wider shin area. Missed coconut oil applications one day. Tea tree ointment added at midday slot as second antifungal agent. E-consult to GP planned. Holding protocol: Canesten morning + evening, tea tree midday, neem + coconut oil evening, propolis spray at night.
 - **8 Apr 2026:** Hannah found Boots Dermacare Hydrocortisone 1% cream. Pharmacist suggested it. Ollie applied briefly then washed off immediately after Dr Quinn warning — hydrocortisone contraindicated on active fungal infection (causes tinea incognito). No significant exposure. Protocol reverted. E-consult to ADA Health Partnership GP submitted 8 Apr 2026. Requesting oral terbinafine 250mg OD x 2 weeks per NICE guidance.
 ### Current Active Protocol (from 25 Apr 2026)
-- **Terbinafine 250mg:** Once daily with food — started 21 Apr 2026, day 13 of 28 as of 3 May 2026. Course ends 19 May 2026. Do NOT stop early.
+- **Terbinafine 250mg:** Once daily with food — Course 1 started 21 Apr 2026, ends 18 May 2026 (3 tablets remaining as of 17 May). Course 2 ordered 17 May via Prescription Doctor — start immediately on receipt, no gap. Do NOT stop early.
+- **Rationale for Course 2:** 24-hour itch cycle confirmed ongoing fungal suppression not eradication; coverage extended despite full Course 1; 4-month established infection warrants extended treatment.
 - **Daktarin (miconazole 2%):** Twice daily to main lesion + left calf satellite — simplified from 3x daily now systemic treatment running
 - **Tea tree cream:** Now optional — can drop if compliance is difficult; Daktarin twice daily sufficient alongside terbinafine
 - **Neem oil (1:5 in coconut oil):** Every evening — continue through and beyond terbinafine course as relapse prevention
@@ -1041,6 +1093,7 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - **CRITICAL NOTE:** Never apply hydrocortisone to this lesion while active fungal infection present — will cause tinea incognito
 ### Progress Log (continued)
 - **9 Apr 2026:** Switched from Canesten to Daktarin (miconazole 2%) — broader spectrum, antibacterial + antifungal. Tea tree cream midday added. Protocol: Daktarin morning + evening, tea tree midday, neem + coconut oil evening, propolis spray night.
+- **17 May 2026:** Seven-photo review. Day 26 of 28 terbinafine — 3 tablets remaining. Coverage has extended since 7 May despite continued treatment, particularly inner shin strip now more defined. Main lesion drier and flatter with scale shedding, but not dramatically resolved. Lower shin and ankle zone looking calm and largely clear — good sign. 24-hour itch cycle noted: itch returns in the hour before next terbinafine dose, confirming ongoing fungal activity being suppressed rather than eradicated. Second 28-day terbinafine course ordered today via Prescription Doctor to ensure zero gap. Float tank session this afternoon — Daktarin applied first, coconut oil post-float. Protocol unchanged: continue Daktarin 2x daily, neem + coconut oil evening, coconut oil daily.
 - **7 May 2026:** Five-photo review. Day 17 of 28 terbinafine. Main lesion still actively crusting with golden-orange scale — similar to 25 Apr character, not dramatically resolved. New inner shin strip of connected red lesions visible (image 2) — not present on 3 May photos. Interpretation: either dying fungal tissue becoming visually apparent before shedding (reassuring), or continued spread on inner shin (cautious). Warm days causing itch flare — heat amplifying inflammatory response. Left calf satellite small and contained. Decision: no protocol change, continue full course. Daktarin explicitly extended to cover inner shin strip. Temperature management reinforced. Photo review requested Saturday/Sunday to monitor inner shin strip. Course ends 19 May 2026.
 - **3 May 2026 (today):** Six-photo review. Day 13 of 28 terbinafine. Main lesion predominantly white dry scale — normal skin visible beneath in patches, flat, no active weeping, ring border softened. Wide shin view shows scattered satellite dots fading. Left calf satellite lesion clearly retreating. No new lesions. Best position across entire 10-week timeline. Protocol simplified: Daktarin 2x daily (tea tree now optional), neem + coconut oil evening, coconut oil daily. Course ends 19 May 2026.
 - **3 May 2026:** Six-photo review. Day 13 of 28 terbinafine. Main lesion predominantly white dry scale — normal skin visible beneath in patches, flat, no active weeping, ring border softened. Clear healing tinea morphology. Wide shin view shows scattered satellite dots fading — less red, smaller than 27 Apr. Left calf satellite lesion clearly retreating, surrounding skin normal. No new lesions appearing. Overall: best position across entire 10-week timeline. Terbinafine response as expected at day 13.

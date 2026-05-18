@@ -1,14 +1,23 @@
-# Rosie Rentals — Current State (4 May 2026)
+# Rosie Rentals — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:11 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 13–14 May 2026 (sources: "Journal weds", "Journal Thursday")
+### Ventnor Villas — chimney repair (urgent action)
+- Chimney and roof repair on SE chimney is the next big after-hours to-do for Kiwifruit
+- Actions: arrange scaffolder quotes; book scaffolder; book roofers to quote; get chimney fixed this summer
+- Paid cleaner-1 for the cleaning he did recently — Ventnor Villas (✅)
+### Scaffold and roofer sequence (from Journal Thursday, 14 May)
+- To arrange: (1) scaffolder quotes; (2) book scaffolder; (3) book roofers 1, 2, 3 to quote; (4) get chimney repair done
+---
 Purpose: Living current state file for all Rosie Rentals properties. Update after each significant event, communication, or decision. Last updated: 31 March 2026
 ## Journal sync — 31 March 2026
 - Hereford Court: Awaiting final confirmation from Molly (new tenant, large master bedroom) on move-in date. Two alternative candidates held in reserve.
 - Hannah needs to complete the contracting process for the new Hereford Court tenant.
 - Learning noted: in future, all prospective tenants to be added to a WhatsApp group and managed by existing flatmates directly — flatmates to organise viewings and take responsibility for selection.
-- To do: Organise Togan to clean Ventnor Villas and Hereford Court on tenancy changeover.
+- To do: Organise cleaner-1 to clean Ventnor Villas and Hereford Court on tenancy changeover.
 ---
 Last updated: February 2026.
 Owners: Oliver Happy & Hannah Chapman. Primary contact: [oliver.happy@gmail.com](mailto:oliver.happy@gmail.com). Mortgage adviser: Kathryn Brown, Gregory Law Financial Planning Ltd. Solicitor: engaged as needed for leasehold disputes.
@@ -291,7 +300,7 @@ OpenRent email received flagging EICR renewal deadline (1 April 2026). Fines up 
 - Bedford Square re-let: £1,450 as above — not a sitting tenant increase but a market reset on new tenancy.
 - Platform decision (11 Mar 2026): SpareRoom confirmed as the correct platform for Bed 3 re-let. Remains UK's #1 flatshare site by traffic. 190 live listings in BN3 at time of check. No credible alternative for a room-only let in a flatshare. List promptly once room is clean and photographed; use SpareRoom's Early Bird feature for faster exposure.
 - **SpareRoom ad live (11 Mar 2026):** Ad #12280831 — "Small double in a sunny penthouse" — listed at £527pcm, available 12 Apr 2026, minimum 1 month term. Deposit £527. Females preferred. Bills not included (~£80–120/month shared three ways). Ad fixes applied post-listing: landlord status corrected to live-out; parking note clarified; gender preference noted as legally sensitive for live-out landlord situation.
-- **Email to Amy & Lucie sent (11 Mar 2026):** Subject "Holly departs, a new flattie joins..." — informed tenants of Holly's departure, shared SpareRoom ad link, proposed viewings Sat 21 Mar and Sat 28 Mar in 3-hour blocks, confirmed no rent increase in 2026, updated on RTM progress (fire doors, repainting, Togun cleans), offered to fix paint under Holly's window.
+- **Email to Amy & Lucie sent (11 Mar 2026):** Subject "Holly departs, a new flattie joins..." — informed tenants of Holly's departure, shared SpareRoom ad link, proposed viewings Sat 21 Mar and Sat 28 Mar in 3-hour blocks, confirmed no rent increase in 2026, updated on RTM progress (fire doors, repainting, cleaner-1 cleans), offered to fix paint under Holly's window.
 - **Car space note:** Separately let to another flat owner at £110/month cash. Not included in room rent or SpareRoom listing. Should be documented with a simple signed licence agreement. Cash income technically declarable on self-assessment.
 ### 🤔 Whole-Unit Let vs HMO — Strategic Review (27 Mar 2026)
 - **Trigger:** Difficulty finding a replacement for Holly's room (Bed 3, £527/month) via SpareRoom has prompted Ollie to question whether the HMO model is worth continuing at Hereford Court.
@@ -345,7 +354,7 @@ Last journal sync: 6 April 2026
 - Action: contact each of the previously approached roofers and ask them to come back and quote on fixing the chimney
 - Put quotes to the freeholders, get agreement, get work booked and done
 - Ollie to organise internal repainting of bedroom once chimney is fixed
-- Also: consider having Togan do a deep clean of Ventnor bathroom when he does the Bedford Square clean (ask Hannah for Togan's Bedford Square date)
+- Also: consider having cleaner-1 do a deep clean of Ventnor bathroom when he does the Bedford Square clean (ask Hannah for Togan's Bedford Square date)
 - Thought: might be worth proposing to Julia that either she manages the chimney repair or they get a managing agent — Ollie doesn't have the time for the next few years
 - Broader observation: family is spending too much time on property management and may be approaching the stage where a managing agent is justified
 ---
@@ -445,7 +454,7 @@ Last journal sync: 6 April 2026
 ### Open actions — updated 15 Apr 2026
 - [ ] Book plumber for Ventnor Villas — check pipes underneath the boiler
 - [ ] Book roofers to quote on Ventnor Villas chimney (top property priority)
-- [ ] Confirm Togan Bedford Square and Hereford Court cleans ahead of tenant move-ins (Leon & Laura 19 Apr, Molly 17 Apr)
+- [ ] Confirm cleaner-1 Bedford Square and Hereford Court cleans ahead of tenant move-ins (Leon & Laura 19 Apr, Molly 17 Apr)
 - [ ] Serve EICR, CP12, and EPC copies to Molly and Leon & Laura on or before move-in day
 ---
 ## Journal sync — 8 April 2026 (Catarina day diary)
@@ -462,7 +471,7 @@ Last journal sync: 6 April 2026
 ### Open actions — updated 8 Apr 2026
 - [ ] Chase Molly to sign corrected tenancy agreement
 - [ ] Confirm Olly’s specific scope of work for each property week of 13 April
-- [ ] Book Togan for HC and Bedford Square cleans (Molly move-in 17 Apr, Leon & Laura 19 Apr)
+- [ ] Book cleaner-1 for HC and Bedford Square cleans (Molly move-in 17 Apr, Leon & Laura 19 Apr)
 - [ ] Confirm satisfactory EICR certificate from Daniel (Hereford Court)
 - [ ] Serve EICR, CP12, and EPC copies to Molly and Leon & Laura on or before move-in day
 ---

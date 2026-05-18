@@ -1,8 +1,97 @@
-# Cheryl — Current State (8 May 2026)
+# Cheryl — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-17 05:45 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-18 06:10 UTC -->
 
 <!-- ANCHOR -->
+---
+## Update — 17 May 2026 (source: weekly wrap-up clarification)
+- Weekend work crept in Sat/Sun (Claude skills update); async rhythm used — set going, phone away, 30 mins of something else, next step, repeat; more sustainable than solid blocks; "almost there"; pattern still not switching off cleanly
+- Sunday float: happened and was dreamy — good restorative punctuation to the week
+- Men's support structures: clearing circle missed 3+ times due to Carciofi's commitments; Forever Dads filling some space; open question whether to formally redirect from clearing circle
+- Fox/Caspar repair cycle: appears to seek/enjoy the repair cycle after ruptures — snuggles in, engages; open whether rupture-repair is inadvertently rewarding or healthy attachment signal
+- "I have arrived" coaching prompt: Kiwifruit described profound settling in Shoreham, connected to doing things good for him (walks, yoga, choir)
+- EMDR parents-permission: parents visualisation (giving permission to succeed) brought Kiwifruit to tears; morning affirmation developing; open what else this invites at work
+---
+## Journal sync — 10–11 May 2026 (sources: "Journal Sunday", "Journal monday")
+### Anger log — 10–11 May
+- **Sunday 10 May — nappy change incident:** Caspar throwing rattle at Kiwifruit — rattle hit chest under chin hard; Kiwifruit felt unsafe/threatened; got angry, contained it (no shouting); said "we don't throw things at Daddy" and put Caspar in bed; Caspar urinated from fright; Kiwifruit cuddled and apologised
+- **Sunday 10 May — bedtime nappy:** Caspar thrashing, laughing, not stopping; Kiwifruit picked him up by his leg and pressed him down on the mat 3 times (not a shake — Kiwifruit corrected initial catastrophised account); Caspar stopped laughing and cried; Kiwifruit felt terrible; went through repair cycle after
+- **Monday 11 May:** Anger contained at bath (Caspar screaming at top of lungs); Kiwifruit held him up and gave a firm warning; Caspar corrected; no incident. Solo bedtime completed without raising voice. Felt proud of self.
+### Hannah's observations on anger progress
+- Hannah told Kiwifruit that anger has massively reduced over last 4 weeks — "the heat has gone out of it"; voice not so loud; not shouting anymore — all of this is working
+- Concern: picking Caspar up by leg / holding upside down still feels scary to him; agreed to stop this
+- **Technique agreed:** When Caspar thrashes and won't stop: withdraw without leaving the room; step back, let him be alone but Kiwifruit still present; let him complain and choose to acquiesce — as used with Bunny/Phoenix
+### Repair cycle — deepened
+- Hannah's addition: after any anger incident, spend more time in repair immediately; say "Daddy is sorry" and cuddle him; naming the apology, not just cuddling, is important
+- Kiwifruit recognises his inner child resists this ("No I'm angry") but sees why it's critical
+- Caspar seems to enjoy the repair cycle — goes through it and snuggles up
+### Techniques confirmed — what works with Caspar
+- "We don't throw that inside" + calm voice + eye contact more effective than physical correction
+- Withdrawing without leaving the room (as used with Bunny) — agreed as new go-to for thrashing
+- Picking up and putting in bed: NOT working — too far from the event for cause-and-effect understanding; to phase out
+- Earplugs in pocket — essential; to wear jeans with good pockets going forward
+- Evening run of 25 minutes outside with balls before bedtime — worked brilliantly Monday; drained energy; made bedtime smooth
+### Emotional state — Sunday 10 May
+- Ended weekend feeling remorseful, depleted, sad; no TV (felt like self-punishment)
+- Weekly wrap-up walk with Carciofi when wanted to be watching TV; went to bed with no wind-down
+- Missing men's clearing circle for 3rd+ time due to Carciofi's commitments (folk night Wednesday 13 May); only £10 but feels deeply unfair; all his things are in the house
+- Caspar throwing schema very wearing especially entering weekend tired; still recovering from Newcastle trip
+- Power imbalance noted: Carciofi's half-day off can happen during daycare; Kiwifruit's cannot
+### Emotional state — Monday 11 May (end of day)
+- Feeling surprisingly well rested after going to bed earlier Sunday night
+- Had a genuinely good day at work; felt accomplished
+- Solo parenting 5:15pm onwards — managed dinner and bedtime without incident; proud of self
+- Inner child wisdom confirmed: going to bed earlier > waking up later
+- Goal for the week: look after self so he can look after the family
+- 10 minutes of yoga after walk on Sunday — landed well; continuing
+---
+## Journal sync — 12–15 May 2026 (sources: "Journal glorious Tuesday", "Journal weds", "Therapy/Catarina", "Journal Thursday", "Journal Friday!!")
+### Emotional state — 12 May (Tuesday)
+- Missing men's clearing circle for the 3rd time due to Carciofi's gig commitments; considering moving to Fort Knightley as alternative
+- Forever Dads that evening — finding it as the primary male peer support substitute
+- No rest: continuously relieving Carciofi due to her pain/period; plan to implement half-day each on weekends
+- Kiwifruit's anger note: "the heat is gone" — still work to do but more manageable
+- Carciofi in significant pain, taking serious painkillers; hard to witness
+### EMDR Session — 13 May (Therapy/Origano)
+- Memory 18 (job security anxiety) continued; initial disturbance 6.5–7/10
+- Processing arc: anxiety fading, stomach "slowly filling", mind moving to positive things
+- Key realization: activation transitioning from fear to nervous excitement — "it's okay to be nervous excited"
+- Past redundancy memories came up in black and white; no longer triggering
+- Childhood financial insecurity processed: car burning on motorway memory (started 6/10, dropped to 3–4); disturbance from suit shopping/high school ball embarrassment also processed
+- **Transgenerational loyalty insight (from Origano):** Kiwifruit carrying parents' financial burdens out of love/loyalty — wealth felt "for others, not for us"
+- Parents now secure (mortgage paid off, house in trust) — but "little Kiwifruit" still operating from old timeline
+- Powerful visualization: parents looking Kiwifruit in eyes with love, giving permission to succeed — made Kiwifruit very emotional
+- Recognition from parenting perspective: Kiwifruit wants to reassure children they don't need to carry parent pain — same dynamic mirrored
+- Somatic shifts confirmed: heels dropping in yoga (release of held fear); walking by river, noticed ability to activate core/stomach muscles that hadn't activated before
+- Forever Dads: Kiwifruit shared EMDR journey; two other fathers opened up about intense anger — "it's really not just me"; normalizing experience
+- **Action items from Origano:** continue picking up child before deciding how to respond; add deep breath to routine; create morning affirmation about lovingly giving back family burdens; read *Every Family Has a Story*
+- Recommended: transgenerational unburdening can include grandparents and great-grandparents too
+- Rightbrain founders noted as giving permission to succeed; standing back in Northern English/Scottish style — connected to session theme
+### Emotional state — 13 May (Wednesday journal)
+- Pre-Origano update sent: feeling unencumbered and wonderful; EMDR unburdening very real
+- Anger episodes on Sunday (Carciofi confirmed: "heat is gone now"); not raising voice anymore
+- Noticing a shift: when Kiwifruit is in with Fox/Caspar in the evening, wanting to pick him up and hold him rather than disengage — instinct shifting
+- **Parenting technique noted:** say sorry quickly when losing balance — "silly daddy"; explain what happened and why; start explaining to Bunny/Phoenix as she can now understand a lot
+### Emotional state — 14 May (Thursday)
+- Worked until 9:30pm — unplanned, driven by wanting to finish things; regrets missing wind-down time
+- EMDR physical integration continuing: heels dropping in yoga; first time able to hold self up with stomach muscles — solar plexus area lifting
+- Feeling unburdened, strong, stable, forward momentum — especially in role at work
+- Connection to Bunny and Fox deepening with every cuddle; feeling love growing; loves being their dad
+- Feeling really happy sister-1 has a partner; happy for mother-1 and father stepping back as partner steps in
+### Emotional state — 15 May (Friday)
+- **Joined Welly Wailers choir (sea shanties):** first session Thursday night; practices 5:30–8pm second Thursday; gig third Thursday at Duke of WeWellington; Luppolo introduced Kiwifruit
+- Enjoyed it: warm welcome, laughing and singing outside in beer garden; fulfils social + musical need
+- Affirmations by river connecting to "I have arrived, I have settled" feeling — parallels to Melbourne and early Hove years; confirms belonging
+- Carciofi in visible pain (back and bum), taking serious painkillers; couldn't solo parent to let Kiwifruit make choir on time; hard to see
+- Carciofi's father visiting Saturday; Carciofi's mother planning to come next weekend with friend Amanda the photographer — first visit otherwise
+- Luppolo's introduction at choir felt validating: "This is Ollie and he and his wife have done an amazing thing by adopting twin toddlers at 18 months"
+- Sense of this being "superhuman" — both Kiwifruit and Carciofi feeling the weight and also the achievement
+### Open actions — updated 15 May 2026
+- [ ] 🗣️ FOR ORIGANO: Continue Memory 18 — childhood financial insecurity disturbance still at 3–4; more processing needed
+- [ ] 💪 FOR KIWIFRUIT: Create morning affirmation about lovingly giving back family burdens with love
+- [ ] 💪 FOR KIWIFRUIT: Read *Every Family Has a Story* (Origano recommendation)
+- [ ] 💪 FOR KIWIFRUIT: Continue pick-up-child + deep breath routine when anger rising
+- [ ] 💪 FOR KIWIFRUIT: Practice saying sorry quickly — "silly daddy" — when losing balance with children
 ---
 ## Update — 10 May 2026 (source: weekly coaching session)
 ### Themes raised
@@ -1554,7 +1643,7 @@ Kiwifruit asked for clarification on the Gina anchor. Confirmed: Gina was a real
 - [ ] The Clearing rescheduled — next available Monday
 - [ ] Forever Dads session — next week or two
 - [ ] Explore swimming at Splash Point (1x/week)
-- [ ] Talk to Jake about Welly Wailers
+- [ ] Talk to Luppolo about Welly Wailers
 - [ ] Plan beers with Bobby (Shoreham, Nelson pub)
 - [ ] Write journal entry about Gina (anchor word — STILL outstanding)
 - [ ] Contact Adoption South East re: formal adoption support needs assessment (still outstanding)
@@ -1572,7 +1661,7 @@ Kiwifruit asked for clarification on the Gina anchor. Confirmed: Gina was a real
 ### Self-care — rest deficit identified (29 Mar)
 - Choir described as "good for the soul but not rest" — the weekly outing provides social connection and singing but does not address the rest deficit
 - Ollie explicitly naming that he doesn't give himself enough time to rest because he is "constantly working on improving things" (Claude system, custom instructions, skills, backup to GitHub)
-- Planning next phase of self-care: Welly Wailers choir (talk to Jake), swimming at Splash Point (one evening or one morning per week), beers with Bobby
+- Planning next phase of self-care: Welly Wailers choir (talk to Luppolo), swimming at Splash Point (one evening or one morning per week), beers with Bobby
 - Hannah will start choir on Monday nights next term (after 3–4 week break); Ollie will be with the children on those nights and needs his own outlet on a different evening
 - Clinical note: the pattern of using every available moment for optimisation rather than rest is worth bringing to Catarina — this is the assumed-responsibility pattern applied to his own system
 ### Emotional state — 30 March 2026
@@ -1587,7 +1676,7 @@ Kiwifruit asked for clarification on the Gina anchor. Confirmed: Gina was a real
 - [ ] The Clearing — Monday 31 March (tonight)
 - [ ] Forever Dads session — next week or two
 - [ ] Explore swimming at Splash Point (1x/week)
-- [ ] Talk to Jake about Welly Wailers
+- [ ] Talk to Luppolo about Welly Wailers
 - [ ] Plan beers with Bobby (Shoreham, Nelson pub)
 - [ ] Write journal entry about Gina (anchor word — STILL outstanding)
 - [ ] Contact Adoption South East re: formal adoption support needs assessment (still outstanding)
@@ -1606,7 +1695,7 @@ Kiwifruit asked for clarification on the Gina anchor. Confirmed: Gina was a real
 - Solution identified: post-7pm bedtime walk with journaling, affirmations, and friend calls
 - Alternative considered: 6:30am wake for yoga or walk — may trial next week
 - Guitar to be placed in loft room for daytime playing — named as a wellbeing activity alongside yoga
-- Choir ending Saturday; considering joining Welly Wailers as alternative — will talk to Jake
+- Choir ending Saturday; considering joining Welly Wailers as alternawill talk to Luppolo
 - Clinical note: exercise and yoga remain absent; the structural problem (no time slot) is now clearly mapped but not yet solved. This needs to be raised with Catarina on 1 April.
 ### Workspace frustration (27 Mar)
 - Frustrated by having worked in small spaces for years; eager to move desk to loft now that Hannah has agreed to rearrange the bedroom
