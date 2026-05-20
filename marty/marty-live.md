@@ -1,8 +1,38 @@
-# Marty — Current State (17 May 2026)
+# Marty — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-19 06:06 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:05 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 18–19 May 2026 (sources: "Journal monday", "Journal Tuesday")
+### Work Product OS — weekend + Monday (18 May)
+- Kiwifruit spent significant weekend time (Fri–Mon) on Work Product OS maintenance: pruning state files (maxed out), upgrading and harmonising skills, cleaning up Notion workspace
+- Painful work but recognised as generating podcast content for Adventures in AI — episodes on what Kiwifruit has experienced with deep authority and passion
+- Notes that skills are easier to manage inside Rightbrain (agents) than the current external Claude setup
+### First London day (19 May)
+- First trip to London with growth team and agent delivery team took place today (Kiwifruit was in London while Carciofi parented solo)
+- Arrangement: Rightbrain pays train and subsistence; Kiwifruit goes up once a month
+### Product OS / 19 May frustration
+- 14 threads worked through on Product OS; feels close to resolving but frustrated by how much time it's taking and how it's getting in the way of other things
+- Working on it Fri through Tue morning
+### ProdMind — first session outcomes (Tue 19 May)
+- ProdMind working really well after session 1
+- Anice (Anna) and the group suggested banding together to produce a new framework describing the AI-native world; Achillea (Adam) also keen — has recently written a blog article on the same topic
+- Agreed: Kiwifruit, Anice, and Achillea to co-author first ProdMind paper together
+- To-do: build a ProdMind site to publish the papers on
+- Kiwifruit already seeing clear value in the group and learning from it — "really powerful stuff"
+### Augmented — pre-launch activity (19 May)
+- Augmented very active despite no formal session yet
+- Nick (no codename — flagged) sharing how he saved 80% on token costs; others finding it useful; active discussion about what people are building
+- Nick has built a vibe app called "Hype Clip" in 5 days, sold it for 15x ARR with over 100 paying clients — remarkable
+- Good building practices and vibe-coding approaches being shared in the group; Kiwifruit excited about the potential
+- Aglio (Hugo, design lead) also seen as a beneficiary — will feel more like a builder than just a designer as a result of the group
+### Advisory connection — butler / Fico (19 May)
+- Butler (Jeeves) met with Fico (Matt, Rightbrain co-founder) on Sunday for what turned into a 2-hour session
+- Jeeves is energised and has a date in the diary for first Shoreham Tech event; Fico will use his existing She-Codes and clearing community lists to get the word out
+- Planned first session topic: "Living with AI, the agent in the room" (intro) + builders workshop as follow-on funnel
+- Kiwifruit delighted to have connected them: "everything I like about advisory and connecting people"
+- Fico described Kiwifruit as "a gem" to Jeeves; Jeeves concurs — Kiwifruit found this genuinely validating
 ---
 ## Update — 17 May 2026 (source: weekly wrap-up clarification)
 ### ProdMind Session 1 — 15 May 2026

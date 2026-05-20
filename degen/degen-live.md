@@ -1,8 +1,21 @@
-# Degen — Current State (17 May 2026)
+# Degen — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-19 06:05 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:04 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 18 May 2026 (source: "Journal monday")
+### Cash flow — tight week
+- Daily account ran low to ~£500; Kiwifruit transferred money from Ventnor and Hereford property accounts to cover until pay day (~1 week away)
+- Primary cause: Carciofi not working; unlikely to change until September
+- Tax bill being paid each month; Kiwifruit feels comfortable drawing property profit to cover it as that is the source of the tax liability
+- Pension contribution at 17% — need to monitor spending this month to confirm sustainable at this level; may need to trim back
+- Heavy property spending recently; expects more profit available to flow through in coming months
+### Crypto — strategy update (18 May)
+- Watching portfolio for next mini-peak; when it arrives, will sell all dust from CMC portfolio (Rose, Flux, remaining alts) and convert to USDT
+- USDT to sit and wait for TDR signal for next entry
+- Kiwifruit hoping for a larger market correction; Bitcoin at ~$30k would be a re-entry opportunity that could materially transform the ~$20k portfolio toward $50–60k
+- Reflecting on alts experience: cost a lot of time; notes the ~£20k saved is a positive; comfortable that TDR strategy will deliver better returns over time
 ---
 ## Journal sync — 13–14 May 2026 (sources: "Journal weds", "Journal Thursday")
 ### TDR signal — LIT entry (13–14 May)

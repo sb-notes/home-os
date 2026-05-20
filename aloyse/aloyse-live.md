@@ -1,8 +1,67 @@
-# Aloyse — Current State (17 May 2026)
+# Aloyse — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-19 06:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:04 UTC -->
 
 <!-- <!-- ANCHOR -->
+---
+## Journal sync — 16–19 May 2026 (sources: "Journal Saturday", "Journal monday", "Journal Tuesday")
+### Wake / sleep log — 16 May (Saturday entry)
+- Fox 2am: missing dummy, settled from being picked up; woke Bunny, also settled easily
+- Fox 4am: woke again; pattern confirmed — after preschool days (Tue/Wed/Fri) children either exhausted and fall straight to sleep, or wired and talking until 8:30–9:30pm; on wired nights Fox wakes twice rather than once
+- Twice-nightly pattern correlates with: incidents during the day, particularly an anger incident or telling-off
+### Trust Model — 16 May
+- Bunny (Phoenix) self-regulating food well; gets down from table first after each meal
+- Fox (Caspar) eating more, lagging slightly behind her; technique in use: once he's had a very reasonable amount, adding water with a little oats in each subsequent round — makes extra rounds less attractive, though he still pushes through and consequently sometimes doesn't finish his milk
+- Milk: as soon as milk comes out Bunny immediately asks for it — she's leading the transition cue
+- Anxiety very low: both children forgot apple/yoghurt dessert after lunch and didn't raise it; snack wasn't asked for until 11am — both had forgotten; given banana; Kiwifruit notes this is "what good looks like"
+### Wake / sleep log — 18 May (Monday entry)
+- Fox 5:30am: dropped pacifier in bed; woke for nappy — grateful, cuddled, back to sleep
+- **Insight (18 May):** evening milk must be immediately after dinner, not after bath — gives time for fluid to go through before nappy change; full nappies are causing self-wake-ups
+### Family context — 18 May
+- Carciofi's father visited from Friday lunchtime through Monday lunchtime (codename TBD — see flagged names below); lovely visit, children took to him warmly; both parents ran themselves tired hosting
+- Carciofi's right hand has a tendon strain from picking up Bunny daily (similar to friend Ginepro's/Bekka's injury); hand splint/strap ordered from Boots; Carciofi not easily able to move Phoenix around or contain children during nappy time
+- Consequence: Phoenix roams the room during nappy time, Fox wants to join in; Kiwifruit struggling to contain him as he's bigger now
+### Anger log — 18 May (weekend context)
+- 2 minor incidents over the weekend (less intense than previous weeks — "heat gone out of them")
+- Incident 1: Fox took laptop and headphones off table; Kiwifruit moved him too roughly onto cushions/mat and left him; led to abandonment cry cycle; repair: picked him up, he was fine. Lesson confirmed: gentler when moving through space; pick up first
+- Incident 2: minor, during changing into pyjamas
+### Language development — 18 May (explosion)
+- 5-word sentences emerging this week — marked step up from 4-word sentences of two weeks ago
+- Fox: said "I get it Daddy Ball! I get it Daddy Ball!" (2–3 days prior to 18 May); yesterday said "I am drawing flower"
+- Transition observed: from "me" (started a week ago) to "I" (last 3 days) — Fox leading this shift
+- Bunny: using "a" prefix — everything prefixed with "a flower", etc.
+- Both naming most things in their environment as they do them; language blossoming described as "incredible"
+### Developmental milestones — 18 May
+- Fox's hair growing and thickening; still thinner than Bunny's
+- Bunny's hair now looking like little girl's hair; fewer people mixing up their genders
+- Bunny said "why" for the first time — the why phase begins
+- On drawing tablets: Fox drew a circle when Kiwifruit drew one, then moved to independently drawing circles and showing them; Bunny asked Carciofi to draw things for her
+- Friendships: Kiwifruit observing weekly catch-ups between Carciofi and Ginepro (Bekka) + Cicoria (Ella) as a real support — shared endometriosis experience bonding them
+### Wake / sleep log — 19 May (Tuesday entry)
+- **No overnight wake-ups** — first uninterrupted night in approximately a week; Kiwifruit woke naturally at 6:15am
+- Direct quote of relief: significant lift in how Kiwifruit felt starting the day
+### Children — 19 May
+- Evening high energy (no outdoor battery-drain; wasn't a sunny day, Carciofi parenting solo as Kiwifruit was in London)
+- Bunny fully self-regulated on food; Fox still eating 10–15 minutes longer than her, often at table alone — appears happy and nonplussed; Kiwifruit treating this as "still getting there"
+- **Apple/yoghurt timing technique:** bringing it out later in the meal (not at the start) works better — acts as a mild transition rather than being lost in the early "more more more" cycle
+- Milk working well as transition; Fox now relatively nonplussed about "berry meds" (elderberry) — significant shift from earlier attachment to it as an anchor
+### Anger log — 19 May (evening)
+- 2 minor incidents; Kiwifruit notes awareness is very high, perhaps more than before
+- Incident 1: Fox jumping on couch, climbed to back; Kiwifruit pulled him down too hard onto soft surface; acknowledged this was too rough for a small boy
+- Incident 2: Fox took something from Bunny; Kiwifruit too rough pulling him away
+- Wrapping Fox from behind to calm him didn't work — he doesn't like being constrained that way
+- Bunny wriggling during nappy time; Kiwifruit held her briefly; she hit him; response: "no, we're gentle with daddy, say sorry daddy" then used story as incentive — this worked; Kiwifruit noted pride in this response
+- Root cause: Kiwifruit very tired (distracted by Product OS work), low-level overwhelm and anxiety
+### 3pm preschool extension — 19 May
+- Trialled again — children not ready; no resilience; Bunny "zombie frantic toddler," Fox expressing it through naughtiness
+- Hannah parented solo all day (Kiwifruit in London on first London day with growth team)
+- Children hurting each other, Phoenix hitting Caspar, Caspar taking blankets and winding her up
+- Last good full-day pickup was when Carciofi took them straight to park on a sunny day and ran down batteries — confirmed as the model when full days happen
+### Destabilisation pattern — 19 May
+- Fox new pattern (started 18 May): meltdown or invented meltdown after Carciofi's father left Monday; demanding comforters at table, creating impasse around starting food
+- Pattern: guest presence for several days → departure → Fox destabilisation; consistent with known guest-departure reactions
+- Fox and Bunny also had full wet outfits at preschool (water play)
+- Fox pulling out handfuls of Bunny's hair; both testing limits when tired
 ---
 ## Update — 17 May 2026 (source: weekly wrap-up clarification)
 - Worthing Hospital appointment for Carciofi confirmed for next week (back/bum symptoms review)

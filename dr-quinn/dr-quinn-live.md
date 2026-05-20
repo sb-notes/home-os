@@ -1,8 +1,34 @@
-# Dr Quinn — Current State (17 May 2026)
+# Dr Quinn — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-19 06:05 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:05 UTC -->
 
 <!-- <!-- ANCHOR -->
+---
+## Journal sync — 16–19 May 2026 (sources: "Journal Saturday", "Journal monday", "Journal Tuesday")
+### Wake / sleep log
+- **16 May:** Fox 2am and 4am (after preschool day); woke once otherwise on non-preschool nights; twice on preschool/incident nights — pattern confirmed
+- **18 May:** Fox 5:30am — full nappy; changed, cuddled, back to sleep. **Key insight:** evening milk must be immediately after dinner, not after bath, to allow time for fluid to go through before sleep; full nappies driving self-wake-ups
+- **19 May:** No overnight wake-ups — first uninterrupted night in ~a week. Kiwifruit woke naturally at 6:15am, felt significantly better
+### Carciofi physical health — 18 May
+- **Right hand tendon strain:** from picking up Bunny (Fox) daily; similar to adopter peer Ginepro's injury; hand splint/strap (semi-glove) ordered from Boots, arriving Monday; expected to help significantly based on Ginepro's experience
+- **Anal fissure:** lower-dosage back-bum cream resumed per Claude advice; helping the fissure heal; sitz baths after each bowel movement also helping
+- **Back/bum appointment (Friday this week):** Newsome Clinic next step is laparoscopy; GP appointment went well — Carciofi attended very prepared, using Dr Quinn project; GP agreed with symptom summary and referrals
+- **GP bloods (earlier this week):** results back; oestrogen slightly low; iron slightly lower than last test (last test elevated from matcha protocol, so likely about right, possibly slightly under)
+- **Worthing Hospital referral:** Carciofi referred urgently as suspected cancer (for fast-track access; no actual cancer suspected); review of back/bum symptoms; end of next week appointment
+- **Fascia/somatic:** fascia release cone for pelvic release and Togu ball for abdominal fascia release recommended by somatic-therapist-1 (Sarah); Carciofi tried them, liked them; to purchase
+- **Sauna (Saturday):** Carciofi had a sauna; really helped with inflammation and general health
+### Kiwifruit physical health — 18 May
+- **Tinea (terbinafine):** flared as widely as expected; ordered more Terbinafine (28-day course) via online pharmacy; overnight delivery likely 4–5 days; strategy: stretching final doses to evening to extend carryover
+- **Float (Sunday):** 1-hour float session; very uncomfortable first 5 minutes (verging on pain), then significant sensation for rest of hour; coconut oil post-float helped; inflammation/pinkness notably reduced since; planning another float next weekend; 7 floats remaining (both Kiwifruit and Carciofi committed to continuing)
+- **Itchy tinea recovery signs (18 May):** Increased itchiness at this stage interpreted as healing process; pink inflammation subsiding post-float
+### Kiwifruit physical health — 19 May
+- **Tinea:** last Terbinafine tablet taken this evening; liver self-test completed (AST/ALT self-check kit) — **negative result** (no elevated enzymes); result communicated to [PrescriptionDoctor.com](http://prescriptiondoctor.com/) who required it before re-prescribing; re-run expected to be issued; gap of several days without medication unavoidable
+- **Tinea visual progress (19 May):** Still very inflamed; each lesion consolidating, forming more defined darker red lines around the outside; main lesion starting to show some skin through; more skin visible than yesterday, then slightly thicker again today — still active work to do
+- **Yoga:** Continuing after morning walks — resolving stiffness in right shin/front thigh area from walking; right hip/top of right thigh: stiffness at beginning of walks easing
+### Trust Model / food log — 16–19 May
+- **16 May:** Bunny self-regulating and getting down from table first; Fox eating more and longer; extra-water-with-oats technique used to make further cereal rounds less attractive without restricting
+- **18–19 May:** Children eating normal amounts; Bunny fully self-regulated; Fox eating ~quarter more than Bunny; sits at table 10–15 min longer than her, appearing content. Kiwifruit treating this as within normal range for where Fox is in the trust model
+- Apple/yoghurt timing: bringing it out later in the meal (not at start) acts as a mild transition away from the "more" cycle — confirmed working
 ---
 ## Journal sync — 10–11 May 2026 (sources: "Journal Sunday", "Journal monday")
 ### Wake-up log

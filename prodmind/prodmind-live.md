@@ -1,8 +1,17 @@
-# 🧠 ProdMind — Current State (27 Apr 2026)
+# 🧠 ProdMind — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-19 06:06 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:05 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 19 May 2026 (source: "Journal Tuesday")
+### Post-session 1 outcomes
+- ProdMind described as "working really well"
+- Anice (Anna) and the group suggested creating a new framework to describe the AI-native world we live in
+- Achillea (Adam) also keen; has recently written a blog article on the same topic
+- **Agreed: Kiwifruit, Anice, and Achillea to co-author the first ProdMind paper together**
+- To-do: build a ProdMind site to post these papers on
+- Kiwifruit already seeing clear value; already learning from the group; "really powerful stuff"
 ---
 ## Update — 17 May 2026 (source: weekly wrap-up clarification)
 ### Session 1 — 15 May 2026 (retro summary)

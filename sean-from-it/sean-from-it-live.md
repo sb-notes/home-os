@@ -1,8 +1,15 @@
-# Sean from IT — Current State (17 May 2026)
+# Sean from IT — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-19 06:06 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:05 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 18 May 2026 (source: "Journal monday")
+### Home OS rename
+- Home Second Brain likely to start maxing out on state file sizes; significant pruning anticipated
+- Kiwifruit plans to apply all learnings from Work Product OS (skills upgrade, pruning, harmonisation) to the Home Second Brain in the same way
+- **Naming confirmed:** Home Second Brain is now to be called **Home OS** going forward; Kiwifruit named this explicitly in the journal entry dated 18 May 2026
+- Context: Work Product OS session over the weekend generated the insight and the motivation to do the same work at home
 ---
 ## Journal sync — 10 May 2026 (source: "Journal Sunday")
 ### Plex — not working (correction to previous state)

@@ -1,8 +1,32 @@
-# Cheryl — Current State (17 May 2026)
+# Cheryl — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-19 06:05 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:04 UTC -->
 
 <!-- ANCHOR -->
+---
+## Journal sync — 16–19 May 2026 (sources: "Journal Saturday", "Journal monday", "Journal Tuesday")
+### Anger log — 16–19 May
+- **Weekend (16–18 May):** 2 minor incidents over the weekend; notably reduced intensity — "heat is gone out of them" per Carciofi; no raised voice; more manageable
+  - Incident 1: Fox taken off table area too roughly; left on mat; led to abandonment cry; repair followed quickly; he was fine. Lesson reconfirmed: gentler when moving through space, pick up first
+  - Incident 2: minor, during changing into pyjamas
+- **19 May (Tuesday evening):** 2 minor incidents; Kiwifruit very aware of them, perhaps more aware than before
+  - Root cause: very tired, distracted by Product OS work, low-level overwhelm and anxiety; out-of-control feeling triggering anger
+  - Fox constrained (wrapped from behind) — doesn't work; he dislikes restraint
+  - Bunny hit Kiwifruit; response was calm and reasonable — Kiwifruit proud of his regulation in that moment
+- Pattern: anger incidents clearly correlating with depletion + distraction + overwhelm; when rested and present, incidents absent or near-absent
+### Wellbeing — 18 May
+- EMDR + float combination feeling "really good"; things "absolutely improving in body and mind"
+- Yoga 3–4 times this week after morning walks; mornings occasionally disrupted by Carciofi's health appointments but walks still happening
+- Saturday: fewer steps but recognising rest as valuable—yoga and stretches resolving leg stiffness significantly
+- Weekly report on Saturday: genuinely helpful to see the week whole; celebrating wins; now an important part of weekly routine
+- Hosting fatigue: Carciofi's father visiting Fri–Mon (3 nights); hosting exhausting; both parents ran tired from cooking, cleaning, childcare; cumulative depletion driver
+- Weekend work (Product OS): worked on it Fri through Mon evening; frustrating amount of time; recognises it generates podcast content and authority — helps reframe the cost
+- Challenge: still working after children go to sleep; not ideal; need to time-box and stop
+### Wellbeing — 19 May
+- **No overnight wake-ups:** first uninterrupted night in ~a week; significant lift; body woke naturally at 6:15am; direct evidence of how much wake-ups cost
+- Product OS work frustrating: 14 threads, close to resolving but feeling the time cost; impatient to be done with it
+- **Validation from advisory connection (butler / Jeeves):** Fico (Matt, Rightbrain co-founder) praised Kiwifruit directly to Jeeves as "a gem"; Jeeves concurs; Kiwifruit found this genuinely validating — "that's the good stuff, that's why I do the extra hours that other people don't"
+- **"I have arrived" feeling:** walking by the river triggering profound settling sensation; reminded of similar moments in Australia (bought van, started surfing, mountain biking, folk festivals) and in Hove (rediscovered yoga, float spa); this feels more profound — a real "I have arrived, I have settled"; distinct from previous moments; happening now in Shoreham
 ---
 ## Update — 17 May 2026 (source: weekly wrap-up clarification)
 - Weekend work crept in Sat/Sun (Claude skills update); async rhythm used — set going, phone away, 30 mins of something else, next step, repeat; more sustainable than solid blocks; "almost there"; pattern still not switching off cleanly
