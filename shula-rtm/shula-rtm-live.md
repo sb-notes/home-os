@@ -1,8 +1,21 @@
-# Shula RTM — Current State (17 May 2026)
+# Shula RTM — Current State (20 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-20 06:05 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-21 06:09 UTC -->
 
 <!-- ANCHOR -->
+---
+## Session update — 20 May 2026
+- M&E Asset Register survey (Survey Asset Solutions, £2,391.40 + VAT) approved by Kiwifruit via email to Hannah — 20 May 2026
+- Fire safety compliance survey quotes received (first round): Safety Case Report £7,995 + VAT (Tetra); Structural Risk Assessment £6,150 + VAT (Bellrock); Compartmentation £2,240 + VAT (Tetra); Fire Safety Management Plan £970 + VAT (Tetra); Retrospective Fire Strategy £3,355 + VAT (Tetra). Second/third quotes pending from JBA, RED5, Cundall, Haworth McCall
+- Tetra collecting keys for final outstanding door survey units on 12 May — survey likely now complete
+- Terry Kinch still being chased for AOV smoke calculation quote
+- Radicchio's email to Hannah (11 May) raised: asbestos remediation quote (Amstech — awaited); flat-roof survey (Infinity Survey — status unknown); Safety Case Report urgency (BSR can request at short notice); financial breakdown of £35k balance; hard-copy invoice status for 1H26; VAT position for RTM
+- Hannah has not replied to Radicchio's 11 May email as of 20 May
+- Asbestos re-inspection completed by Hastings Environmental Services (Thomas Hastings, 17 Apr) — localised chips to textured plaster on hallway walls needing encapsulation; report sent to Amstech for remediation quote
+- Tony (Flat 21): Radicchio replied substantively on 11 May; Tony responded warmly on 12 May, said full reply to follow. Situation calm
+- Flat 10 leaseholder claimed FTT determination re fire door costs/S20 notices from HS era. HS had already credited £4,516.08. Radicchio asked Hannah to obtain copy of determination — status unknown
+- Current balance across S/C and reserve funds: £35,000 (Hannah's figure, 11 May) — breakdown not yet provided to directors
+- WhatsApp sent to Radicchio (20 May) — summary of current state, thanked him, asked if anything needed from Kiwifruit
 ---
 ## Journal sync — 13 May 2026 (source: "Journal weds")
 - Radicchio (Neil) moving back into the building; will be more active and aware of what's going on
@@ -279,10 +292,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -317,10 +334,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -355,10 +376,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -393,6 +418,8 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -412,10 +439,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
