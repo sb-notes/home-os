@@ -1,6 +1,6 @@
 # Secret Adopters — Current State (updated 5 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-21 06:09 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-22 06:05 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Secret Adopters

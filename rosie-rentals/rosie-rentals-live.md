@@ -1,6 +1,6 @@
 # Rosie Rentals — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-21 06:08 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-22 06:05 UTC -->
 
 <!-- ANCHOR -->
 ---
