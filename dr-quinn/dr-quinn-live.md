@@ -1,7 +1,40 @@
-# Dr Quinn — Current State (19 May 2026)
+# Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-22 06:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:38 UTC -->
 
+## Journal sync — 15–22 May 2026
+### Kiwifruit — tinea / Terbinafine
+- Last Terbinafine tablet taken Tuesday 20 May. 3-day gap before new prescription arrives (liver self-test completed — negative for elevated ALT/AST; submitted to [PrescriptionDoctor.com](http://prescriptiondoctor.com/)).
+- New 28-day course ordered; expected to arrive Saturday 23 May.
+- Rash status: large area both shins and ankles; redness giving way to pale pink — clearing and expelling through skin. Left ankle, left shin (3 patches), right shin (main lesion), right ankle, right big toe — all areas that were previously itchy now visibly in process.
+- Float (Sunday 18 May): DMSO applied 30+ min before; first 5 min painful, then sensation only. Coconut oil applied after — significant reduction in inflammation and pinkness observed post-float. Second float planned Saturday 23 May.
+- Daily protocol continuing: neem and coconut oil (missed London day Tuesday).
+- Right hip and thigh stiffness at start of walks; kneeling stretch used daily.
+- Yoga after morning walks now consistent — "yoga lengthens what walking has shortened." Walking ~5 miles/day.
+- Somatic EMDR shifts (Wednesday session): heels dropping in downward dog for the first time; core stomach muscles activating. Physical body responding to emotional processing.
+- Stiff neck on waking — attributed to pillow. Plan: switch from Devin Duvet's cluster wool pillow to smaller, firmer Amazon quilted cotton pillow inner. Left-side sleeper on latex medium-firm mattress; needs more height/support.
+- Shins and calves stinging during float — sensation not pain after first 5 min; cracked left heel treated with coconut oil.
+### Carciofi — hand / musculoskeletal
+- Right-hand tendon strain from repetitive lifting of Bunny — similar to friend Becky's presentation. Semi-glove splint from Boots arrived; improving.
+- Practical impact: reduced capacity to physically contain children during nappy changes and dysregulation management. Significant parenting constraint while healing.
+### Carciofi — back/front bum
+- Anal fissure: lower-dose cream restarted; sitz baths after each movement; improving.
+- Newsome Clinic (Wednesday 14 May): treatment plan confirmed; nothing further until laparoscopy.
+- GP visit (excellent new doctor): Hannah attended well-prepared using Dr Quinn project; GP accepted and agreed with all documented symptoms. Referred to Worthing Hospital — expedited pathway (not actual cancer concern; framing used to accelerate). Appointment confirmed.
+- Blood results (Monday 18 May, results by Friday): oestrogen slightly low; iron normal (matcha had been artificially elevating it; now off matcha, level probably right).
+- Fascia release cone and Togu ball recommended by Sarah (somatic therapist); Hannah tried both and liked them.
+- NHS laparoscopy looking increasingly likely; private £5k route may not be needed.
+- Sauna use: helped significantly with Hannah's inflammation and pain. Both parents planning to float regularly (Kiwifruit Saturday, Carciofi Sunday). Sauna for the house being actively explored.
+- Back bone appointment: Friday 22 May at hospital; Jen accompanied.
+### Children — weights and growth (May 2026)
+- Fox (Caspar): 15.8–15.9kg (weighed Wednesday 20 May in clothes after dinner; weekly wrap-up 17 May)
+- Bunny (Phoenix): 12.6–13kg (same conditions)
+- Both children visibly healthy and growing well. Hannah's observation: language explosion this week may be partly linked to reduced food anxiety — nervous systems no longer spending energy on food vigilance, now freed up for development. Worth tracking as a LMFM outcome metric.
+### Children — health notes
+- Both children well physically this week. No illness.
+- Fox: ophthalmology referral still outstanding — chase.
+- Summer light affecting sleep onset (both children still talking at 9pm). Blackout blind to be installed this weekend — priority action.
+---
 <!-- <!-- ANCHOR -->
 ---
 ## Journal sync — 16–19 May 2026 (sources: "Journal Saturday", "Journal monday", "Journal Tuesday")
@@ -1119,6 +1152,7 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - **CRITICAL NOTE:** Never apply hydrocortisone to this lesion while active fungal infection present — will cause tinea incognito
 ### Progress Log (continued)
 - **9 Apr 2026:** Switched from Canesten to Daktarin (miconazole 2%) — broader spectrum, antibacterial + antifungal. Tea tree cream midday added. Protocol: Daktarin morning + evening, tea tree midday, neem + coconut oil evening, propolis spray night.
+- **22 May 2026:** Seven-photo review. Terbinafine Course 1 completed, Course 2 not yet arrived — gap in treatment, chase Prescription Doctor if not arrived by Saturday. Terbinafine still active in skin tissue (2–3 week half-life post-course). Extensive white dry scaling visible across main lesion zone — mass shedding of infected skin layer, consistent with successful treatment response. Coverage still significant across mid-shin, some spread upward toward knee noted. Two active satellite lesions on inner lower leg — Daktarin applied. Calf calm. Neem protocol updated: no longer rinsing after 30 mins — leaving on for hours/overnight as now in maintenance/shedding phase. Pre-emollient step added: coconut oil to whole shin while damp before Daktarin application to improve cream penetration through dry scale.
 - **17 May 2026:** Seven-photo review. Day 26 of 28 terbinafine — 3 tablets remaining. Coverage has extended since 7 May despite continued treatment, particularly inner shin strip now more defined. Main lesion drier and flatter with scale shedding, but not dramatically resolved. Lower shin and ankle zone looking calm and largely clear — good sign. 24-hour itch cycle noted: itch returns in the hour before next terbinafine dose, confirming ongoing fungal activity being suppressed rather than eradicated. Second 28-day terbinafine course ordered today via Prescription Doctor to ensure zero gap. Float tank session this afternoon — Daktarin applied first, coconut oil post-float. Protocol unchanged: continue Daktarin 2x daily, neem + coconut oil evening, coconut oil daily.
 - **7 May 2026:** Five-photo review. Day 17 of 28 terbinafine. Main lesion still actively crusting with golden-orange scale — similar to 25 Apr character, not dramatically resolved. New inner shin strip of connected red lesions visible (image 2) — not present on 3 May photos. Interpretation: either dying fungal tissue becoming visually apparent before shedding (reassuring), or continued spread on inner shin (cautious). Warm days causing itch flare — heat amplifying inflammatory response. Left calf satellite small and contained. Decision: no protocol change, continue full course. Daktarin explicitly extended to cover inner shin strip. Temperature management reinforced. Photo review requested Saturday/Sunday to monitor inner shin strip. Course ends 19 May 2026.
 - **3 May 2026 (today):** Six-photo review. Day 13 of 28 terbinafine. Main lesion predominantly white dry scale — normal skin visible beneath in patches, flat, no active weeping, ring border softened. Wide shin view shows scattered satellite dots fading. Left calf satellite lesion clearly retreating. No new lesions. Best position across entire 10-week timeline. Protocol simplified: Daktarin 2x daily (tea tree now optional), neem + coconut oil evening, coconut oil daily. Course ends 19 May 2026.

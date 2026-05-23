@@ -1,7 +1,34 @@
-# Cheryl — Current State (19 May 2026)
+# Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-22 06:03 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:37 UTC -->
 
+## Journal sync — 15–22 May 2026
+### EMDR — Catarina session (Wednesday 20 May) — most significant to date
+- Continued processing job security anxiety — processed well; connections to other material emerged.
+- Moved into processing transgenerational financial burden: insight that Kiwifruit has been carrying his parents' and grandparents' financial fears out of love and loyalty — not because they are his to carry.
+- Visualisation: parents looking into his eyes, saying "we want you to succeed — this was our story, not yours." Brought him to tears mid-session; processed quickly.
+- Also processed past-life material (Martin Luther King reference) — strongest emotional flush in therapy to date; full-body sensation up to eyes; resolved within 3–4 minutes. EMDR efficacy notable.
+- Somatic shifts confirmed: heels dropping in downward dog for the first time; core stomach muscles activating in a new way. Physical body responding to the emotional processing.
+- Observable downstream effect: Thursday night wake-up with Fox — no anger, full warmth, talking kindly and kissing his forehead throughout. Direct before/after comparison to earlier weeks.
+- Self-EMDR as a future goal noted: to explore whether a self-led protocol could maintain between sessions, even at reduced efficacy.
+### Emotional state — week of 15–22 May
+- Headline word: *arriving*. Strongest "I have arrived and settled" feeling yet — compared to buying the van in Australia, starting surfing and folk festivals. River walks, yoga, choir, peer coaching — doing the things that are good for him.
+- Anger pattern: "the heat has gone" confirmed again by Carciofi. Minor incidents Monday (rough pick-up of Fox during laptop grab; jim-jams) and Tuesday evening (couch back, taking from Bunny, briefly held Bunny during nappy). All self-identified and reflected on clearly. Trigger: tired solo parenting at end of long days with no buffer. Sleep debt from Fox's nightly wake-ups is the upstream driver.
+- Urgency to journal fading — named as a sign of healing. Feeling quieter and calmer. Standing taller.
+- Peer coaching giving more than podcasting currently — Augmented and ProdMind both launched successfully this week; feels right to be in that mode.
+- The "overachiever's parenting cycle" awareness active: self-care non-negotiable.
+### Welly Wailers — joined (Thursday 15 May, gig Thursday 21 May)
+- Joined the sea shanty choir; performed at the Duke of Wellington gig.
+- Nourishing in a specific way: communal, unselfconscious, beer-and-belly-laugh singing. Men, warmth, no performance anxiety, nowhere to hide.
+- Harmonising freely with another baritone; songs meaningful (Halifax, New World, grandfather's songs). Felt himself opening up toward "belly singing, belly laughing."
+- Introduction by Jake to the group: "he and his wife have adopted twin toddlers at 18 months" — met with warmth; felt genuinely validating.
+- Goal: find and claim 1–2 songs others don't do; lead in coming sessions.
+### Bring to next Cheryl session
+- The parents-permission moment — what does that opening invite beyond the morning affirmation? How does it change how he holds his Rightbrain role?
+- Evening and weekend work creep — async rhythm more sustainable, but not yet switching off. What is the rule?
+- Caspar and the repair cycle — does the rupture-repair dynamic inadvertently reward? Or a healthy sign of attachment deepening?
+- Men's support structures — Clearing circle missed repeatedly; Forever Dads filling some of that space. Worth a formal review.
+---
 <!-- ANCHOR -->
 ---
 ## Journal sync — 16–19 May 2026 (sources: "Journal Saturday", "Journal monday", "Journal Tuesday")

@@ -1,6 +1,6 @@
 # Lavender Thorn — Current State (2 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-22 06:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:38 UTC -->
 
 <!-- ANCHOR -->
 ---

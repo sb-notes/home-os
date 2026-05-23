@@ -1,7 +1,45 @@
-# Aloyse — Current State (19 May 2026)
+# Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-22 06:03 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:37 UTC -->
 
+## Journal sync — 15–22 May 2026 (sources: "Journal Friday!!", "Journal Saturday", "Weekly wrap-up 17 May", "Journal monday", "Journal Tuesday", "Journal Wednesday", "Journal Thursday", "Journal Friyay")
+### Current snapshot — 22 May 2026
+- **Fox (Caspar):** 26 months. Language explosion: five-word sentences this week ("I get it daddy ball", "I draw a flower"). Weight: 15.8–15.9kg. Nightly wake-ups continuing (lost pacifier or full nappy). New dinner-refusal/comforter impasse pattern emerged Monday post-Tony visit and Kiwifruit's London trip. Throwing schema: summer outdoor ball reducing indoor incidents. Naughty-when-out-of-room pattern linked to proximity/attention-seeking. Two-way cuddles deepening; running and jumping into Kiwifruit's arms at preschool gate.
+- **Bunny (Phoenix):** 26 months. Food self-regulating beautifully — LMFM fully integrated. Weight: 12.6–13kg. Escalating nappy resistance (wriggling, scampering, swiped at Kiwifruit). Increasingly the initiator of testing behaviours that Fox copies and escalates. Language: "why?" phase begun; using "a" as preposition; past tense emerging.
+- **Preschool:** 9–3 full-day test (Tuesday 19 May) confirmed failed — both children had no resilience by end of day. Decision: revert to 9–1pm for rest of summer term. Build back to 9–1:30, 9–2 incrementally from September.
+- **LMFM:** Snack demand now twice a week (down from several times an hour). Children singing, laughing, making appreciative noises at meals. Trust model letter written by Kiwifruit and shared with `adopter-sw-1` for future adopters. Protocol continues; no change needed.
+- **Carciofi's health:** Right-hand tendon strain from lifting Bunny — splint in use, improving. Ongoing back/front pain; taking regular painkillers. Reducing physical containment capacity for nappy changes and dysregulation management. Newsome Clinic confirmed laparoscopy pathway via NHS; hospital appointment confirmed.
+- **Kiwifruit:** Welly Wailers choir joined (gig Thursday 21 May). EMDR with Catarina (Wednesday 20 May) — most significant session to date: transgenerational financial burden processed; visualisation of parents giving permission to succeed; physical somatic shifts confirmed. Anger pattern cooling; "the heat has gone" (Carciofi). Minor anger incidents Monday and Tuesday evening — all self-identified and reflected on. Sleep deprivation from nightly wake-ups is primary driver.
+- **Birth contact:** `birth-mother-1` communicated through Michelle that she considers Kiwifruit and Carciofi "great people" and the contest is not personal. Confirms conciliation meeting worked. Life story value: children will know their birth mum thought the adoptive parents were great people.
+- **Practical milestone:** Children left with friend Jen and buggy for first time while Carciofi attended hospital — went well. Significant independence step.
+### Sleep — 15–22 May 2026
+- Fox waking every night: 1:30am (Fri 15), 2am (Sat 16), 5:30am (Mon 18), 3am (Wed 20), 3:30am (Thu 21), 4:30am (Fri 22). Primary causes: lost pacifier, full nappy, crying for Kiwifruit (during London absence).
+- Identified fixes: (1) install blackout blind — summer first light is the main driver; (2) move evening milk to immediately after dinner, not after bath — reduces overnight full nappy; (3) 30-second pause before entering — Fox retrieved own pacifier unprompted Thursday, self-settling emerging.
+- Kiwifruit accumulating sleep debt; tiredness is the anger upstream trigger.
+### Behaviour — dinner impasse (Fox, new pattern from 18 May)
+- Pattern: Fox refuses high chair at start of meal, demands comforters at the table, creates logic dead-end ("dinner or get down?" → "get down" → demands Doddy → impasse).
+- Emerged Monday post-Tony departure and during Kiwifruit's London absence — attachment-stress timing is diagnostic.
+- Kiwifruit's effective Friday reset: "dinner or bed?" → "bed" → took upstairs, tucked in, left 5 seconds → "shall we go down for lunch?" → yes → lunch eaten. Low-drama, attachment-warm.
+- Decision: allow comforters at the table during the loud arrival phase. Clear deal: "Doddy sits next to your plate; when food comes, Doddy waits there." Phase out over coming months as security builds.
+- Theraplay micro-deposit at every meal handover: eye contact, deliberate "Here's yours, Fox," brief warm exchange. Installs "food comes from a calm, reliable source."
+### Behaviour — nappy resistance (Bunny, escalating)
+- Phoenix wriggling, scampering, refusing to lie still during nappy changes. Compounded by Carciofi's hand injury reducing physical containment capacity.
+- Story-as-deal working: "two pages if you lie down; two pages after if you don't." Explicit deal, not open-ended.
+- Positional change option: standing nappy with Carciofi seated removes wrestling frame and protects hand.
+- Phoenix swiped Kiwifruit during nappy hold Tuesday. Response: "We're gentle with Daddy. Say sorry." — textbook. Repeat consistently.
+### Parenting — regulation and anger (Kiwifruit)
+- Week stacked four simultaneous destabilisers: Tony overnight visit, London day (only third Kiwifruit absence), first 9–3 preschool day (failed), summer light reducing sleep onset.
+- Anger pattern linked to tired solo parenting at end of long days with no buffer. Self-care is the upstream fix.
+- EMDR progress directly visible in Thursday wake-up response — full warmth, talking kindly throughout, no anger. Significant observable shift.
+- Techniques active: pick-up-first (confirmed by Catarina); say-sorry-quickly ("silky daddy" → brief explanation); observer-self gap during anger.
+### Open actions — 22 May 2026
+- [ ] Install blackout blind in children's bedroom this weekend (priority 1 — Kiwifruit has 3-day weekend)
+- [ ] Move evening milk to immediately after dinner (implement tonight)
+- [ ] Revert preschool to 9–1pm from next week; nap protected; increment from September
+- [ ] Book Debbie or Jen for one additional daytime slot to support Carciofi while hand heals
+- [ ] Continue comforter-at-table deal; review at next Catarina session
+- [ ] Fox ophthalmology referral — still outstanding clinical flag
+---
 <!-- <!-- ANCHOR -->
 ---
 ## Journal sync — 16–19 May 2026 (sources: "Journal Saturday", "Journal monday", "Journal Tuesday")

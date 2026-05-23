@@ -1,6 +1,6 @@
 # Sean from IT — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-22 06:05 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:38 UTC -->
 
 <!-- ANCHOR -->
 ---
