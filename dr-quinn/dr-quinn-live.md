@@ -1,7 +1,40 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:38 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-24 05:59 UTC -->
 
+## Sauna decision — 23 May 2026
+- **Decision in progress:** 2-person indoor FAR infrared sauna for the studio (playroom repurposed). Leaning toward Aqualine SaunaMed 2-person rectangular (~120W × 105D × 195H cm), £1,920 current price. Position B: east wall (333cm clear wall), door swinging west into the room centre.
+- **Clinical rationale — Carciofi:** Probable endometriosis/deep pelvic involvement; pelvic floor hypertonicity; anal fissure healing; mucosal repair (Ovestin + Omega-7 protocol). Mid-May 2026 sauna session confirmed significant benefit to inflammation and healing. FAR infrared penetrates ~4–5cm, suppresses prostaglandins, induces vasodilation and parasympathetic shift — directly relevant to all active threads. 5x/week dose is categorically different from current ~6 sessions/year.
+- **Clinical rationale — Kiwifruit:** Sleep debt recovery; therapeutic parenting stress/cortisol regulation; post-tinea skin repair; post-walk and post-yoga recovery; immune resilience; dehydration/terbinafine clearance support (requires adequate pre/post hydration).
+- **Tinea protocol note:** While Kiwifruit has active tinea lesions — dedicated bench towel, antifungal bench wipe post-session, Daktarin applied after showering. Sauna use not recommended until at least late maintenance phase post-Course 2.
+- **Finance:** 24-month 0% APR preferred (Klarna Pay Later via Aqualine, or Health Mate 24-month 0% if stepping up). Cash purchase not recommended given current cash flow (Carciofi not earning until September, pension at 17%, monthly tax bill).
+- **Next steps:** Tape-measure east wall confirmation; verify existing 13A socket; request current Aqualine quote; continue UK search for 2-person corner units with L-bench at £2,000–3,000 if piano relocation feasible.
+- **Adversarial flags recorded:** EMR Neutral is marketing not certification; heat during peak menstrual flare may transiently worsen pelvic congestion before anti-inflammatory effect; realistic usage 3–4x/week not 5; Aqualine lacks independent UK consumer reviews vs LUMI.
+## Update — 23 May 2026 (source: weekly coaching session)
+### Body and nervous-system observations
+- **Sleep debt is the dominant signal this week** — upstream of nearly everything difficult (anger incidents, depletion, desire-to-keep-working pattern, evening boundary collapse). Fox waking at 4:30am Fri, 3:30am Thu, 3am Wed, 5:30am Mon. Kiwifruit's accumulated debt is significant.
+- **Tinea on left leg:** spreading but stabilising. Terbinafine absent 3+ consecutive days during online GP prescription process (liver test cleared, negative result confirmed). New 28-day course expected imminently.
+- **Topical protocol shifted to daytime** (coconut oil + neem applied during the day and left on, rather than evening application + wipe-off). Frees evening time; reduces wind-down friction. Sustained as preferred approach.
+- **Sunday float** visibly reduced leg inflammation — confirmed as effective regulatory and anti-inflammatory tool.
+- **Movement holding strong:** yoga roughly 5x/week (up from 3–4x); daily walks; consistent enough to be resolving the leg stiffness.
+### Invitation accepted
+- **Bedtime forward to 9:15pm** on school nights this week (not 9:30). The fifteen minutes matters when sleep debt is accumulating. **Alarm set.** Time-based, not output-based.
+### Wind-down friction reduced
+- Water kefir and topical leg routine were the two main evening time-sinks; topical shifted to daytime (above); water kefir remains as the residual evening task.
+- Watching TV with Carciofi as wind-down ritual continues.
+### Self-care infrastructure holding
+- Walks daily ✓
+- Yoga ~5x/week ✓
+- Float (Sunday) ✓
+- Welly Wailers (worth the soul cost on late evenings)
+- Cowork morning automation reducing daytime fluid usage
+### Pattern to watch
+- The "desire to keep working in order to feel worthy of rest" continues to find things — water kefir, neem oil, skill updates, indexer runs. Body's signal (inner child saying *more rest* five days out of seven) being treated as instruction now, not whisper. The 9:15 alarm is the structural intervention.
+### Follow-up
+- Track whether 9:15 alarm holds Mon–Thu next week.
+- Monitor leg inflammation as new Terbinafine course arrives.
+- Continue Sunday float as established cadence.
+---
 ## Journal sync — 15–22 May 2026
 ### Kiwifruit — tinea / Terbinafine
 - Last Terbinafine tablet taken Tuesday 20 May. 3-day gap before new prescription arrives (liver self-test completed — negative for elevated ALT/AST; submitted to [PrescriptionDoctor.com](http://prescriptiondoctor.com/)).

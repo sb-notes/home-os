@@ -1,6 +1,6 @@
-# Steve Irwin — Current State (17 May 2026)
+# Steve Irwin — Current State (23 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:38 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-24 06:00 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -110,6 +110,26 @@
 - Looking for small plastic watering cans suitable for toddlers
 - B&Q used as reference (current one is too large)
 - Sizes and options compared
+### Garden Parasol — Cantilever (May 2026)
+**Decision: 2.5m cantilever, NOT 3m**
+- Table: eucalyptus/acacia oval 1.5m × 1m; extends to 1.75m; no centre hole → cantilever required
+- Typical use: 4 adults; occasional 6 when extended (rare)
+- Ruled out 3m on three grounds: (1) ~44% more wind sail area — material risk with toddlers on coastal site; (2) 90kg+ base too heavy to move solo weekly; (3) cost-per-use doesn't justify headroom used ~5×/season
+- 2.5m gives ~50cm overhang past 1.5m table — covers table surface + heads of 4 seated adults
+- When extended to 1.75m, outer seats have partial shade — acceptable for rare 6-seater occasions
+**Base: buy separately**
+- Target: 70kg wheeled fillable base (Outsunny or similar, ~£90 on Amazon)
+- Fill with sand (not water) — denser, doesn't slosh in wind
+- Cross-base with clip-on weight slabs (4× fillable, ~£35–65) is budget alternative but not wheeled
+**Action sequence:**
+- Scan Facebook Marketplace / eBay within 25km of BN43 for 7 days (target: £80–150 secondhand)
+- If nothing suitable: buy new 2.5m from VonHaus / Outsunny / Dellonda (£100–150)
+- Always buy a cover separately (~£15–25) — non-negotiable for sub-£200 parasol survival
+- Always close and cover when leaving garden unattended — especially with toddlers present
+**Wildcard flagged for future consideration:** wall-mounted parasol (bolts to brick wall behind bench — zero base weight, no tip risk, folds flat). Best option if storage/wind is recurring problem.
+---
+## Garden — Open Actions
+- **Cantilever parasol:** Scan Facebook Marketplace / eBay (BN43 area, 25km) for 7 days before buying new. Target 2.5m with wheeled 70kg base.
 ---
 ## Garden — Local Resources
 - **Boma Garden Centre** (near Old Shoreham Road) — stocked Roman Beauty rosemary, Whitewater Silver rosemary; independent with good plant selection

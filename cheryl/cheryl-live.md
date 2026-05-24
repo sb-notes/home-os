@@ -1,7 +1,33 @@
 # Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:37 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-24 05:59 UTC -->
 
+## Update — 23 May 2026 (source: weekly coaching session)
+### Themes raised
+- **EMDR somatic integration.** Phrase *"I am deserving"* landed in the body, not just the head — said quickly, easily, without friction. Direct continuation of the parents-permission EMDR insight (20 May) and the MLK past-life thread. Sits alongside the heels-dropping-in-downward-dog and core-activating somatic shifts already logged. Significant trajectory marker.
+- **Peer coaching as identity signal.** Kiwifruit named explicitly a shift from *only helping others* to *also being helped*. Three peer groups now live (Forever Dads, ProdMind, Augmented). Rightbrain-as-user-research framing offered as a legitimising layer for daytime peer coaching — Cheryl flagged that the legitimising layer is also doing work to make the activity feel permissible.
+- **Evening work boundary cracking open — but pattern underneath still live.** Friday was the first evening without Claude work in weeks. The Cowork morning automation made it structurally possible — but the permission to stop came from *enough strategic work done this week*, not from a time-based rule. Old "earned rest" pattern in better clothing. Named and held in session.
+### Focus chosen for the week
+**Rest is not earned. It has a time. The time is 9:15.** 9:15pm bedtime alarm on school nights.
+### What landed
+- *"I am deserving"* in the body. Said without working up to it.
+- Kiwifruit's own sentence: *"The desire to keep working in order to feel worthy of rest keeps looking for things."* Spoken in his own words, with full ownership.
+- The inner child's *more rest* instruction (five days out of seven during affirmations) reframed as instruction, not whisper.
+- Commitment: both laptops in the loft tonight.
+### What was pushed back on
+- The Rightbrain-user-research justification frame for peer coaching during the day. True *and* familiar move.
+- "Intellectually deserving rest" vs body-deserving — Cheryl held him on the difference.
+- Output-earned rest as the active permission mechanism.
+- The pattern of insight landing → quickly packaged as advice for someone else (the France lecture tips moment) → moment passes. Named gently in session.
+### Asks logged
+1. 9:15pm bedtime alarm on school nights this week.
+1. Blackout blind installed today (Saturday 23 May).
+1. Notice the "okay because it's work-adjacent" frame as it appears next week.
+### Follow-ups for next session
+- Did the 9:15 alarm hold?
+- Now that the peer coaching revelation has landed, what does it change about how Kiwifruit describes what he actually does?
+- Has the blackout blind broken Fox's wake-up cycle?
+---
 ## Journal sync — 15–22 May 2026
 ### EMDR — Catarina session (Wednesday 20 May) — most significant to date
 - Continued processing job security anxiety — processed well; connections to other material emerged.

@@ -1,7 +1,33 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-23 05:37 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-24 05:58 UTC -->
 
+## Update — 23 May 2026 (source: weekly coaching session)
+### Parenting observations
+- **Fox in sensitive attachment phase.** Week stacked four destabilisers: Carciofi's father staying 3 nights, Kiwifruit's London day (third absence since placement), failed 9-3 preschool extension, summer light cutting sleep. Behavioural signals all one cluster: dinner impasse (refusing high chair, demanding comforters at table), hair-pulling (pulled handful of Bunny's hair Tuesday), naughtiness peaking when Kiwifruit out of room. Named explicitly in coaching session as a single phenomenon, not separate problems.
+- **Thursday 3:30am wake met with full warmth, no anger** — Kiwifruit credited directly to EMDR. Clean before/after data point. Recorded as the parenting intervention of the week.
+- **Anger incidents** (Monday rough nappy, Tuesday couch/laptop/nappy) both sat at end of long depleted days with no buffer. Sleep debt from Fox's wake-ups is upstream of the regulation collapse.
+- **Bunny** escalating on nappy resistance; "why?" phase begun. Pattern of being the initiator that Fox copies and escalates continuing.
+### Techniques banked / confirmed working
+- Full bowl strategy (Fox self-regulates faster with ¾–full bowl than incremental refills).
+- Comforter-at-table deal during loud arrival phase; phase out as security builds.
+- Reassuring voice during night wake-ups — quiet "Is it time to lie down?" rather than silence; Fox self-settled in 30–60 seconds Thursday.
+- Milk immediately after dinner — reduces overnight full-nappy wake-ups.
+- Thursday warmth at 3:30am as its own intervention.
+### Child-specific arcs
+- **Fox:** language explosion (five-word sentences, "I get it Daddy Ball", "I draw a flower"), running into Kiwifruit's arms at preschool gate, cuddles two-way. Attachment consolidating toward Kiwifruit specifically — which is why his absences register so loudly.
+- **Bunny:** food self-regulation excellent; nappy resistance physical containment challenging for Carciofi (right hand tendon strain); story-as-deal working as nappy-time lever.
+### Carciofi context affecting parenting bandwidth
+- Right hand tendon strain (splint in use, improving). Back/front pain ongoing with regular painkillers. Newsome Clinic confirmed NHS laparoscopy pathway. Hospital appointment confirmed. Reduced physical capacity for nappy containment.
+- Carciofi now using her own Dr Quinn project and starting to chat to Aloyse project — load distributing somewhat.
+### Priority action — committed in session
+- **Blackout blind installed today (Saturday 23 May)** — post-float (~3:30pm) or over children's dinner. Load-bearing: breaks the wake-up cycle → breaks sleep debt → breaks the depletion-anger link.
+### Open actions — 23 May 2026
+- [ ] Install blackout blind today (priority 1)
+- [ ] Confirm preschool reverting to 9-1pm from next week; nap protected; increment from September
+- [ ] Continue comforter-at-table deal; review at next Catarina session
+- [ ] Fox ophthalmology referral — still outstanding clinical flag
+---
 ## Journal sync — 15–22 May 2026 (sources: "Journal Friday!!", "Journal Saturday", "Weekly wrap-up 17 May", "Journal monday", "Journal Tuesday", "Journal Wednesday", "Journal Thursday", "Journal Friyay")
 ### Current snapshot — 22 May 2026
 - **Fox (Caspar):** 26 months. Language explosion: five-word sentences this week ("I get it daddy ball", "I draw a flower"). Weight: 15.8–15.9kg. Nightly wake-ups continuing (lost pacifier or full nappy). New dinner-refusal/comforter impasse pattern emerged Monday post-Tony visit and Kiwifruit's London trip. Throwing schema: summer outdoor ball reducing indoor incidents. Naughty-when-out-of-room pattern linked to proximity/attention-seeking. Two-way cuddles deepening; running and jumping into Kiwifruit's arms at preschool gate.
