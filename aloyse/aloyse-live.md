@@ -1,7 +1,13 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-24 05:58 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-25 06:24 UTC -->
 
+## Journal sync — 24 May 2026 (hot days / teething / lolly protocol)
+- **Frozen lolly protocol established (24 May 2026):** Purchased iNeibo silicone push-up tube moulds (10-pack, Amazon UK, Amazon's Choice). Push-up tube style — silicone IS the vessel, no demoulding, no loose sticks. Children squeeze from the bottom. 7.8" length suits 27-month hands. Food-grade BPA-free silicone.
+- **Use case:** Dual purpose — cooling for fair-skinned children on hot West Sussex days; molar teething relief (Bunny and Fox both have back molars still to come through; Fox flagged as possibly cutting a bottom back molar late April).
+- **Liquid:** Water kefir (primary); diluted fruit juice or frozen yoghurt as variants.
+- **Protocol note:** Fill, freeze overnight, keep 2 charged at all times so both children can have one simultaneously. Aligns with LMFM visible-abundance framing — lollies visible in freezer as a "there is always enough" signal.
+- **Considered and rejected:** Wooden stick moulds (sticks break/go missing); integrated handle with hilt (Ikea BLANDNING discontinued in UK); lay-flat individual moulds (require flat freezer shelf space — full freezer constraint).
 ## Update — 23 May 2026 (source: weekly coaching session)
 ### Parenting observations
 - **Fox in sensitive attachment phase.** Week stacked four destabilisers: Carciofi's father staying 3 nights, Kiwifruit's London day (third absence since placement), failed 9-3 preschool extension, summer light cutting sleep. Behavioural signals all one cluster: dinner impasse (refusing high chair, demanding comforters at table), hair-pulling (pulled handful of Bunny's hair Tuesday), naughtiness peaking when Kiwifruit out of room. Named explicitly in coaching session as a single phenomenon, not separate problems.
