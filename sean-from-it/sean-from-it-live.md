@@ -1,6 +1,6 @@
 # Sean from IT — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-25 06:26 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-26 06:05 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -208,7 +208,7 @@ In [Sender.net](http://sender.net/): Settings → Sender Domains → Authenticat
 - **Phone (Hannah): Google Pixel 3a** — giffgaff (O2), physical SIM only (no eSIM on 3a), migrated from EE Mar 2026. Pixel 8 upgrade via Back Market planned later in 2026
 - **Tablet: Acer Iconia Tab M10 (A22001) 128GB** — video calls and toddlers
 - **Recording device: Roland R-05** — choir concerts. External mic upgrade under consideration
-- **Webcam: Elgato Facecam MK2** — 2K, used on MacBook Air M1
+- **Webcam: Elgato Facecam MK2** — 2K, used on MacBook Air M1. Mount: Neewer 11" Articulating Magic Arm Clamp Mount (£29.99, Amazon UK, purchased May 2026) — clamped to Invision monitor arm post on Flexispot EC-1 standing desk (loft). Positions FaceCam at eye level for video calls. Replaces monitor-top clip for call use. FaceCam attaches via 1/4" thread (stock clip removed).
 - **Standing desk: Flexispot EC-1** — loft office (moving to Position D Mar 2026)
 ---
 ## 📸 Photo Management
@@ -311,7 +311,7 @@ This is the correct reset sequence for the Wiser Radiator Thermostat as confirme
 ---
 ## 📱 Additional Devices (from legacy custom instructions)
 - **Tablet:** Acer Iconia Tab M10 (A22001) 128GB — used for video calls and toddlers
-- **Webcam:** Elgato Facecam MK2 2K — used on MacBook Air M1
+- **Webcam:** Elgato Facecam MK2 2K — used on MacBook Air M1. Mounted on Neewer 11" magic arm (May 2026) for eye-level call position.
 - **Previous phone (retired):** Pixel 4a — factory reset after Pixel 8 migration
 ---
 ## 🔑 Key Principles (for Claude threads)

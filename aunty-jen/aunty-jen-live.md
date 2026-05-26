@@ -1,6 +1,6 @@
-# Aunty Jen — Current State (8 May 2026)
+# Aunty Jen — Current State (25 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-25 06:24 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-26 06:03 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -19,7 +19,14 @@
 **Last updated:** 27 February 2026
 ---
 ## Favourites & Preferences
-*To be populated from conversation threads.*
+- **DAILY loaf:** Rye and Wheat Bran Sourdough in the Panasonic breadmaker (Programme 13) — Kiwifruit's daily bread. Recipe confirmed and flagged DAILY in the recipe book.
+---
+### Recipe book — structure & improvements (25 May 2026)
+- Rye and Wheat Bran Sourdough added to recipe book as confirmed DAILY loaf (Kiwifruit's daily breadmaker recipe)
+- Recipe: 300ml water, 3 tsp olive oil, 300g active starter, 250g Shipton Mill strong wholemeal, 150g rye/wheat bran mix, 150g strong white, 1½ tsp salt, ¼ tsp yeast optional — Programme 13, large, medium crust
+- **Decision:** Recipe book stays as single Notion page, not converted to DB. Revisit at ~50 recipes
+- Recipe index table (29 recipes, with type and tags) added to top of Aunty Jen Recipes page
+- Planned Improvements section added to Second Brain v2 Architecture page to log deferred DB decision
 ---
 ## Recent Recipes / Notes
 ### Sweeteners — Pantry & Usage (28 Feb 2026)
