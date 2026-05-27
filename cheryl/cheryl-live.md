@@ -1,6 +1,6 @@
 # Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-26 06:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:17 UTC -->
 
 ## Update — 23 May 2026 (source: weekly coaching session)
 ### Themes raised

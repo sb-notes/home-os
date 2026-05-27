@@ -1,6 +1,6 @@
 # Aunty Jen — Current State (25 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-26 06:03 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:16 UTC -->
 
 <!-- ANCHOR -->
 ---

@@ -1,6 +1,6 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-26 06:03 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:16 UTC -->
 
 ## Journal sync — 24 May 2026 (hot days / teething / lolly protocol)
 - **Frozen lolly protocol established (24 May 2026):** Purchased iNeibo silicone push-up tube moulds (10-pack, Amazon UK, Amazon's Choice). Push-up tube style — silicone IS the vessel, no demoulding, no loose sticks. Children squeeze from the bottom. 7.8" length suits 27-month hands. Food-grade BPA-free silicone.

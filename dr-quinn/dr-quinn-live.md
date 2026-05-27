@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-26 06:04 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:17 UTC -->
 
 ## Sauna decision — 23 May 2026
 - **Decision in progress:** 2-person indoor FAR infrared sauna for the studio (playroom repurposed). Leaning toward Aqualine SaunaMed 2-person rectangular (~120W × 105D × 195H cm), £1,920 current price. Position B: east wall (333cm clear wall), door swinging west into the room centre.
@@ -265,7 +265,7 @@
 1. **Newson Clinic (priority raised):** Attend with cyclical rectal pain/bleeding documented explicitly. Newson can optimise hormonal environment which may reduce endometriosis activity.
 1. **Mr Narendra Pisal (London Gynaecology) — now the priority action:** Cyclical rectal bleeding in known suspected endometriosis = indication for MRI pelvis + laparoscopy. Pisal has specific expertise in deep infiltrating/bowel endometriosis. Ideally book with Newson letter in hand.
 1. **Investigation pathway:** MRI pelvis (first-line for rectovaginal/bowel endo) → laparoscopy (diagnostic and therapeutic gold standard).
-**Clinical question — PARTIALLY RESOLVED then REVISED (5 May 2026):** Rectal bleeding on days 1–2 of period bleed — consistent with endo. However: further review reveals rectal bleeding has *not* always coincided with period bleeds. There has been rectal bleeding without period symptoms, and period symptoms without rectal bleeding. Picture is therefore NOT a clean endometriosis-only signature.
+**Cycle update (26 May 2026):** Period arrived — no rectal bleeding or pain this cycle. Significant improvement from previous cycle. Endometriosis hypothesis remains open but cyclical rectal symptom pattern now inconsistent (present one cycle, absent next). Most likely: fissure and haemorrhoid continuing to heal; Ovestin pessaries improving local tissue integrity. At Newson: present as pattern worth investigating, not confirmed diagnosis. Rectal bleeding on days 1–2 of period bleed — consistent with endo. However: further review reveals rectal bleeding has *not* always coincided with period bleeds. There has been rectal bleeding without period symptoms, and period symptoms without rectal bleeding. Picture is therefore NOT a clean endometriosis-only signature.
 **Revised working model — two overlapping pathways:**
 1. Intermittent/residual anal fissure — most parsimonious explanation for non-cyclical rectal bleeding given confirmed fissure history
 1. Endometriosis-driven component — cyclical pain and bleeding at period onset still points here
@@ -2145,3 +2145,29 @@ Silica 6c | Aconite 30c (restock) | Chamomilla 30c | Pulsatilla 30c | Nux Vomica
   **Children under 5:** Dissolve 1 pillule in a teaspoon of water and give from spoon. Or 1 drop of liquid in water.
   ---
   *Task created 18 Apr 2026 by Dr Quinn*
+## 🚨 Urgent Update — Lichen Sclerosus Now Primary Differential (26 May 2026)
+Symptom update: Vaginal soreness worsening despite 12 days nightly Vagifem and Yes VM moisturiser. White tissue persisting. Tissue now broken and very red inside the vaginal opening. Period in last few days.
+Clinical reassessment: Lichen sclerosus (LS) is now the primary differential diagnosis, not GSM alone.
+Key indicators pointing to LS over GSM:
+- White tissue persisting and not resolving despite adequate oestrogen treatment (Vagifem nightly for 12 days + Ovestin previously)
+- Tissue now broken — LS causes fragile, cracked, fissured epithelium; GSM alone rarely causes tissue breakdown
+- Very red inflamed tissue inside vaginal opening — LS causes intense inflammation at the tissue boundaries
+- GP already noted pale vaginal tissue at examination and flagged LS as a differential (per Newson letter 13 May 2026)
+- Newson letter: GP follow-up 12 June 2026 with dermatology referral flagged if no improvement — this appointment is now critical
+Distinction between GSM and LS:
+GSM responds to oestrogen within 4-6 weeks. LS does not respond meaningfully to oestrogen alone. LS requires topical high-potency corticosteroid (clobetasol propionate 0.05%) as first-line treatment. This is the one context in Dr Quinn's protocol where a topical steroid is the correct and necessary treatment — this is not the same as the hydrocortisone contraindication on Ollie's shin lesion.
+LS can coexist with GSM — both can be present simultaneously, and oestrogen treatment remains appropriate alongside clobetasol. They are not mutually exclusive.
+Immediate actions required:
+1. GP appointment before 12 June if possible — do not wait. Hannah needs a vulval examination and a clobetasol propionate 0.05% prescription. She can present the Newson letter showing LS was already on the differential.
+1. If GP cannot see her before 12 June, attend the 12 June appointment and specifically request: (a) vulval examination, (b) clobetasol propionate prescription, (c) dermatology/vulval clinic referral as Newson already recommended.
+1. Do not stop Vagifem — continue twice weekly maintenance. Oestrogen still supports the tissue even if LS is the primary driver.
+1. Do not use any further OTC products on the affected area — no Vagisil, no new topical agents. Coconut oil externally only until assessed.
+1. Dermatology or vulval clinic referral: LS requires long-term specialist monitoring. A vulval clinic is the gold standard. Sussex: Brighton and Sussex University Hospitals NHS Trust has a vulval clinic. Private: any dermatologist with vulval skin experience.
+Note on LS and endometriosis coexistence: Both are immune-mediated/inflammatory conditions. Having one does not cause the other but they can and do coexist. The endometriosis investigation remains important and separate.
+Homeopathic note: Sepia 200c remains appropriate constitutionally. For the broken, intensely inflamed tissue, Graphites 30c is worth considering as an adjunct — Graphites is the primary homeopathic remedy for cracked, weeping, inflamed skin at mucocutaneous junctions. Source from Helios. Take on a non-Sepia day.
+## ⚠️ Activity Note — Sauna, Sea Swimming, Floatation Tank (26 May 2026)
+Hannah has used a sauna, swum in the sea three times, and done a floatation tank session (Epsom salts, high concentration) in the last couple of weeks. These activities are likely to have contributed to the recent worsening of vulval symptoms.
+Sauna: heat increases inflammatory mediators in already-inflamed tissue; prolonged sweating creates damaging wet-dry cycle on fragile epithelium.
+Sea swimming: seawater osmotically stresses fragile epithelial cells; alkaline pH disrupts restored vaginal acidity; bacterial load is a real infection risk given broken tissue is now present; three sessions is significant exposure.
+Floatation tank: highest-concern activity. Epsom salt concentration ~30-35% is far more concentrated than seawater. Aggressive osmotic draw on broken mucosal tissue. Prolonged exposure (60-90 mins). Alkaline pH neutralises restored vaginal acidity. Most likely single contributor to recent setback.
+All three temporarily contraindicated until tissue is healed and no longer broken. Resume after clobetasol has had 4-6 weeks to work and tissue is intact. When sea swimming resumes: rinse vulval area with fresh water immediately after, apply coconut oil externally.

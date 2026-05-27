@@ -1,6 +1,6 @@
 # Bob the Builder — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-26 06:03 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:16 UTC -->
 
 ---n## Journal sync — 18 May 2026 (source: "Journal monday")n### Sauna — new to-do flaggedn- **To-do: explore sauna for the house** — Hannah's sauna session on Saturday helped significantly with inflammation/healthn- Both Kiwifruit and Carciofi identifying sauna + float as important maintenance modalities for this season of lifen- Research and plan how a home sauna might work at Victoria Road
 <!-- ANCHOR -->
