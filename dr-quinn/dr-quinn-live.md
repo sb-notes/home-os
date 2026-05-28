@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:17 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-28 06:08 UTC -->
 
 ## Sauna decision — 23 May 2026
 - **Decision in progress:** 2-person indoor FAR infrared sauna for the studio (playroom repurposed). Leaning toward Aqualine SaunaMed 2-person rectangular (~120W × 105D × 195H cm), £1,920 current price. Position B: east wall (333cm clear wall), door swinging west into the room centre.

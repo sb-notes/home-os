@@ -1,7 +1,36 @@
-# Sean from IT — Current State (19 May 2026)
+# Sean from IT — Current State (27 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:18 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-28 06:09 UTC -->
 
+## Journal sync — 27 May 2026 (cables purchase)
+### USB-C cables — 2x UseBean ordered (27 May 2026)
+- **UseBean USB-C to USB-C Right Angle 100W 2M, USB 3.2 Gen 2x2 (20Gbps)** — x2, £7.99 each, Amazon UK, Prime delivery Friday 29 May
+- **Cable 1 (monitor):** Mac Port 2 → LG 27" monitor. Replaces original 2020 LG monitor cable. Supports 4K DP Alt Mode + 100W PD — handles display signal and power for both M1 and M5.
+- **Cable 2 (webcam):** Mac Port 1 → Elgato Facecam MK2. Replaces stock USB-A to USB-C cable + right-angle USB-C to USB-A adapter. USB 3.2 should shift webcam from USB 2.0 (480Mbps) to USB 3.0/3.2 mode — confirm by checking device name changes from `Elgato Facecam MK2 (USB2)` to `Elgato Facecam MK2 (USB3)` in Google Meet camera selector after swap.
+---
+## Journal sync — 27 May 2026 (source: Gemini troubleshooting thread)
+### Elgato Facecam MK2 — upside-down fix & cable configuration
+**Problem:** Facecam MK2 mounted upside-down on Neewer 11" arm. Camera Hub preview flips correctly but Google Meet in Brave bypasses Camera Hub and reads the raw upside-down hardware stream.
+**Software fix:**
+- Elgato Camera Hub: enable Effects engine, set Flip orientation modifier
+- Google Meet / Brave: change video source from `Elgato Facecam MK2 (USB2)` to `Elgato Virtual Camera`
+**Physical cable routing (confirmed 27 May 2026):**
+- Mac Port 1 (right-angle USB-C → USB-A adapter → USB-A cable → webcam USB-C): Elgato Facecam MK2
+- Mac Port 2 (right-angle USB-C → original LG monitor USB-C cable): LG 27" monitor (purchased 2020)
+- LG monitor hub: Sennheiser wired headset + home Penguin USB dongle
+- Work M5 note: work Penguin is Bluetooth-only, no dongle
+**Previous stuttering root cause:** Webcam on monitor USB hub shared DisplayLink bandwidth with display data → USB endpoint saturation. Fixed by direct Mac port connection.
+**DisplayLink Manager:** Removed from home M1 — single external display on Apple silicon runs natively, no DisplayLink needed. Keep on work M5 if multiple office monitors used.
+**Camera Hub settings:**
+- Home M1: 1080p30 (halves compute vs 60fps; leaves headroom for Wispr Flow)
+- Work M5: 1080p30 (prevents browser-level stuttering during screen shares)
+**Daily operation:**
+1. Open Elgato Camera Hub
+1. Confirm Flip on, resolution 1080p30
+1. Cmd+H to hide Camera Hub (NOT the red X — can kill background video threads)
+1. In Brave, select Elgato Virtual Camera as video source
+**Cmd+H rationale:** Freezes Camera Hub preview rendering, saving ~40% CPU/GPU overhead while keeping the virtual camera driver active. Essential when Wispr Flow is also running.
+---
 <!-- ANCHOR -->
 ---
 ## Journal sync — 18 May 2026 (source: "Journal monday")
@@ -208,7 +237,7 @@ In [Sender.net](http://sender.net/): Settings → Sender Domains → Authenticat
 - **Phone (Hannah): Google Pixel 3a** — giffgaff (O2), physical SIM only (no eSIM on 3a), migrated from EE Mar 2026. Pixel 8 upgrade via Back Market planned later in 2026
 - **Tablet: Acer Iconia Tab M10 (A22001) 128GB** — video calls and toddlers
 - **Recording device: Roland R-05** — choir concerts. External mic upgrade under consideration
-- **Webcam: Elgato Facecam MK2** — 2K, used on MacBook Air M1. Mount: Neewer 11" Articulating Magic Arm Clamp Mount (£29.99, Amazon UK, purchased May 2026) — clamped to Invision monitor arm post on Flexispot EC-1 standing desk (loft). Positions FaceCam at eye level for video calls. Replaces monitor-top clip for call use. FaceCam attaches via 1/4" thread (stock clip removed).
+- **Webcam: Elgato Facecam MK2** — 2K, used on MacBook Air M1 (personal) and MacBook Air M5 (work). Mount: Neewer 11" Articulating Magic Arm Clamp Mount (£29.99, Amazon UK, purchased May 2026) — clamped to Invision monitor arm post on Flexispot EC-1 standing desk (loft), above LG 27" monitor. FaceCam attaches via 1/4" thread (stock clip removed). **Camera mounted upside-down** — Flip applied via Elgato Camera Hub Effects engine; Elgato Virtual Camera selected as source in Google Meet/Brave. Full troubleshooting record and daily procedure: Journal sync 27 May 2026.
 - **Standing desk: Flexispot EC-1** — loft office (moving to Position D Mar 2026)
 ---
 ## 📸 Photo Management

@@ -1,6 +1,6 @@
 # Degen — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-27 06:17 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-28 06:08 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -915,7 +915,7 @@ Requested clarification on:
   **Last updated:** 12 May 2026
   **Total portfolio value:** ~$24,313 (~£19,207 at 0.79)
   **Currency:** USD
-  > **How to update this page:** Export CSVs from CoinMarketCap (one per portfolio tracker) → paste into the Degen thread with the command `portfolio update` → Claude rewrites this page automatically using the Portfolio Update skill.
+  > **How to update this page:** Update manually when a TDR signal is executed, dead alts are sold, or a quarterly review is due. For a full rewrite (e.g. after a new TDR buy deploys dry powder), export CSVs from CoinMarketCap and use the `portfolio update` command. Day-to-day signal monitoring: use `TDR update` instead.
   ---
   ## 📊 Summary
   - **TDR Pro (Portfolio 3):** $10,722 | All-time P&L: +$514 (+5.03%) | Strategy: PRIMARY — follow TDR signal emails only
