@@ -1,6 +1,6 @@
 # Sean from IT — Current State (27 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-28 06:09 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-29 06:11 UTC -->
 
 ## Journal sync — 27 May 2026 (cables purchase)
 ### USB-C cables — 2x UseBean ordered (27 May 2026)

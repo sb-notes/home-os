@@ -1,7 +1,44 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-28 06:07 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-29 06:09 UTC -->
 
+## Legal update — 28 May 2026 (source: court documents received in duplicate)
+### Court documents received — 28 May 2026
+Two sets of physical court documents received today, one per child (Fox = SD06/26, Bunny = SD07/26). Both dated 22 April 2026, issued by the Family Court at Sussex-Brighton, ordered by HHJ Talbott.
+**Document 1 — Notice of Hearing (one per child)**
+- Application for: Adoption Order (leave to oppose by birth-mother-1)
+- Venue: Family Court at Sussex — Hastings County Court, Horntye Park, Bohemia Road, Hastings, East Sussex, TN34 1QX
+- **Date: Friday 3 July 2026 at 2:00pm**
+- Time estimate: **2 hours** (substantive contested hearing)
+**Document 2 — General Order (Adoption and Children Act 2002)**
+- The court orders:
+  - a. The Guardian must file and serve their report by **4:00pm on 17 June 2026**
+  - b. The next hearing adjourned from **8 May 2026** to **3 July 2026 at 2:00pm** at Hastings County Court
+- Reason: delay in the approved order being sent to parties (administrative/procedural, not substantive)
+- Ordered by: HHJ Talbott
+### Legal outlook — 28 May 2026
+- 3 July hearing is the s.47 leave-to-oppose hearing. The 2-hour slot confirms it is a substantive contested hearing, not a brief directions appointment.
+- Guardian report due 17 June 2026 is the pivotal document. Guardian reports in these circumstances almost always support the adoption order; HHJ Talbott will take it into account at the hearing.
+- Most likely outcome: leave to oppose refused, adoption order made at 3 July hearing or shortly after.
+- If leave granted (less likely): further directions hearings, order likely autumn 2026.
+- birth-mother-1 also separately requested a different Guardian; Cafcass deciding.
+- adopter-sw-1 read (as of 9 May): "Septemberish at the earliest, could be more or less."
+- All downstream actions (name change, passports, JISAs, EYPP formal claim) remain contingent on order grant.
+---
+## Update — 28 May 2026 (source: weekly coaching session)
+### Parenting themes raised
+- **Caspar-as-barometer framing explicitly integrated by Carciofi.** "When he is dysregulated, probably his environment and/or I are dysregulated and there's more work to do." This is the co-regulation principle landing as lived understanding, not just principle. Worth holding in every session.
+- **The parenting prison named.** "Trapped willingly into a daily cycle of caregiver — it's taking a toll on both Carciofi and me." The double whammy structure: 6.5–7 year financial/life project depleted reserves → arrived directly into intensive caregiving with no recovery window. Manifesting as tinea, anger, bickering, intimacy gap.
+- **Hannah emerging from the parenting prison faster.** Self-care leadership visible: floats, swims, runs, fortnightly friends. Kiwifruit arriving now — "a new phase of parenting and living beginning with this spring."
+- **IVF / path-to-parenthood pain flagged.** "Some held pain around the path to parenthood. There's also some held pain around the current situation." Connected to parenting prison. Flagged to Catarina as next EMDR territory.
+- **Intimacy gap.** Longest absence ever. Open conversation active, mutual desire confirmed, more contained than feared. Monitored.
+- **Blackout blind and Caspar wake-up cycle** — outcome not yet confirmed. Carry to next session.
+- **Dyadic parent-child sessions for Caspar** — filed as later-in-the-work consideration (from Catarina analysis).
+### Follow-ups
+- Blackout blind — did it break the wake-up cycle? How many unbroken nights?
+- Caspar settling post Tony-and-London disruption — how is he now?
+- Parenting prison + IVF grief — raised with Catarina?
+---
 ## Journal sync — 24 May 2026 (hot days / teething / lolly protocol)
 - **Frozen lolly protocol established (24 May 2026):** Purchased iNeibo silicone push-up tube moulds (10-pack, Amazon UK, Amazon's Choice). Push-up tube style — silicone IS the vessel, no demoulding, no loose sticks. Children squeeze from the bottom. 7.8" length suits 27-month hands. Food-grade BPA-free silicone.
 - **Use case:** Dual purpose — cooling for fair-skinned children on hot West Sussex days; molar teething relief (Bunny and Fox both have back molars still to come through; Fox flagged as possibly cutting a bottom back molar late April).
@@ -442,7 +479,7 @@
 - **Bunny (Phoenix):** 25 months. Language very advanced; strong secure attachment; food anxiety more pronounced than Fox currently; highly expressive of distress (separation anxiety during Carciofi's A&E visit 30 Mar). Fully integrated into preschool.
 - **Fox (Caspar):** 25 months. Active throwing schema (library, playdate). Catatonic-style bedtime meltdowns since Kiwifruit returned to work. Grief-crying for Kiwifruit during afternoon nap wake-ups. Pooping once daily for one week (sustained streak — major progress). Strongly bonded with Kiwifruit; ambivalent-to-secure trajectory on track.
 - **Preschool:** Both children fully embedded; Tue/Wed/Fri mornings (9:00–12:30). Post-Easter phased increase to full days on Tue/Wed.
-- **Adoption order:** Hearing 2 on 8 May 2026. Everyone expects order to be granted — timing, not outcome, is the question. Guardian assigned, reports due 5 May.
+- **Adoption order:** Hearing 2 adjourned to **3 July 2026 at 2:00pm** (Hastings County Court). Guardian report due 17 June 2026. Reason for adjournment: court administrative delay in notifying parties. 2-hour slot confirms substantive s.47 hearing. Everyone expects order to be granted — timing, not outcome, is the question.
 - **Love Me Feed Me protocol:** Active since 20 March. Yoghurt at all three meals; pre-placed before children sit down. Marked reduction in food-demanding behaviour confirmed.
 - **Kiwifruit back at work:** Rightbrain since 19 March. Love-bombing strategy active on return; 10-min one-on-one with Fox on Kiwifruit's return from work daily.
 - **Open clinical watch:** Fox's throwing schema in confined spaces; bedtime regulation; Fox's grief-cry pattern post-work-return; Bunny's separation anxiety arc.

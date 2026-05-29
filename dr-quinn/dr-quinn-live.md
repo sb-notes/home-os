@@ -1,7 +1,18 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-28 06:08 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-29 06:11 UTC -->
 
+## Update — 28 May 2026 (source: weekly coaching session)
+### Health signals this week
+- **Body holding well.** Yoga ~5x weekly, daily walks, float in rotation. Spring energy real and confirmed by Kiwifruit.
+- **Jaw — still the unpointed-at area.** Full-mouth crowns, multiple root canals, chronic clenching. Catarina has named the 16yo car crash as the root; EMDR has not directly targeted it yet. Highest-impact remaining somatic target. Not urgent this week — keep noticing what it's doing.
+- **Sauna with Josh emerging for this weekend.** Josh reached out last night. Kiwifruit planning for half-day. This is the right move — social-somatic, male connection, nervous system regulation. Take it without negotiating.
+- **Sleep still load-bearing.** Nightly wake-ups (Caspar) the upstream variable. Blackout blind installed — outcome not yet confirmed.
+- **Tinea / Terbinafine** — mentioned as a physical expression of nervous system/immune depletion. Monitor.
+### Invitations
+- Sauna with Josh this weekend — take it without condition.
+- Notice what the jaw is doing this week, especially post-EMDR session.
+---
 ## Sauna decision — 23 May 2026
 - **Decision in progress:** 2-person indoor FAR infrared sauna for the studio (playroom repurposed). Leaning toward Aqualine SaunaMed 2-person rectangular (~120W × 105D × 195H cm), £1,920 current price. Position B: east wall (333cm clear wall), door swinging west into the room centre.
 - **Clinical rationale — Carciofi:** Probable endometriosis/deep pelvic involvement; pelvic floor hypertonicity; anal fissure healing; mucosal repair (Ovestin + Omega-7 protocol). Mid-May 2026 sauna session confirmed significant benefit to inflammation and healing. FAR infrared penetrates ~4–5cm, suppresses prostaglandins, induces vasodilation and parasympathetic shift — directly relevant to all active threads. 5x/week dose is categorically different from current ~6 sessions/year.
@@ -416,6 +427,21 @@
 - Final confirmed schedule: breakfast = fish oil, B-complex, CoQ10, NAC, zinc; pre-smoothie = D3/K2; dinner = water kefir; bedtime = magnesium bisglycinate
 - Note for future reorder: B-complex replacement should be copper-free to avoid zinc competition during repletion phase (Thorne Basic B or BioCare B-Complex Forte suggested)
 - Zinc step-down to 15mg planned after 8 weeks once repletion established
+---
+## 🛠️ System Gotchas — Dr Quinn Project (updated 28 May 2026)
+### Cheryl page ID is wrong in userMemories
+- The Cheryl page ID stored in memory (`31224a1cf0f081a19816fe88cb181dce5`) has a typo — it is 33 hex characters, not 32. Notion rejects it with a validation error.
+- Corrected attempt (`31224a1cf0f081a19816fe88cb181dce`) returns 404 — page not found or not accessible to the integration.
+- **Correct Cheryl page ID per State File Index:** `31224a1cf0f081a9816fe88cb181dce5`
+- Until confirmed accessible, therapy/relational content for Carciofi should be parked in Dr Quinn with a routing flag, then moved once Cheryl access is confirmed.
+- **Action:** Test fetch of `https://www.notion.so/31224a1cf0f081a9816fe88cb181dce5` at the start of the next Cheryl-relevant session to confirm.
+### Dr Quinn state file too large for direct context
+- The Dr Quinn Notion state file exceeds the tool result size limit and is stored at `/mnt/user-data/tool_results/` rather than returned inline.
+- Use `grep` or `head`/`tail` via bash_tool to extract relevant sections rather than attempting to read the full result.
+- This is expected behaviour for a file of this size — not an error.
+### EMDR therapist list routing
+- Catarina's EMDR referral list (28 May 2026) was written to Dr Quinn rather than Cheryl due to Cheryl page inaccessibility.
+- Content is flagged inline for re-routing once Cheryl access is restored.
 ---
 > **Purpose:** This is the central medical file for Ollie, Hannah, Phoenix, and Caspar. All physical health information (symptoms, diagnoses, medications, supplements, appointments) goes here. Mental health and therapy-specific content for Ollie goes to Cheryl. Parenting and adoption-specific content for Phoenix & Caspar goes to Aloyse.
 ---
@@ -2145,6 +2171,15 @@ Silica 6c | Aconite 30c (restock) | Chamomilla 30c | Pulsatilla 30c | Nux Vomica
   **Children under 5:** Dissolve 1 pillule in a teaspoon of water and give from spoon. Or 1 drop of liquid in water.
   ---
   *Task created 18 Apr 2026 by Dr Quinn*
+## EMDR Therapists — Hannah (from Catarina Rato, 28 May 2026)
+Catarina has personally recommended the following EMDR therapists, all of whom currently have availability in the Brighton & Hove area. Catarina cannot confirm which offer concessionary rates — ask each directly.
+- **Lisa Darnell** — [https://www.counselling-directory.org.uk/counsellors/lisa-darnell](https://www.counselling-directory.org.uk/counsellors/lisa-darnell)
+- **Kara Davey** — [https://www.karaclinicalpsychologistinsussex.co.uk/about-us/](https://www.karaclinicalpsychologistinsussex.co.uk/about-us/)
+- **Dr Ruth Henderson** — [https://www.drruthhenderson.co.uk/](https://www.drruthhenderson.co.uk/)
+- **Gabriel Best** — [https://www.psychologytoday.com/gb/counselling/gabriel-best-brighton/1481719](https://www.psychologytoday.com/gb/counselling/gabriel-best-brighton/1481719)
+- **Maddie Nixon** — [https://www.maddienixon.co.uk/](https://www.maddienixon.co.uk/)
+*Note: This list should route to the Cheryl file (therapy/relational context) once that page is confirmed accessible. Parked here in the interim.*
+---
 ## 🚨 Urgent Update — Lichen Sclerosus Now Primary Differential (26 May 2026)
 Symptom update: Vaginal soreness worsening despite 12 days nightly Vagifem and Yes VM moisturiser. White tissue persisting. Tissue now broken and very red inside the vaginal opening. Period in last few days.
 Clinical reassessment: Lichen sclerosus (LS) is now the primary differential diagnosis, not GSM alone.

@@ -1,7 +1,38 @@
 # Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-28 06:08 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-29 06:10 UTC -->
 
+## Update — 28 May 2026 (source: weekly coaching session)
+### Themes raised
+- **Adult-inner-child EMDR conversation.** In Session 10 yesterday, Kiwifruit's adult self was able to have a healing conversation with the inner child during bilateral stimulation — "I could feel things moving." The most significant developmental signal in the arc so far. Not just processing a memory but direct repair between adult and child parts.
+- **NZ homesickness as identity data.** Surfaced from inside EMDR (not brought in as a thought) — felt in the throat. Inner child was speaking; adult hadn't been fully listening. Idealization awareness strong: 18-month horizon, Rightbrain Series A / one-third vesting as natural test point. Held as data and test, not plan. "This is not a prison. I am not trapped."
+- **Parenting prison named explicitly.** "Trapped willingly into a daily cycle of caregiver — it's taking a toll on both Hannah and me." Underneath it: 6.5–7 year project cost — friendship group narrowed from *in the room and in the hug* to *on the end of the phone*. Felt in the stomach with sadness. Connected to IVF/path-to-parenthood pain — flagged as Catarina's next territory.
+- **Advisory simplification.** DataBoots and Lavender Thorn to wind down naturally. Jeevan/Shoreham Tech as the relationship worth investing in — monthly coffee, fortnightly walk-and-talk, equity likely.
+- **Bobby (Brighton, Welly Wailers)** named as a potential in-person UK friendship. Josh sauna this weekend emerging.
+### Focus chosen for the week
+**Love the inner child and live more lightly.** — Kiwifruit's own words.
+### What landed
+- "I could feel things moving" — said about the adult-inner-child EMDR conversation. This is the work becoming visible.
+- Friendship grief in the stomach: real, named, moved past into reframe — but the stomach's account is also true and unprocessed.
+- NZ idealization awareness strong and holding — "this is not a prison" is the right sentence for now.
+- Caspar-as-barometer framing explicitly integrated: "when he is dysregulated, probably his environment and/or I are dysregulated."
+### Asks logged
+1. Sauna with Josh this weekend (half-day).
+1. Reach out to Bobby — concrete in-person plan.
+1. Flag parenting prison + IVF/path-to-parenthood grief to Catarina as next EMDR territory.
+### Follow-ups for next session
+- Hannah's therapist referral — did it follow through?
+- Blackout blind — did it break Caspar's wake-up cycle?
+- 9:15 alarm — did it hold?
+- Behaviour test at Rightbrain: equity, CPO authority, agent/chatbot discovery
+- Sauna with Josh — did it happen?
+- Bobby — did you make a plan?
+- Parenting prison + IVF grief — raised with Catarina?
+### Between-session insight — 28 May 2026 (post-yoga, 4 sun salutations)
+- Whilst doing yoga, Kiwifruit asked himself: *"Would it be so bad to be a European family?"* What would it look like to stay in England debt-free and visit New Zealand as and when, enjoying the best of it as tourists rather than residents?
+- The picture that opened up: living mortgage-free in England, a regular European extended summer, possibly a house in Tuscany, the freedom to choose when to work, early retirement on the table. Many possibilities, none of them requiring NZ residency.
+- Felt exciting in the body. This is the NZ homesickness material continuing to settle — not closing off the NZ option but opening the frame significantly wider. Abundance-consciousness move. The scarcity-to-abundance thread visible in the shift from *"I must return"* to *"look at everything that becomes possible if I don't."*
+---
 ## Update — 23 May 2026 (source: weekly coaching session)
 ### Themes raised
 - **EMDR somatic integration.** Phrase *"I am deserving"* landed in the body, not just the head — said quickly, easily, without friction. Direct continuation of the parents-permission EMDR insight (20 May) and the MLK past-life thread. Sits alongside the heels-dropping-in-downward-dog and core-activating somatic shifts already logged. Significant trajectory marker.
