@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-29 06:11 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:45 UTC -->
 
 ## Update — 28 May 2026 (source: weekly coaching session)
 ### Health signals this week

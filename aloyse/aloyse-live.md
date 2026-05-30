@@ -1,6 +1,6 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-29 06:09 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:44 UTC -->
 
 ## Legal update — 28 May 2026 (source: court documents received in duplicate)
 ### Court documents received — 28 May 2026
