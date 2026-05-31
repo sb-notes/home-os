@@ -1,7 +1,28 @@
 # Sean from IT — Current State (27 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:16 UTC -->
 
+---
+## Indexer run — 30 May 2026 06:00
+- Entries indexed: 10 (Journal Thursday 21 May, Journal Friyay 22 May, Journal Saturday 23 May, Journal Sunday 24 May, Journal monday 25 May, Journal Tuesday 26 May, Journal weds 27 May, Journal Thursday 28 May, Journal Friday 29 May, Journal Saturday 30 May)
+- State files updated: Cheryl, Aloyse, Dr Quinn, Marty, Shula RTM, Rosie Rentals, Secret Adopters, Bob the Builder, Degen, Augmented, Sean from IT
+- Dedup skips: 3 — Journal Thursday 21 May → Cheryl (skip, covered by 15–22 May sync); Journal Thursday 21 May → Dr Quinn (skip, covered by 15–22 May sync); Journal Friyay 22 May → Cheryl (skip); Journal Friyay 22 May → Dr Quinn (skip); Journal Sunday 24 May → Aloyse (skip, 24 May already synced)
+- Deferred LOW routes: 0
+- Friction items logged: 1 (see below)
+- Pre-flight issues: Health Log DB ID is still a placeholder — friction logged to this file instead
+## Indexer friction — 30 May 2026
+- **Category:** missing_infrastructure
+- **Severity:** friction
+- **Description:** Health Log DB ID remains the placeholder string `[HOME-HEALTH-LOG-DB-ID — confirm before Saturday run]` in the skill file. Friction items from this run logged here instead. Action needed: confirm the Health Log DB ID and update the skill file before next run.
+- **Suggested fix:** Locate or create the Home Health Log DB in Notion; copy its collection ID into the skill file replacing the placeholder.
+---
+## Journal sync — 23 May 2026 (source: "Journal Saturday" 23 May)
+### Cowork morning automation pipeline — confirmed working
+- Weekly indexer scheduled to run early Saturday morning ✓
+- Weekly wrap-up scheduled to follow it ✓
+- Full morning pipeline automated via Cowork: journal → index → morning report → roadmap triage → coaching session
+- Kiwifruit can now review all outputs and have a coaching session on his walk
+- Result: no evening Cowork/Claude work on previous night — "hooray for no cowork on mobile"
 ## Journal sync — 27 May 2026 (cables purchase)
 ### USB-C cables — 2x UseBean ordered (27 May 2026)
 - **UseBean USB-C to USB-C Right Angle 100W 2M, USB 3.2 Gen 2x2 (20Gbps)** — x2, £7.99 each, Amazon UK, Prime delivery Friday 29 May

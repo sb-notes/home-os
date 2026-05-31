@@ -1,7 +1,38 @@
 # Secret Adopters — Current State (updated 5 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:16 UTC -->
 
+---
+## Journal sync — 22–27 May 2026 (sources: "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal weds" 27 May)
+### Blog content backlog — new items
+**"Blocked from adopting? Try fostering" (new persona: ST)**
+- Friend "Rosie" (not real name — use ST as persona) spent years trying to adopt; was repeatedly blocked by adoption team despite being a credible candidate:
+  - Required to have no debt (including mortgage) — deemed ridiculous
+  - Required to demonstrate a "comfortable year off" financially — couldn't get a specific number from assessors despite meeting all apparent criteria
+- Left partner who pulled out of process; waited a year as asked; moved to own flat; working multiple jobs; has savings; has a good business
+- Finally accepted the adoption team just wanted it to be a no
+- Pivoted to fostering — completely different reception: welcoming team, training on weekends/evenings, expenses paid, 6–9 month process
+- ST story: if you've been blocked from adopting, try fostering; it's another route to becoming a parent; foster carers can and do adopt
+- Kiwifruit and Carciofi met ST at Welly Wailers gig; agreed to write the blog together
+- Blog to include ST's experience of the adoption wall vs the fostering welcome; how sick the system is; how desperately it needs a shake-up
+**Open letter to Parliament**
+- To be authored by main persona AJ
+- Shared with local MP and district councillor Gerry (recently elected West Sussex county councillor; Greens + Lib Dems now control West Sussex county council)
+- Content: the systemic failure of adoption assessment; barriers that prevent good candidates; contrast with fostering
+- To go on the blog list
+**"Teeth Brushing with Toddlers: What We've Learned"**
+- Full content drafted in journal entry 26–27 May; ready to be turned into a blog post
+- Key points:
+  - Electric toothbrushes from 18 months — children find them interesting; better brushing than manual
+  - Early stage: silicone teether set — thimble didn't work (children bite fingers) but wand worked well
+  - Dr Hisham's Baby Teeth Serum — only toothpaste trusted; no fluoride (children ingest everything); no sugar; designed to stay in mouth, not spit out
+  - Fluoride avoided: good antibacterial but must not be ingested
+  - "Miss Apple Brush Your Teeth" YouTube song — highly effective
+  - Animal sounds on each tooth (oh there's the monkey!) — works sometimes
+  - Accept that if they move brush around and get serum in for 1.5–2 min, that's a win
+  - At 2.5 still need to demonstrate brushing; competition between twins helps
+  - Two brushes per day achieved every third day; preschool brushing fills the gap (3 days/week)
+  - Preschool hugely helpful for training habits
 <!-- ANCHOR -->
 **Project:** Secret Adopters
 **Description:** A blog written anonymously and in several anonymous voices, which draws on the adoptive experiences of Ollie and Hannah. This state file is used to generate anonymous blogs, which are posted to [secretadopters.com](http://secretadopters.com/) using WordPress hosted on [Hostinger.com](http://hostinger.com/).

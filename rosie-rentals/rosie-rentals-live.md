@@ -1,7 +1,21 @@
 # Rosie Rentals — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:15 UTC -->
 
+---
+## Journal sync — 22–29 May 2026 (sources: "Journal Friyay" 22 May, "Journal weds" 27 May, "Journal Friday" 29 May)
+### 29 May — Ventnor roofing still pending
+- Roofing action still not taken; flagged again as the thing that needs to come next
+- Plan: this weekend — contact scaffolders for quotes, choose one, book them in; then book builders to go up the scaffold, give quote, choose, get work done within the ~6 weeks the scaffold is up
+### 27 May — Ventnor roofing (repeat flag)
+- Ventnor Villas roofing: not yet moved forward; same action needed: scaffolders → quote → choose → book; then builders
+### 22 May — Bedford Square RTM failed; resubmission timeline
+- Moorland (freeholder/estate manager of Bedford Square) successfully rejected the RTM claim
+- Brighton & Hove Leaseholders Association (Shula) made a procedural error — Moorland replied after the deadline but tribunal response was not filed in time; legal advice says reapply
+- Shula agreed to redo the RTM application free of charge
+- New timeline: **Christmas at earliest**, likely including tribunal
+- Leaseholders paying exorbitant service charges to Moorland in the meantime; Moorland not doing the work funds were collected for
+- Forensic accounting (Galloways vs Harper Stone/Maxi Wood) expected once RTM is complete — likely to reveal significant misappropriation
 <!-- ANCHOR -->
 ---
 ## Journal sync — 13–14 May 2026 (sources: "Journal weds", "Journal Thursday")

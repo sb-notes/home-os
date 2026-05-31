@@ -1,7 +1,24 @@
 # Bob the Builder — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:44 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:14 UTC -->
 
+---
+## Journal sync — 21–22 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May)
+### 22 May — front yard plan; floodgates; shed
+- Ollie (builder) visiting to make a plan for the front yard improvement, starting with:
+  - Prepare base; clear a stump; lay gravel; lay stone/concrete pavers; put the shed on the southern side of the front yard wall
+- Shed decided to go on southern side of wall in front yard
+### 21 May — shed options; front yard scope
+- Ollie's mother is about to get her moving date; if it holds, buy her second-hand shed for £200 and have Ollie install it; if not, purchase £700 new shed and book Ollie in
+- Agreed Ollie will come round to make a plan together — this is the proven way to get things moving
+- Scope for front yard:
+  - Slate or tiles on front path (currently concrete)
+  - Clear the garden
+  - Aggregate base — flat and drainable
+  - Concrete pavers on top for shed base
+  - Assemble shed on top
+- Suggested splitting into two stages: shed now, front path later
+- Financial note: ran low on funds this month; being conscious about timing
 ---n## Journal sync — 18 May 2026 (source: "Journal monday")n### Sauna — new to-do flaggedn- **To-do: explore sauna for the house** — Hannah's sauna session on Saturday helped significantly with inflammation/healthn- Both Kiwifruit and Carciofi identifying sauna + float as important maintenance modalities for this season of lifen- Research and plan how a home sauna might work at Victoria Road
 <!-- ANCHOR -->
 **Project:** Bob the Builder

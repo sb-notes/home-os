@@ -1,7 +1,37 @@
 # Marty — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:45 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:15 UTC -->
 
+---
+## Journal sync — 21–29 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Friday" 29 May)
+### 29 May — advisory clients; Shoreham Tech; podcast strategy
+- Lavender Thorn advisory: Paul and Matt did not turn up to call (again); happy to roll to next month — feels like a passion project, not going anywhere; Kiwifruit gracefully stepping back
+- DataBoots advisory (Dan): not replying to WhatsApp for ~6 weeks; something has happened in his life; Kiwifruit not pursuing
+- **Shoreham Tech advisory (Jeeves):** strong signal — he is building something, interesting, going somewhere; will set up as social enterprise with Kiwifruit as director with equity; likely to get to revenue even if not significant to Kiwifruit personally
+- Shoreham Tech peer coaching idea: run an Augmented-model peer coaching group from the drinks event (Tue 9 June); start free pilot, then charge; potential revenue stream for Shoreham Tech
+- This would be the 5th use-case for the round table method: coaching within a business, Forever Dads, ProdMind, Augmented, and now Shoreham Tech
+- **Podcast strategy confirmed:** Adventures in AI only — "Kiwifruit = AI products person, brand nice and strong"; no Happy Product Happy Hour podcast; no more Problem Busters
+- Peer coaching groups: Forever Dads, ProdMind, Augmented — these three, plus Shoreham Tech pilot coming
+- Gets more from peer coaching than podcasting — this is where he is now
+### 26 May — Augmented first session; peer coaching > podcasting
+- Augmented first session: "resounding success, incredible success"
+- Nine people on the call; several couldn't make it
+- People sharing useful things immediately; Jonathan had to leave (kids pickup)
+- Diverse mix: Yashoda (NHS), Hugo (design), full tech people
+- Why the world needs Rightbrain — validating discussion
+- Kiwifruit observation: gets more out of peer coaching than podcasting. Three active groups: Forever Dads, ProdMind, Augmented. In last 8 days launched two peer coaching groups successfully
+- Rightbrain: team says Series A 18 months away; NZ move timing: earliest in 1.5 years; probation ends ~19 June (share allocation review: stays at 0.5% or increases); full vesting horizon ~2.5–3 years
+- NZ holiday under consideration: Christmas this year or next (when children turning 3 or 4) — just to look and see how it feels
+### 22 May — morning routine automation win
+- Excellent day; strong positive week
+- Entire morning routine automated via Product OS and Flow/Cowork: journal → index → morning report → roadmap triage → coaching session — all scheduled
+- Result: no working on Cowork/Claude in the evenings the previous night; feeling really good about it
+- "Flow Cowork through Product OS making a huge difference"
+### 21 May — job security anxiety processed; standing taller
+- EMDR session with therapist-c processed job security anxiety "really well" — lots of connections, also processed past-life material; strongest emotion in therapy so far but processed quickly (3–4 minutes)
+- Kiwifruit notices he is standing taller and able to face things that worried him; starting to make plans in-session for resolving work concerns — very positive sign
+- Evening work on Cowork/Claude coming to an end: Product OS and Rightbrain system improving so it is self-cleaning; breaking the cycle of housekeeping that led to these long state-file cleanups
+- Feeling quiet, calm; urgency to journal fading — healing is happening
 <!-- ANCHOR -->
 ---
 ## Journal sync — 18–19 May 2026 (sources: "Journal monday", "Journal Tuesday")

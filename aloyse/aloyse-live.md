@@ -1,7 +1,68 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:44 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:14 UTC -->
 
+---
+## Journal sync — 25–30 May 2026 (sources: "Journal monday" 25 May, "Journal Tuesday" 26 May, "Journal weds" 27 May, "Journal Thursday" 28 May, "Journal Friday" 29 May, "Journal Saturday" 30 May)
+### 30 May — solo Saturday, trust model breakthroughs
+- Solo day with Kiwifruit while Carciofi in London visiting friend
+- Both children very well-behaved and easy all day; park + beach + ice cream outing
+- Fox now understands explanations: "Mummy's on a choo-choo but mummy's coming back later"
+- Bunny had one wobble pre-lunch (Carciofi absence) — brief, managed well
+- New nap trick working well: Foxy toy peers through balusters at top of stairs; both children chase him up laughing
+- Small ice cream portion (single baby scoop split between them) accepted without complaint — good self-regulation
+- Trust model: both children said "finished" unprompted; Bunny said "tummy full down" at end of breakfast — major milestone
+- No re-entry after nap; both chatted and settled independently
+### 29 May — Fox flourishing; returning to daycare
+- Fox has had exceptional week: more time with Kiwifruit, daily naps
+- Fox's independence growing — taking the play lead for first time in the sibling dynamic
+- Fox into jumping: jumping off step, physical play (throwing, climbing); Bunny joining in — "he's taking the lead, this is new"
+- Fox enthusiastic gardening helper — weeding, carrying plants, planting flowers in their side-return flower box
+- Fox language: "Kappa, help! Daddy!" — words separated by pauses but composing three-word sentences
+- Fox 16kg; Bunny self-regulating food very well
+- Plan: next week back to daycare 3 days/week, home at 1:00–1:30 for nap — expecting much improved normal week
+- Trust model food notes: Bunny regulating well at breakfast; Fox eating big at breakfast then less at lunch; Bunny said "finished" and returned half a snack; Caspar 16kg seems to have a larger gut compared to Bunny — taking longer to build nervous-system-level food trust
+### 28 May — visitor disruption pattern; children's sleep solid
+- Bunny much improved by evening — straight off to sleep, no raging
+- Children had solid sleep day
+- Observation confirmed: 2–3 days since visitors = children much calmer; something about visitors (especially children visitors) disrupting their sense of home as sanctuary — possibly triggered by foster home memories of other children
+- Fox stable
+### 27 May — toothbrushing breakthrough; trust model progress
+- Toothbrushing major unlock: Miss Apple brush-your-teeth song on YouTube + sitting on the step as a routine
+- Children now engaged with brushing as "an event" — wanting to do it rather than running away
+- Fox saying "finished" with snacks mid-snack — trust model food progress
+- Bunny also saying "finished" and returning snacks in some cases
+- Children still too hot at night; room temperature management ongoing
+- Both children generally doing really well on routines
+- Secret Adopters to-do noted: blog post on toothbrushing — "Teeth Brushing with Toddlers: What We've Learned"
+### 26 May — language milestones; post-visitor disruption; Phoenix late night
+- Beautiful long weekend with Carciofi's sister (Dineo), her partner (Lefence), and cousins (Mlibo 12, and a younger child)
+- Children played with cousins "so beautifully" — lovely extended family weekend
+- Visitor disruption pattern: half-term week (no preschool), then multiple days of visitors + playdate — Phoenix raging until 9:45pm; Caspar low resilience
+- Factors: no routine (half-term), visitors with children, heat
+- Bunny first spontaneous use of "What you doing, Fox?" — language milestone
+- Fox taking play lead more; language catching up to Bunny's
+- Observation: something about children coming into their home triggers them — sanctuary disrupted; may connect to foster home history
+### 25 May — trust model milestone; language
+- At the park for the first time: Fox ate half his snack then said "finished" and gave it back — first time ever for either child to give back a half-eaten snack
+- Bunny has done it a couple of times before (or been very distressed trying to stash)
+- Bunny said "What you doing, Caspar?" — language milestone noted
+- No wake-ups overnight; Caspar woke at 07:45 — very late for them (blackout blind working)
+## Update — 30 May 2026 (source: weekly coaching session)
+### Parenting observations
+- **LMFM milestones — both children signalling satiety unprompted for the first time.** Bunny: "tummy full down" at breakfast. Fox: returned half a rice cake mid-morning. These are trust model milestones at the nervous system level, not just behaviour.
+- **Fox — physical confidence week.** Jumping off the step, taking the lead in physical play with Bunny for the first time. A dynamic reversal worth marking.
+- **Fox — self-soothing at 3am.** Tried to fish own dottie from beside mattress, found it, stopped crying. Self-soothing arc continuing.
+- **Three techniques confirmed this week:**
+  - "Dinner or bed?" reset (Fox, dinner impasse) — low-drama, attachment-warm, works.
+  - Boundary-with-repair for biting — pick up, 1.5m, wall, 5 seconds, return warm, name and repair. Worked.
+  - Full bowl visible on table; transition object barely needed now.
+- **Fox gut — 16kg, noticeable gut.** Possibly body type, possibly slower food-trust build at somatic level. Hold lightly, keep watching.
+- **Caspar-as-barometer** fully integrated as lived understanding.
+- **Adoption legal — 3 July** held with clear-eyed equanimity. Guardian report due 17 June is the pivotal document. Nothing for adopters to do; outcome expected to be a fait accompli.
+### Follow-ups
+- Blackout blind — how many unbroken nights since installation?
+- IVF/parenting prison session with Origano — Wednesday 4 June. How does it land?
 ## Legal update — 28 May 2026 (source: court documents received in duplicate)
 ### Court documents received — 28 May 2026
 Two sets of physical court documents received today, one per child (Fox = SD06/26, Bunny = SD07/26). Both dated 22 April 2026, issued by the Family Court at Sussex-Brighton, ordered by HHJ Talbott.

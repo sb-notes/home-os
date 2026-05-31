@@ -1,7 +1,64 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:45 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:15 UTC -->
 
+---
+## Journal sync — 23–30 May 2026 (sources: "Journal Saturday" 23 May, "Journal Sunday" 24 May, "Journal Tuesday" 26 May, "Journal weds" 27 May, "Journal Thursday" 28 May, "Journal Friday" 29 May, "Journal Saturday" 30 May)
+### 30 May — Kiwifruit tinea nearly healed
+- Tinea rash: Carciofi noticed it "really coming good"
+- Colour has gone from angry to faint/skin-coloured pink
+- Main lesion starting to flake off (skin coming away gently) — on the home stretch
+- No angry areas remaining; all healing
+- Kiwifruit feeling: "I am okay. My body is going to make it"
+### 29 May — Carciofi endoscopy; Kiwifruit physical health; yoga routine
+- Carciofi had endoscopy under sedation (hospital visit 29 May morning, Kiwifruit took her with both children)
+- Results: couple of possibly healed haemorrhoids, otherwise clear; fissures present; back bum largely continued treatment to heal naturally
+- Carciofi's focus now front bum — next steps TBC; Kiwifruit asked colleague Ashleigh (who has had 3 laparoscopies, endo scraped out 3 times) to share her number with Carciofi for support
+- New children park friend — potential playdate in Worthing
+- Wake log: Fox 3am (pacifier lost down side of mattress; Fox tried to fish it out — self-soothing developing); Kiwifruit contained frustration, stayed tender
+- Yoga routine (4 sun salutes + child's pose + kneeling bridge): kneecaps not sore; heels dropping in Downward Dog; legs "like anybody else's" — remarkable improvement
+### 28 May — Kiwifruit tinea second programme day 2; no dinner
+- Terbinafine second 28-day programme: started 27 May; day 2 on 28 May
+- Tinea: Carciofi noticed it looking "a lot better, a lot thinner, colour going out of it" — only ~2 thumbnail-size areas of dry flaking skin remaining; rest pale; can now see shin contour
+- Kiwifruit did not have proper dinner this night — ended up with: banana, half a glass of milk, evening vitamins, couple of mouthfuls of overnight oats, energy bar — not a full dinner; noted this is because got absorbed in admin (webcam setup 2h15)
+- Herbal cleanse through somatic-therapist-1 being looked at
+### 27 May — Terbinafine day 1; tinea spread visible; Carciofi front bum
+- **Terbinafine second 28-day programme starts today, 27 May**
+- Kiwifruit tinea update: both shins now covered/inflamed — spread looks scary but all areas are fading; tinea drawn to surface showing its true spread; likely present on both legs since at least February
+- Left shin: multiple active inflamed areas, all fading
+- Right shin: quite covered and inflamed
+- Itchiness in February across front of both shins now makes sense — tinea present throughout
+- Carciofi front bum: pain increased despite back bum improving; may be linked to sea swim without post-shower (salt drying everything)
+- Carciofi took photo and compared to reference images; frustrated it's not improving faster
+- Carciofi trying barrier cream (like children's nappy rash cream) — idea from her endo group
+- Homoeopathic remedy also being sourced
+- **To-do for Kiwifruit:** source pelvic/fascia release cone that somatic-therapist-1 showed them (Sarah); also fascia release ball from Togu (size 5 based on Sarah's) — important for easing muscles in that area for Carciofi
+- Carciofi avoiding gluten
+- Kiwifruit: stiffness at top of right thigh and hip — missed yoga last couple of mornings; resolved to do stretching on return
+### 26 May — Carciofi period + pain; family health; Fox/Bunny weights
+- **Fox weight: 16kg. Bunny weight: 12.1kg** (logged 26 May)
+- Carciofi had another period; significant pain; lying down afternoon (Kiwifruit took over children)
+- Kiwifruit indigestion all night from fish and chips (too many chips, too much fish; only had 5 chicken wings for lunch before); aching back/kidneys overnight; still felt some discomfort next morning
+- Carciofi's sister commented both children seem "so relaxed around food now" — trust model validated by external observation
+- Warm weather observation: Carciofi's endo pain seems less inflamed during warm weather (anecdotal)
+### 24 May — heat; Bunny/Fox overnight
+- Children too hot at night; window opened to cool room; both nappied during the night
+- Both children well generally; delightful day
+### 23 May — Kiwifruit physical health good; tinea ongoing
+- Feeling good physically; good week; more sleep than previous weeks
+- Tinea ongoing — itchy rash still present but treatment continuing
+## Update — 30 May 2026 (source: weekly coaching session)
+### Health signals
+- **Body on a healing arc.** Yoga 4–5x, heels dropping, knees clear, tinea fading. Half-term absorbed some cost quietly: shower slip mid-week, hip stiffness Wednesday, steps patchy. The arc is positive; consistency is the only ask.
+- **Sauna — lie-down spec confirmed as clinically significant.** For Carciofi's pelvic floor hypertonicity and front-bum inflammation, supine FAR infrared is genuinely more therapeutic than seated. Kiwifruit confirmed this is the primary brief for the vendor call. Aqualine 3-person is the likely direction — bench length solves the lie-down requirement. Next steps: measure east wall (lunchtime nap window today); call Aqualine with lie-down as primary brief. Finance: 6–12 months, salary plus Rosie Rentals income, 0% APR plan.
+- **Bobby tonight** — named explicitly as a nervous system regulation event. Male warmth, no performance, jumping around. The right close to the week.
+- **IVF/parenting prison grief** — in the silver bag, sits in the solar plexus, held well. Wednesday with Origano is its moment.
+### Invitations
+- East wall measurement and Aqualine call — lunchtime nap window today.
+- Tonight: allow yourself to enjoy and be and relax.
+### Follow-ups
+- Sauna — east wall measured, vendor called, lie-down spec confirmed?
+- Bobby — what did the night open up for the male connection question?
 ## Update — 28 May 2026 (source: weekly coaching session)
 ### Health signals this week
 - **Body holding well.** Yoga ~5x weekly, daily walks, float in rotation. Spring energy real and confirmed by Kiwifruit.

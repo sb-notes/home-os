@@ -1,7 +1,68 @@
 # Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:45 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:14 UTC -->
 
+---
+## Journal sync — 23–30 May 2026 (sources: "Journal Saturday" 23 May, "Journal Sunday" 24 May, "Journal Tuesday" 26 May, "Journal weds" 27 May, "Journal Thursday" 28 May, "Journal Friday" 29 May, "Journal Saturday" 30 May)
+### 30 May — embodied fatherhood
+- Kiwifruit had a solo day with Bunny and Fox while Carciofi visited a friend in London; described it as "dreamy"
+- Key shift: "I am just a dad now" — feels the father identity in his body, no longer performing or learning a role; got goosebumps
+- Contained anger well throughout the day; one brief hat-refusal incident (held hat on head, mild swearing) — noted as a one-off and accepted as "if that's as bad as it gets we're in a good place"
+- Multiple moments of public validation at park and cafe; felt "really seen"
+### 29 May — hard week, emotional containment
+- Hard few days — limited walks due to half-days with children; tiredness evident
+- Felt downtrodden after dinner miscommunication: plated up while Carciofi was resting (not in pain as assumed); she said "is dinner ready?" in a way that felt like criticism; dinner was not enjoyable; Kiwifruit noted this as a pattern to watch
+- Carciofi had sedation for endoscopy that day — acknowledged this likely contributed
+- Good self-containment with Fox discipline moments; redirecting without raising voice
+### 28 May — key therapy realisations
+- Previous day's session with therapist-c was described as "absolutely excellent"
+- Key realisation: much of the anger is an upset inner child who feels stuck in England and is still doing the same things as in his twenties/early thirties (surfing, mountain biking, camping, long dark winters)
+- Six and a half years since lockdown: IVF, adoption process, at least five jobs, crypto, properties — "all work and no play, a dull boy"
+- Big revelation: now emerging from that period. Has everything he wanted — children, Carciofi, location, financial comfort. Feels he is starting to look after his inner child
+- Morning walks + half-day off per week identified as key mechanisms
+### 27 May — Cheryl session + float planned
+- Cheryl session with therapist-c this day; looking forward to it
+- Float also planned for the weekend
+- Overall feeling: "good but weary"
+- Morning affirmations + morning walk + spring weather doing wonders for mood, wellbeing, and resilience
+### 26 May — warm weather, validation, peer coaching joy
+- Beautiful long weekend with Carciofi's sister and family; felt like "everything just seemed perfect"
+- Carciofi's sister commented the children are "thriving" and they seem so on top of parenting; felt really validating
+- Uncle moment with Mlibo (12) felt natural — chatting about school, subjects; feels part of his identity as a father
+- Reflection: warm weather is transformative — "nothing else matters" when weather is good; huge impact on mood and parenting capacity
+- Augmented peer coaching first session: nine people, resounding success. Kiwifruit gets more from peer coaching than from podcasting — this is where he is now
+- Three peer coaching groups running: Forever Dads, ProdMind, Augmented. Described as "amazing to think that in the last eight days I've launched two peer coaching groups successfully"
+### 24 May — needs rest; Carciofi period again
+- Exhausted; Carciofi had lovely morning off and float but then period hit in afternoon — had to lie down
+- Kiwifruit looked after children alone, postponed cooking; didn't eat until 8:45pm
+- Noted: "I need rest"
+### 23 May — good week; Welly Wailers; gratitude
+- Journaling into Notion split between work and home described as "biggest unlock, biggest benefit"
+- Joined Welly Wailers choir; first gig at Duke of Wellington the previous night — "so wonderful"
+- Singers are uninhibited, men, have drinks and laugh; felt himself "opening up and edging towards belly singing, belly laughing, horsing around"
+- Baritone voice appreciated; harmonising freely felt special; songs about the New World and New Zealand resonate deeply
+- Plans to find and sing Granddad Clayton's songs
+- Good week overall on all levels; more sleep than previous weeks; feeling really good
+## Update — 30 May 2026 (source: weekly coaching session)
+### Themes raised
+- **NZ release — structural dissolution, not a decision.** The secret not-so-secret project named directly: a quiet campaign to move the family to NZ that Kiwifruit wasn't sure Carciofi had fully walked through with him. The guilt and regret dropped away post-EMDR frame. Carciofi's response: "We'll go along and have a look — it's just a matter of how the children go." Kiwifruit no longer needs to push. Choosing between two good options based on children's response at the 18-month visit. Until then: set up to keep both open.
+- **Rightbrain abundance giving the frame a financial spine.** Equity payout expected; Series A in 18 months is the natural test point. Abundance no longer just philosophical.
+- **The secret project guilt acknowledged.** Kiwifruit has not yet told Carciofi directly — "I've been running this campaign and I wasn't sure you were fully on board." Will do this afternoon. Felt significant emotion and relief when naming it in session.
+- **Light and seasons reframe.** One month of sun and 15°C has been transformative. Kiwifruit feels like himself again. The real question reframed as: not where to live, but how to ensure enough light and warmth wherever they are. NZ or warm European winters (Italy) both solve this. A solvable problem.
+- **Parenting prison / IVF grief** — in the silver bag, Wednesday is its moment. Sits heavily in the solar plexus but is held well. Not processed alone.
+- **3 July hearing** — clear-eyed equanimity. Not in court, nothing to do, outcome a fait accompli. No inflation.
+- **Bobby tonight** — named as genuine need. Focus chosen: allow myself to enjoy and be and relax.
+### Asks logged
+1. This afternoon: Hannah conversation — share the guilt about the secret project, not just the resolution.
+1. Lunchtime nap window: measure east wall, call Aqualine with lie-down as primary brief.
+1. Tonight: allow yourself to enjoy and be and relax.
+### Follow-ups for next session
+- Hannah conversation — did it land the way the emotion suggested?
+- Sauna — east wall measured, vendor called, lie-down spec confirmed?
+- Wednesday with Catarina — how did the IVF/parenting prison session land?
+- Bobby — what did the night open up?
+- 9:15 alarm — still holding?
+- Blackout blind — how many unbroken nights now?
 ## Update — 28 May 2026 (source: weekly coaching session)
 ### Themes raised
 - **Adult-inner-child EMDR conversation.** In Session 10 yesterday, Kiwifruit's adult self was able to have a healing conversation with the inner child during bilateral stimulation — "I could feel things moving." The most significant developmental signal in the arc so far. Not just processing a memory but direct repair between adult and child parts.

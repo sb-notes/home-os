@@ -1,7 +1,23 @@
 # Shula RTM — Current State (20 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-30 05:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:16 UTC -->
 
+---
+## Journal sync — 22–29 May 2026 (sources: "Journal Friyay" 22 May, "Journal Friday" 29 May)
+### 29 May — directors drinks Thursday 4 June confirmed; forensic accounting
+- Hereford Court directors drinks confirmed for **Thursday 4 June** (Radicchio, Cedro, Borragine, Kiwifruit)
+- Forensic accounting question outstanding: have Galloways started interrogating Harper Stone and Maxi Wood (freeholder)? What needs to happen to make it so?
+- Kiwifruit intends to raise this with Radicchio at the 4 June meeting
+- Likely ~£1,500 extra in costs for surveying, fire door compliance, fire enforcement notice clearance — Kiwifruit notes this fits in with existing finances
+- Harper Stone and Maxi Wood likely breaking the law by not spending on annual surveys and checks; these will all need to be done; estimated ~£5,000–6,000 bills in next 12 months for the building
+### 22 May — Bedford Square RTM failed; resubmission; directors meeting
+- **Bedford Square RTM (Carciofi's flat):** Moorland (freeholder/estate manager) successfully rejected the claim — Shula of Brighton & Hove Leaseholders Association submitted one day late; Moorland replied after the response deadline; Shula did not pursue tribunal assuming it was fine — but legally it was not
+- Legal advice taken: safer to apply again; Shula has agreed to redo the application free
+- New RTM timeline: **Christmas at earliest**, likely including a tribunal
+- Leaseholders continuing to pay Moorland's exorbitant service charges in the meantime despite Moorland not doing the work they collected funds for
+- Forensic accounting expected to reveal significant misappropriation once finances are handed over
+- **Hereford Court directors meeting:** four directors (Radicchio, Cedro, Borragine, Kiwifruit) meeting **Tuesday 22 May, 7:30pm** — first time Cedro and Borragine (silent directors) have gathered in a while; important to support Radicchio who is most active; also to support Kiwifruit who drove the RTM
+- Kiwifruit sent RTM email review via Gemini to the core four; left Radicchio a voice message; offered support for anything outstanding
 <!-- ANCHOR -->
 ---
 ## Session update — 20 May 2026
@@ -294,10 +310,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -336,10 +354,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -378,10 +398,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -420,6 +442,7 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -441,10 +464,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
