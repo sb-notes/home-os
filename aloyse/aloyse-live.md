@@ -1,7 +1,23 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:14 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-01 06:51 UTC -->
 
+## Journal sync — 31 May 2026 (source: Aloyse session — potty training)
+### Potty training — approach agreed (31 May 2026)
+- Readiness signals confirmed in both Bunny and Fox: announcing poos, curiosity about parents using the toilet. Summer timing identified as ideal.
+- Approach adopted: "no-training training" — Division of Responsibility applied to toileting. Parents provide conditions; children decide timing. Zero pressure, zero performance expectation.
+- Two separate potties to be purchased (one each — sharing risks importing food-competition dynamic into toileting).
+- Phase 1 (now): potties in the environment, no expectations. Children sit on them clothed, ignore them, treat them as furniture.
+- Phase 2: nappy-free windows in the garden post-afternoon-nap (prime wee window). Garden removes laundry crisis; proprioceptive feedback of accidents is the learning mechanism.
+- Phase 3: pants available by choice ("nappy or pants today?") — preserves bodily autonomy, avoids battle of wills.
+- Night nappies to remain indefinitely — completely separate from daytime training, governed by physiology alone.
+- Framing to avoid: sticker charts with targets; three-day cold-turkey method; "big boy/girl now" language (implies baby needs are shameful).
+- Pause protocol: any destabilised period (adoption order arrival, foster carer visit, illness, disrupted week) → pause and resume once regulated.
+- Fox-specific note: attachment-gut axis means any toileting pressure risks disrupting hard-won bowel regularity. Bathroom must be zero-pressure zone. Let him come to it; Bunny may be ready first.
+- Twin dynamic: follower effect likely — they'll attempt simultaneously in garden windows. If Bunny succeeds first, keep celebration low-key in front of Fox. No shame in front of each other.
+- Timeline expectation: reliable daytime dryness most likely 28–36 months, possibly earlier for Bunny.
+- Preschool coordination: Jackie and team to be briefed and asked to mirror approach. Fox's slower transfer of bodily trust to staff (cf. nappy resistance at first preschool session, Mar 2026) flagged as relevant.
+- Reference document created: "Potty training — note for Jackie (Shoreham Preschool)" — under Aloyse state file.
 ---
 ## Journal sync — 25–30 May 2026 (sources: "Journal monday" 25 May, "Journal Tuesday" 26 May, "Journal weds" 27 May, "Journal Thursday" 28 May, "Journal Friday" 29 May, "Journal Saturday" 30 May)
 ### 30 May — solo Saturday, trust model breakthroughs
@@ -2376,3 +2392,31 @@ Visibility + unconditional access = nervous system safety. Every element of this
   Thank you to you, Becky, Chelsea and the whole team for the care you are giving Caspar and Phoenix. The fact that they have settled as well as they have is in no small part because of the work you are doing, and we are genuinely grateful.
   With love and thanks,
   Ollie and Hannah
+  **To:** Jackie (SENCO) and the Shoreham Preschool team
+  **From:** Kiwifruit and Carciofi
+  **Date:** May 2026
+  **Re:** Bunny and Fox — potty training approach
+  ---
+  Hi Jackie,
+  We wanted to loop you in as we begin moving toward potty training with Bunny and Fox this summer. Both children are showing readiness signals — they're announcing poos, and they're curious about toilet use — so we're starting the process gently over the coming weeks.
+  Given their early history, we're taking a specific approach that we'd love preschool to mirror as much as possible.
+  ## Our approach
+  The core principle is: **no pressure, no performance expectation, and complete bodily autonomy for the children.** We're not doing a structured or time-limited training programme. Instead we're making potties available, using consistent language, and letting each child come to it in their own time.
+  At home this means:
+  - Potties available but never mandatory
+  - Nappy-free time in the garden when weather allows
+  - Children offered a choice between nappy and pants (not told which)
+  - Accidents treated matter-of-factly, without comment
+  - Night nappies staying in place indefinitely — that's a separate process entirely
+  ## Why this matters for these two specifically
+  Children who've experienced early adversity can have complex relationships with body autonomy and with adults directing what their bodies do. For Fox in particular, there's an established pattern where stress shows up in his gut — so any pressure or anxiety around toileting could disrupt the bowel regularity we've worked hard to establish. The bathroom needs to stay a calm, no-stakes space for him.
+  Bunny may be ready before Fox. If that happens we'd ask that her progress isn't used as a prompt or comparison for him — they'll get there at their own pace.
+  ## What we'd ask of preschool
+  - **Mirror the language we use at home:** we say "do you need a wee?" or "let's try the toilet" — never "you need to try" or "you should have gone before"
+  - **No pressure to perform** — if they decline, that's fine
+  - **Accidents treated neutrally** — a simple "let's get you changed" with no fuss or commentary
+  - **Fox may be slower to accept toilet help from staff** than Bunny — this mirrors the nappy-change pattern we flagged when he first started. Please don't push; build trust gradually
+  - **Let us know** if either child shows strong interest or distress at preschool — we'd love to keep a consistent approach across home and setting
+  We'll keep you posted as things develop. As always, thank you for the care and attentiveness you show both of them.
+  Warm regards,
+  Kiwifruit and Carciofi

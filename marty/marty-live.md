@@ -1,6 +1,6 @@
-# Marty — Current State (19 May 2026)
+# Marty — Current State (31 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:15 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-01 06:53 UTC -->
 
 ---
 ## Journal sync — 21–29 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Friday" 29 May)
@@ -677,3 +677,9 @@ Last journal sync: 27 March 2026 — "🐣 1 week in!"
 - [ ] Meet team; review platform; establish customer access
 - [ ] Begin 90-day plan execution (Month 1: quick wins, trust building, ICP discovery)
 - [ ] Note: first 2 weeks include Easter half-term — preschool closed; Hannah solo parenting; plan to take a couple of days off
+---
+## Newsboy weekly briefing automation — 31 May 2026
+- **Weekly world news briefing** formalised as a scheduled skill (`ollie-weekly-briefing` v3)
+- Runs automatically every **Sunday at 06:00**; emails full briefing to [hannahandollieuk@gmail.com](mailto:hannahandollieuk@gmail.com)
+- Skill v3 changes: AI & Agentic Tech section moved later (section 5); Spiritual moved to last (section 6); source citations added to every story
+- This is Kiwifruit's primary weekly intelligence briefing covering global news, markets, crypto cycle, AI/agentic tech, and spiritual update

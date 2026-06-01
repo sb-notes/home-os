@@ -1,6 +1,6 @@
 # Steve Irwin — Current State (23 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:16 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-01 06:53 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -46,6 +46,23 @@
 - Plan to run jasmine up trellis attached to fence
 - Trellis spec: 120cm high, fan style (3 upright planks with cross bars)
 - Researched cost-effective options including eBay
+### Choisya ternata (Mexican Orange Blossom)
+- **Location:** Central shrubbery, full sun position
+- **Status (May 2026):** Struggling — browning leaves, leggy and sparse appearance
+- **Likely causes:** Sandy loam drying out too fast around roots (primary suspect); coastal wind scorch on exposed foliage; no pruning history leading to bare base
+- **Remedial actions:**
+  - Deep soak at base immediately; add 5–8cm bark mulch ring (keep clear of stem) — single biggest win on sandy loam
+  - Cut back by up to one third now (late May fine); can cut harder in early spring if still struggling
+  - Work organic matter around drip line each autumn
+  - Check soil 10cm down after dry week — if bone dry, moisture is the problem
+- **Transplant option:** Choisya prefers partial shade in dry/coastal conditions — morning sun + afternoon shade would suit it better. Best window to move: late Sept/Oct
+- **Decision pending:** If still unhappy by autumn 2026, replace with coastal-appropriate evergreen (see shortlist below)
+### Full-Sun Tall Evergreen Shrub — Central Shrubbery Shortlist (May 2026)
+- **Requirement:** Height and bulk (2m+), evergreen, full sun, coastal Shoreham, sandy loam
+- **Top pick: Pittosporum tenuifolium 'Silver Queen'** — 2–3m, dense rounded habit, glossy wavy-edged leaves with cream margins, wind and salt tolerant, low maintenance. Check Boma first; ~£10–15 for 3L pot. Larger specimens occasionally on Facebook Marketplace/Gumtree from garden clearouts.
+- **Runner-up: Viburnum tinus 'Eve Price'** — 2–3m, white/pink flowers in winter–spring, red berries, bulletproof coastal shrub, very dense
+- **Also considered:** Elaeagnus × ebbingei (2–4m, fast, very wind-hardy), Griselinia littoralis (2–4m+, bright green, popular Sussex coast), Escallonia 'Apple Blossom' (1.5–2.5m, pink flowers, dense)
+- **Ruled out:** Choisya (already in bed, struggling with conditions)
 ### Spanish Bluebells (Hyacinthoides hispanica)
 - Discovered in front yard when moved in ~2.5 years ago; now spreading through back lawn (observed March 2026)
 - Photos taken March 2026 show significant clumps emerging through turf, particularly right-hand side near trellis fence
@@ -130,6 +147,7 @@
 ---
 ## Garden — Open Actions
 - **Cantilever parasol:** Scan Facebook Marketplace / eBay (BN43 area, 25km) for 7 days before buying new. Target 2.5m with wheeled 70kg base.
+- **Central shrubbery shrub:** Treat struggling Choisya (deep soak + mulch ring + cut back by 1/3). Reassess by autumn 2026 — if still unhappy, transplant to partial shade and replace with Pittosporum tenuifolium 'Silver Queen'. Check Boma for stock.
 ---
 ## Garden — Local Resources
 - **Boma Garden Centre** (near Old Shoreham Road) — stocked Roman Beauty rosemary, Whitewater Silver rosemary; independent with good plant selection

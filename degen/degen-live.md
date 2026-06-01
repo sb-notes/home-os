@@ -1,6 +1,6 @@
 # Degen — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-05-31 06:15 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-01 06:52 UTC -->
 
 ---
 ## Journal sync — 21–28 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Thursday" 28 May)
@@ -942,36 +942,41 @@ Requested clarification on:
   - [ ] **Re-tag SOL** from Portfolio 1 → TDR portfolio tracker mentally (14.78 SOL + 16.62 SOL = 31.4 SOL total)
   - [ ] **Next TDR signal** → execute within 24h. Deploy $2,053 USDT dry powder. Most likely target: BTC on weakness or next watchlist entry.
   - [ ] **CMC exit trigger** — sell XRP + ETH when TDR signals full risk-off. Do not act ahead of signal.
-  **Last updated:** 30 May 2026
-  **Total portfolio value:** ~$24,313 (~£19,207 at 0.79)
+  **Last updated:** 31 May 2026
+  **Total portfolio value:** ~$24,641 (~£19,466 at 0.79)
   **Currency:** USD
   > **How to update this page:** Update manually when a TDR signal is executed, dead alts are sold, or a quarterly review is due. For a full rewrite (e.g. after a new TDR buy deploys dry powder), export CSVs from CoinMarketCap and use the `portfolio update` command. Day-to-day signal monitoring: use `TDR update` instead.
   ---
   ## 📊 Summary
-  - **TDR Pro (Portfolio 3):** $10,502 | All-time P&L: -$107 (-1.00%) | Strategy: PRIMARY — follow TDR signal emails only
-  - **CMC (Portfolio 2):** $863 (dead alt tail only — core positions in My Portfolio tracker) | All-time P&L: -$18,935 (-57.08%) | Strategy: HOLD — exit on TDR risk-off signal
-  - **My Portfolio (Portfolio 1):** $12,369 | All-time P&L: -$14,019 (-22.69%) | Strategy: WIND DOWN dead alts; hold core CMC positions
-  - **Total:** ~$23,734
+  - **TDR Pro (Portfolio 3):** $11,996 | All-time P&L: -$121 (-1.00%) | Strategy: PRIMARY — follow TDR signal emails only
+  - **CMC (Portfolio 2):** $239 (dead alt tail only — S removed, ROSE unbonding) | All-time P&L: -$19,145 (-57.72%) | Strategy: HOLD — exit on TDR risk-off signal
+  - **My Portfolio (Portfolio 1):** $12,405 | All-time P&L: -$13,982 (-22.64%) | Strategy: WIND DOWN dead alts; hold core CMC positions
+  - **Total:** ~$24,640
   ---
   ## 🟢 Portfolio 3 — TDR Pro
   *Strategy: Follow The DeFi Report signal emails only. Execute within 24h of signal. No independent positions. Hold stables until next signal.*
-  *Last updated from TDR Portfolio Alert: 29 May 2026 | Source: *[*thedefireport.io/portfolio*](http://thedefireport.io/portfolio)
+  *Last updated from TDR Portfolio Alert: 31 May 2026 | Source: *[*thedefireport.io/portfolio*](http://thedefireport.io/portfolio)
   ### TDR Reference Portfolio — 29 May 2026
   - **BTC** (Bitcoin) — avg entry $55,323 | gain/loss +33.53% | portfolio weight 28.06%
   - **ETH** (Ethereum) — avg entry $1,732 | gain/loss +17.38% | portfolio weight 4.42%
   - **LIT** (Lighter — Ethereum Perps DEX) — avg entry $0.95 | gain/loss +36.84% | portfolio weight 3.61%
-  - **PUMP** (Solana Launchpad + DEX + Trading App) — avg entry $0.001740 | gain/loss +0.52% | portfolio weight 15.41% | 🆕 added 29 May 2026
-  - **ENA** (Ethena — leading yield-bearing stablecoin) — avg entry $0.1005 | gain/loss -10.12% | portfolio weight 6.20% | 🆕 added 29 May 2026
-  - **WLD** (Worldcoin — AI + Private Digital Identity) — avg entry $0.2632 | gain/loss +14.44% | portfolio weight 4.00%
-  - **COIN** (Coinbase — crypto financial services & trading) — avg entry $99.58 | gain/loss +92.33% | portfolio weight 1.42%
+  - **PUMP** (Solana Launchpad + DEX + Trading App) — avg entry $0.001740 | portfolio weight 15.41% | added 29 May 2026
+  - **ENA** (Ethena — leading yield-bearing stablecoin) — avg entry $0.1005 | portfolio weight 6.20% | added 29 May 2026
+  - **SPX6900** (memecoin — online community/cult category) — initial position | portfolio weight TBC | 🆕 added 31 May 2026 signal
+  - **PENGU** (Pudgy Penguins — memecoin — online community/cult category) — initial position | portfolio weight TBC | 🆕 added 31 May 2026 signal
+  - **WLD** (Worldcoin — AI + Private Digital Identity) — avg entry $0.2632 | portfolio weight 4.00%
+  - **COIN** (Coinbase — crypto financial services & trading) — avg entry $99.58 | portfolio weight 1.42%
   - **Cash** — portfolio weight 36.88%
-  ### Ollie's Actual Holdings (MEXC) — 30 May 2026
-  - **BTC:** 0.06998 BTC | price $73,598 | value $5,151 | avg buy $77,827
-  - **ETH:** 1.324 ETH | price $2,017 | value $2,671 | avg buy $2,044 | **in profit** ✅
-  - **LIT:** 444 LIT | price $1.417 | value $629 | avg buy $0.95 | **in profit** ✅
-  - **PUMP:** 480,584 PUMP | avg fill $0.001785 | value ~$858 | **🆕 bought 30 May 2026**
-  - **ENA:** 7,310 ENA | avg fill $0.08905 | value ~$651 | **🆕 bought 30 May 2026**
-  - **USDT (dry powder):** ~$540 remaining after PUMP + ENA buys | top up with dead alt sales
+  ### Ollie's Actual Holdings (MEXC) — 31 May 2026
+  - **BTC:** 0.06999 BTC | price $73,808 | value $5,166 | avg buy $77,827
+  - **ETH:** 1.3249 ETH | price $2,019 | value $2,675 | avg buy $2,044 | **in profit** ✅
+  - **LIT:** 444 LIT | price $1.318 | value $585 | avg buy $0.9009 | **in profit** ✅
+  - **PUMP:** 480,584 PUMP | price $0.001788 | value $859 | avg buy $0.001785 | **in profit** ✅
+  - **ENA:** 7,310 ENA | price $0.09042 | value $661 | avg buy $0.08905 | **in profit** ✅
+  - **USDT (dry powder):** ~$2,050 shown in CMC (pre-PUMP+ENA entry) — actual ~$540 post-trades pending CMC manual update
+  - **SPX6900 (SPX):** 444.24 SPX | avg fill $0.3376 | value ~$150 | **🆕 bought 31 May 2026 on MEXC**
+  - **PENGU:** 24,900.39 PENGU | avg fill $0.008032 | value ~$200 | **🆕 bought 31 May 2026 on MEXC**
+  - **USDT (dry powder):** ~$460 remaining
   ### TDR Current Posture (as of 20–29 May 2026)
   - Cautious but selectively accumulating. Cash 36.88% of portfolio.
   - BTC still 26% above Feb 5th lows but momentum slowing. Funding rates positive while price bleeds lower — April rally partially a short squeeze.
@@ -993,7 +998,7 @@ Requested clarification on:
   - **BTC** | price $73,598 | value $549 | 0.007461 BTC
   - **KSM** | $4.548 | value $22 | 4.853 KSM
   ### Dead Alt Tail — sell to crystallise CGT losses
-  - **S** (Sonic) | ~~$0.04008 | value $300 | 7,504 S~~ — **SOLD via Ledger → USDT → MEXC. Pending CMC portfolio cleanup this week.** ✅
+  - **S** (Sonic) | SOLD via Ledger → USDT → MEXC ✅ — **REMOVED from CMC portfolio** ✅
   - **ROSE** (Oasis) | $0.009245 | value $240 | 26,032 ROSE — **unbonding, ~1 week. Sell on receipt → add to USDT dry powder**
   - **CELR** (Celer) | ~~$0.00261 | value $138 | 53,058 CELR~~ — **SOLD 30 May 2026 @ $0.00263 = $87.90 USDT** ✅
   - **GALA** | ~~$0.003108 | value $90 | 29,092 GALA~~ — **SOLD 30 May 2026 @ $0.003108 = $88.10 USDT** ✅
@@ -1044,11 +1049,15 @@ Requested clarification on:
   - [x] ~~GALA sold — 28,345 GALA @ $0.003108 = $88.10 (30 May)~~ ✅
   - [x] ~~VAI sold — 2,593 VAI @ $0.00403 = $10.47 (27 May)~~ ✅
   - [x] ~~MLC sold — 2,408 MLC @ $0.0191 = $46.16 (27 May)~~ ✅
-  - [x] ~~**S (Sonic) sold via Ledger → USDT → MEXC**~~~~ | ~$300 | pending CMC portfolio removal this week~~ ✅
+  - [x] **~~S (Sonic) sold via Ledger → USDT → MEXC** | ~$300 | pending CMC portfolio removal this week~~ ✅
+  - [x] ~~SPX6900 bought — 444.24 SPX @ $0.3376 = $150 USDT (31 May 2026 on MEXC)~~ ✅
+  - [x] ~~PENGU bought — 24,900.39 PENGU @ $0.008032 = $200 USDT (31 May 2026 on MEXC)~~ ✅
+  - [ ] **Add PUMP, ENA, SPX, PENGU transactions in CMC** — USDT balance showing inflated until done
+  - [ ] **Tangem migration** — move TDR Pro positions (PUMP, ENA, SPX, PENGU, LIT) off MEXC to Tangem once settled. Keep USDT on MEXC as dry powder. ADA stays on MEXC (exit on TDR risk-off).
+  - [ ] **MXSOL redemption in progress** — redeemed 31 May 2026. Awaiting settlement (up to 24h). Once SOL appears in spot wallet → sell SOL/USDT market order → adds ~$700 to USDT dry powder. CGT loss ~$465 added to pool.
   - [ ] **Sell CTSI** — 2,645 CTSI | ~$74 → USDT dry powder
   - [ ] **Sell VRA, XEN, SILLY + sub-$1 tail** → USDT + CGT losses
   - [ ] **ROSE unbonding** — ~1 week. Sell on receipt (~$240) → USDT dry powder
   - [ ] **Sell Portfolio 1 dead alt tail** — ONDO, QNT, GRT, NEXA, GMX, CPOOL, NEAR, WELL, ATH, FET, CELL, TAI, VISTA, CARV, PNG — sub-$10 each. Crystallise losses.
   - [ ] **CFG theft** — discuss with Maslins. 2,707 CFG presumed stolen Jan–Feb 2026.
   - [ ] **WLD** — watch for explicit TDR subscriber buy signal before entering (~$420 target position)
-  - [ ] Await next TDR signal → deploy remaining USDT dry powder within 24h
