@@ -1,6 +1,6 @@
 # Rosie Rentals — Current State (17 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-01 06:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:40 UTC -->
 
 ---
 ## Journal sync — 22–29 May 2026 (sources: "Journal Friyay" 22 May, "Journal weds" 27 May, "Journal Friday" 29 May)

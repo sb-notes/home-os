@@ -1,6 +1,6 @@
 # Degen — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-01 06:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:39 UTC -->
 
 ---
 ## Journal sync — 21–28 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Thursday" 28 May)
@@ -1061,3 +1061,173 @@ Requested clarification on:
   - [ ] **Sell Portfolio 1 dead alt tail** — ONDO, QNT, GRT, NEXA, GMX, CPOOL, NEAR, WELL, ATH, FET, CELL, TAI, VISTA, CARV, PNG — sub-$10 each. Crystallise losses.
   - [ ] **CFG theft** — discuss with Maslins. 2,707 CFG presumed stolen Jan–Feb 2026.
   - [ ] **WLD** — watch for explicit TDR subscriber buy signal before entering (~$420 target position)
+  **Last updated:** 1 June 2026 (v2)
+  **Total tracked (excl. crypto):** ~£247,674
+  > **How to update:** Refresh figures whenever you screenshot balances from InvestEngine, Trading212, Nationwide, or InvestEngine pension. For crypto, see 💰 Our Crypto Portfolio (sibling page).
+  ---
+  ## 🏦 Cash — Bank Accounts (1 Jun 2026)
+  | Account | Bank | Balance | Notes |
+  | --- | --- | --- | --- |
+  | 1 Daily X0906 | Nationwide | £2,822.35 | Primary current account |
+  | 12B Bedford 070806 XXXX6306 | Nationwide | £2,276.15 | Bedford Square property account |
+  | 23H Hereford X4850 | Nationwide | £2,891.42 | Hereford Court property account |
+  | 3V Ventnor X8072 | Nationwide | £1,945.60 | Ventnor Villas property account |
+  | HC Business 070976 XXXX1126 | Nationwide | £56.83 | HC RTM business account |
+  | OH Business HBN X4795 | Nationwide | £440.90 | Ollie's business account |
+  | **Total cash** |  | **£10,433.25** |  |
+  ---
+  ## 💳 Liabilities
+  | Account | Type | Balance | Notes |
+  | --- | --- | --- | --- |
+  | Nationwide credit card 489396XXXXXX6253 | Credit card | -£2,562.12 |  |
+  | Barclaycard (MR OLIVER HAPPY) | Credit card | £0.00 | Clear |
+  | Nationwide personal loan | Car loan | -£7,711.00 | Monthly repayment ~£234/month |
+  | **Total liabilities** |  | **-£10,273.12** |  |
+  ---
+  ## 📈 ISAs
+  | Account | Platform | Value | Unrealised gain | Fund | Notes |
+  | --- | --- | --- | --- | --- | --- |
+  | Ollie — Stocks ISA | Trading212 | £33,932.48 | +£3,832.17 (+12.73%) | HSWO |  |
+  | Hannah — Stocks ISA | InvestEngine | ~£33,000 | — | HSWO | Assumed ~same value as Ollie's ISA |
+  | **Total ISAs** |  | **~£66,932** |  |  |  |
+  ---
+  ## 🧒 Junior ISAs
+  | Account | Platform | Value | Fund | Notes |
+  | --- | --- | --- | --- | --- |
+  | Bunny (Phoenix) — JISA | InvestEngine | ~£13,000 | HSWO | Combined children's JISA ~£26k total |
+  | Fox (Caspar) — JISA | InvestEngine | ~£13,000 | HSWO |  |
+  | **Total JISAs** |  | **~£26,000** |  |  |
+  ---
+  ## 🏦 Pension
+  | Account | Platform | Value | Fund | Notes |
+  | --- | --- | --- | --- | --- |
+  | Ollie — Personal Pension (DIY 1) | InvestEngine | £120,445.57 | HSWO | +£9,881.65 (+10.26%). Smart Pension form3 (£3,053.77, 19 May) + 101ways (£18,200.03, 14 May) both landed ✅ |
+  | Smart Pension — Rightbrain (active) | Smart Pension | ~£7,950 (est.) | TBC | £2,100/month in (17% employee + 4% employer). Active since Mar 2026. |
+  | **Total pension (UK)** |  | **~£128,400** |  |  |
+  | Penfold (Vitrifi pension) | Penfold | £23,678.57 | TBC | +£3,764.16 (+18.90%). ⚠️ Transfer to InvestEngine NOT yet received — chase Penfold. |
+  | **Total pension (UK)** |  | **~£152,074** |  |  |
+  > ⚠️ **Action required:** Contact Penfold to chase why the transfer to InvestEngine has not occurred. Australian pension stays in Australia; to be drawn from NZ.
+  ---
+  ## 🪙 Crypto
+  See sibling page: 💰 **Our Crypto Portfolio**
+  | Portfolio | Value (USD) | Notes |
+  | --- | --- | --- |
+  | TDR Pro (Portfolio 3) | ~$11,996 | Primary — TDR signals only |
+  | CMC + My Portfolio | ~$12,644 | Wind-down; exit on TDR risk-off |
+  | **Total crypto** | **~$24,640** | ~£19,465 at 0.79 |
+  ---
+  ## 📊 Net Position Summary (1 Jun 2026)
+  | Category | Value |
+  | --- | --- |
+  | Cash (bank accounts) | +£10,433 |
+  | ISAs | +£66,932 |
+  | JISAs | +£26,000 |
+  | Pension (UK) | +£152,074 |
+  | Crypto | +£19,465 |
+  | **Total assets (excl. property)** | **~£274,904** |
+  | Credit card | -£2,562 |
+  | Personal loan (car) | -£7,711 |
+  | **Total liabilities (excl. mortgages)** | **-£10,273** |
+  | **Net liquid position** | **~£264,631** |
+  > Property equity not included here — tracked separately in Degen Current State.
+  ---
+  ## 📝 Update Log
+  | Date | What changed |
+  | --- | --- |
+  | 1 Jun 2026 | Page created. InvestEngine pension £120,445 (screenshot). Trading212 ISA £33,932. Bank balances from Nationwide screenshot. HC ISA assumed ~£33k. JISAs combined ~£26k. Car loan ~£7,711. |
+  | 1 Jun 2026 (v2) | Pension corrected. SP form3 (£3,053) + 101ways (£18,200) confirmed in InvestEngine ✅. Penfold/Vitrifi £23,678 confirmed NOT yet transferred — action to chase. Total pension revised to ~£152,074. Net position revised to ~£264,631. |
+  **Purpose:** A living reference for our retirement and FIRE planning. Update the inputs as balances change, and add new scenarios as we learn more about FIRE and the options open to us. Pairs with 💷 Savings & Investments — Snapshot (sibling page).
+  **Last updated:** 1 June 2026
+  ---
+  ## 📌 The headline
+  We are not planning a retirement that needs to be careful. We're planning one where the main decision is **when we choose to stop optional work** — which in FIRE terms means we've already won the accumulation game.
+  Central plan in one line: **Coast from ~55, board/advisory income + UK house covers the costly child-rearing years untouched, full drawdown begins ~67 on a pot that has compounded to £2.5m+.**
+  ---
+  ## 🎯 Core assumptions (edit these as things change)
+  | Input | Value | Notes |
+  | --- | --- | --- |
+  | Ollie's age now | 47 | Born ~1979 |
+  | Children born | 2024 | Both — independent by ~2049 (Ollie 70) |
+  | Growth rate (central) | **10% nominal** | HSWO 5yr actual ~16.7%; we use 10% as a sensible mid-point. Stress-test at 7%. |
+  | UK pension now | £152,074 | InvestEngine £120k + Smart Pension active + Penfold £23.7k (chasing transfer) |
+  | ISAs now | £66,932 | Combined Ollie + Hannah, HSWO |
+  | Australian super now | £63,528 | AUD $124,564 @ 0.51. Stays in Australia, drawn from NZ. |
+  | UK pension contributions | £2,100/mo to age 49 | 17% salary sacrifice. Stops on NZ move (~2028). |
+  | NZ contributions 49–55 | ~£930/mo | NZ$2,000/mo @ 0.465 |
+  | NZ contributions 55–60 | ~£465/mo | NZ$1,000/mo @ 0.465 |
+  | Retirement age (full) | 60 (modelled) | Realistically ~67 once bridge income considered |
+  > ⚠️ All figures are **nominal** (not inflation-adjusted). Real spending power will be lower — roughly halve the headline over ~25 years at 3% inflation. NZD/AUD/GBP rates will drift.
+  ---
+  ## 💰 Projected pot at age 60 (10% growth)
+  | Pot | Value at 60 |
+  | --- | --- |
+  | UK pension | £863,311 |
+  | Australian super | £219,316 |
+  | ISAs | £231,067 |
+  | **TOTAL** | **£1,313,694** |
+  ---
+  ## 📉 Drawdown scenarios (FIRE SWR guidance)
+  The FIRE world centres on the **4% rule** (Trinity Study): withdraw 4% of the pot in year one, then adjust for inflation. **3.5%** is the conservative early-retiree variant; **5%** is aggressive, suitable when you have other income buffers (we do).
+  | SWR | Annual drawdown | Pot at 70 | Pot at 80 | Pot at 90 |
+  | --- | --- | --- | --- | --- |
+  | 3.5% (safe) | £45,979 | £2.67m | £6.20m | £15.36m |
+  | 4.0% (classic) | £52,548 | £2.57m | £5.83m | £14.28m |
+  | 5.0% (aggressive) | £65,685 | £2.36m | £5.08m | £12.12m |
+  **Key observation:** At 10% growth, even a 5% drawdown leaves the pot *growing strongly*. The classic FIRE risk (sequence-of-returns depleting the pot) is largely absent at this growth rate. The real-world caveat: 10% won't happen every year, and inflation erodes the headline numbers.
+  ---
+  ## 🪜 Why our situation breaks the standard FIRE model — in our favour
+  ### 1. The UK house income (£12k/yr) is a perpetuity
+  Standard FIRE assumes all income comes from the pot. We have ~£12k/yr arriving *regardless* of portfolio performance, continuing even from NZ. That's equivalent to having an extra ~£300k in the pot (at 4%), and crucially it keeps flowing if markets crash — exactly when you want non-correlated income.
+  ### 2. The 55–70 board/advisory phase is a powerful "FIRE bridge"
+  This is the single biggest lever. If advisory fees + board roles + potential equity cover living costs through the 60s, **we don't touch the pot at all** and it compounds untouched:
+  > Pot left untouched from 60 to 67: **£1.31m → £2.56m**
+  > Start drawing 4% at 67 = **£102,401/yr** for life, pot still growing.
+  This is the textbook FIRE "Coast / Barista" strategy — accumulation effectively done by ~55, and the 60s become *optional* work that lets the pot double again before we lean on it.
+  ### 3. The children timeline lands squarely in the bridge years
+  | Ollie's age | Year | Kids' age | Life stage |
+  | --- | --- | --- | --- |
+  | 55 | 2034 | 10 | Primary school |
+  | 60 | 2039 | 15 | Secondary — costs ramping |
+  | 65 | 2044 | 20 | University (peak cost) |
+  | 70 | 2049 | 25 | Independent |
+  The expensive years (teenagers + university, ~age 58–67) coincide *exactly* with the board/advisory earning window. The extra income is there precisely when family outgoings peak. By full-stop age (~67–70) the children are independent and the cost base drops sharply.
+  ---
+  ## 🗺️ The central plan (phased)
+  | Phase | Age | What happens |
+  | --- | --- | --- |
+  | **Accumulate** | 47–55 | 17% pension contributions, then NZ contributions. Pot builds to ~£900k+ by 55. |
+  | **Coast / bridge** | 55–67 | Semi-retired. Board/advisory income + £12k house covers a comfortable family life through the kids' costly years. **Pot untouched, compounding to ~£2.5m+.** |
+  | **NZ Super kicks in** | ~65 | Adds ~£14.5k/yr (couple, NZ$31k). |
+  | **Full drawdown** | 67+ | Children independent, cost base drops. Begin 4% drawdown on a much larger pot — **£100k+/yr** — plus house, plus NZ Super. |
+  ---
+  ## 💷 Total income picture at 60 (illustrative, 4% drawdown)
+  | Source | Annual |
+  | --- | --- |
+  | Portfolio drawdown (4%) | £52,548 |
+  | UK house net profit | £12,000 |
+  | Board/advisory + fees + equity | £30,000–£80,000+ (variable) |
+  | **Subtotal (excl. board)** | **£64,548/yr** |
+  | NZ Super from ~65 (couple) | +£14,500/yr |
+  ---
+  ## 🧠 FIRE concepts glossary (for as we learn)
+  - **SWR (Safe Withdrawal Rate):** % of pot withdrawn annually. 4% classic, 3.5% conservative, 5% aggressive-with-buffers.
+  - **Coast FIRE:** Enough invested that even with no further contributions, compounding alone funds retirement. Work only to cover current living costs. *This is likely where we are by ~55.*
+  - **Barista FIRE:** Semi-retired with part-time/flexible income covering living costs while the pot grows untouched. *Our 55–67 board/advisory phase.*
+  - **Fat FIRE:** Retiring on a generous income (£60k+). *Our trajectory.*
+  - **Sequence-of-returns risk:** The danger of a market crash early in retirement permanently shrinking the pot. Mitigated by: non-portfolio income (house), flexible drawdown, and a cash buffer.
+  - **The 4% rule / Trinity Study:** Foundational FIRE research showing a 4% inflation-adjusted withdrawal survived 30 years across most historical periods.
+  ---
+  ## 📋 Open questions / things to learn
+  - [ ] NZ KiwiSaver — do our NZ contributions get employer top-ups? Tax treatment?
+  - [ ] NZ Super eligibility — residency requirement (currently 10 years for full entitlement, some from age 20). Confirm our timeline qualifies.
+  - [ ] UK State Pension — check NI record / forecast for both of us; consider buying gap years.
+  - [ ] Cross-border tax on pension drawdown (UK pension drawn while NZ-resident) — Maslins.
+  - [ ] Australian super — rules for drawing from NZ; preservation age; tax.
+  - [ ] Property sale proceeds (other two UK properties) — where deployed, CGT, timing vs NZ move.
+  - [ ] Inflation-adjusted (real) modelling — build a real-terms version alongside nominal.
+  - [ ] Cash buffer strategy for sequence-of-returns risk in early drawdown.
+  ---
+  ## 📝 Update log
+  | Date | What changed |
+  | --- | --- |
+  | 1 Jun 2026 | Page created. Central case 10% growth. Pot at 60 ~£1.31m. Layered in UK house £12k perpetuity, 55–70 board/advisory bridge, and children's life-stage timeline. FIRE bridge scenario: untouched to 67 → £2.56m → £102k/yr. |

@@ -1,6 +1,6 @@
 # Sean from IT — Current State (1 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-01 06:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:40 UTC -->
 
 ---
 ## Weekly triage — 31 May 2026
