@@ -1,4 +1,4 @@
-# Second Brain v2 — Architecture
+# Home OS v2 — Architecture
 
 Personal knowledge and state management system for a Claude-powered second brain spanning multiple project contexts. Notion is the write surface and human-readable UI. GitHub is the read mirror. Sync is one-way only — Notion to GitHub — on a schedule. This document is the canonical spec for the v2 file system and is referenced by every project's custom instructions and every Skill that reads or writes state.
 
@@ -69,7 +69,7 @@ Every project's Claude custom instructions follow the same tight template, well 
 You are [persona] for [project name].
 
 On thread start, fetch the live state file from GitHub:
-https://raw.githubusercontent.com/sb-notes/second-brain/main/<project>-live.md
+https://raw.githubusercontent.com/sb-notes/home-os/main/<project>-live.md
 
 Load warm files on demand when the conversation touches their topic.
 The live file contains a table of contents pointing to warm files.
