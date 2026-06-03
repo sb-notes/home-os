@@ -1,6 +1,6 @@
-# Degen — Current State (19 May 2026)
+# Degen — Current State (2 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:50 UTC -->
 
 ---
 ## Journal sync — 21–28 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Thursday" 28 May)
@@ -421,6 +421,22 @@ Last journal sync: not yet run
 | Bedford | +£377 |
 | **Total** | **+£1,476/month** |
 *Note: Prior estimates of Ventnor +£900/month and Hereford +£1,070/month were incorrect. Correct combined figure is £1,476/month.*
+### Energy — Octopus (Victoria Road, 53 Victoria Road, Shoreham-By-Sea)
+**Current tariff (from Apr 2026):** Octopus 12M Fixed Feb 2026 v7 — price guaranteed to **3 April 2027**
+- Electricity unit rate: 22.33p/kWh | Standing charge: 45.07p/day
+- Gas unit rate: 5.05p/kWh | Standing charge: 31.72p/day
+- Account: A-CEC10C86 | Both Kiwifruit and energy are on cheapest available tariff as of Jun 2026
+- Note: Bill discounted from 1 Apr 2026 following 2025 Budget government action
+**Previous tariff (expired 3 Apr 2026):** Loyal Octopus 12M Fixed Apr 2025 v1
+- Electricity unit rate: 23.75p/kWh | Standing charge: 44.44p/day
+- Gas unit rate: 5.61p/kWh | Standing charge: 29.59p/day
+**Benchmark months:**
+| Period | Elec used | Gas used | Total bill | Notes |
+| --- | --- | --- | --- | --- |
+| 28 Jan–27 Feb 2026 (31 days) | 305.7 kWh (9.86/day) | 1,513.4 kWh (48.82/day) | £189.53 | Typical winter month — old tariff |
+| 28 Apr–27 May 2026 (30 days) | 183.9 kWh (6.13/day) | 269.1 kWh (8.97/day) | £81.59 | Typical summer month — new tariff + Budget discount |
+*Prior year comparison (same periods): winter elec 380.76 kWh (usage down 20%); summer elec 159.79 kWh (usage up 15% — likely children at home); summer gas 150.23 kWh (usage up 79% — possibly post-adoption expanded household)*
+---
 ### Household Recurring Spend (normalised, Jan 2026 baseline)
 | Category | Monthly |
 | --- | --- |
@@ -1061,6 +1077,17 @@ Requested clarification on:
   - [ ] **Sell Portfolio 1 dead alt tail** — ONDO, QNT, GRT, NEXA, GMX, CPOOL, NEAR, WELL, ATH, FET, CELL, TAI, VISTA, CARV, PNG — sub-$10 each. Crystallise losses.
   - [ ] **CFG theft** — discuss with Maslins. 2,707 CFG presumed stolen Jan–Feb 2026.
   - [ ] **WLD** — watch for explicit TDR subscriber buy signal before entering (~$420 target position)
+  ## Strategy Anchors (added 31 May 2026)
+  **Long-hold framing:** Crypto pot = high-variance "lottery leg", NOT core retirement or NZ-deposit money. Durable engines are pension (~£1.05m likely), EMI options, and property. Size crypto as money that can go to zero without touching the NZ deposit or retirement floor. Long horizon (hold across multiple cycles via TDR) is the right frame — neutralises single-top timing risk; plays to asymmetry + compounding. Conservative-to-moderate long-run outcome: ~£50k–180k contributor by age 60; wide cone by 70. Key risks over horizon: vehicle survivorship (TDR + exchanges + tokens lasting decades), self-custody opsec (already 1 compromise — CFG), and holding discipline through -80% drawdowns.
+  **Cross-border crypto tax — MAJOR FINDING (31 May 2026):** NZ has **NO general capital gains tax**, AND new migrants get a **4-year transitional residence exemption** on most *foreign-sourced* income — which includes crypto sold via *overseas* exchanges (CEX/DEX). IRD 2024 technical decision confirmed crypto sold through offshore exchanges during the 48-month window is NOT NZ-taxable. **This is potentially a once-in-a-lifetime window to realise the entire crypto pot tax-free in NZ.** Critical conditions: (1) must qualify as transitional resident (new/returning after 10+ yrs); (2) sell via OFFSHORE exchanges only — using a NZ exchange brings gains into NZ net; (3) window is 48 months from becoming tax resident, never resets, never repeats. CARF reporting live from 1 Apr 2026 (offshore exchanges report to IRD). UK side: must also manage UK departure-year treatment / temporary non-residence rules so UK doesn't tax on the way out.
+  **This flips the long-hold logic:** rather than "hold to age 70 and pay tax somewhere", the optimal play may be to ride TDR through to a cycle peak that lands *inside the NZ 4-year transitional window*, then realise tax-free. Timing the NZ arrival + realisation is worth potentially "hundreds of thousands" per the specialists. MUST get specialist advice before move.
+  **NZ crypto-tax specialist shortlist (engage before move):**
+  - **TaxHawk** (Auckland, Chartered Accountants) — 100+ individual crypto returns, works with Koinly, can liaise with UK accountant. Strong reviews. [taxhawk.co.nz](http://taxhawk.co.nz/)
+  - **Doyle Accountants / **[**cryptocurrencytax.co.nz**](http://cryptocurrencytax.co.nz/) — publishes detailed transitional-residency migrant guides; clearly specialises in exactly this scenario.
+  - **Gilligan Rowe & Associates (GRA)** — established NZ firm, crypto + transitional residency focus, advises internationally. 09 522 7955. [gra.co.nz](http://gra.co.nz/)
+  - **Andersen NZ** — global network arm, good for UK↔NZ coordination + double-tax.
+  - **Lane Neave / Crawford Nelson Law** — legal (not accounting) angle for transitional-residence rulings if a binding IRD ruling is wanted.
+  - Maslins (UK) to handle UK departure-year side only.
   **Last updated:** 1 June 2026 (v2)
   **Total tracked (excl. crypto):** ~£247,674
   > **How to update:** Refresh figures whenever you screenshot balances from InvestEngine, Trading212, Nationwide, or InvestEngine pension. For crypto, see 💰 Our Crypto Portfolio (sibling page).

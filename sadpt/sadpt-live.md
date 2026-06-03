@@ -1,6 +1,6 @@
 # Secret Adopters — Current State (updated 5 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:51 UTC -->
 
 ---
 ## Journal sync — 22–27 May 2026 (sources: "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal weds" 27 May)
@@ -76,7 +76,7 @@
 - **Lower:** Social sharing image verification, email capture, anonymous submission flow review
 ## Claude Workflow Note
 **Custom instructions snippet (paste into Secret Adopters project settings):**
-> When I specify an author for a post — AJ or MS — silently fetch the Secret Adopters state file at [Secret Adopters — Current State (updated 5 Apr 2026)](https://www.notion.so/31424a1cf0f081ebab8fc0ec4c67794b) before drafting. Locate the Author Personas section and read the full entry for that author. Apply their voice, age, location, family context, tone, and audience fit to everything you write for that post. Never break persona or reference the underlying source material. If no author is specified, ask before proceeding.
+> When I specify an author for a post — AJ or MS — silently fetch the Secret Adopters state file at [Secret Adopters — Current State (updated 5 Apr 2026)](https://app.notion.com/p/31424a1cf0f081ebab8fc0ec4c67794b) before drafting. Locate the Author Personas section and read the full entry for that author. Apply their voice, age, location, family context, tone, and audience fit to everything you write for that post. Never break persona or reference the underlying source material. If no author is specified, ask before proceeding.
 ---
 ## Posts & Story Log
 *To be populated from conversation threads.*

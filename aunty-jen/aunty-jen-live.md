@@ -1,6 +1,6 @@
-# Aunty Jen — Current State (25 May 2026)
+# Aunty Jen — Current State (2 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:49 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -90,3 +90,31 @@ Last journal sync: 1 May 2026
 - Previous: Lidl Vemondo Unsweetened — good backup, still acceptable; minor sunflower oil addition is the only differentiator.
 **Adults (Ollie & Hannah):**
 - **Oatly Barista** — used in 2x daily decaf coffees each. Adult use only; not given to children.
+---
+## Ninja Combi — Quiche Cooking Instructions (2 Jun 2026)
+### Products tested
+- Lidl Chef's Select Quiche Lorraine 400g (smoked bacon, mature cheddar, shortcrust pastry)
+- Waitrose Broccoli, Spinach & Ricotta Quiche 400g (shortcrust pastry)
+### Method: Bake (not Air Fry)
+- Air Fry is too aggressive for egg custard quiches — scorches the top before the centre heats through
+- Bake gives even surrounding heat; keeps pastry crisp without burning
+- Ninja Combi runs slightly hot in Bake — reduce temperature ~10°C from pack instructions
+### Settings (both quiches together)
+- **Mode:** Bake
+- **Temp:** 170°C (Ninja adjusted — equivalent to fan 170°C on Waitrose pack; lower of the two packs)
+- **Time:** 22–24 mins
+- Both quiches on same shelf if space allows; centre position
+### Pack instructions (reference)
+- Waitrose: Gas 5 / Fan 170°C / 190°C — 20–25 mins chilled
+- Lidl Lorraine: Fan 180°C / 200°C / Gas 6 — 20–25 mins
+### Full timeline (switch-on to toddler plate)
+- Ninja Combi preheat to 170°C Bake: ~8–10 mins
+- Cook time: 22–24 mins
+- Cool before serving to Fox & Bunny: 15–20 mins
+- **Total from switch-on to plate: ~45–54 mins**
+- To serve at 6:00pm → switch on at 5:10pm at the latest
+### Toddler cooling note
+- Quiche holds heat in the dense custard filling for a long time
+- After 15–20 mins rest, test a chunk from the centre before serving to Fox & Bunny
+- Slice into small wedges; let cool further on the plate for 1–2 mins
+- Pastry base temperature is a good guide — if comfortable to hold, filling is likely safe

@@ -1,7 +1,20 @@
-# Sean from IT — Current State (1 Jun 2026)
+# Sean from IT — Current State (2 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:51 UTC -->
 
+---
+## Weekly triage — 2 June 2026
+- Rows reviewed: 0
+- Addressed (pattern, fix proposed): 0
+- Accepted (one-off): 0
+- Won't fix (stale): 0
+- Still open (needs input): 0
+### Proposed skill fixes
+- (none)
+### Rows still open
+- (none)
+### Failed updates
+- (none)
 ---
 ## Weekly triage — 31 May 2026
 - Rows reviewed: 0

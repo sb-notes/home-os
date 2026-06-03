@@ -1,6 +1,6 @@
 # Marty — Current State (31 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-02 06:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:51 UTC -->
 
 ---
 ## Journal sync — 21–29 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Friday" 29 May)
@@ -631,7 +631,7 @@ Last journal sync: 27 March 2026 — "🐣 1 week in!"
 - Externally-demonstrable rule: at least one OneBrain workflow must be packageable as a prospect proof point ("we built this for ourselves in 2 days")
 - **P0 target:** Transcript → insights pipeline — demonstrated live on Day 1, low effort, high visibility, directly relevant to B2B service business ICP
 - Coaching challenge left open: what is genuinely different about Rightbrain vs previous "this is it, let’s do it" moments? Ollie to name specific anchors for his own clarity when Month 2 gets hard
-- OneBrain spec page: [Untitled](https://www.notion.so/32924a1cf0f08181bf01d8f61704d538)
+- OneBrain spec page: [Untitled](https://app.notion.com/p/32924a1cf0f08181bf01d8f61704d538)
 ---
 ## COACHING SESSION — 3 MAR 2026
 ### Dex vs GitHub Agentic Workflows — Tool Exploration
