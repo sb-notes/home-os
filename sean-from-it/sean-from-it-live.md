@@ -1,7 +1,11 @@
 # Sean from IT — Current State (2 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:51 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-04 06:42 UTC -->
 
+---
+## Session update — 2 June 2026
+- **Shula RTM naming fix resolved:** `shula-rtm/shula-rtm-live.md` content migrated into `shula-rtm/shula-live.md` via Claude Code. Orphaned file deleted. Pushed to `sb-notes/home-os` main (commit from 2 Jun 2026, using freshest indexer sync 06:51 UTC). Indexer will now read `shula-live.md` cleanly.
+- **home-os-weekly-triage skill updated to v1.1:** Stage 1 rewritten — `notion-fetch` on DB page returns schema only, not rows. Now uses 3-pass `notion-search` to surface open rows. Updated in scheduled task, Indexer project [SKILL.md](http://skill.md/), and Notion skill library.
 ---
 ## Weekly triage — 2 June 2026
 - Rows reviewed: 0

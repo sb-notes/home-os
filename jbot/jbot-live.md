@@ -1,6 +1,6 @@
-# Jamesbot — Current State (8 May 2026)
+# Jamesbot — Current State (3 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:50 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-04 06:41 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Jamesbot
@@ -292,6 +292,10 @@ You negotiated well using James Gunaca principles. EMI scheme alone worth £75k.
 ---
 *Updated: 31 January 2026*
 ---
+## VITRIFI ET — LATEST UPDATE (3 Jun 2026)
+- FRP consent letter received (dated 19 May 2026, signed Geoff Rowley) — consent granted under para 43(6) Schedule B1 Insolvency Act 1986 for Protective Award proceedings, case 1400467/2026
+- 3 Jun 2026: Kiwifruit emailed Bristol ET ([bristolet@justice.gov.uk](mailto:bristolet@justice.gov.uk)), CC'd [ERATeam@frpadvisory.com](mailto:ERATeam@frpadvisory.com) and [rps.et@insolvency.gov.uk](mailto:rps.et@insolvency.gov.uk) — attached consent letter, requested stay lifted and matter listed for hearing, confirmed individual standing (s.189(1)(e) TULRCA, no union/no elected reps at Vitrifi)
+- **Next action:** Await tribunal response lifting stay and listing hearing date
 ## VITRIFI EMPLOYMENT TRIBUNAL & RPS — STATUS (11 Apr 2026)
 **ET Claim:** Case 1400467/2026 — Kiwifruit v Vitrifi Limited (In Administration) — Bristol Employment Tribunal
 - Claim filed for protective award under TULRCA s.188 (failure to collectively consult — ~52 employees made redundant simultaneously 11 Dec 2025 with zero notice)
@@ -323,7 +327,7 @@ You negotiated well using James Gunaca principles. EMI scheme alone worth £75k.
   - **8-week payment cap:** SoS confirms protective award treated as arrears of pay, capped at 8 weeks under s.184(1)(a)
 - FRP Advisory (Laura Herd) also copied on the ET3 correspondence
 - **27 Apr 2026:** Kiwifruit forwarded ET3 documents directly to Steve Chadwick, Rhys Evans, and Laura Herd at FRP Advisory ([Steve.Chadwick@frpadvisory.com](mailto:Steve.Chadwick@frpadvisory.com), [Rhys.Evans@frpadvisory.com](mailto:Rhys.Evans@frpadvisory.com), [Laura.Herd@frpadvisory.com](mailto:Laura.Herd@frpadvisory.com)) at their request, relayed via former Chief of Staff Denise Khalil who had spoken with FRP. FRP indicated they will draft a response to the court. Awaiting FRP's response — this could be consent to lift the stay.
-- **30 Apr 2026:** FRP Advisory (Beatrice, ERA Team) asked Kiwifruit to confirm whether a stayed order had been received from the ET. Kiwifruit replied confirming yes, and attached the Proceedings Stayed letter dated 7 April 2026. FRP are using this to draft their response to the court. Awaiting FRP's court response.
+- **3 Jun 2026:** Kiwifruit sent consent request email to [ERATeam@frpadvisory.com](mailto:ERATeam@frpadvisory.com) requesting FRP issue equivalent consent letter (para 43(6) Schedule B1 Insolvency Act 1986) for case 1400467/2026, addressed to Bristol ET. Confirmed will not enforce judgment against company assets and no element will rank as administration expense. Awaiting FRP's consent letter.
 ## VITRIFI LAPTOP — ASSET RETURN (27 Mar 2026)
 - Vitrifi went into administration 10 December 2025; a MacBook Pro 16" (Model A2780, M2 Max, serial W31R7NXHPJ) remained in Ollie's possession
 - FRP Advisory (Chloe Henshaw) confirmed the asset in January 2026 and directed Ollie to Kirsteen Osborn at Vorboss for collection

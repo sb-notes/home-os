@@ -1,6 +1,6 @@
-# Degen — Current State (2 Jun 2026)
+# Degen — Current State (3 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:50 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-04 06:40 UTC -->
 
 ---
 ## Journal sync — 21–28 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Thursday" 28 May)
@@ -283,7 +283,15 @@
 ---
 *Updated: 28 February 2026*
 ---
-## TDR UPDATES — 13 MARCH 2026
+## TDR UPDATES — 3 JUNE 2026
+### Portfolio Management Alert (2 Jun 2026) + Fat Pitch #2 (3 Jun 2026)
+- TDR added to BTC at $67.1k; added SPX6900 at $0.313, PENGU at $0.069, DRV at $0.091. Cash raised to 47.12% (personal planning + dry powder).
+- BTC undergoing 2nd capitulation of bear market. Price $65.8k — 20% off May 10 high of $82.3k, 47% off cycle ATH.
+- ETF net flows negative all of 2026 — worst 30-day outflow since ETF launch. Strategy (MicroStrategy) sold 32 BTC ($2.3m) for first time to fund preferred dividends; $871m cash vs $1.67b annual obligations = ~6 months runway. No forced liquidation until ~$26k.
+- TDR expects $60k test; $40–45k downside not base case. Time-based capitulation phase expected (no V-shape).
+- TDR portfolio now 10 assets: BTC 23.4%, ETH 2.39%, LIT 3.53%, PUMP 8.76%, ENA 3.78%, WLD 3.08%, COIN 0.76%, PENGU 1.82%, SPX6900 2.08%, USELESS 1.26%, DRV 2.02%, Cash 47.12%.
+- New additions this week (not yet in Ollie's portfolio): **DRV**, **USELESS**. WLD held but no subscriber buy signal yet. ZEC/HYPE/HOOD on watchlist.
+- **Action for Ollie:** No immediate action required. TDR raised cash while adding — dry powder > chasing adds in bear capitulation. Monitor next signal. BTC at $60k = conviction entry signal.
 ### Portfolio Management Alert (1 Mar 2026)
 - TDR added BTC at $65,312. Now deployed 40% of target BTC allocation, 28.5% of total cash
 - Rationale: BTC twice rejected sub-$60k; KPIs vs 2018/2022 cycle lows supportive; fair value range holding
@@ -958,136 +966,130 @@ Requested clarification on:
   - [ ] **Re-tag SOL** from Portfolio 1 → TDR portfolio tracker mentally (14.78 SOL + 16.62 SOL = 31.4 SOL total)
   - [ ] **Next TDR signal** → execute within 24h. Deploy $2,053 USDT dry powder. Most likely target: BTC on weakness or next watchlist entry.
   - [ ] **CMC exit trigger** — sell XRP + ETH when TDR signals full risk-off. Do not act ahead of signal.
-  **Last updated:** 31 May 2026
-  **Total portfolio value:** ~$24,641 (~£19,466 at 0.79)
+  **Last updated:** 3 Jun 2026
+  **Total portfolio value:** ~$21,526 (~£17,005 at 0.79)
   **Currency:** USD
-  > **How to update this page:** Update manually when a TDR signal is executed, dead alts are sold, or a quarterly review is due. For a full rewrite (e.g. after a new TDR buy deploys dry powder), export CSVs from CoinMarketCap and use the `portfolio update` command. Day-to-day signal monitoring: use `TDR update` instead.
+  > **How to update this page:** Update manually when a TDR signal is executed, dead alts are sold, or a quarterly review is due. For a full rewrite, use the `portfolio update` command with CMC screenshots. Day-to-day signal monitoring: use `TDR update` instead.
   ---
-  ## 📊 Summary
-  - **TDR Pro (Portfolio 3):** $11,996 | All-time P&L: -$121 (-1.00%) | Strategy: PRIMARY — follow TDR signal emails only
-  - **CMC (Portfolio 2):** $239 (dead alt tail only — S removed, ROSE unbonding) | All-time P&L: -$19,145 (-57.72%) | Strategy: HOLD — exit on TDR risk-off signal
-  - **My Portfolio (Portfolio 1):** $12,405 | All-time P&L: -$13,982 (-22.64%) | Strategy: WIND DOWN dead alts; hold core CMC positions
-  - **Total:** ~$24,640
+  ## 📊 Summary (3 Jun 2026)
+  - **TDR Pro (Portfolio 3):** $10,211 | All-time P&L: -$674 (-5.41%) | Cost basis: $12,467 | Strategy: PRIMARY — follow TDR signal emails only
+  - **CMC (Portfolio 2):** $214 (dead alt tail: ROSE, XEN, SILLY) | All-time P&L: -$19,170 (-57.80%) | Cost basis: $33,168 | Strategy: HOLD — exit on TDR risk-off signal
+  - **My Portfolio (Portfolio 1):** $11,100 | All-time P&L: -$15,287 (-24.75%) | Cost basis: $61,762 | Strategy: WIND DOWN dead alts; hold core positions
+  - **Total:** ~$21,525
   ---
   ## 🟢 Portfolio 3 — TDR Pro
   *Strategy: Follow The DeFi Report signal emails only. Execute within 24h of signal. No independent positions. Hold stables until next signal.*
-  *Last updated from TDR Portfolio Alert: 31 May 2026 | Source: *[*thedefireport.io/portfolio*](http://thedefireport.io/portfolio)
-  ### TDR Reference Portfolio — 29 May 2026
-  - **BTC** (Bitcoin) — avg entry $55,323 | gain/loss +33.53% | portfolio weight 28.06%
-  - **ETH** (Ethereum) — avg entry $1,732 | gain/loss +17.38% | portfolio weight 4.42%
-  - **LIT** (Lighter — Ethereum Perps DEX) — avg entry $0.95 | gain/loss +36.84% | portfolio weight 3.61%
-  - **PUMP** (Solana Launchpad + DEX + Trading App) — avg entry $0.001740 | portfolio weight 15.41% | added 29 May 2026
-  - **ENA** (Ethena — leading yield-bearing stablecoin) — avg entry $0.1005 | portfolio weight 6.20% | added 29 May 2026
-  - **SPX6900** (memecoin — online community/cult category) — initial position | portfolio weight TBC | 🆕 added 31 May 2026 signal
-  - **PENGU** (Pudgy Penguins — memecoin — online community/cult category) — initial position | portfolio weight TBC | 🆕 added 31 May 2026 signal
-  - **WLD** (Worldcoin — AI + Private Digital Identity) — avg entry $0.2632 | portfolio weight 4.00%
-  - **COIN** (Coinbase — crypto financial services & trading) — avg entry $99.58 | portfolio weight 1.42%
-  - **Cash** — portfolio weight 36.88%
-  ### Ollie's Actual Holdings (MEXC) — 31 May 2026
-  - **BTC:** 0.06999 BTC | price $73,808 | value $5,166 | avg buy $77,827
-  - **ETH:** 1.3249 ETH | price $2,019 | value $2,675 | avg buy $2,044 | **in profit** ✅
-  - **LIT:** 444 LIT | price $1.318 | value $585 | avg buy $0.9009 | **in profit** ✅
-  - **PUMP:** 480,584 PUMP | price $0.001788 | value $859 | avg buy $0.001785 | **in profit** ✅
-  - **ENA:** 7,310 ENA | price $0.09042 | value $661 | avg buy $0.08905 | **in profit** ✅
-  - **USDT (dry powder):** ~$2,050 shown in CMC (pre-PUMP+ENA entry) — actual ~$540 post-trades pending CMC manual update
-  - **SPX6900 (SPX):** 444.24 SPX | avg fill $0.3376 | value ~$150 | **🆕 bought 31 May 2026 on MEXC**
-  - **PENGU:** 24,900.39 PENGU | avg fill $0.008032 | value ~$200 | **🆕 bought 31 May 2026 on MEXC**
-  - **USDT (dry powder):** ~$460 remaining
-  ### TDR Current Posture (as of 20–29 May 2026)
-  - Cautious but selectively accumulating. Cash 36.88% of portfolio.
-  - BTC still 26% above Feb 5th lows but momentum slowing. Funding rates positive while price bleeds lower — April rally partially a short squeeze.
-  - $2.54b BTC ETF net outflows over 12 trading days (worst 4.3% of all periods). $1.3b BlackRock IBIT block sale on 26 May — institutions getting skittish.
-  - Macro headwind: Iran War keeping oil elevated → inflation sticky → rate hike risk (47% chance Dec 2026 hike, per CME). 10-year at highest since 2007.
-  - Actively building PUMP and ENA positions at bear-market lows. View BTC weakness as possible further buying opportunity.
-  - WLD (Worldcoin) held at 4% — no explicit subscriber buy signal issued yet.
-  - Critical BTC zones: $75k (2025 low), $76.9k (50-day SMA), $78k (STH cost basis), $80.3k (200-day MA).
+  *Last updated: 3 Jun 2026 | Source: CMC screenshot + TDR Pro Portfolio alert 2 Jun 2026*
+  ### Ollie's Actual Holdings — 3 Jun 2026
+  - **BTC** | price $65,815 | value $4,606 | 0.06999 BTC | avg buy $77,827 | P&L -$841 (-15.43%)
+  - **ETH** | price $1,823 | value $2,415 | 1.3249 ETH | avg buy $2,045 | P&L -$294 (-10.86%)
+  - **PUMP** | price $0.001749 | value $841 | 480,584 PUMP | avg buy $0.001785 | P&L -$17 (-2.00%)
+  - **ENA** | price $0.1097 | value $802 | 7,310 ENA | avg buy $0.08905 | P&L +$151 (+23.19%) ✅
+  - **LIT** | price $1.7051 | value $757 | 444 LIT | avg buy $0.9009 | P&L +$357 (+89.27%) ✅
+  - **USDT (dry powder)** | value $468 | 468 USDT
+  - **PENGU** | price $0.007019 | value $175 | 24,900 PENGU | avg buy $0.008032 | P&L -$25 (-12.61%)
+  - **SPX6900** | price $0.333 | value $148 | 444 SPX | avg buy $0.3376 | P&L -$2 (-1.37%)
+  - **Total TDR Pro:** $10,211 | All-time P&L: -$674 (-5.41%)
+  ### TDR Reference Portfolio — 3 Jun 2026
+  *Source: TDR Pro Portfolio alert 2 Jun + Fat Pitch #2 report 3 Jun 2026*
+  - **BTC** (Bitcoin / Digital Gold) — avg entry $59,432 | gain/loss +12.06% | portfolio weight **23.40%** | added to at $67.1k on 2 Jun
+  - **ETH** (Ethereum) — avg entry $1,732 | gain/loss +6.87% | portfolio weight **2.39%**
+  - **LIT** (Lighter — Ethereum Perps DEX) — avg entry $0.95 | gain/loss +69.47% | portfolio weight **3.53%**
+  - **PUMP** (Solana Launchpad + DEX + Trading App) — avg entry $0.001740 | gain/loss -4.89% | portfolio weight **8.76%**
+  - **ENA** (Ethena — leading yield-bearing stablecoin) — avg entry $0.1005 | gain/loss -8.29% | portfolio weight **3.78%**
+  - **WLD** (Worldcoin — AI + Digital Identity) — avg entry $0.2632 | gain/loss +48.18% | portfolio weight **3.08%**
+  - **COIN** (Coinbase) — avg entry $99.58 | gain/loss +74.22% | portfolio weight **0.76%**
+  - **PENGU** (Pudgy Penguins memecoin) — avg entry $0.00796 | gain/loss -12.56% | portfolio weight **1.82%** | 🆕 added 2 Jun 2026
+  - **SPX6900** (movement memecoin) — avg entry $0.332 | gain/loss -4.82% | portfolio weight **2.08%** | 🆕 added 2 Jun 2026
+  - **USELESS** (high risk/return memecoin) — avg entry $0.079 | gain/loss +21.52% | portfolio weight **1.26%**
+  - **DRV / DERIVE** (leading Ethereum-based onchain options) — avg entry $0.088 | gain/loss -2.27% | portfolio weight **2.02%** | 🆕 added 2 Jun 2026
+  - **Cash** — portfolio weight **47.12%** | increased 2 Jun for personal planning + dry powder
+  **TDR sector buckets (3 Jun):** BTC & ETH 25.79% | Perps & options (LIT + DRV) 5.55% | SOL beta (PUMP + SPX + PENGU) 12.66% | ENA 3.78% | WLD 3.08% | COIN 0.76% | USELESS 1.26% | Cash 47.12%
+  ### TDR Current Posture (as of 3 Jun 2026)
+  - **2nd BTC capitulation underway.** BTC $65.8k — 20% off $82.3k May 10 high, 47% off prior cycle high.
+  - **Cash raised to 47.12%** — personal planning + dry powder for deep value entries.
+  - ETF flows negative all of 2026; worst 30-day outflow period since ETF launch. Basis trade unwinds + institutional caution (rates/inflation).
+  - Strategy (MicroStrategy) sold 32 BTC ($2.3m) for first time ever to fund preferred dividends. $871m cash vs $1.67b annual obligations = ~6 months runway. Forced liquidation only at ~$26k.
+  - BTC KPIs at fair value: MVRV 1.23, 12-month RSI 41.89, 51.4% supply in profit. Not yet deep value — funding rates still positive.
+  - TDR expects $60k to be tested. Downside scenario $40–45k (not base case). Time-based capitulation — no V-shape recovery expected.
+  - Watching: ZEC (privacy), HYPE, HOOD (Q2 earnings 29 Jul — expect miss → entry opportunity).
+  - BTC dominance dropping on weakness — validates alt allocation strategy.
   ---
   ## 🟡 Portfolio 2 — CMC (CopyMyCrypto)
-  *Strategy: HOLD. CMC subscription cancelled April 2026. Exit trigger for all positions: TDR risk-off signal. Core positions held. Dead alt tail to be sold for CGT losses.*
-  **Value (dead alt tail only):** $863 | **All-time P&L:** -$18,935 (-57.08%)
-  *Note: Core CMC positions (XRP, ETH, SOL, ADA, BTC) now tracked under My Portfolio screen.*
-  ### Core Holdings — 30 May 2026 (via My Portfolio tracker)
-  - **XRP** ← carrying the portfolio | price $1.339 | value $4,064 | 3,034.37 XRP
-  - **ETH** | price $2,017 | value $3,951 | 1.959 ETH
-  - **SOL** | price $82.25 | value $2,582 | 31.40 SOL (combined CMC + Portfolio 1)
-  - **ADA** | price $0.2350 | value $1,574 | 6,698.68 ADA
-  - **BTC** | price $73,598 | value $549 | 0.007461 BTC
-  - **KSM** | $4.548 | value $22 | 4.853 KSM
-  ### Dead Alt Tail — sell to crystallise CGT losses
-  - **S** (Sonic) | SOLD via Ledger → USDT → MEXC ✅ — **REMOVED from CMC portfolio** ✅
-  - **ROSE** (Oasis) | $0.009245 | value $240 | 26,032 ROSE — **unbonding, ~1 week. Sell on receipt → add to USDT dry powder**
-  - **CELR** (Celer) | ~~$0.00261 | value $138 | 53,058 CELR~~ — **SOLD 30 May 2026 @ $0.00263 = $87.90 USDT** ✅
-  - **GALA** | ~~$0.003108 | value $90 | 29,092 GALA~~ — **SOLD 30 May 2026 @ $0.003108 = $88.10 USDT** ✅
-  - **CTSI** (Cartesi) | $0.02819 | value $74 | 2,645 CTSI — sell
-  - **VAI** | ~~$0.00403 | value $11 | 2,943 VAI~~ — **SOLD 27 May 2026 @ $0.00403 = $10.47 USDT** ✅
-  - **VRA** (Verasity) | $0.00001541 | value $4 | 277,464 VRA — sell
-  - **XEN** | value ~$2 | — sell
-  - **CFG** (Centrifuge) | **presumed stolen** — laptop compromised Jan–Feb 2026. 2,707 CFG missing. Write off for CGT purposes.
-  - *(SILLY, EGLD, FLUX residual, CETUS, DOT, CSPR — sub-$1, sell/abandon)*
+  *Strategy: HOLD. CMC subscription cancelled April 2026. Exit trigger for all positions: TDR risk-off signal. Dead alt tail to be sold for CGT losses.*
+  **Total value: $214** | All-time P&L: -$19,170 (-57.80%) | Cost basis: $33,168
+  ### Dead Alt Tail — 3 Jun 2026 (sell to crystallise CGT losses)
+  - **ROSE** (Oasis) | price $0.008156 | value $212 | 26,032 ROSE | avg buy $0.06484 | P&L -$1,627 (-86.97%) — unbonding, sell on receipt → USDT dry powder
+  - **XEN Crypto** | price $0.0000000051 | value $1.70 | 337,256,981 XEN | avg buy $0.00000057 | P&L -$192 (-99.12%) — sell
+  - **Silly Dragon (SILLY)** | price $0.0001146 | value $0.34 | 3,009 SILLY | avg buy $0.06942 | P&L -$209 (-99.83%) — sell
+  ### Sold / Removed
+  - S (Sonic) — SOLD ✅
+  - CELR — SOLD 30 May 2026 @ $0.00263 = $87.90 ✅
+  - GALA — SOLD 30 May 2026 @ $0.003108 = $88.10 ✅
+  - VAI — SOLD 27 May 2026 @ $0.00403 = $10.47 ✅
+  - CFG (Centrifuge) — presumed stolen Jan–Feb 2026 | 2,707 CFG | value at time ~$764 | discuss with Maslins for CGT theft write-off
   ### CMC Notes
-  - Without XRP, CMC portfolio is deeply underwater on cost
+  - Core CMC positions (XRP, ETH, SOL, ADA, BTC) tracked under My Portfolio screen
+  - Without XRP, CMC portfolio deeply underwater on cost
   - XRP is the sole reason to stay patient
-  - Exit trigger for all core positions: TDR risk-off signal
+  - Exit trigger for all: TDR risk-off signal
   ---
-  ## 🔴 Portfolio 1 — My Portfolio (Residual)
-  *Strategy: WIND DOWN. No new entries. Sell remaining positions to stables. Crystallise CGT losses.*
-  **Value:** $12,369 | **All-time P&L:** -$14,019 (-22.69%)
-  *Note: This tracker now includes the core CMC positions (XRP, ETH, SOL, ADA, BTC) which appear here.*
-  ### Active Holdings — 30 May 2026
-  - **XRP** | price $1.339 | value $4,064 | 3,034.37 XRP
-  - **ETH** | price $2,017 | value $3,951 | 1.959 ETH
-  - **SOL** | price $82.25 | value $2,582 | 31.40 SOL ✅
-  - **ADA** | price $0.2350 | value $1,574 | 6,698.68 ADA
-  - **BTC** | price $73,598 | value $549 | 0.007461 BTC
-  - **KSM** | $4.548 | value $22 | 4.853 KSM
-  - **GMX** | $6.507 | value $9 | 1.529 GMX
-  - **NEXA** | $0.0₆44 | value $7 | 16.28M NEXA
-  - **ONDO** | $0.3462 | value $3 | 8.690 ONDO
-  - **QNT** | $72.22 | value $2.88 | 0.04 QNT
-  - **GRT** | $0.02577 | value $2.19 | 85.00 GRT
-  - *(CPOOL, NEAR, WELL, ATH, FET, CELL, TAI, VISTA, CARV, PNG, USDT $1.24 — sub-$3, sell all)*
+  ## 🔴 Portfolio 1 — My Portfolio (Residual / Legacy)
+  *Strategy: WIND DOWN dead alts; hold core positions. No new entries. Exit all on TDR risk-off signal.*
+  **Total value: $11,100** | All-time P&L: -$15,287 (-24.75%) | Cost basis: $61,762
+  ### Active Holdings — 3 Jun 2026
+  - **XRP** | price $1.2152 | value $3,687 | 3,034.37 XRP | avg buy $0.5647 | P&L +$2,296 (+133.89%) ✅ ← carrying the portfolio
+  - **ETH** | price $1,824 | value $3,574 | 1.9594 ETH | avg buy $3,104 | P&L -$2,509 (-41.24%)
+  - **SOL** | price $72.69 | value $2,283 | 31.4 SOL | avg buy $97.61 | P&L -$783 (-25.53%)
+  - **ADA** | price $0.2078 | value $1,392 | 6,698.68 ADA | avg buy $0.3444 | P&L -$915 (-39.65%)
+  - **BTC** | price $65,854 | value $491 | 0.007461 BTC | avg buy $67,014 | P&L -$9 (-1.73%)
+  - **KSM** (Kusama) | price $4.1714 | value $20 | 4.8534 KSM | avg buy $122.97 | P&L -$577 (-96.61%)
+  - **GMX** | price $6.3590 | value $10 | 1.5296 GMX | avg buy $62.09 | P&L -$85 (-89.76%)
+  - **NEXA** | price $0.0000004398 | value $7 | 16,286,784 NEXA | avg buy $0.00001187 | P&L -$186 (-96.29%)
+  - **ONDO** | price $0.4163 | value $4 | 8.69 ONDO | avg buy $1.5770 | P&L -$877 (-76.88%)
+  - **QNT** (Quant) | price $72.27 | value $3 | 0.04 QNT | avg buy $126.08 | P&L -$47 (-39.25%)
+  - *(Sub-$3 tail: CPOOL, NEAR, WELL, ATH, FET, CELL, TAI, VISTA, CARV, PNG — sell all)*
   ---
   ## 🧾 CGT Tracking
   - **Losses carried forward (pre-Mar 2026):** >£15,000
   - **Additional losses crystallised (Mar 2026):** Qubic ~$851 + MLC ~$1,804 + dead alts ~$2,000+
   - **Additional losses crystallised (May 2026):** MLC $46 + VAI $10 + CELR $88 + GALA $88 = ~$232 additional
-  - **CFG (Centrifuge) — presumed stolen Jan–Feb 2026:** 2,707 CFG | value at time ~$764. Discuss with Maslins — may be claimable as theft loss.
+  - **CFG (Centrifuge) — presumed stolen Jan–Feb 2026:** 2,707 CFG | value at time ~$764 | discuss with Maslins — claimable as theft loss
   - **Total carried-forward pool (estimated):** >£19,500 (excl. CFG theft claim)
   - **Platform:** Koinly (MEXC API integrated)
   - **Accountant:** Maslins to confirm exact figures at FY year end
-  - **Status:** Losses carry forward indefinitely — crystallise more opportunistically from dead alt tails above
+  - **Status:** Losses carry forward indefinitely — crystallise more opportunistically from dead alt tails
   ---
   ## ⚡ Pending Actions
+  - [ ] **ROSE unbonding** — sell on receipt (~$212) → USDT dry powder. CGT loss ~$1,627.
+  - [ ] **Sell XEN, SILLY** → USDT + CGT losses (~$400+ losses)
+  - [ ] **Sell Portfolio 1 dead alt tail** — KSM, GMX, NEXA, ONDO, QNT + sub-$3 tail. Crystallise losses.
+  - [ ] **CFG theft** — discuss with Maslins. 2,707 CFG presumed stolen Jan–Feb 2026.
+  - [ ] **WLD** — watch for explicit TDR subscriber buy signal before entering (~$370 target position at 3% of $12k)
+  - [ ] **DRV** — watch for explicit TDR subscriber buy signal before entering (~$245 target position at 2% of $12k)
+  - [ ] **USELESS** — watch for explicit TDR subscriber buy signal before entering (~$150 target)
+  - [ ] **Tangem migration** — move TDR Pro positions off MEXC to Tangem once settled. Keep USDT on MEXC as dry powder.
   - [x] ~~LIT entry confirmed — 444 LIT @ $0.95~~ ✅
   - [x] ~~PUMP bought — 480,584 PUMP @ $0.001785 (30 May 2026)~~ ✅
   - [x] ~~ENA bought — 7,310 ENA @ $0.08905 (30 May 2026)~~ ✅
-  - [x] ~~CELR sold — 33,416 CELR @ $0.00263 = $87.90 (30 May)~~ ✅
-  - [x] ~~GALA sold — 28,345 GALA @ $0.003108 = $88.10 (30 May)~~ ✅
-  - [x] ~~VAI sold — 2,593 VAI @ $0.00403 = $10.47 (27 May)~~ ✅
-  - [x] ~~MLC sold — 2,408 MLC @ $0.0191 = $46.16 (27 May)~~ ✅
-  - [x] **~~S (Sonic) sold via Ledger → USDT → MEXC** | ~$300 | pending CMC portfolio removal this week~~ ✅
-  - [x] ~~SPX6900 bought — 444.24 SPX @ $0.3376 = $150 USDT (31 May 2026 on MEXC)~~ ✅
-  - [x] ~~PENGU bought — 24,900.39 PENGU @ $0.008032 = $200 USDT (31 May 2026 on MEXC)~~ ✅
-  - [ ] **Add PUMP, ENA, SPX, PENGU transactions in CMC** — USDT balance showing inflated until done
-  - [ ] **Tangem migration** — move TDR Pro positions (PUMP, ENA, SPX, PENGU, LIT) off MEXC to Tangem once settled. Keep USDT on MEXC as dry powder. ADA stays on MEXC (exit on TDR risk-off).
-  - [ ] **MXSOL redemption in progress** — redeemed 31 May 2026. Awaiting settlement (up to 24h). Once SOL appears in spot wallet → sell SOL/USDT market order → adds ~$700 to USDT dry powder. CGT loss ~$465 added to pool.
-  - [ ] **Sell CTSI** — 2,645 CTSI | ~$74 → USDT dry powder
-  - [ ] **Sell VRA, XEN, SILLY + sub-$1 tail** → USDT + CGT losses
-  - [ ] **ROSE unbonding** — ~1 week. Sell on receipt (~$240) → USDT dry powder
-  - [ ] **Sell Portfolio 1 dead alt tail** — ONDO, QNT, GRT, NEXA, GMX, CPOOL, NEAR, WELL, ATH, FET, CELL, TAI, VISTA, CARV, PNG — sub-$10 each. Crystallise losses.
-  - [ ] **CFG theft** — discuss with Maslins. 2,707 CFG presumed stolen Jan–Feb 2026.
-  - [ ] **WLD** — watch for explicit TDR subscriber buy signal before entering (~$420 target position)
+  - [x] ~~SPX6900 bought — 444.24 SPX @ $0.3376 = $150 (31 May 2026)~~ ✅
+  - [x] ~~PENGU bought — 24,900.39 PENGU @ $0.008032 = $200 (31 May 2026)~~ ✅
+  - [x] ~~CELR sold — $87.90 (30 May 2026)~~ ✅
+  - [x] ~~GALA sold — $88.10 (30 May 2026)~~ ✅
+  - [x] ~~VAI sold — $10.47 (27 May 2026)~~ ✅
+  - [x] ~~S (Sonic) sold~~ ✅
+  ---
   ## Strategy Anchors (added 31 May 2026)
   **Long-hold framing:** Crypto pot = high-variance "lottery leg", NOT core retirement or NZ-deposit money. Durable engines are pension (~£1.05m likely), EMI options, and property. Size crypto as money that can go to zero without touching the NZ deposit or retirement floor. Long horizon (hold across multiple cycles via TDR) is the right frame — neutralises single-top timing risk; plays to asymmetry + compounding. Conservative-to-moderate long-run outcome: ~£50k–180k contributor by age 60; wide cone by 70. Key risks over horizon: vehicle survivorship (TDR + exchanges + tokens lasting decades), self-custody opsec (already 1 compromise — CFG), and holding discipline through -80% drawdowns.
-  **Cross-border crypto tax — MAJOR FINDING (31 May 2026):** NZ has **NO general capital gains tax**, AND new migrants get a **4-year transitional residence exemption** on most *foreign-sourced* income — which includes crypto sold via *overseas* exchanges (CEX/DEX). IRD 2024 technical decision confirmed crypto sold through offshore exchanges during the 48-month window is NOT NZ-taxable. **This is potentially a once-in-a-lifetime window to realise the entire crypto pot tax-free in NZ.** Critical conditions: (1) must qualify as transitional resident (new/returning after 10+ yrs); (2) sell via OFFSHORE exchanges only — using a NZ exchange brings gains into NZ net; (3) window is 48 months from becoming tax resident, never resets, never repeats. CARF reporting live from 1 Apr 2026 (offshore exchanges report to IRD). UK side: must also manage UK departure-year treatment / temporary non-residence rules so UK doesn't tax on the way out.
-  **This flips the long-hold logic:** rather than "hold to age 70 and pay tax somewhere", the optimal play may be to ride TDR through to a cycle peak that lands *inside the NZ 4-year transitional window*, then realise tax-free. Timing the NZ arrival + realisation is worth potentially "hundreds of thousands" per the specialists. MUST get specialist advice before move.
+  **Cross-border crypto tax — MAJOR FINDING (31 May 2026):** NZ has NO general capital gains tax, AND new migrants get a 4-year transitional residence exemption on most foreign-sourced income — which includes crypto sold via overseas exchanges (CEX/DEX). IRD 2024 technical decision confirmed crypto sold through offshore exchanges during the 48-month window is NOT NZ-taxable. This is potentially a once-in-a-lifetime window to realise the entire crypto pot tax-free in NZ. Critical conditions: (1) must qualify as transitional resident (new/returning after 10+ yrs); (2) sell via OFFSHORE exchanges only; (3) window is 48 months from becoming tax resident, never resets, never repeats. CARF reporting live from 1 Apr 2026. UK side: must manage UK departure-year treatment / temporary non-residence rules so UK doesn't tax on the way out.
+  **This flips the long-hold logic:** ride TDR through to a cycle peak that lands inside the NZ 4-year transitional window, then realise tax-free. MUST get specialist advice before move.
   **NZ crypto-tax specialist shortlist (engage before move):**
-  - **TaxHawk** (Auckland, Chartered Accountants) — 100+ individual crypto returns, works with Koinly, can liaise with UK accountant. Strong reviews. [taxhawk.co.nz](http://taxhawk.co.nz/)
-  - **Doyle Accountants / **[**cryptocurrencytax.co.nz**](http://cryptocurrencytax.co.nz/) — publishes detailed transitional-residency migrant guides; clearly specialises in exactly this scenario.
-  - **Gilligan Rowe & Associates (GRA)** — established NZ firm, crypto + transitional residency focus, advises internationally. 09 522 7955. [gra.co.nz](http://gra.co.nz/)
-  - **Andersen NZ** — global network arm, good for UK↔NZ coordination + double-tax.
-  - **Lane Neave / Crawford Nelson Law** — legal (not accounting) angle for transitional-residence rulings if a binding IRD ruling is wanted.
-  - Maslins (UK) to handle UK departure-year side only.
+  - TaxHawk (Auckland) — 100+ individual crypto returns, works with Koinly. [taxhawk.co.nz](http://taxhawk.co.nz/)
+  - Doyle Accountants / [cryptocurrencytax.co.nz](http://cryptocurrencytax.co.nz/) — transitional-residency migrant guides
+  - Gilligan Rowe & Associates (GRA) — crypto + transitional residency focus. 09 522 7955. [gra.co.nz](http://gra.co.nz/)
+  - Andersen NZ — global network, good for UK↔NZ coordination
+  - Lane Neave / Crawford Nelson Law — legal angle for binding IRD rulings
+  - Maslins (UK) to handle UK departure-year side only
   **Last updated:** 1 June 2026 (v2)
   **Total tracked (excl. crypto):** ~£247,674
   > **How to update:** Refresh figures whenever you screenshot balances from InvestEngine, Trading212, Nationwide, or InvestEngine pension. For crypto, see 💰 Our Crypto Portfolio (sibling page).

@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:50 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-04 06:41 UTC -->
 
 ## Sauna vendor emails sent — 31 May 2026
 Three vendor enquiry emails sent from Ollie's Gmail. Awaiting responses.
@@ -1246,7 +1246,7 @@ Do not take Sepia and Hepar Sulph simultaneously — constitutional and acute re
 - **Terbinafine 250mg:** Once daily with food — Course 1 started 21 Apr 2026, ends 18 May 2026 (3 tablets remaining as of 17 May). Course 2 ordered 17 May via Prescription Doctor — start immediately on receipt, no gap. Do NOT stop early.
 - **Rationale for Course 2:** 24-hour itch cycle confirmed ongoing fungal suppression not eradication; coverage extended despite full Course 1; 4-month established infection warrants extended treatment.
 - **Daktarin (miconazole 2%):** Twice daily to main lesion + left calf satellite — simplified from 3x daily now systemic treatment running
-- **Tea tree cream:** Now optional — can drop if compliance is difficult; Daktarin twice daily sufficient alongside terbinafine
+- **Tea tree cream:** Now optional — can drop if compliance is difficult; Daktarin twice daily sufficient alongside terbinafine. Replacement purchased 3 Jun 2026: **Amberley Aromatics Tea Tree, Manuka & Neem Cream 200ml** (£18.95, Amazon) — chosen over Temviey antifungal cream and Meifenla balm; consolidates three existing protocol ingredients (tea tree + Manuka + neem) into one maintenance cream; 2,259-review credibility base. Keep 30-min gap from homeopathic drops.
 - **Neem oil (1:5 in coconut oil):** Every evening — continue through and beyond terbinafine course as relapse prevention
 - **Coconut oil:** Daily after shower to whole area
 - **Cetirizine 10mg:** Once daily — added 27 Apr for body-wide itch/hay fever

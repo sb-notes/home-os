@@ -1,6 +1,6 @@
-# Rosie Rentals — Current State (17 May 2026)
+# Rosie Rentals — Current State (3 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-03 06:51 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-04 06:42 UTC -->
 
 ---
 ## Journal sync — 22–29 May 2026 (sources: "Journal Friyay" 22 May, "Journal weds" 27 May, "Journal Friday" 29 May)
@@ -17,6 +17,25 @@
 - Leaseholders paying exorbitant service charges to Moorland in the meantime; Moorland not doing the work funds were collected for
 - Forensic accounting (Galloways vs Harper Stone/Maxi Wood) expected once RTM is complete — likely to reveal significant misappropriation
 <!-- ANCHOR -->
+---
+## Journal sync — 3 June 2026
+### Hereford Court — EICR remedial work booked (Friday 6 June 2026)
+- EICR carried out 23 April 2026 by Jamie Witham, Witham Electrical (NAPIT scheme 78416, 39 Edgehill Way, Brighton BN41 2PU). Result: **UNSATISFACTORY**.
+- Remedial work due within 30 days (by 23 May 2026) — technically past deadline, but Jamie is returning Friday 6 June to complete all remedial work.
+- Jamie has a key and does not need tenant access.
+- Tenants (Molly, Lucie, Amy) messaged via WhatsApp asking to clear the left side of the hallway cupboard (fuse box location) before Friday morning.
+- **C2 items to be resolved Friday:**
+  - No main protective bonding conductor to water/gas pipes (items 1–2)
+  - No earthing/bonding labels (item 3)
+  - Unused opening in consumer unit exceeding IP4X (item 4)
+  - Missing required labelling (item 6)
+  - SPD status indicator showing device no longer functional (item 7)
+  - Missing DB cover (item 16)
+  - Faulty light switch in hallway (item 17)
+- **C3 item (improvement recommended, not blocking):** No RCD six-monthly test notice (item 5)
+- **FI item (further investigation required):** Continuity of 71.48Ω on lighting circuit (item 15) — must be investigated/resolved for certificate to pass
+- **After Friday:** Obtain written confirmation / Amendment 3 from Jamie confirming all C2s resolved and FI investigated. This is the satisfactory certificate needed on file.
+- **EICR document:** Amendment 2 uploaded to project knowledge (23 April 2026, NAPIT, FastTest ref NA/EICR/001).
 ---
 ## Journal sync — 13–14 May 2026 (sources: "Journal weds", "Journal Thursday")
 ### Ventnor Villas — chimney repair (urgent action)
