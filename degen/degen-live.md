@@ -1,6 +1,6 @@
 # Degen — Current State (3 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-04 06:40 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-05 06:19 UTC -->
 
 ---
 ## Journal sync — 21–28 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Thursday" 28 May)
@@ -1017,7 +1017,7 @@ Requested clarification on:
   ---
   ## 🟡 Portfolio 2 — CMC (CopyMyCrypto)
   *Strategy: HOLD. CMC subscription cancelled April 2026. Exit trigger for all positions: TDR risk-off signal. Dead alt tail to be sold for CGT losses.*
-  **Total value: $214** | All-time P&L: -$19,170 (-57.80%) | Cost basis: $33,168
+  **Total value: $197.74** | All-time P&L: -$19,170 (-57.80%) | Cost basis: $33,168
   ### Dead Alt Tail — 3 Jun 2026 (sell to crystallise CGT losses)
   - **ROSE** (Oasis) | price $0.008156 | value $212 | 26,032 ROSE | avg buy $0.06484 | P&L -$1,627 (-86.97%) — unbonding, sell on receipt → USDT dry powder
   - **XEN Crypto** | price $0.0000000051 | value $1.70 | 337,256,981 XEN | avg buy $0.00000057 | P&L -$192 (-99.12%) — sell
@@ -1090,6 +1090,62 @@ Requested clarification on:
   - Andersen NZ — global network, good for UK↔NZ coordination
   - Lane Neave / Crawford Nelson Law — legal angle for binding IRD rulings
   - Maslins (UK) to handle UK departure-year side only
+    📅 Created 4 Jun 2026 · Tier: **changelog** · Append-only
+    > **Purpose:** Chronological record of every TDR Pro portfolio management alert — what TDR did, what Ollie executed, and any missed windows. Reference for discipline tracking and future cycle review.
+    > 
+    > **Rules:** Append-only. Never edit past entries. Add new signals at the top under the current month.
+    ---
+    ## How to read this log
+    - ✅ = Ollie executed within 24h window
+    - ❌ = Signal missed / window passed without execution
+    - ⏳ = Pending / in window
+    - 🔁 = TDR internal trade (trim/rebalance) — Ollie mirrors where noted
+    ---
+    ## June 2026
+    **📩 3 Jun 2026, 04:36 — Portfolio Management Alert**
+    - Added to BTC at $67.1k ❌ outside 24h window / no dry powder
+    - Added to SPX6900 at $0.313 ❌ outside 24h window / no dry powder
+    - Added to PENGU at $0.069 ❌ outside 24h window / no dry powder
+    - Added to DRV at $0.091 ❌ not yet held — await next clean signal
+    - Raised cash to 47.12% (personal planning + dry powder) — noted, not mirrored (Ollie ~4% cash)
+    **📩 3 Jun 2026, 12:15 — Fat Pitch #2 (weekly report)**
+    - No new trades. Market context only: BTC 2nd capitulation, $60k test expected, time-based recovery phase. TDR remains bullish long-term.
+    **📩 1 Jun 2026, 22:42 — Portfolio Management Alert**
+    - Repurchased USELESS at $0.079 ❌ not executed — window passed
+    - Trimmed SPX6900 by 25% 🔁 not mirrored — Ollie held full SPX position
+    - Trimmed PENGU by 25% 🔁 not mirrored — Ollie held full PENGU position
+    - Starter position DRV at ~1.5% ❌ not executed — window passed
+    ## May 2026
+    **📩 31 May 2026, 11:15 — Portfolio Management Alert**
+    - Initial position SPX6900 ✅ bought 444.24 SPX @ $0.3376 = $150 on MEXC
+    - Initial position PENGU ✅ bought 24,900.39 PENGU @ $0.008032 = $200 on MEXC
+    **📩 29 May 2026, 19:06 — Portfolio Management Alert**
+    - Added to PUMP at $0.001677 ✅ bought 480,584 PUMP @ $0.001785 (slight timing variance) on MEXC
+    - Added to ENA at $0.0889 ✅ bought 7,310 ENA @ $0.08905 on MEXC
+    ---
+    ## Earlier signals (pre-May 2026)
+    *Back-filled from Gemini Gmail research, 4 Jun 2026. Ollie execution status marked where known; otherwise marked as unknown (pre-system).*
+    **📩 Apr 2026 — Portfolio Management Alert (approx)**
+    - Added LIT as core position ✅ Ollie bought 444 LIT @ $0.9009 on MEXC (confirmed ~Mar/Apr 2026)
+    **📩 20 Apr 2026 — Portfolio Management Alert**
+    - TDR shifted back to "risk-on" for select altcoins. Added the following as core / speculative positions:
+    - Added PUMP (Solana ecosystem) as core position | price context: hit low $0.0158 on 2 Apr (down 79% from ATH) ❓ Ollie execution unknown (pre-system)
+    - Added ENA (Ethena) as core position | price context: potential bottom ~$0.078 (down 90-93% from fair value range) ❓ Ollie execution unknown (pre-system)
+    - Added WLD (Worldcoin) as core position | price context: potential bottom ~$0.24 (78% discount to prior institutional raise of $1.19) ❓ Ollie execution unknown — WLD not yet held as of Jun 2026
+    - Added USELESS as high-risk/reward speculative position | price context: potential bottom ~$0.029 ❓ Ollie execution unknown — USELESS not held as of Jun 2026
+    **📩 5 Feb 2026 — Portfolio Management Alert**
+    - Added to BTC: deployed 20% of anticipated BTC allocation (14% of dry powder) | avg entry $64.2k | resulting TDR portfolio weight 27.64% ❓ Ollie execution unknown (pre-system)
+    **📩 10 Oct 2025 — Portfolio Management Alert (partial)**
+    - TDR completely exited many risk-on positions and trimmed long-term core positions to book profits and bolster cash. Individual asset prices/amounts not published in email body (on premium dashboard only). ❓ Ollie execution unknown (pre-system)
+    ---
+    ## Notes on discipline
+    - **24h rule:** Execute within 24 hours of email receipt. Email timestamp is the clock start.
+    - **No pre-empting:** Never buy ahead of a signal. TDR's entry price is the reference — don't try to beat it.
+    - **Missed windows:** Log as ❌ and wait for next signal referencing that asset. Do not chase.
+    - **Trim signals (🔁):** TDR internal rebalances (e.g. trim SPX to fund USELESS). Mirror where Ollie has dry powder to fund the new buy; otherwise hold existing position and note.
+    - **Cash discipline:** TDR's cash ratio (47% as of Jun 2026) reflects their personal planning. Ollie's situation is different — but preserving remaining USDT ($468) as dry powder for the next deep-value signal is the priority.
+    - **WLD standing instruction (4 Jun 2026):** On the next meaningful WLD pullback, enter at TDR's current portfolio weighting (~3.08% of TDR Pro portfolio value). Do not wait for an explicit new subscriber signal — TDR have held since Apr 2026 at ~$0.24 avg and the position is established. Size the entry to match their % weight at time of Ollie's purchase. Use USDT dry powder or proceeds from dead alt tail sales.
+  ---nn## 📡 TDR Signal LognnFull chronological record of every TDR Pro alert, what was executed, and missed windows.nn→ [TDR Signal Log](https://app.notion.com/p/37524a1cf0f081e6af3fc6d97b95f887)
   **Last updated:** 1 June 2026 (v2)
   **Total tracked (excl. crypto):** ~£247,674
   > **How to update:** Refresh figures whenever you screenshot balances from InvestEngine, Trading212, Nationwide, or InvestEngine pension. For crypto, see 💰 Our Crypto Portfolio (sibling page).
