@@ -1,6 +1,6 @@
-# Rosie Rentals — Current State (3 Jun 2026)
+# Rosie Rentals — Current State (5 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-05 06:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:52 UTC -->
 
 ---
 ## Journal sync — 22–29 May 2026 (sources: "Journal Friyay" 22 May, "Journal weds" 27 May, "Journal Friday" 29 May)
@@ -17,6 +17,14 @@
 - Leaseholders paying exorbitant service charges to Moorland in the meantime; Moorland not doing the work funds were collected for
 - Forensic accounting (Galloways vs Harper Stone/Maxi Wood) expected once RTM is complete — likely to reveal significant misappropriation
 <!-- ANCHOR -->
+---
+## Journal sync — 5 June 2026
+### Ventnor Villas — SE chimney scaffold and roofer progress
+- **Scaffold:** Two scaffolders sourced via roofer referrals. Mike (scaffolder 1) has called Kiwifruit and is liaising with Pippa (Flat 1) to visit and quote. Luke (scaffolder 2) — contact just made. Both to provide quotes; one to be selected and booked.
+- **Roofer quoting strategy:** Kiwifruit will contact all five roofers on the ranked list. First three to respond will be invited to quote once scaffold is up. (List: Arrow Roofing / Andrew Hargie, MB Roofing, Scott / Pulse Roofing, Josh Stevens / Stevens Roofing, Bluewave Renovations.)
+- **Damage update (from 28 Feb 2026 email):** Water ingress has now spread from SE bedroom ceiling to NE master bedroom ceiling. Both ceilings require redecorating — Kiwifruit/Carciofi's cost, once chimney confirmed fixed.
+- **New contact confirmed:** Pippa Wilson (Flat 1, ground floor patio flat) — [wappip@yahoo.co.uk](mailto:wappip@yahoo.co.uk) — now cc'd on chimney correspondence.
+- **Target:** Scaffold booked and up; three roofers quote; repair complete before end of summer 2026.
 ---
 ## Journal sync — 3 June 2026
 ### Hereford Court — EICR remedial work booked (Friday 6 June 2026)
@@ -36,6 +44,9 @@
 - **FI item (further investigation required):** Continuity of 71.48Ω on lighting circuit (item 15) — must be investigated/resolved for certificate to pass
 - **After Friday:** Obtain written confirmation / Amendment 3 from Jamie confirming all C2s resolved and FI investigated. This is the satisfactory certificate needed on file.
 - **EICR document:** Amendment 2 uploaded to project knowledge (23 April 2026, NAPIT, FastTest ref NA/EICR/001).
+- **Friday 6 June — completed:** Consumer unit replaced with new RCD board; individual RCBOs fitted per circuit (one breaker per circuit). All C2 items addressed. ✅
+- **Monday 9 June — Jamie returning (~£30):** Kitchen light fitting replacement + two light switch covers (kitchen and hallway) to resolve remaining compliance items.
+- **Outstanding after Monday:** Written satisfactory EICR certificate / Amendment 3 from Jamie confirming all C2s resolved and FI (lighting circuit continuity, item 15) investigated. Do not serve on tenants or treat as compliant until this document is in hand.
 ---
 ## Journal sync — 13–14 May 2026 (sources: "Journal weds", "Journal Thursday")
 ### Ventnor Villas — chimney repair (urgent action)

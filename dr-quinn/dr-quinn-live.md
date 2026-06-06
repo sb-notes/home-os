@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-05 06:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:52 UTC -->
 
 ## Sauna vendor emails sent — 31 May 2026
 Three vendor enquiry emails sent from Ollie's Gmail. Awaiting responses.

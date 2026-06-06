@@ -1,6 +1,6 @@
 # Aloyse —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-05 06:18 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:51 UTC -->
 
 ## Journal sync — 31 May 2026 (source: Aloyse session — potty training)
 ### Potty training — approach agreed (31 May 2026)

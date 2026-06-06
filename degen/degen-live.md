@@ -1,6 +1,6 @@
 # Degen — Current State (3 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-05 06:19 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:52 UTC -->
 
 ---
 ## Journal sync — 21–28 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Thursday" 28 May)
