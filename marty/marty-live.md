@@ -1,9 +1,74 @@
 # Marty — Current State (31 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:21 UTC -->
 
 ---
-## Journal sync — 21–29 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Friday" 29 May)
+## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Monday" 1 Jun, "Journal Tuesday" 2 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
+### 5 Jun — Mango returns; very positive week
+- Mango (Pete) back from travel; Kiwifruit gave him a comprehensive update of all that is happening; Mango is really happy and pleased
+- Mango specifically said he could see the roadmaps, that Kiwifruit is "all over it" — validated
+- Kiwifruit: *"It feels like I’m actually now properly adding value and really starting to enjoy myself"*
+- Productivity described as "through the roof" as Product OS setup is paying dividends
+- No work planned for the weekend — boundary holding
+- Key realisation (5 Jun): Cowork becoming the primary work platform over Chat; Claude in Cowork is "the bridge" between Chat (masses) and Code (developers); Cowork has automation/skills baked in
+- Skills insight: skills are "just a set of instructions" that can be initiated by a task/prompt; agents can draw on skills; Rightbrain’s approach mirrors this with a chat-first interface that decides whether to build a task or an agent
+- Aglio (Hugo) progress: taking best of Cursor and other managed agent platforms, chat-first approach where Neuro helps user decide simple task vs complex agent; workflow displayed on left-side screen (agent → tasks → tools) — much easier for users
+### 5 Jun — Product OS major realisation
+- Ran analysis: open-sourced PM brain (Pawel Huron) compared against Kiwifruit’s architecture, health logs, and friction logs via Claude
+- **Key finding: much of the Product OS setup has been working around Notion’s shortcomings as a state file store**
+- Notion: good as document store; not fit-for-purpose as a state file store (too much friction)
+- Next Product OS upgrade: very likely to move state files off Notion
+- Options being considered: local Obsidian vault (privacy benefit, laptop-only access); synced to Obsidian phone app
+- Product OS is not just about personal automation — also about demonstrating to the Rightbrain team how they can automate, and eventually offering the system to clients
+- Next version needs to be Rightbrain-agent compatible
+### 4 Jun — strong day; roadmap work
+- Good productive day; checked off many tasks
+- Roadmap triage skill being built alongside two companion skills: log discovery skill (built), log spec skill (to follow), log press release skill (to follow)
+- All part of automating the idea-to-live SDLC process
+- Tension identified: wanting to get things done manually vs semi-automating each new process the first time (takes longer but makes it faster next time)
+- Monthly meetup shaping up for Tuesday; roadmap-as-single-source-of-truth progressing
+- Did not complete: human pass of roadmap sync; triage of the 6 "Now" items Fico had indicated
+- Sent Mango a summary update — honest and comprehensive; he was really pleased
+- Being brutal about Claude threads (renaming, pinning, unpinning) identified as very helpful
+- Did an hour of work after children’s bedtime to close off near-finished items — felt good
+### 4 Jun — monthly meetup agenda (prep)
+- Agenda items crowd-sourced:
+  1. Mango: strategic bets (5 things Rightbrain is investing in, where they get us)
+  1. Finocchio: pipeline update, sales learnings
+  1. Internal product message: use Rightbrain to automate your own job; run our business on Rightbrain
+  1. Grace and Chris: Grace’s invoice assistant agent use case
+  1. Kiwifruit: product update — brief Now/Next (with side of Later); sourced from Kiwifruit + Fico, checked against Mango + Finocchio + Amigos; needs to be ready by following Tuesday
+- Key items for product update: roadmap triage completion needed; Aglio’s UX improvements for Builder persona; chat-first integration discovery
+### 3 Jun — coaching working well; signal/noise concern; probation awareness
+- Executive coaching with coach-s working really well: providing reality check on good things done, filtering distractions, helping Kiwifruit focus on priorities
+- Morning report + coaching session: powerful combination for daily focus
+- Recorded internal podcast for team: walked through morning routine (journal → morning report → coaching session) to inspire others; suggested team set up their own coaching bots
+- Signal/noise issue surfaced at work: Pete's legal contact and Fico questioned whether large number of Claude-generated decision records and morning report scrapings were creating noise in Notion; Kiwifruit acknowledged this is real work to be done
+- To-dos surfaced:
+  - Triage roadmap carefully at least weekly, use Claude in morning routine to assist
+  - Refine morning report/log/roadmap skill to reduce dross; improve naming; build triage time into week
+- Moving from building to operating: backlog grooming in an AI-native Product OS is the new exam question
+- Probation end: ~3 weeks away (from 3 Jun); 2-month review being planned
+- To-do: create 60-day consultant-style review; source from transcripts and onboarding notes; also create job description as measuring asset
+### 2 Jun — DataBoots advisory resumes; monthly meetup rescheduled
+- DataBoots advisory (Dan): came back after ~6 weeks silence; apologised; they’ve picked up new clients and doing well; would like to continue advisory
+- Meeting agreed: Wednesday 17 June, evening
+- Kiwifruit: will level up how he provides advisory; spend time before session thinking about what he’s learned and how to add obvious value
+- Monthly meetup moved to following Tuesday (Mango travelling Wed, Thu recovery, keeping Mon/Fri clear)
+- Agenda crowd-sourcing begun (see above)
+- Discovery work with Aglio needs formalising: how Chat First could be integrated; role of Chat in Rightbrain ("Euro"); consolidated build view vs run view — needs a document in the new Product Docs DB
+### 2 Jun — Product OS / GTD
+- Using Product OS to manage getting things done — Notion GTD database as single place; reviewing in morning report + coaching
+- Plan: apply same logic (GTD skill) to Home OS over the weekend or the following week
+### 1 Jun — Shoreham Tech drinks; DataBoots partnership signal
+- Shoreham Tech drinks (Tuesday 9 June): at least 3 people coming; good first outing
+- butler (Jeevan) and Kiwifruit plan to attend AI On Tap (3 consultants’ lead gen meetup) next month; to study their model and internalise for Shoreham Tech
+- DataBoots: now keen to continue advisory — flagged as a partner lead for Shoreham Tech
+- When speaking to Dan on 17 June: will introduce Shoreham Tech concept and introduce him to Finocchio
+### Referral bonus scheme (5 Jun) — Degen overlap
+- Rightbrain referral bonus: 10% of revenue earned by a referred client/partner paid to referrer
+- If average client = £10k, referral = £1k; if partner scales to £50k, referral = £5k
+- Kiwifruit to put time and thought into who to refer; DataBoots explicitly named as a referral target
 ### 29 May — advisory clients; Shoreham Tech; podcast strategy
 - Lavender Thorn advisory: Paul and Matt did not turn up to call (again); happy to roll to next month — feels like a passion project, not going anywhere; Kiwifruit gracefully stepping back
 - DataBoots advisory (Dan): not replying to WhatsApp for ~6 weeks; something has happened in his life; Kiwifruit not pursuing

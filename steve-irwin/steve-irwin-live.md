@@ -1,6 +1,6 @@
-# Steve Irwin — Current State (23 May 2026)
+# Steve Irwin — Current State (6 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:22 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -8,12 +8,39 @@
 ### Car MOT (13–14 May)
 - Car booked in with Perkins Garage (next to Shoreham station, 13 May); MOT had expired
 - Car taken for MOT at Toyota dealership in Worthing Thursday morning (14 May) to maintain warranty on hybrid cells; service done there to preserve warranty for another couple of years
-### Asgard bike shed — decision confirmed (14 May)
-- Asgard metal shed for bikes confirmed as the right unit to go for
-- The second-hand one from handyman Ollie's mum is not available for a few months (she is in a chain and storing her bike in it)
-- Decision: **purchase new shed for £700** + handyman Ollie to set it up and install it in the front yard
-- Working through timing for when this happens
-- Note: this supersedes the earlier Trimetals unit decision from March 2026
+### Asgard bike shed — decision confirmed (14 May), paused for secondhand sourcing (6 Jun)
+- Asgard Access Plus 8×4 confirmed as the right unit — supersedes earlier Trimetals decision (March 2026)
+- The handyman's mother's unit is not available for a few months (she is in a chain and using it)
+- **Status (6 Jun 2026): DECIDED — buying handyman's mother's unit for £200**
+- Handyman's mother has a moving date mid-June 2026 — unit available imminently
+- Agreed price: £200 (negotiated down from £300 asking)
+- Handyman to assemble on site
+- Front yard preparation (stones + paving slabs + hedge trim) to happen before/alongside install
+- Revisit rest of front garden layout planning in next trade
+**Secondhand options considered (6 Jun 2026):**
+- Local (handyman's mum): £300 asking → £200 agreed ✔ CHOSEN
+- London (~1hr drive): £250, better condition — not needed
+- New price: ~£700 (Robert Dyas / Homebase) — not needed
+**Key dimensions — Asgard Access Plus 8×4:**
+- External: 231cm (W) × 105cm (D) × 114cm (H)
+- Internal: 217cm (W) × 91cm (D) × 112cm (front H) / 132cm (back H)
+- Internal floor area: 217 × 91cm — fits Mountain Buggy Duet V3 made up (114cm L × 63cm W) angled in through double doors; 154cm width remaining beside buggy fits 2 adult bikes side by side
+- Access: gas-lift lid + double front doors
+- Base requirement: solid concrete or tarmac (paving slabs on compacted MOT Type 1 acceptable if level and tight)
+- Weight: 122kg — two people needed for loading/unloading secondhand unit
+**Planning note:**
+- Front garden placement technically requires planning permission (Adur DC)
+- Enforcement is complaint-driven only — no cases of proactive enforcement found in Adur
+- Practical approach: install, mention to immediate neighbours first, apply retrospectively if ever needed (~£258, 8 weeks)
+- After 4 years without enforcement action, a Lawful Development Certificate is available — cleaner than permission at point of sale
+- Alternatively: indemnity insurance at conveyancing (~£50–150 one-off)
+- Unit at 114cm tall, hidden behind 2.4m hedge — about as uncontroversial as front garden structures get
+**Front yard plan (prerequisite for shed install):**
+- Clear all planting from front yard
+- Keep boundary hedge (trimmed back hard)
+- Lay compacted stones + concrete paving slabs as base
+- Usable area post-clearance: ~300cm deep × 330cm wide
+- Shed positioned against boundary wall at back, leaving clear path to front door
 ---
 **Project:** Steve Irwin
 **Topic:** Outdoor equipment, camping, and gardening (merged from Green thumbs + Steve Irwin)

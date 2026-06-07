@@ -1,9 +1,19 @@
 # Shula RTM — Current State (20 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:22 UTC -->
 
 ---
-## Journal sync — 22–29 May 2026 (sources: "Journal Friyay" 22 May, "Journal Friday" 29 May)
+## Journal sync — 1 Jun 2026 (source: "Journal Monday" 1 Jun)
+### Outstanding items from Austin Rees — action list (1 Jun)
+- Kiwifruit working with Radicchio (Neil) on items outstanding from Austin Rees
+- Confirmed list of 5 items with Radicchio; calling Amy today to get things moving; follow-up email to all parties confirming back at desk and working through checklist
+**Items needed from Amy Sutton (Austin Rees):**
+1. Confirm survey funding — review current funds to greenlight asbestos removal and compliance quotes
+1. Reconcile RTM transition balances — update individual leaseholder statements to reflect arrears and carryforwards from Harper Stone
+1. Clarify RTM VAT status — advise on official VAT registration positioning for the RTM
+1. Provide £35k reserve breakdown — clear financial breakdown of reserve fund balance for directors
+1. Issue hard-copy invoices — confirm and mail out physical 1H26 maintenance demands to owners
+- **Directors drinks confirmed: Thursday 4 June** (Radicchio, Cedro, Borragine, Kiwifruit) — forensic accounting question (whether Galloways have begun interrogating Harper Stone and Maxi Wood) to be raised by Kiwifruit at this meeting
 ### 29 May — directors drinks Thursday 4 June confirmed; forensic accounting
 - Hereford Court directors drinks confirmed for **Thursday 4 June** (Radicchio, Cedro, Borragine, Kiwifruit)
 - Forensic accounting question outstanding: have Galloways started interrogating Harper Stone and Maxi Wood (freeholder)? What needs to happen to make it so?
@@ -311,10 +321,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -355,10 +369,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -399,10 +417,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -443,6 +465,8 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -465,10 +489,14 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
+</tr>
 </tr>
 </tr>
 </tr>

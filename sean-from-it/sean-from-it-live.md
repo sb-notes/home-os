@@ -1,8 +1,55 @@
-# Sean from IT — Current State (2 Jun 2026)
+# Sean from IT — Current State (6 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:53 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:22 UTC -->
 
 ---
+## Weekly triage — 6 June 2026
+- Rows reviewed: 2
+- Addressed (pattern, fix proposed): 1
+- Accepted (one-off): 0
+- Won't fix (stale): 0
+- Still open (needs input): 1
+### Proposed skill fixes
+- journal-indexer-v2 — update Severity enum to minor/friction/blocker; add Home to valid Project field values
+### Rows still open
+- weekly-wrap-up: live state files inaccessible in automated Cowork run — workaround deployed in v2.0; three fix paths proposed (lightweight summary files, MCP pagination, GitHub pre-seeding). Needs owner decision before closing.
+### Failed updates
+- (none)
+---
+## Indexer run — 6 June 2026 04:30
+- Entries indexed: 6 (Journal Sunday 31 May, Journal Monday 1 Jun, Journal Tuesday 2 Jun, Journal Wednesday 3 Jun, Journal Thursday 4 Jun, Journal Friday 5 Jun)
+- State files updated: Cheryl, Aloyse, Dr Quinn, Marty, Shula RTM, Bob the Builder, Degen, Sean from IT, Shoreham Tech Live
+- Dedup skips: 0
+- Deferred LOW routes: 0
+- Rotation: Sean from IT (stale May syncs moved to archive ✔); Marty (21–29 May ✔); Shula (22–29 May ✔); Degen (21–28 May ✔); Cheryl/Aloyse/Dr Quinn deferred (cap-zone, >15K chars — logged to Health Log)
+- Friction items logged: 2 (cap-zone rotation deferred; skill file Severity values mismatch)
+- Pre-flight issues: none
+---
+## Journal sync — 1–5 Jun 2026 (sources: "Journal Monday" 1 Jun, "Journal Wednesday" 3 Jun, "Journal Friday" 5 Jun)
+### Home OS v2.1 — confirmed working (1 Jun)
+- All automations confirmed running post v2.1 upgrade:
+  - Weekly indexer: Saturday morning ✔
+  - Weekly wrap-up: auto-generated ✔
+  - Sunday news briefing: emailed to Kiwifruit and Carciofi ✔
+  - State file rotation: archive pages in place for all live files ✔
+- Home OS is now applying all learnings from Rightbrain Product OS (skills upgrade, pruning, self-healing, scheduled triage)
+- Carciofi now using Claude / Home OS — Dr Quinn and Aloyse active; Kiwifruit validated this as worth it
+### GitHub repo — privacy review flagged (3 Jun)
+- Kiwifruit wants to analyse whether GitHub is still needed or whether Home OS can run on Notion alone
+- Assessment: Notion MCP may now be stable enough; rotation + archive + weekly triage means lighter live files; self-healing mechanisms in place
+- Strong urge to make the public `sb-notes/second-brain` repo **private** (privacy concern first flagged Newcastle Apr 2026)
+- Also noted: GitHub now has new personal access token type (annual rotation) — worth revisiting if keeping GitHub
+- Plan: investigate over the weekend of 6–7 Jun; if it makes sense, make private
+### SumUp — payment setup (31 May)
+- Local artist (sells watercolours/oils roadside) doesn’t take card payments; Kiwifruit wants to buy a painting for Carciofi’s birthday
+- Research done: SumUp identified as the right solution
+- SumUp set up on Kiwifruit’s phone so he can take payments if needed
+- Plan: next time Kiwifruit sees the artist, offer to help him set it up
+- Also: SumUp can be used for Art with Hannah, Italian with Hannah, and Coming to Terms book sales — to show Carciofi how it works and offer to set it up
+### Product OS — Notion as state file store concerns (5 Jun)
+- Key realisation: much of the Kiwifruit’s Product OS build has been working around Notion’s shortcomings as a state file store
+- Next upgrade to Product OS very likely to move state files off Notion (possibly Obsidian vault, synced to phone app)
+- This will have implications for Home OS too — worth monitoring
 ## Session update — 2 June 2026
 - **Shula RTM naming fix resolved:** `shula-rtm/shula-rtm-live.md` content migrated into `shula-rtm/shula-live.md` via Claude Code. Orphaned file deleted. Pushed to `sb-notes/home-os` main (commit from 2 Jun 2026, using freshest indexer sync 06:51 UTC). Indexer will now read `shula-live.md` cleanly.
 - **home-os-weekly-triage skill updated to v1.1:** Stage 1 rewritten — `notion-fetch` on DB page returns schema only, not rows. Now uses 3-pass `notion-search` to surface open rows. Updated in scheduled task, Indexer project [SKILL.md](http://skill.md/), and Notion skill library.
@@ -79,49 +126,9 @@
 - **Description:** Health Log DB ID remains the placeholder string `[HOME-HEALTH-LOG-DB-ID — confirm before Saturday run]` in the skill file. Friction items from this run logged here instead. Action needed: confirm the Health Log DB ID and update the skill file before next run.
 - **Suggested fix:** Locate or create the Home Health Log DB in Notion; copy its collection ID into the skill file replacing the placeholder.
 ---
-## Journal sync — 27 May 2026 (cables purchase)
-### USB-C cables — 2x UseBean ordered (27 May 2026)
 - **UseBean USB-C to USB-C Right Angle 100W 2M, USB 3.2 Gen 2x2 (20Gbps)** — x2, £7.99 each, Amazon UK, Prime delivery Friday 29 May
 - **Cable 1 (monitor):** Mac Port 2 → LG 27" monitor. Replaces original 2020 LG monitor cable. Supports 4K DP Alt Mode + 100W PD.
 - **Cable 2 (webcam):** Mac Port 1 → Elgato Facecam MK2. USB 3.2 should shift webcam from USB 2.0 (480Mbps) to USB 3.0/3.2 mode — confirm by checking device name changes from `Elgato Facecam MK2 (USB2)` to `Elgato Facecam MK2 (USB3)` in Google Meet camera selector after swap.
----
-## Journal sync — 27 May 2026 (source: Gemini troubleshooting thread)
-### Elgato Facecam MK2 — upside-down fix & cable configuration
-**Problem:** Facecam MK2 mounted upside-down on Neewer 11" arm. Camera Hub preview flips correctly but Google Meet in Brave bypasses Camera Hub and reads the raw upside-down hardware stream.
-**Software fix:**
-- Elgato Camera Hub: enable Effects engine, set Flip orientation modifier
-- Google Meet / Brave: change video source from `Elgato Facecam MK2 (USB2)` to `Elgato Virtual Camera`
-**Physical cable routing (confirmed 27 May 2026):**
-- Mac Port 1 (right-angle USB-C → USB-A adapter → USB-A cable → webcam USB-C): Elgato Facecam MK2
-- Mac Port 2 (right-angle USB-C → original LG monitor USB-C cable): LG 27" monitor (purchased 2020)
-- LG monitor hub: Sennheiser wired headset + home Penguin USB dongle
-- Work M5 note: work Penguin is Bluetooth-only, no dongle
-**Previous stuttering root cause:** Webcam on monitor USB hub shared DisplayLink bandwidth with display data → USB endpoint saturation. Fixed by direct Mac port connection.
-**DisplayLink Manager:** Removed from home M1 — single external display on Apple silicon runs natively, no DisplayLink needed. Keep on work M5 if multiple office monitors used.
-**Camera Hub settings:**
-- Home M1: 1080p30 (halves compute vs 60fps; leaves headroom for Wispr Flow)
-- Work M5: 1080p30 (prevents browser-level stuttering during screen shares)
-**Daily operation:**
-1. Open Elgato Camera Hub
-1. Confirm Flip on, resolution 1080p30
-1. Cmd+H to hide Camera Hub (NOT the red X — can kill background video threads)
-1. In Brave, select Elgato Virtual Camera as video source
-**Cmd+H rationale:** Freezes Camera Hub preview rendering, saving ~40% CPU/GPU overhead while keeping the virtual camera driver active. Essential when Wispr Flow is also running.
----
-## Journal sync — 23 May 2026 (source: "Journal Saturday" 23 May)
-### Cowork morning automation pipeline — confirmed working
-- Weekly indexer scheduled to run early Saturday morning ✓
-- Weekly wrap-up scheduled to follow it ✓
-- Full morning pipeline automated via Cowork: journal → index → morning report → roadmap triage → coaching session
-- Kiwifruit can now review all outputs and have a coaching session on his walk
-- Result: no evening Cowork/Claude work on previous night
----
-## Journal sync — 18 May 2026 (source: "Journal monday")
-### Home OS rename
-- Home Second Brain likely to start maxing out on state file sizes; significant pruning anticipated
-- Kiwifruit plans to apply all learnings from Work Product OS (skills upgrade, pruning, harmonisation) to the Home Second Brain in the same way
-- **Naming confirmed:** Home Second Brain is now to be called **Home OS** going forward; Kiwifruit named this explicitly in the journal entry dated 18 May 2026
-- Context: Work Product OS session over the weekend generated the insight and the motivation to do the same work at home
 ---
 ## Newsboy weekly briefing — skill & schedule setup — 31 May 2026
 - **ollie-weekly-briefing skill v3** created and saved to Newsboy project folder

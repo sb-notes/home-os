@@ -1,7 +1,56 @@
-# Aloyse —
+# Aloyse — Current State (6 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:51 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:20 UTC -->
 
+- **06 Jun 2025** — Munchkin Any Angle weighted straw cups (Cat & Dog, 296ml) purchased. Confirmed safe for daily milk use (50ml whole milk kefir + 50ml oat milk). Top-rack dishwasher safe; straw brush recommended every other day for milk residue at weighted base. Standardising on Cat & Dog cups across water and milk. Replacement weighted straws to be kept in stock.
+---
+## Journal sync — 6 Jun 2026 (source: "session update")
+- Children's guardian changed: Melograno (Ruby Ronaldson) has replaced previous guardian. No in-person meeting required — she has sufficient notes from all professional visits.
+- Call with Melograno scheduled: Wed 10 Jun 2026, 12:00 noon. Adoption order process.
+## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Sunday" 31 May, "Journal Monday" 1 Jun, "Journal Tuesday" 2 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
+### Language milestones — week of 31 May–5 Jun
+- Phoenix (31 May): unprompted sentence when Kiwifruit explained Carciofi was at the sauna — *"Mummy, Sammie, Daddy, Kappa, me, Phoenix, buggy, walk shoes on"* — full sequence of who was coming and what was happening
+- Phoenix (31 May): woke Fox from nap saying *"wake up Papa"* to him
+- Fox (4 Jun): emerging three-part sentences — *"Daddy do it lid on"*, *"I got it"*, *"Tada, I did it"*, *"daddy shake"*
+- Kiwifruit noted: language is "just coming along so much — it's really amazing the words that are linking up and making sentences just like that"
+### Nap schedule adjustment — key update (week of 31 May)
+- Preschool pick-up moved to 1:00pm — giving children time to wind down before nap
+- Tuesday and Wednesday tested at 1:00pm pick-up; both worked well
+- Friday also tested at 1:00pm; plan: move to 1:30pm pick-up in following week and hold for a few weeks to establish rhythm
+- Children still need their naps; plan confirmed to continue
+### Bedtime / nap routine — confirmed working (3 Jun)
+- Blackout blind + light-on routine now applied to both nap and bedtime; creates consistent day/night signal
+- Bedtime extras: aurora stars/moon on ceiling
+- Teeth brushing now part of routine before stories
+- Book each (child chooses) sitting on parents' laps on pillows against the wall — excellent wind-down
+- Plan: upgrade to Tiny Air sleeping bag when ready
+### Bath time — breakthrough moment (5 Jun)
+- Bath with both children was delightful; Kiwifruit noting it as a measure of growth over time
+- Hair washing breakthrough: Kiwifruit puts flannel on forehead, gets jug ready, then says *"okay, you say ready, go"* — children initiate the pour themselves, so they don’t get upset
+- Fox tried to wash Bunny’s hair — she didn’t like the involvement but it was described as "very cute"
+- Sibling play: pouring schema observed in bath — Fox held watering can, poured into Bunny’s scoop; continued 4–5 minutes together happily
+- Kiwifruit with chin on side of bath watching them: *"how much I love them… they can feel that"*
+### Fox — anger / dysregulation episode (4 Jun)
+- Two angry outbursts — both linked to Kiwifruit being present but unavailable
+- Trigger 1 (before dinner): Kiwifruit got up to clean milk bottles and went upstairs for bathroom; Fox had book he wanted read — pushed book onto Bunny repeatedly, saying "Phoenix, read"; when she refused he became aggressive; Carciofi redirected successfully
+- Trigger 2: Fox upset when Bunny returned to Carciofi’s lap for the book; Fox “lost it” — pulling at book, biting at it (described as "complete sign of overwhelm")
+- Kiwifruit picked him up sideways, placed him down, crouched to his level: *"What’s happening Caspar?"* — Fox said "bite, bite"
+- Decoded: no preschool day = Fox aware he had day with Carciofi but not Kiwifruit; Kiwifruit being near-but-unavailable destabilises him; daddy time rituals need protecting
+- *"He just doesn’t do very well having less of me"*
+### Dinosaur potties — arrived (4 Jun)
+- Two dinosaur potties arrived (one each); placed in kitchen
+- Both children sat on them, excited; talked through "poo poo and wee wee go on them"
+- Kiwifruit: *"I have no doubt they’re going to work"*
+- Carciofi has two good potty training books; timing feels natural
+- (Detailed potty training approach documented in the 31 May Aloyse session section below)
+### Trust model — video call / eating observation (1 Jun)
+- Observed: children eat significantly more than normal during video calls at breakfast — overwhelmed by dual stimulation
+- Both may overeat; Fox had ~4 refills; disrupted snack capacity
+- Decision: shift video calls to after breakfast or during milk time; protect mealtimes as uninterrupted
+- Bunny and Fox both said they were "done/finished" unprompted during a couple of meals — positive self-regulation signal
+### Clothesline incident (31 May)
+- Fox grabbed shirt off clothesline into a puddle; Kiwifruit moved him quickly to the grass, laid him down to remove him — fastest and strongest physical intervention in a week or so
+- Strongest reaction Fox has shown in about a week; Kiwifruit noted it and reflected on how he would do it differently next time
 ## Journal sync — 31 May 2026 (source: Aloyse session — potty training)
 ### Potty training — approach agreed (31 May 2026)
 - Readiness signals confirmed in both Bunny and Fox: announcing poos, curiosity about parents using the toilet. Summer timing identified as ideal.

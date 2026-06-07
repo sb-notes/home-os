@@ -1,8 +1,28 @@
 # Bob the Builder — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:51 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:20 UTC -->
 
 ---
+## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
+### Sauna — vendor research complete (3–5 Jun)
+- Sauna vendor enquiry emails sent (31 May) to Sun Stream UK, Aqualine, Outback 365
+- **Decision: Sunstream Evolve 30 is the leading contender** (3-person)
+- Rationale: Australian-designed, high quality, 3-person allows Carciofi to lie down; therapeutic benefit of lying down outweighs loss of 30cm airspace vs 2-person Evolve 20
+- Price: Sunstream ~£4,500 (£500 over budget); Aqualine ~£1,800 cheaper but lower quality
+- Finance plan being considered: ~£2,500 from ISA (Mike and Phillip inheritance + Vitrify payout); remaining ~£2,000 on finance over 12 months via Sunstream website; property income to service the loan
+- Also considering: extending Nationwide personal loan (car loan) for drawdown
+- Context: mortgage holiday ending; payments jumping from £1,700 to ~£3,000/month; Carciofi not planning to earn for at least 3 more months
+- **This weekend: Kiwifruit and Carciofi to discuss sauna decision; if go-ahead, look at TSB 0% card**
+### Sauna — placement options (5 Jun)
+- **Option 1 (preferred): East wall of playroom/studio** — garden view; door hinge would need to be swapped to other side (small change for Olivo); large object when walking into room but best view
+- **Option 2: Northwest corner of playroom** — piano moves to east side; out of the way; view is chimney breast (eyes closed anyway)
+- **Option 3: Northeast bedroom** — wardrobe into southern alcove; Carciofi’s wardrobe west side; sauna in NE corner; structural concern: weight on pine boards + joists (need mat/board for weight distribution)
+- **Option 4: Evolve 20 (2-person)** — fits east wall easily; saves ~30cm width; Carciofi cannot lie down (legs very elevated if attempted)
+- **Option 5: Mini sauna at top of stairs** — replace Mahalo Ghani wardrobe with sauna going into loft; removes hanging space for dry robes etc; very small; no real view
+- Children playroom concern: Carciofi noted that putting sauna in playroom removes it as a playroom. Kiwifruit: children likely not using own playroom properly until age 4–7; by then the family stage will have shifted
+- Electricity cost estimate: ~£5–10/month to run
+### Barclay card (5 Jun)
+- Old Barclaycard discovered via email statement; presumed expired/no interest-free limit; Kiwifruit to scratch that option
 ## Journal sync — 21–22 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May)
 ### 22 May — front yard plan; floodgates; shed
 - Ollie (builder) visiting to make a plan for the front yard improvement, starting with:

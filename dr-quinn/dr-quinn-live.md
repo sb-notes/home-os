@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:21 UTC -->
 
 ## Sauna vendor emails sent — 31 May 2026
 Three vendor enquiry emails sent from Ollie's Gmail. Awaiting responses.
@@ -12,6 +12,45 @@ Three vendor enquiry emails sent from Ollie's Gmail. Awaiting responses.
 ## Studio internal dimensions confirmed — 31 May 2026
 East wall (north–south): 333cm total. Clear zone (north wall to chimney breast/bookcase edge): 267cm. Chimney breast section at south end: ~66cm. Alcove beside chimney breast (once bookcase removed): 79cm wide (along south wall) × 27cm deep (south wall to north face of chimney breast) — too shallow for any sauna. Room width east–west (south end): 268cm. Door: north end of east wall, internally opening, hinged west side, arc 71cm into room. Door re-hanging not required if sauna placed at south end of 267cm zone — 2-person clears arc by 76cm, 3-person by 46cm. Hannah height confirmed: 170cm. Minimum bench length for therapeutic lying (knees ~105–110°): 150cm. Aqualine 3-person (~143–150cm bench) is marginal — interior width confirmation from Aqualine required before purchase. Aqualine 2-person and LUMI Duo both ruled out for Hannah's lying criterion. Alcove too shallow for corner unit.
 ---
+## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Sunday" 31 May, "Journal Monday" 1 Jun, "Journal Tuesday" 2 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
+### Kiwifruit — tinea on right leg (ongoing treatment)
+- 31 May: lesion massively in decline; colour draining, fading to skin-coloured pink; Carciofi noted it looked really bad in previous inflamed phase; now clearly on home stretch
+- 30 May (Saturday, indexed previously): flaking confirmed — white skin creeping in around main lesion; Kiwifruit gently cleared flaking skin at the park; *"My body is going to make it"*
+- 1 Jun: Turbinafine treatment continues; tinea entering new phase; confident in recovery
+- 2 Jun: forgot Turbinafine until 6pm (normally at lunch); scratched lesion heavily while wearing shorts in ~24°C loft; leg became raw quickly — applied tea tree oil, took Turbinafine, later applied Daktarin
+- 4 Jun: a few red bits remain; main lesion continuing to shrink; white skin creeping in; some single inflamed spots (tinea or insect bites — treating same, applying Daktarin); possibly missed one day of Turbinafine inadvertently; new tea tree/Manuka/Neem cream from Amberley Aromatics ordered (200ml) — arriving Friday 5 Jun; will resume coconut oil and neem use
+- Treatment protocol: Turbinafine (terbinafine) oral — continue full course. Topical: Daktarin + tea tree oil + coconut oil + neem + new Amberley Aromatics cream
+### Kiwifruit — jaw tension / lymph (5 Jun)
+- Right-side jaw tension and pain the night of 4 Jun; muscles on right side of jaw feeling tight; saliva build-up around muscles under right cheekbone
+- Functional interpretation: lymphatic build-up from cold/clearing process
+- Also: cold symptoms appearing — mucus dripping down back of throat, raw throat, runny nose, slight chest
+- Post-EMDR clearing: Kiwifruit noted functional practitioner would say this is interesting timing — releasing after Wednesday EMDR session
+- Plan: somatic-therapist-1 (Sarah) working on right jaw/cheekbone area when she visits for double massage on **23 June**
+### Kiwifruit — sleep and wellbeing
+- 6:30am wake-up experiment continuing through the week; extra 30 minutes sleep making a significant positive difference to wellbeing and emotional regulation
+- Kiwifruit: *"Until I’m able to go to sleep earlier I’ll continue with the 6:30 get-up"*
+- Digestion note (3 Jun): eating family meal at 5:00–6:00pm instead of 6:00–8:00pm — making a significant difference to body and digestion before sleep
+- Fish and chips / shop-bought fish cakes: morning digestion notably slower vs home-cooked food — tracking this
+- Fermented foods: evening smoothie with ~200ml milk kefir + water kefir glass — likely contributing to morning urgency
+### Kiwifruit — bladder control (flagged 2 Jun, repeated in Tuesday)
+- Longstanding issue since age ~12 (first high school): emotional urgency to urinate, difficulty holding while on school bus (1.5–2 hour journeys)
+- Socially threatening environment (bullying, no uniform group running gauntlet through larger schools) compounded the experience
+- Recent observations (last 18 months): sudden urgent need to use bathroom; catching him out; possibly emotional component rather than purely physical
+- Morning routine: very regular number-twos at 6:00–6:30am before walk; cannot make it on the walk without going first
+- **Significant: two recent incidents of involuntary bowel release** in the kitchen-to-bathroom window; Kiwifruit finds this embarrassing and frustrating
+- Kiwifruit’s hypothesis: EMDR likely to help; not something he expects a conventional doctor to resolve
+- Flagged for: Origano EMDR work (safety/security/solar plexus); also logged for awareness in Dr Quinn
+- Diet note: kefir volume (milk + water kefir daily) likely contributing to loose morning stools
+### Children — supplements / illness (1 Jun)
+- Fox and Bunny on Cybacol 2.5ml x3/day: Fox with prolific runny nose; Bunny with cough and light runny nose
+- Kiwifruit assessment: likely heat-then-cool-change immune response
+- Also receiving: fish oil in morning milk (some days); multivitamin drops (some days)
+- Diet: loving raw cucumber, carrot, tomato, gherkin, beetroot; meat with hummus; eating well overall
+- Observation: pasta and sweet potato fries less popular when cold vs warm
+### Kiwifruit — endoscopy follow-up (1 Jun)
+- Endoscopy completed recently; met Jacob and Roshni (Jacob is a registrar at Worthing hospital) and daughter Lalita (~2yrs)
+- Jacob confirmed: Worthing A&E is the right choice; Brighton A&E described by doctors as worse than third-world war-zone A&E
+- New friendship/playdates forming in Worthing area
 ## Journal sync — 23–30 May 2026 (sources: "Journal Saturday" 23 May, "Journal Sunday" 24 May, "Journal Tuesday" 26 May, "Journal weds" 27 May, "Journal Thursday" 28 May, "Journal Friday" 29 May, "Journal Saturday" 30 May)
 ### 30 May — Kiwifruit tinea nearly healed
 - Tinea rash: Carciofi noticed it "really coming good"

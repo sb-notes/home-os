@@ -1,9 +1,32 @@
 # Degen — Current State (3 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:52 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:21 UTC -->
 
 ---
-## Journal sync — 21–28 May 2026 (sources: "Journal Thursday" 21 May, "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal Thursday" 28 May)
+## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Monday" 1 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
+### 5 Jun — Rightbrain referral bonus scheme
+- Rightbrain has a referral bonus: 10% of revenue earned by a referred client/partner paid to referrer
+- Examples: £10k client = £1k to Kiwifruit; £50k partner relationship = £5k
+- Kiwifruit: will put time and thought into who to refer; DataBoots explicitly named as a referral candidate
+- This is a meaningful additional income stream to track
+### 4 Jun — sauna finance planning
+- Sunstream Evolve 30 selected as leading contender (~£4,500)
+- Finance plan: ~£2,500 from ISA (Mike and Phillip inheritance + Vitrify payout); ~£2,000 on Sunstream website finance over 12 months
+- Alternative: extend Nationwide personal loan (car loan) to draw down
+- Consideration: mortgage holiday ending; monthly payments jumping £1,700 → ~£3,000; Carciofi not earning for at least 3 more months
+- Decision weekend: Kiwifruit and Carciofi discussing this weekend; if go-ahead, looking at TSB 0% card
+### 3 Jun — crypto portfolio; Degen update
+- CMC (CoinMarketCap) portfolio looking good; blue chip holdings performing well
+- Oasis tokens (from CMC portfolio) almost fully unbonded — ~5 days to full unbond, then sell to USDT; gives ~£200 more dry powder
+- Rotated out of Copy My Crypto/farming-style positions; XRP holding performed well; cycled out of Polka Dot and Centrifuge earlier (good decision)
+- Assessment: *"Changes have happened and we are in a much better place"*
+- Plan: move all remaining coins to Tangem; reduce to ~12 coins total ("huge improvement")
+- Validis holdings: some growth already visible; feels like a healthier, simpler portfolio
+- To-do: go into CoinMarketCap and make sure USDT holdings match the sale of MX Sol made last week (lock transaction)
+### 1 Jun — Home OS crypto rebalancing; TDR trades
+- Home OS v2.1 upgrade weekend included rebalancing crypto portfolio to follow TDR trades
+- Home OS now writing logs; weekly automation running (indexer Saturday, wrap-up, news briefing Sunday)
+- Carciofi now using Claude / Home OS — Dr Quinn and Aloyse channels active; working well for shared household decisions (sauna, potties)
 ### 28 May — crypto portfolio cleanup; Tangium consolidation
 - Rotated out of most alt coins into USDT last night (27 May)
 - Tantrum hardware wallet replaced with Tangium — described as "huge step up"

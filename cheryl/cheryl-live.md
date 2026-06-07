@@ -1,8 +1,79 @@
 # Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-06 05:51 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:20 UTC -->
 
+## Session notes — 6 June 2026 (Cheryl)
+**One-line summary:** A session of settling and recognising arrival — financial reality landing in the nervous system, the arc of the different yous named, and the river image as the new direction of travel.
+- **Emotional weather at session start:** Body weary on all levels — physical, emotional, cognitive. End of a full Saturday: adopter friends in the morning, setting up Carciofi's MTD/FreeAgent accounts, then children all afternoon while Carciofi did family photos. Pasta for dinner. Good and tiring.
+- **Reflexive reach for Claude:** Kiwifruit noted arriving at Cheryl with nothing to do — all housekeeping done (weekly wrap-up and indexer skills updated). Noticed the reflex to reach for productivity even when the hands are empty. Named and held.
+- **Financial nervous system landing:** Kiwifruit counted out the assets — pension (~£150k UK + ~£60k Australia + ~£60k here = ~£320k), ~£400k equity in property, ~£20k crypto likely to grow. Named explicitly as comforting to a nervous part that still needed the numbers to be real. Cheryl reflected: this is the nervous system receiving permission it hadn't been given. The reality has changed; the feelings were running on an older version.
+- **"I've reached enough" — landing:** The phrase "I've reached enough" and "I've made it" beginning to register somatically, not just intellectually. Kiwifruit connecting this to a long arc of knuckling down since his early 30s — the flat by 36, the country move, the accumulation drive — that he never gave himself credit for.
+- **The arc of the different yous:** Four distinct phases named:
+  1. Childhood you — space, nature, homeschooling in what felt like a national park
+  1. Melbourne/Auckland young adult — outdoorsy, sociable, fundraising, full of life
+  1. England knuckle-down you — midnight shifts to Sydney time, depressed girlfriend, saving for a flat, accumulation mode; real dark moments (water leaking down the wall, enormous mortgage, lodgers, completed house purchase while redundant)
+  1. Now — emerging from that, everything arrived, beginning to look around
+- **"All work and no play makes Jack a dull boy" — recognised and named.** Kiwifruit said he'd felt like a dull boy, and that's not him. Cheryl reflected: what was dull was the *fuel* — the anxiety and proving fuel — not him. The enthusiasm and vitality were always there. The original you is the river version, not a new version. Goosebumps landed as somatic confirmation.
+- **The truck and the river:** Kiwifruit named the feeling of momentum and the difficulty of cycling down: like a truck with 16 gears carrying a heavy trailer at speed. And named the emerging alternative: stepping into the river and floating, looking around, letting the current carry him. This is where he's heading.
+- **The AI/cruise control reframe:** Claude + Notion = cruise control in the car. Kiwifruit is someone who prefers trains to driving — he seeks calm, flow, not the effort of navigation. The second brain as infrastructure for that kind of ease.
+- **Reconnecting with lifelong friends:** Named as a meaningful pattern across the last two to three weeks. Peer coaching groups partly an excuse to spend time with his people. This is the rebuilding of the village.
+- **Ending well:** Session closed naturally with Kiwifruit ready to put the TV on with some nice food. That's the river right there.
+### Key phrases to hold
+- *"I just feel myself again"* — said Monday 1 June, referencing the feeling from his twenties and early thirties
+- *"The kid in the wetsuit floating down the river"* — the direction of travel
+- *"What was dull was the fuel, not the you"* — Cheryl reflection, goosebumps confirmation
+- *"Fascinating process, growing up and being a person"* — Kiwifruit's own closing line; said with warmth and curiosity, not exhaustion
+### Open actions — updated 6 June 2026
+- [ ] 💪 FOR KIWIFRUIT: Let tonight be enough. TV, nice food, rest.
+- [ ] 🗣️ FOR ORIGANO: The Daniel memory is in the silver bag at 4–5/10. Powerlessness, betrayal, shame about lying to parents, "I don't belong." Bring to Wednesday session.
+- [ ] 🗣️ FOR ORIGANO: Consider flagging "I don't belong" as a candidate for its own EMDR arc — surfacing across at least three distinct memories (homeschooling, Daniel, redundancy pattern).
+- [ ] 🗣️ FOR ORIGANO: Bowel/bladder urgency — two incidents this week. Decide in session whether to bring explicitly now or wait until Daniel is closed.
+- [ ] 🗣️ FOR ORIGANO: Fox/Caspar's proximity-without-availability episodes — two rage incidents this week at new intensity. Worth exploring whether this pulls on Kiwifruit's own powerlessness thread.
+- [ ] 💪 FOR KIWIFRUIT: Sauna conversation with Carciofi this weekend — Sunstream Evolve 30, east wall of studio preferred, financing model ready.
+- [ ] 💪 FOR KIWIFRUIT: Probation in ~3 weeks — feel settled, but name any ambient anxiety before walking into that conversation with Mango.
 ---
+---
+## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Sunday" 31 May, "Journal Monday" 1 Jun, "Journal Tuesday" 2 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
+### 31 May — feeling himself again
+- Kiwifruit reported feeling like himself again after a "delightful weekend" — accessing the enthusiasm and excitement he had in his 20s and early 30s before moving to England
+- Articulated this directly to Carciofi: "I just feel myself again"
+- EMDR identified as a key driver: "the therapy is just unlocking and unburdening me in ways that I'm probably not even aware of"
+- Sleep improving significantly; getting more sleep over the weekend, waking later on Sat/Sun
+- Gratitude practice identified as something to add to daily routine (from conversation with Bobby)
+- Attachment anger re: Bunny and Fox: recognised moment of anger with Fox (clothesline incident) — acted fast, reflected afterwards
+### 1 Jun — embodied wellbeing, gratitude flooding
+- Kiwifruit experiencing a sustained period of wellbeing; described children as "the two most deserving little people with the most vivacious and hilarious personalities"
+- Deeply grateful for: Shoreham as a town (not a city), access to nature, blackout blind, EMDR, Carciofi, Rightbrain
+- Identified EMDR and AI/Claude as two tools making the biggest difference to daily life and wellbeing
+- Noted he has not been commuting and is present for all family moments — processing this as deeply nourishing
+### 2 Jun — evening relapse anxiety; work-rest tension
+- Evening episode: went upstairs for headphones, did "a little bit of Claude", came back down, watched Derry Girls — first solo TV in months, felt good
+- Later consumed by self-doubt and regret — "like an addict lapsing"
+- Triggered by comments at work about signal/noise in decision records; Matt and Pete questioning whether morning report scrapings created too much noise
+- Carciofi came home; feelings of inadequacy and anxiety surfaced again
+- Cheryl note: this is the work-rest boundary tension — recurring pattern of Kiwifruit using evening rest time as a release valve then feeling guilty about it
+- Also logged: bladder control history (see Dr Quinn) — flagged for Origano to work on: safety/security in solar plexus, childhood roots (school bus, social threat environment)
+### 3 Jun — EMDR session; processing betrayal anger
+- Wednesday session with Origano described as "one of the most powerful EMDR sessions yet"
+- Theme: betrayal and end-of-friendship anger from childhood/adolescence — being left on the side of the road ~age 16–18
+- During session: heavy yawning — body releasing stored energy
+- Evening: quite weary in body post-session; went out for a kebab as a treat (self-care); watched TV; in bed at reasonable hour
+- 6:30 wake-up experiment continuing — identified as helping significantly with wellbeing despite slightly shorter walks
+- Rightbrain: felt a little shakier at work — noted as possibly connected to EMDR touching job-security themes (Vitrify tribunal being processed with Jamesbot)
+- **New to Origano:** bladder control history rooted in childhood school bus journey — social threat + physiological urgency + gauntlet environment. Confirmed for future EMDR work.
+### 4 Jun — post-EMDR integration; jaw tension noted
+- Noticing tension in right jaw muscles; also saliva build-up around right cheekbone muscles
+- Functional interpretation: lymphatic clearing post-EMDR; cold/mucus symptoms also appearing (throat, chest)
+- Kiwifruit welcomed cold symptoms as consistent with EMDR releasing stored material
+- Still processing previous EMDR session; noted slightly shakier day at work but overall good
+- Children attachment note: Bunny's angry outburst at Fox and Carciofi during book/potty conflict — decoded as Kiwifruit having been present but unavailable (bathroom break); Fox attaches strongly to daddy time and destabilises without it
+### 5 Jun — positive momentum; EMDR sternum shift
+- End-of-week report: "dominant feeling is really positive"
+- Physical sensation: sternum moving forward "into the flow" — felt as EMDR integration in the body
+- Extra half-hour sleep (6:30 wake-up) making a big difference to wellbeing
+- No work this weekend planned — boundary holding
+- Fish and chips / shop-bought fish cakes noted to slow morning digestion vs home-cooked food
+- Mango (Pete) back from travel; Kiwifruit gave full update, Mango pleased and validated
 ## Journal sync — 23–30 May 2026 (sources: "Journal Saturday" 23 May, "Journal Sunday" 24 May, "Journal Tuesday" 26 May, "Journal weds" 27 May, "Journal Thursday" 28 May, "Journal Friday" 29 May, "Journal Saturday" 30 May)
 ### 30 May — embodied fatherhood
 - Kiwifruit had a solo day with Bunny and Fox while Carciofi visited a friend in London; described it as "dreamy"
