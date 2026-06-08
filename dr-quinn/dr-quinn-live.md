@@ -1,7 +1,21 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:41 UTC -->
 
+## Children — Diet & Nutrition Review — 7 June 2026
+- Both children (Fox, Bunny) eating less and self-regulating well under LMFM; snack interest markedly reduced — healthy appetite taper at 28mo, consistent with the trust-model goal. Not a concern.
+- Fox dropped back at breakfast; now finishing morning and evening milk kefir again (regulating around meals). Bunny slowing, last to leave the table.
+- Intake reviewed: breakfast cereal mix + milk kefir + apple-yogi pudding; lunch toast/cream cheese/hummus/raw veg/five-grain rice; dinner Lidl egg-and-potato tortilla or ham/toast staple, or pasta+bacon / carbonara, fish fingers, sausage, sweet potato–butternut–carrot mash; avocado ~2x/wk; water-kefir juice; 5–10g unsweetened dry-cereal snacks.
+- **Eggs confirmed present** via the Lidl tortilla (Spanish egg + potato) — regular dinner staple, covers choline/B12/iodine. NB egg iron is poorly absorbed, so does not close the iron gap.
+- **Identified gaps (food-first):**
+  1. **Iron + zinc** — priority given 34-week prematurity. Neither Abidec nor fish oil contains iron. Add well-cooked red meat (beef/lamb — beef + lentil bolognese pairs iron with tomato vitamin C) and lentils/beans. Avoid pairing the largest milk kefir/cheese serving with the most iron-rich meal (calcium blunts absorption).
+  1. **Real oily fish** (salmon, mackerel, sardines) — fish fingers are white fish; supplement covers DHA but food adds D/iodine/protein + calcium (sardines).
+  1. **Greens/brassicas** — peas, broccoli, spinach blitzed into sauces (folate, vit K, magnesium, iron); magnesium + insoluble fibre also support Fox's constipation tendency.
+  1. **Pulses beyond hummus** — lentils, butter beans (iron, fibre, prebiotic for the gut).
+- **Watch — salt:** ham, bacon, sausage, gherkins and packaged tortilla all salty; under-3 ceiling ~2g/day. Keep processed meats occasional. Sugar/additives otherwise very low.
+- **Supplements:** Abidec (vitamins A/B/C/D, no minerals) alternated with fish oil (omega-3 + D), ~¼ tsp every other day — conservative and fine. Vitamin side well covered; minerals (iron/zinc) must come from food. Confirm combined routine lands ~400 IU (10µg) vit D most days. Sambucol Kids 2.5ml ~2x/day during colds (~10 days) continues.
+- **Fox build:** rounded toddler tummy is normal and starting to slim as he self-regulates. No restriction — continue large first serving + divided refill on the board + no rushing.
+---
 ## Sauna vendor emails sent — 31 May 2026
 Three vendor enquiry emails sent from Ollie's Gmail. Awaiting responses.
 - **Sun Stream UK** ([sales@sunstreamsaunas.co.uk](mailto:sales@sunstreamsaunas.co.uk)) — 3-person external width, interior bench length, 170cm lying confirmation

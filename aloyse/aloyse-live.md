@@ -1,7 +1,62 @@
-# Aloyse — Current State (6 Jun 2026)
+# Aloyse — Current State (7 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:39 UTC -->
 
+## Lunch banging incident & noise/attention analysis — Fox · 7 Jun 2026
+**Source:** Aloyse session 7 Jun 2026 — solo-parenting lunch incident (Kiwifruit), end-of-meal dysregulation cycle with Fox.
+### The incident (Kiwifruit solo, end of lunch)
+- Kiwifruit stepped upstairs briefly (bedroom prep + loo) — **present in house but unavailable**. Returned to Fox banging spoon/fork loudly on high-chair tray; very happy, very noisy.
+- Historically this exact scenario (caught off-guard, "not there to prevent it") was a reliable anger trigger. **This time: no anger.** Felt frustration and the pull to fix, stayed regulated throughout the full cycle including carrying a crying Fox to bed. Logged as a major regulation milestone (see Cheryl).
+- Kiwifruit self-assessed he was "a bit rougher than I'd like" unbuckling/removing Fox — firmer than his normal gentle baseline, though not frightening. Flagged by him for refinement.
+- Sequence used: "we don't make noise like that" → warning ("if you do that Daddy will have to get you down") → removed from chair, no protest, went to toys → Fox kept returning to table to graze/join Bunny → 3–4 cycles of guiding him back to sit ("Fox needs to sit down… Phoenix is still eating") → bed-threat ladder ("last chance… do you want to go to bed?") → carried Fox + pacifier + comforters upstairs (tearful, protesting) → calm narration ("Phoenix is coming in a minute") → nappy change → fetched Bunny → Bunny asked for chippy → realised Fox owed his chippy too → took chippy up to Fox as repair → Fox happier, settled, both to bed fine.
+- Note: only a couple of bits of cherished tortilla left uneaten = **Fox self-regulating / recognising fullness** (positive trust-model signal). Chippy had not been pre-laid-out (solo-prep gap) so Kiwifruit had no positive thing to move toward at meal-end.
+### What's going on — stage & drivers (three stacked, all positive)
+- **Trajectory schema (banging).** Banging spoon on tray = trajectory schema (impact, arc, cause-and-effect mastery). Same drive as throwing/knocking-down. For a child whose early actions often didn't reliably change his world, reliable cause-and-effect is genuinely nourishing — the "comfort from the noise he can generate" Kiwifruit sensed is real. Treat as curriculum, not naughtiness.
+- **Noise as a theme.** Continuous with the "very loud voice" pattern logged 10–11 May (screech/yell, partly joyful, partly attention-seeking, especially at table waiting for food) and the park "toddler lout" shouting ("daddy daddy daddy" as football-chant tone, not "daddy I need you"). Banging is the percussion section of the same emerging instrument.
+- **"Present but unavailable" trigger (load-bearing).** Kiwifruit upstairs = present-but-unavailable, the exact condition that destabilised Fox before dinner on 4 Jun. For Fox specifically, near-but-not-with-me is harder than fully away. Noise escalated *as Kiwifruit came down the stairs* = a flare/connection-seek. Roots in early life (less attention than Bunny; learned to get loud to be seen). The post-removal table game ("table, yeah, table, yeah", slow-motion grin) is the same engine in playful gear — re-establishing connection by getting Daddy to engage/chase/be-with-him.
+- **Stage frame:** Fox flourishing (late-May independence surge — taking play lead, jumping, gardening). LMFM-predicted boundary explosion: food-scarcity fear lifted → room to test other edges with new gusto. The loudness is the *sound of security* AND it is reaching real boundaries that need holding. Both true.
+### Community / therapeutic-parenting framing applied
+- Core reframe (Sarah-Naish-style therapeutic parenting): **attachment-seeking, not attention-seeking** — a need with the volume up. Move = meet the need *before* it has to shout (proactive connection top-ups).
+- **Name the need, not the behaviour:** "You want Daddy. Here I am." (not "we don't make noise like that" — edges toward shame, which the family has explicitly named to avoid; cf. 7 Jun Dutch-model entry).
+- **Don't match energy; redirect the schema:** "Loud is for outside / drums are for the garden" — give banging a legal home rather than a closed door.
+- **Give him a job (Engagement over management):** cloth in hand, "Fox, you hold the table for Daddy" — connection + role beats "sit down or bed."
+- **Repair over winning:** the chippy delivered to Fox in bed = keeping a promise, kept equitable with Bunny. Textbook repair, not "losing."
+### Adversarial pass (counter-pass requested)
+- **Not every loud noise is a wound.** Reading every bang as distress risks hypervigilance and robs Fox of permission to be a joyfully loud 2yo. Much of this is mastery/exuberance — grin, don't formulate. Over-therapising is its own trap.
+- **"Present but unavailable" must not become a cage.** Kiwifruit is allowed to go for a wee. A secure base is built partly through small, narrated, survivable unavailabilities (installs "he goes and he comes back"). Bedtime + return-from-work rituals already do this work; stepping away is not automatically a rupture.
+- **Fox does need the boundary to hold — Kiwifruit's instinct was right.** Honest read of his own account: the jump noise→down→bed was driven more by Kiwifruit's fatigue than Fox's need (he named this). Worth naming, but don't over-correct into *no* boundary. At 26mo with growing power + great humour, a calm predictable wall is reassuring, not punishing. "Never use consequences", badly applied, leaves a child unable to find the wall. Authoritative warmth, not permissiveness (aligns with Dutch-model "clear non-negotiables with lots of love").
+- **Watch reinforcement, lightly.** One instance of "escalate → carried up → chippy arrives" = repair. If it becomes a *reliable* sequence it could teach the loop; interrupt earlier if it patterns.
+### Practical steps for next time (agreed direction)
+1. **Front-load connection before stepping away:** ~30s narrated, time-bound, role-giving exit — "Daddy's going for a wee, back before you find Foxy; you're in charge of your spoon."
+1. **Have the chippy ready as the exit, not the emergency:** pre-stash a chippy so there's always something to move *toward* at meal-end ("Are you finished? Chippy time") instead of a consequence to move away from.
+1. **Use his own "ready, go":** transfer the bath-pour autonomy technique to the schema — drum/pan in garden, "you say ready, go — BANG." Schema gets a yes.
+1. **"Are you finished?" before "you're finished":** a beat of agency (spoon down, "all done?") often ends it cleanly, and the self-regulation win (leaving cherished food) is already there.
+1. **One consequence, held once, warmly:** if closing the meal — down, **sit between him and Bunny**, cloth-job, micro-deposit ("there he is, I see you"). Skip the bed-threat ladder unless *Kiwifruit* genuinely needs the reset — and if so, that's allowed; name it to self as his need, not Fox's discipline.
+### Forward trajectory if steps taken & all goes well
+- Table game loses its fuel → cycle shortens from 4 rounds to 1, then to a grin + redirect (he's pre-topped-up, doesn't need to fish).
+- Banging migrates to legal outlets (garden, drum, "ready go"); trajectory schema integrates the way throwing has over the last fortnight.
+- Language explosion lets Kiwifruit *say* the boundary and have it land ("loud is for outside", "Daddy's coming back") — held in mind, which he mostly can't yet.
+- "Present but unavailable" tolerance widens as the "he goes and comes back" model sets — helped by every narrated wee, every preschool drop-off, and 3 July order stability landing underneath.
+- Sibling rebalance continues (Fox secure enough not to need what Bunny has; Bunny finding the boundary holds). Loudness doesn't disappear — becomes a feature of a confident, funny, securely-attached boy at a volume the room can hold.
+### Open actions
+- [ ] Pre-stash chippy at meal prep on solo days (exit-not-emergency)
+- [ ] Transfer "you say ready, go" to a garden drumming/banging outlet for Fox's trajectory schema
+- [ ] Default meal-end script: "Are you finished?" → down → sit between → cloth-job → micro-deposit; reserve bed only as Kiwifruit's own reset, named as such
+- [ ] Continue narrated time-bound exits when stepping away ("back before you find Foxy")
+- [ ] Light watch: chippy-in-bed not to become a reliable escalate→reward sequence
+## Parenting framework aspiration — Dutch model integration · 7 Jun 2026
+Kiwifruit and Carciofi have named an aspiration to integrate as many Dutch parenting principles as are practical and stage-appropriate into their parenting of Fox and Bunny. This follows a session exploring UNICEF research on Dutch children's wellbeing. The framework is understood as a destination, not a starting point — attachment security comes first, then increased application of these principles as the children's regulatory baseline consolidates.
+**Principles adopted as aspirations (with current application status):**
+- **Sleep as a sacred, protected container.** Already substantially in place: blackout blind installed May 2026, bedtime ritual (aurora projector, book choice, pillows against wall) now working well. Aspiration: hold the ritual and the nap rhythm with the same non-negotiable quality as the Dutch model — consistency is the product.
+- **Authoritative warmth — clear non-negotiables with lots of love.** Core to existing Theraplay and therapeutic parenting framework. Dutch framing adds: shame is actively harmful; openness about difficult topics is protective. Aspiration: normalise honest conversation with Fox and Bunny as language develops; avoid shame-based correction.
+- **Family meals as daily relational ritual.** Already structurally strong via LMFM. Dutch layer: meals are not just fuel but the relational anchor of the day — unhurried, screen-free, present. Aspiration: protect mealtimes as uninterrupted relational time; video calls shifted post-meal; consider one small daily ritual that signals occasion (song, naming one thing from the day).
+- **Niksen — doing nothing, unstructured play.** The garden Montessori climbing frame sessions and bath schema play (pouring, filling, together) are current examples. Aspiration: actively resist the urge to enrich or redirect during child-led play; step back within earshot; trust that the unstructured gaps are doing more developmental work than structured activities.
+- **Low-pressure, high-trust micro-autonomy.** Already present in LMFM Division of Responsibility, ready-go bath technique, Foxy stair transition, potty approach. Dutch framing: consistent offering of small choices builds the internal experience of agency. Aspiration: increase the frequency of genuine micro-choices throughout the day; trust them with slightly more than feels comfortable; observe what they do with it.
+**Honest calibration:**
+- The Dutch model assumes a continuous early experience of reliable caregiving that Fox and Bunny did not have. Sequencing matters: attachment security first, then niksen; structure first, then micro-autonomy. Both children are at the transition point where Dutch principles are now mostly applicable rather than merely aspirational.
+- Dutch work-life balance (shorter working hours, more parental presence) is not replicable in the current household. The protective equivalent is: predictable daily connection points (6:30am walk + present breakfast; one-on-one return-from-work ritual for Fox; bedtime ritual). These function as the Dutch parental-availability experience within a working-parent household.
+- The single most transferable meta-principle: Dutch parents are relatively unhurried and treat ordinary daily life — meals, sleep, outdoor time, small choices — as the actual content of childhood, not the space between important things. This maps directly onto the "river" framing from Kiwifruit's coaching session this week.
+**Source:** UNICEF 2025 childhood wellbeing report; Dutch parenting research (Acosta & Hutchison, *The Happiest Kids in the World*). Session with Aloyse 7 Jun 2026.
 - **06 Jun 2025** — Munchkin Any Angle weighted straw cups (Cat & Dog, 296ml) purchased. Confirmed safe for daily milk use (50ml whole milk kefir + 50ml oat milk). Top-rack dishwasher safe; straw brush recommended every other day for milk residue at weighted base. Standardising on Cat & Dog cups across water and milk. Replacement weighted straws to be kept in stock.
 ---
 ## Journal sync — 6 Jun 2026 (source: "session update")
@@ -2469,3 +2524,10 @@ Visibility + unconditional access = nervous system safety. Every element of this
   We'll keep you posted as things develop. As always, thank you for the care and attentiveness you show both of them.
   Warm regards,
   Kiwifruit and Carciofi
+---
+## LMFM / Feeding behaviour — self-regulation milestone (7 June 2026)
+- Both children (Fox, Bunny) now eating noticeably less and self-regulating — a clear LMFM win. Fox has dropped back at breakfast; Bunny is slowing and was last to leave the table.
+- Fox: happy while eating and happy when finished/full; bangs his fork loudly when he's ready to get down (part attention-seeking, part readiness signal). Reads as genuine satiety, not distress.
+- **Snacks:** interest markedly reduced — children work through them but seem ready to stop and put them away. Big shift from the food fervour they carried before LMFM began.
+- Milk often works as a meal-ending transition object; "chippies" (crisps) needed much less as a transition now.
+- **Trust-model change:** all preferred foods now served up front (tortilla/toast, ham off the bone/sausage/pasta) so any further request is for the less-preferred items (veg/carbs). When there's a single refill, it's now divided on the board ("this is Bunny's bit, this is Fox's bit") to signal there's no need to eat fast — introduced to counter observed competitive fast-eating between them. Working well.

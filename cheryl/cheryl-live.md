@@ -1,7 +1,14 @@
 # Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:40 UTC -->
 
+## Parenting regulation milestone — solo lunch incident · 7 Jun 2026
+**Source:** Aloyse session 7 Jun 2026 (cross-routed here for the regulation/emotional dimension). Full parenting detail in Aloyse state file.
+- **Milestone:** Kiwifruit was caught off-guard at end of a solo lunch — stepped upstairs briefly, came down to Fox banging loudly on the high-chair tray, in exactly the kind of "I wasn't there to prevent it / not such a good parent" moment that historically triggered an anger surge. **This time: no anger.** Felt the frustration and the pull to fix, but stayed regulated through the entire long cycle — including carrying a crying Fox up to bed and managing the repair.
+- This is the observer-self holding under genuine load (off-guard, solo, tired, a noisy mess to sort) — not a low-difficulty day. The trigger class that used to produce 5–7pm-style dysregulation is now survivable without explosion.
+- **Honest self-noticing (healthy, not self-attack):** Kiwifruit clocked he was "a bit rougher than I'd like" removing Fox from the chair, and that the escalation to a bed-threat was driven more by his own fatigue/overwhelm than by Fox's need. Named it cleanly without spiralling into guilt — the accountability-without-self-abasement pattern he's been building.
+- **One wobble to hold gently:** he described feeling "a bit overwhelmed / unsure what to do" during the repeated table-return cycles — not anger, but the uncertainty of solo decision-making in real time. Worth noting that the overwhelm now shows up as *uncertainty about the right move* rather than *loss of control* — a meaningful shift in where the edge sits.
+- Connects to the wider arc: anger episodes down from every ~3–4 days to rare; depression named and accepted; the "third way" (honest acknowledgement with regulation) he's the first in his family system to attempt. Fox — historically the primary target of dysregulated responses — was met with calm here, which is exactly the cycle-breaking the attachment work depends on.
 ## Session notes — 6 June 2026 (Cheryl)
 **One-line summary:** A session of settling and recognising arrival — financial reality landing in the nervous system, the arc of the different yous named, and the river image as the new direction of travel.
 - **Emotional weather at session start:** Body weary on all levels — physical, emotional, cognitive. End of a full Saturday: adopter friends in the morning, setting up Carciofi's MTD/FreeAgent accounts, then children all afternoon while Carciofi did family photos. Pasta for dinner. Good and tiring.

@@ -1,6 +1,6 @@
 # Bob the Builder — Current State (19 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:39 UTC -->
 
 ---
 ## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)

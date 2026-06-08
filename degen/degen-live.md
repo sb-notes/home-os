@@ -1,6 +1,6 @@
-# Degen — Current State (3 Jun 2026)
+# Degen — Current State (7 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:40 UTC -->
 
 ---
 ## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Monday" 1 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
@@ -306,7 +306,17 @@
 ---
 *Updated: 28 February 2026*
 ---
-## TDR UPDATES — 3 JUNE 2026
+## TDR UPDATES — 7 JUNE 2026
+### Portfolio Management Alert (5 Jun 2026) — Market context only, no new trades
+- No new portfolio moves since 3 Jun alert.
+- BTC KPIs at fair value: MVRV 1.18, 12-month RSI 38.99 (matching past cycle lows), BTC/200 WMA ratio 0.99 — at the moving average, not below it.
+- 15 straight ETF outflow days (>$5b). Funding rates flipped negative in aggregate. OI down 22%.
+- TDR awaiting 3 conditions: STRC/Strategy clarity; aggressive perps shorting; apathy/time-based capitulation.
+- No V-shape recovery forecast — forced selling ongoing.
+- ZEC watch: entry interest if/when price breaks 50-WMA ($256) — recent bounce suspected dead cat.
+- 18 Watch List assets at fair/deep value; full breakdown in next week's report.
+- Action for Kiwifruit: HOLD. Preserve $468 USDT dry powder for next signal.
+### TDR UPDATES — 3 JUNE 2026
 ### Portfolio Management Alert (2 Jun 2026) + Fat Pitch #2 (3 Jun 2026)
 - TDR added to BTC at $67.1k; added SPX6900 at $0.313, PENGU at $0.069, DRV at $0.091. Cash raised to 47.12% (personal planning + dry powder).
 - BTC undergoing 2nd capitulation of bear market. Price $65.8k — 20% off May 10 high of $82.3k, 47% off cycle ATH.
@@ -1125,6 +1135,15 @@ Requested clarification on:
     - 🔁 = TDR internal trade (trim/rebalance) — Ollie mirrors where noted
     ---
     ## June 2026
+    **📩 5 Jun 2026, 19:22 — Portfolio Management Alert**
+    - No new trades. Market context + fair value KPI check only.
+    - BTC below 200 WMA (ratio 0.99), 12-month RSI 38.99 (matching 2018/2022 cycle lows), 49.7% supply in profit, MVRV 1.18 — at fair value, not yet deep value.
+    - 15 straight ETF outflow days (>$5b out). Funding rates flipped negative in aggregate. Open interest down 22%.
+    - TDR watching 3 conditions before next buy: (1) clarity on Strategy/STRC dividend funding (STRC at $92); (2) aggressive shorting in perps; (3) apathy/time-based capitulation.
+    - No V-shape recovery expected — forced selling continues.
+    - ZEC watch: interested if/when price breaks below 50-WMA ($256). Bounced off that level — TDR suspects dead cat.
+    - 18 Watch List assets now at fair/deep value. Full breakdown next week.
+    - Action for Kiwifruit: ⏳ HOLD — no dry powder to deploy; maintain $468 USDT as reserve for next signal.
     **📩 3 Jun 2026, 04:36 — Portfolio Management Alert**
     - Added to BTC at $67.1k ❌ outside 24h window / no dry powder
     - Added to SPX6900 at $0.313 ❌ outside 24h window / no dry powder

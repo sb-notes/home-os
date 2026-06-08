@@ -1,6 +1,6 @@
-# Rosie Rentals — Current State (5 Jun 2026)
+# Rosie Rentals — Current State (8 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-07 06:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:41 UTC -->
 
 ---
 ## Journal sync — 22–29 May 2026 (sources: "Journal Friyay" 22 May, "Journal weds" 27 May, "Journal Friday" 29 May)
@@ -16,6 +16,18 @@
 - New timeline: **Christmas at earliest**, likely including tribunal
 - Leaseholders paying exorbitant service charges to Moorland in the meantime; Moorland not doing the work funds were collected for
 - Forensic accounting (Galloways vs Harper Stone/Maxi Wood) expected once RTM is complete — likely to reveal significant misappropriation
+## Journal sync — 8 June 2026
+### Victoria Road — Front Door IBG (Insurance Backed Guarantee)
+- **Work completed:** Front door replaced, 15 January 2026
+- **Contractor:** Goring Glazing Limited
+- **IBG provider:** QANW (Warranty Services Ltd), PO Box 26332, Ayr, KA7 9BJ | Tel: 01292 268020 | [info@qanw.co.uk](mailto:info@qanw.co.uk)
+- **Policy number:** GFFC15593424
+- **Insured works:** Double Glazing
+- **Contract value:** £1,798.00
+- **Excess:** £50
+- **Underwriter:** Hadron UK Insurance Company Limited
+- **Transferable on sale:** Yes — IBG passes to new owner. See Policy Transferability section of policy document.
+- **Documents:** Saved to Google Drive — Victoria Road maintenance folder (2025/26 financial year)
 <!-- ANCHOR -->
 ---
 ## Journal sync — 5 June 2026
