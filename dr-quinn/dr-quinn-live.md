@@ -1,7 +1,34 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:41 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:07 UTC -->
 
+## Kiwifruit — Tinea Healing Stages (added 8 June 2026)
+This framework was developed across the 8 June 2026 Dr Quinn session to help Kiwifruit track his own progress and for Dr Quinn to reference in future conversations.
+**STAGE 1 — ACTIVE INFECTION (Pre-treatment)**
+Expanding ring/patch with raised scaly edge. Intense itch, worse at night. Central clearing with active red border. Spreading to new areas.
+*Kiwifruit was here: Jan–Mar 2026*
+**STAGE 2 — SUPPRESSION (Topical only)**
+Ring stops expanding. Itch reduces but doesn't go. Skin starts to look drier, less angry. Returns if you miss applications.
+*Kiwifruit was here: Apr 2026 (Canesten/Daktarin phase)*
+**STAGE 3 — SYSTEMIC ASSAULT (Terbinafine Course 1)**
+Lesion shrinks noticeably. Die-off symptoms: fatigue, itchy bumps, skin eruptions. Satellite spots appear and fade. Itch becomes more intermittent. Skin starts flaking and shedding as the infected layer clears.
+*Kiwifruit was here: Apr–May 2026*
+**STAGE 4 — THE UGLY MIDDLE**
+Course 2 underway. Main lesion drying, crusting, then flattening. Satellite spots flare and fade at different times. Nocturnal itch spikes. Brief secondary patches appear, peak, then dry rapidly. Temptation to think it's getting worse — it isn't.
+*Kiwifruit is here: Day ~12 of 28, 8 June 2026*
+**STAGE 5 — CLEARANCE**
+Main lesion fully flat and dry. No new satellites appearing. Itch drops to near zero. Skin surface normal texture but still discoloured.
+*Target: ~24 June 2026 (end of Course 2)*
+**STAGE 6 — POST-INFLAMMATORY RESOLUTION**
+Pink/red discolouration fades to normal skin tone. No itch, no active lesion. Takes 4–8 weeks after clearance. Coconut oil daily is the most important habit here.
+**STAGE 7 — HEALED**
+Skin colour fully normal. No recurrence after 3+ months. Daily coconut oil ongoing as a permanent habit on eczema-prone skin.
+---
+**Clinical notes for Dr Quinn:**
+- Insect-bite-like flare-ups during Stage 4 are most likely id reaction (dermatophytid) or follicular tinea — not new infection. They appear, peak in 2–5 days, and fade. Distinguish from new infection by absence of ring formation or outward expansion.
+- It is normal for different patches to flare at different times during Stage 4 — different tissue depths and follicular zones receive terbinafine at different concentrations. A late-flaring patch that then dries rapidly is textbook Stage 4 behaviour.
+- Nocturnal itch escalation in Stage 4 is driven by immune activity, not worsening infection. Cetirizine 10mg taken at 7–9pm is the key overnight intervention (obtained 8 June 2026).
+- Sauna/cold plunge causes a temporary inflammatory flush but does not set back the underlying trajectory.
 ## Children — Diet & Nutrition Review — 7 June 2026
 - Both children (Fox, Bunny) eating less and self-regulating well under LMFM; snack interest markedly reduced — healthy appetite taper at 28mo, consistent with the trust-model goal. Not a concern.
 - Fox dropped back at breakfast; now finishing morning and evening milk kefir again (regulating around meals). Bunny slowing, last to leave the table.

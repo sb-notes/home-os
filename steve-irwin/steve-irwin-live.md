@@ -1,6 +1,6 @@
 # Steve Irwin — Current State (6 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:42 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:08 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -175,6 +175,7 @@
 ## Garden — Open Actions
 - **Cantilever parasol:** Scan Facebook Marketplace / eBay (BN43 area, 25km) for 7 days before buying new. Target 2.5m with wheeled 70kg base.
 - **Central shrubbery shrub:** Treat struggling Choisya (deep soak + mulch ring + cut back by 1/3). Reassess by autumn 2026 — if still unhappy, transplant to partial shade and replace with Pittosporum tenuifolium 'Silver Queen'. Check Boma for stock.
+- **September/October — shrubbery work batch:** (1) Reassess Choisya; transplant to partial shade if still struggling. (2) Move fennel plant from crowding Pittosporum to better position in sunny bed — thriving at 10 months, thick stalks, ~knee height; taproot established so wait for cool soil. Cut fennel back by 1/3–1/2 now to give Pittosporum breathing room in the meantime.
 ---
 ## Garden — Local Resources
 - **Boma Garden Centre** (near Old Shoreham Road) — stocked Roman Beauty rosemary, Whitewater Silver rosemary; independent with good plant selection

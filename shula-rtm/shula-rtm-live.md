@@ -1,7 +1,14 @@
 # Shula RTM — Current State (20 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-08 06:42 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:08 UTC -->
 
+## Session update — 8 Jun 2026
+- Tetra FRA (report HSFRA2-L-452331-310326, dated 31/03/2026) reviewed — fire safety rated MODERATE, H&S rated TOLERABLE. 26 actions total (0 Priority 1, 11 Priority 2, 13 Priority 3, 2 Advisory).
+- Key Priority 2 items: fire door remediation (ref 5), riser cupboard vertical penetrations on all floors (ref 7), Structural Risk Assessment required for BSR Golden Thread (ref 2), Fire Safety Management Plan absent (ref 10), monthly visual inspections of dry riser inlets/outlets not in place (ref 8).
+- Dry riser 6-monthly visual inspection overdue — last visual inspection June 2022; full pressure test December 2025 current. Email sent to Hannah asking her to recommend and organise.
+- PAP listed in FRA as Maxiwood Ltd — queried with Hannah to confirm with Ben Riches whether Maxiwood or Hereford RTM Co should be named as PAP. Needs to be defensible before Safety Case progresses.
+- BSR registration number confirmed: HRB02428G4W5.
+- Building confirmed as HRB (over 18m / 7+ storeys). Structural Risk Assessment not yet commissioned — flagged as Priority 2.
 ---
 ## Journal sync — 1 Jun 2026 (source: "Journal Monday" 1 Jun)
 ### Outstanding items from Austin Rees — action list (1 Jun)
@@ -323,10 +330,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -371,10 +380,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -419,10 +430,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -467,6 +480,7 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -491,10 +505,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
