@@ -1,6 +1,6 @@
 # Marty — Current State (31 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:07 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:21 UTC -->
 
 ---
 ## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Monday" 1 Jun, "Journal Tuesday" 2 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)

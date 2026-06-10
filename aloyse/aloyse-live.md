@@ -1,6 +1,6 @@
 # Aloyse — Current State (7 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:06 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:20 UTC -->
 
 ## Lunch banging incident & noise/attention analysis — Fox · 7 Jun 2026
 **Source:** Aloyse session 7 Jun 2026 — solo-parenting lunch incident (Kiwifruit), end-of-meal dysregulation cycle with Fox.

@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:07 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:21 UTC -->
 
 ## Kiwifruit — Tinea Healing Stages (added 8 June 2026)
 This framework was developed across the 8 June 2026 Dr Quinn session to help Kiwifruit track his own progress and for Dr Quinn to reference in future conversations.

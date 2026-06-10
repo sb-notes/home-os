@@ -1,6 +1,6 @@
 # Shula RTM — Current State (20 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:08 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:22 UTC -->
 
 ## Session update — 8 Jun 2026
 - Tetra FRA (report HSFRA2-L-452331-310326, dated 31/03/2026) reviewed — fire safety rated MODERATE, H&S rated TOLERABLE. 26 actions total (0 Priority 1, 11 Priority 2, 13 Priority 3, 2 Advisory).

@@ -1,6 +1,6 @@
 # Degen — Current State (7 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-09 06:07 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:21 UTC -->
 
 ---
 ## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Monday" 1 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
@@ -1116,6 +1116,15 @@ Requested clarification on:
   **Long-hold framing:** Crypto pot = high-variance "lottery leg", NOT core retirement or NZ-deposit money. Durable engines are pension (~£1.05m likely), EMI options, and property. Size crypto as money that can go to zero without touching the NZ deposit or retirement floor. Long horizon (hold across multiple cycles via TDR) is the right frame — neutralises single-top timing risk; plays to asymmetry + compounding. Conservative-to-moderate long-run outcome: ~£50k–180k contributor by age 60; wide cone by 70. Key risks over horizon: vehicle survivorship (TDR + exchanges + tokens lasting decades), self-custody opsec (already 1 compromise — CFG), and holding discipline through -80% drawdowns.
   **Cross-border crypto tax — MAJOR FINDING (31 May 2026):** NZ has NO general capital gains tax, AND new migrants get a 4-year transitional residence exemption on most foreign-sourced income — which includes crypto sold via overseas exchanges (CEX/DEX). IRD 2024 technical decision confirmed crypto sold through offshore exchanges during the 48-month window is NOT NZ-taxable. This is potentially a once-in-a-lifetime window to realise the entire crypto pot tax-free in NZ. Critical conditions: (1) must qualify as transitional resident (new/returning after 10+ yrs); (2) sell via OFFSHORE exchanges only; (3) window is 48 months from becoming tax resident, never resets, never repeats. CARF reporting live from 1 Apr 2026. UK side: must manage UK departure-year treatment / temporary non-residence rules so UK doesn't tax on the way out.
   **This flips the long-hold logic:** ride TDR through to a cycle peak that lands inside the NZ 4-year transitional window, then realise tax-free. MUST get specialist advice before move.
+  ---
+  ## 💳 On-Ramp Protocol (confirmed 9 Jun 2026)
+  **Standard flow: Kraken → MEXC → Tangem**
+  - **GBP deposit:** Faster Payments (FPS) to Kraken — free, same day
+  - **Trade:** GBP/USDT on Kraken Pro — ~0.16–0.26% taker fee (~£1 on £500)
+  - **Withdrawal network:** Check MEXC USDT deposit page — use **Polygon or Solana if listed** ($0.10 Kraken fee); fall back to **TRC20** ($2.50 Kraken fee) if neither is available. Never guess the network — verify in MEXC before sending.
+  - **Receive:** USDT to MEXC spot wallet for trading; excess to Tangem for custody
+  - **Total cost on £500:** ~£1.10 (Polygon/Solana) or ~£3.50 (TRC20)
+  - **Do NOT use:** Kraken Instant Buy (1.5% fee + spread), debit/credit card deposit (3.75% + £0.21)
   **NZ crypto-tax specialist shortlist (engage before move):**
   - TaxHawk (Auckland) — 100+ individual crypto returns, works with Koinly. [taxhawk.co.nz](http://taxhawk.co.nz/)
   - Doyle Accountants / [cryptocurrencytax.co.nz](http://cryptocurrencytax.co.nz/) — transitional-residency migrant guides
