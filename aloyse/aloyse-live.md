@@ -1,7 +1,16 @@
 # Aloyse — Current State (7 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:20 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:45 UTC -->
 
+## Sleep / wake-up log analysis — 11 Jun 2026 (source: "Journal Sleep Analysis June 2026")
+3-month wake-up review (late Mar → 10 Jun 2026), children ~27mo / 2y3m.
+- **Caspar is the primary night-waker — ~4:1 over Phoenix (~80%/20%).** Caspar wakes first (lost pacifier, full nappy, crying for Daddy) and often wakes Phoenix as a knock-on; her own primary wakes are rarer (first-light or parent-triggered). Reinforces the "Caspar-as-barometer" frame.
+- **Cycle peaked 11–17 May (interrupted nearly every night), then fell sharply.** Blackout blind (23 May) + evening milk moved to straight after dinner (and reduced in volume, 10 Jun) brought it down to ~1–2 interrupted nights/week, with clean runs (3, 5, 7, 9 Jun).
+- **Drivers shifting from environmental (summer first light) to developmental/self-soothing.** Self-settling emerging — Caspar retrieving his own dottie and re-settling (21 May, 29 May, 10 Jun). Wakes spike around attachment stress/disruption: Daddy's absences, guest departures, half-term, post-preschool overtiredness.
+- **Stage read:** classic late-toddler wobble (object permanence re: pacifier, autonomy/boundary-testing, molars, bladder awareness surfacing); ex-34-week so slightly younger corrected age — broadly on track.
+- **Adversarial flags:** don't over-pathologise ordinary toddler waking (hypervigilance trap); but expect a realistic regression risk clustering around the **Guardian report (17 Jun)** and **adoption hearing (3 Jul)** + peak July daylight — pre-empt with daytime connection top-ups for Caspar and protected bedtime ritual. Keep the pacifier (legitimate self-regulation scaffold); twin room-sharing contagion is structural and will shrink as Caspar's wakes shrink; watch lightly for an escalate→reward loop. Beware logging bias (eventful nights over-recorded vs clean nights).
+- **Levers working:** absolute blackout; milk straight after dinner (smaller volume); 30-sec pause before entering; warm low-stim "is it sleepy time?" re-settle.
+---
 ## Lunch banging incident & noise/attention analysis — Fox · 7 Jun 2026
 **Source:** Aloyse session 7 Jun 2026 — solo-parenting lunch incident (Kiwifruit), end-of-meal dysregulation cycle with Fox.
 ### The incident (Kiwifruit solo, end of lunch)

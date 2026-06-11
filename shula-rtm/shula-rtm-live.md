@@ -1,7 +1,14 @@
 # Shula RTM — Current State (20 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:48 UTC -->
 
+## Session update — 10 Jun 2026
+- Flat roof survey received from Hannah (email 9 Jun 2026) — carried out by Ross Pocock / Infinity Surveying on 8 Jun 2026 for insurance purposes
+- Overall result: satisfactory. No significant defects. Mineral felt roof covering, drainage channels, outlets, weathering details, plant room roof and edge details all in satisfactory condition. Rainwater outlet clear.
+- Only defects noted: cracks to render on west plant room elevation and plant room walls — flagged for repair in due course (non-urgent routine maintenance)
+- Hannah confirmed survey being submitted to insurers; no material findings that should complicate the insurance renewal
+- Note: Ross Pocock has now been on site and produced a competent inspection report — relevant context for the pending BSR compliance programme surveyor appointment decision (QU-0087 expiry 28 Jun 2026)
+---
 ## Session update — 8 Jun 2026
 - Tetra FRA (report HSFRA2-L-452331-310326, dated 31/03/2026) reviewed — fire safety rated MODERATE, H&S rated TOLERABLE. 26 actions total (0 Priority 1, 11 Priority 2, 13 Priority 3, 2 Advisory).
 - Key Priority 2 items: fire door remediation (ref 5), riser cupboard vertical penetrations on all floors (ref 7), Structural Risk Assessment required for BSR Golden Thread (ref 2), Fire Safety Management Plan absent (ref 10), monthly visual inspections of dry riser inlets/outlets not in place (ref 8).
@@ -331,10 +338,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -381,10 +390,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -431,10 +442,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -481,6 +494,7 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -506,10 +520,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>

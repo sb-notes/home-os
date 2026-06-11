@@ -1,7 +1,14 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:21 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:47 UTC -->
 
+## Children — wake-up log analysis — 11 Jun 2026 (source: "Journal Sleep Analysis June 2026")
+3-month review (late Mar → 10 Jun 2026), Fox & Bunny ~27mo / 2y3m, ex-34-week.
+- **Frequency & ratio:** Caspar accounts for ~80% of night wakings (~4:1 over Phoenix). Caspar's triggers: lost pacifier, full nappy, crying for Daddy. Phoenix usually woken secondarily by Caspar; her own wakes rarer (first-light/parent-triggered).
+- **Trend:** peaked week of 11–17 May (interrupted almost nightly), then sharp decline. **Blackout blind (23 May)** eliminated the 5:15–6:30am first-light wakes (single biggest intervention). **Evening milk moved to straight after dinner, then reduced in volume (~175ml → smaller, 10 Jun)** cut full-nappy wakes. Now ~1–2 interrupted nights/week with clean runs (3, 5, 7, 9 Jun).
+- **Physiology notes:** rear molars still emerging (occasional teething wakes); night-time bladder awareness surfacing (unusual weeing during changes; potty interest) — keep night nappies indefinitely, daytime dryness realistically 28–36mo (Phoenix possibly first).
+- **Watch:** likely uptick around peak July daylight + adoption milestones (Guardian report 17 Jun, hearing 3 Jul). Self-settling consolidating — fewer parent-required wakes expected over the next 8–12 weeks.
+---
 ## Kiwifruit — Tinea Healing Stages (added 8 June 2026)
 This framework was developed across the 8 June 2026 Dr Quinn session to help Kiwifruit track his own progress and for Dr Quinn to reference in future conversations.
 **STAGE 1 — ACTIVE INFECTION (Pre-treatment)**

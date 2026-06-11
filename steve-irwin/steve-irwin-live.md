@@ -1,6 +1,6 @@
 # Steve Irwin — Current State (6 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-10 06:22 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:48 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -22,12 +22,10 @@
 - London (~1hr drive): £250, better condition — not needed
 - New price: ~£700 (Robert Dyas / Homebase) — not needed
 **Key dimensions — Asgard Access Plus 8×4:**
-- External: 231cm (W) × 105cm (D) × 114cm (H)
-- Internal: 217cm (W) × 91cm (D) × 112cm (front H) / 132cm (back H)
-- Internal floor area: 217 × 91cm — fits Mountain Buggy Duet V3 made up (114cm L × 63cm W) angled in through double doors; 154cm width remaining beside buggy fits 2 adult bikes side by side
-- Access: gas-lift lid + double front doors
+- **Unit confirmed as smaller Asgard model (not Access Plus 8×4)**
+- External: 205cm (W) × 95cm (D) × 130cm (H)
+- (Previous dims 231×105×114 were for larger Access Plus — superseded)
 - Base requirement: solid concrete or tarmac (paving slabs on compacted MOT Type 1 acceptable if level and tight)
-- Weight: 122kg — two people needed for loading/unloading secondhand unit
 **Planning note:**
 - Front garden placement technically requires planning permission (Adur DC)
 - Enforcement is complaint-driven only — no cases of proactive enforcement found in Adur
@@ -39,7 +37,12 @@
 - Clear all planting from front yard
 - Keep boundary hedge (trimmed back hard)
 - Lay compacted stones + concrete paving slabs as base
-- Usable area post-clearance: ~300cm deep × 330cm wide
+- Usable area post-clearance: ~300cm (N–S) × 330cm (E–W) — estimated
+- Front door path (south side of house, runs E–W): additional ~100cm N–S
+- Total plot depth including path: ~400cm N–S × 330cm E–W
+- Orientation: house/door = west, road/gate = east, path runs E→W along south wall
+- Conifer removed; east boundary hedge retained and trimmed
+- Shed: SE corner, hard against east hedge and south wall, doors facing north
 - Shed positioned against boundary wall at back, leaving clear path to front door
 ---
 **Project:** Steve Irwin
