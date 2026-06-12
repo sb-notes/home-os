@@ -1,6 +1,6 @@
 # Aloyse — Current State (7 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:45 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-12 06:37 UTC -->
 
 ## Sleep / wake-up log analysis — 11 Jun 2026 (source: "Journal Sleep Analysis June 2026")
 3-month wake-up review (late Mar → 10 Jun 2026), children ~27mo / 2y3m.

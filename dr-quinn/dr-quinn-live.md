@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:47 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-12 06:39 UTC -->
 
 ## Children — wake-up log analysis — 11 Jun 2026 (source: "Journal Sleep Analysis June 2026")
 3-month review (late Mar → 10 Jun 2026), Fox & Bunny ~27mo / 2y3m, ex-34-week.
@@ -2360,3 +2360,46 @@ Sauna: heat increases inflammatory mediators in already-inflamed tissue; prolong
 Sea swimming: seawater osmotically stresses fragile epithelial cells; alkaline pH disrupts restored vaginal acidity; bacterial load is a real infection risk given broken tissue is now present; three sessions is significant exposure.
 Floatation tank: highest-concern activity. Epsom salt concentration ~30-35% is far more concentrated than seawater. Aggressive osmotic draw on broken mucosal tissue. Prolonged exposure (60-90 mins). Alkaline pH neutralises restored vaginal acidity. Most likely single contributor to recent setback.
 All three temporarily contraindicated until tissue is healed and no longer broken. Resume after clobetasol has had 4-6 weeks to work and tissue is intact. When sea swimming resumes: rinse vulval area with fresh water immediately after, apply coconut oil externally.
+## 🔬 Hannah — GP Appointment Prep (12 Jun 2026)
+Vagifem pessaries not helping after 12 days nightly use. Tissue remains white, now broken and red inside vaginal opening.
+Non-response to oestrogen is clinically significant — shifts diagnosis away from GSM as primary driver.
+Differential ranked by probability:
+1. Lichen Sclerosus (LS) — most likely. White persistent tissue, non-response to oestrogen, broken cracking tissue, GP and Newson already flagged as differential. Requires clobetasol propionate 0.05% ointment, not oestrogen.
+1. Lichen Planus (LP) — important alternative to raise. Erosive, painful, glazed red tissue inside vaginal canal specifically. Also does not respond to oestrogen. Distinguished from LS by appearance and biopsy. Mention explicitly to GP.
+1. Vulvodynia / Vestibulodynia — likely coexisting. Sensitised vestibule driving soreness and pain with applicator/sex. Oestrogen does not treat this. Pelvic floor physio, topical lidocaine, or low-dose amitriptyline may be appropriate.
+1. Contact dermatitis — less likely; worth ruling out. All products stopped except Vagifem and coconut oil.
+1. GSM alone — now least likely given oestrogen non-response.
+GP appointment script: "Vagifem nightly for 12 days has not helped — tissue is more broken and red. Oestrogen not working suggests LS or LP rather than GSM. Newson letter (13 May) already flagged LS as differential. Requesting: (1) vulval examination, (2) clobetasol propionate 0.05% prescription, (3) dermatology/vulval clinic referral. If uncertain between LS and LP, vulval biopsy under local anaesthetic gives definitive histological diagnosis."
+## 🔍 Adversarial Reassessment — Full Differential Review (11 Jun 2026)
+Adversarial pass run over all gynaecological findings to date. Key conclusion: the Lichen Sclerosus "primary diagnosis" call (26 May) was over-stated. Pelvic floor hypertonicity + vestibulodynia is the more likely unifying driver and has been under-weighted throughout as merely "contributing."
+Challenge to Lichen Sclerosus: Classic LS is intensely ITCHY — Hannah's symptom is soreness/burning, not itch (stated repeatedly). Classic LS affects EXTERNAL vulval skin in figure-of-eight distribution and stops at the hymenal ring — does NOT affect internal vagina. Hannah's worst tissue is INSIDE the vaginal opening, which argues against LS. White tissue could be oestrogen-deficient mucosa or cream residue rather than sclerotic change. Verdict: weaker than previously billed.
+Challenge to Lichen Planus: The burning-not-itch quality and internal vaginal location fit LP BETTER than LS. Previous ranking (LS primary, LP secondary) may be backwards. LP is the better skin-pathology fit if a true primary skin lesion exists.
+Challenge to "oestrogen non-response → LS" reasoning (the crux): Three serious confounds. (1) 12 days is too short — Vagifem epithelial change takes 4–8, sometimes 12 weeks; declaring failure at day 12 is premature. (2) Period timing — worsening coincided with period arrival, and symptoms reliably worsen at period time throughout this entire thread regardless of treatment. The "not working" judgement was made during the exact window symptoms always worsen. (3) Float + sea swims + sauna in the days before worsening — each can irritate fragile tissue; high-concentration Epsom float on broken mucosa especially. The apparent non-response may be fully explained by these three confounds without invoking any new diagnosis.
+Challenge to blood interpretation: Oestradiol 310 is a single cycle-day reading; perimenopausal oestradiol swings wildly; tells little about average tissue exposure. Systemic oestradiol ≠ local vaginal oestrogenisation. Blood result does NOT rule out GSM/atrophy contribution. Previously over-read.
+Under-weighted throughout — pelvic floor hypertonicity + vestibulodynia: The full 3-month arc — burning not itch, pain on insertion, pain after sex, exam so painful it was stopped (11 May GP note), "feels like UTI" with clear urine, pain predating tissue change, coexisting anal fissures and difficult evacuation, NEVER assessed by physio — is the textbook picture of pelvic floor hypertonicity with provoked vestibulodynia. This is the spine connecting vaginal, rectal and sexual symptoms into one diagnosis, and the one thing never treated.
+POST-ADVERSARIAL RANKING:
+1. Combined picture, pelvic floor hypertonicity + vestibulodynia as unifying driver (most likely overall). Explains everything including the rectal strand. Never assessed — biggest gap in the pathway.
+1. GSM/atrophy as real contributing layer (not excluded — 12 days too short, single oestradiol doesn't rule out). Continue Vagifem.
+1. Lichen planus — better fit than LS for burning/internal picture if true skin pathology present.
+1. Lichen sclerosus — possible but weaker than billed (itch-absence, internal location argue against).
+1. Recent acute worsening probably substantially iatrogenic (float + sea + sauna on fragile tissue + period timing) rather than proof of treatment failure or new disease.
+REVISED GP APPOINTMENT PRIORITIES (12 Jun):
+- TOP ASK: pelvic floor physiotherapy referral (outstanding 3 months; addresses most likely unifying diagnosis). This matters more than clobetasol.
+- Vulval examination is essential — GP must distinguish pale atrophic mucosa (GSM) vs parchment-white sclerotic skin (LS) vs glazed red erosions with lacy border (LP) vs normal-but-cotton-bud-tender vestibule (vestibulodynia). The exam discriminates, not the prescription.
+- Clobetasol: reasonable to DISCUSS but not the slam-dunk previously implied. Right IF exam shows LS or LP changes. WRONG if exam shows atrophic GSM or normal-tender vestibule (would thin fragile tissue). Let the examination drive the prescription.
+- Vulval clinic/dermatology referral worth having for the skin question; pelvic floor physio is the referral most likely to change daily reality.
+## ✅ CORRECTION to Adversarial Reassessment (11 Jun 2026)
+The adversarial reassessment immediately above was built on TWO incorrect inputs supplied to it. Both now corrected by Hannah. This materially changes the conclusion — Lichen Sclerosus is back as the most likely diagnosis.
+Correction 1 — Duration of oestrogen treatment: NOT 12 days. Hannah has had ~3 months of sustained local oestrogen — Ovestin cream nightly 2 weeks then twice-weekly maintenance, then Vagifem pessaries nightly 2 weeks then twice-weekly maintenance. This is a FULL adequate trial. Three months of correctly-used local oestrogen with persistent white, broken, symptomatic tissue is strong evidence this is NOT primarily GSM/atrophy. The "12 days too short" argument is void.
+Correction 2 — Itch vs soreness: The symptom IS itchy and was itchy from the start months ago. Hannah shifted to describing it as "soreness" over time, but itch has been present throughout. Itch is the CARDINAL symptom of lichen sclerosus. The "soreness not itch argues against LS" argument is void.
+CORRECTED RANKING:
+1. Lichen Sclerosus — most likely. Itchy (cardinal LS symptom), white tissue, cracked/broken/fissuring fragility, THREE MONTHS of adequate local oestrogen with no resolution (decisive — LS does not respond to oestrogen, GSM does), GP flagged pale tissue, Newson documented LS differential. Internally consistent, strong case.
+1. Lichen Planus — reasonable alternative; distinguished from LS by exam/biopsy. LS leads given itch-dominant external picture.
+1. Pelvic floor hypertonicity + vestibulodynia — coexisting layer, not the primary skin diagnosis. Explains insertion pain, painful exam, post-sex soreness, rectal strand. Does NOT explain white/broken/itchy tissue. Still needs physio referral; addresses a different part of the picture.
+1. GSM/atrophy — substantially downgraded. 3 months adequate oestrogen without resolution = good evidence it is not the primary driver. Possible early contributing layer only.
+REVISED GP PRIORITIES (12 Jun) — clobetasol now a STRONG ask, not a maybe:
+- Clobetasol propionate 0.05% trial — now clearly justified. Three months failed local oestrogen + itchy white broken tissue = textbook LS indication. Script: "Used local oestrogen properly for 3 months — cream then pessaries — itchy white breaking tissue hasn't resolved. Points away from atrophy toward lichen sclerosus, which Newson already flagged. I'd like to trial clobetasol."
+- Vulval examination — still essential to confirm appearance and exclude lichen planus; now likely to support rather than redirect the clobetasol decision.
+- Pelvic floor physio referral — second ask, for coexisting hypertonicity/vestibulodynia layer.
+- Vulval clinic referral — for long-term LS monitoring (LS needs specialist follow-up; small long-term malignancy risk).
+Lesson logged: adversarial passes are only as good as their inputs. Two wrong facts (duration, itch) flipped the conclusion. Always confirm the primary clinical facts before re-weighting a diagnosis.

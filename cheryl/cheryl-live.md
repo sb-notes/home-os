@@ -1,6 +1,6 @@
 # Cheryl —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:46 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-12 06:38 UTC -->
 
 ## Parenting regulation milestone — solo lunch incident · 7 Jun 2026
 **Source:** Aloyse session 7 Jun 2026 (cross-routed here for the regulation/emotional dimension). Full parenting detail in Aloyse state file.

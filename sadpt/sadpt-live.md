@@ -1,6 +1,6 @@
 # Secret Adopters — Current State (updated 5 Apr 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-11 06:47 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-12 06:39 UTC -->
 
 ---
 ## Journal sync — 22–27 May 2026 (sources: "Journal Friyay" 22 May, "Journal Tuesday" 26 May, "Journal weds" 27 May)
