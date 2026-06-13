@@ -1,6 +1,6 @@
 # Nik's List — Current State (11 Mar 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-12 06:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
 
 <!-- ANCHOR -->
 **Project:** Nik's List

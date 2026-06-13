@@ -1,6 +1,6 @@
 # Shula RTM — Current State (20 May 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-12 06:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
 
 ## Session update — 10 Jun 2026
 - Flat roof survey received from Hannah (email 9 Jun 2026) — carried out by Ross Pocock / Infinity Surveying on 8 Jun 2026 for insurance purposes

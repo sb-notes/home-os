@@ -1,6 +1,6 @@
 # Dr Quinn —
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-12 06:39 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
 
 ## Children — wake-up log analysis — 11 Jun 2026 (source: "Journal Sleep Analysis June 2026")
 3-month review (late Mar → 10 Jun 2026), Fox & Bunny ~27mo / 2y3m, ex-34-week.
