@@ -1,7 +1,9 @@
-# Dr Quinn —
+# Dr Quinn — Current State (13 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-14 06:37 UTC -->
 
+## Update — 13 June 2026 (source: weekly coaching session)n- Invitation set: **protect one genuinely passive rest** this week that isn't a working-walk — float-shaped (the morning's hour in the float tank is the template). Even the daily walks are working-time; passive rest still thin.n- Carciofi's health held under **"caring not fixing"** — Kiwifruit to support and offer without carrying the outcome (e.g. let her make the Origano-referred therapist contacts in her own time).nn---n
+## Update — 13 June 2026 (source: weekly wrap-up)n### Kiwifruitn- Yoga now **10–15 min every morning** (unlocked via EMDR); feeling notably stronger — lifting Fox (16kg) in and out of the bath easily.n- **~2 weeks from finishing the terbinafine** course; tinea on the shin clearing. Course acknowledged as taxing on the body alongside the EMDR work.n- Sleep improving — reducing the children's evening-milk volume cut the night wakes (knock-on benefit to his own sleep).n- Three minor anger episodes in a day this week, all very small (also Cheryl).n### Carciofi — significant updaten- GP (the same good one) **cannot yet distinguish Option A (treatable) from Option B (chronic, debilitating, autoimmune — worst case)**; now **referred to dermatology** (awaiting waiting-list timing).n- Chronic vulval / "front bum" pain ongoing; worn down, constantly aware of pain and discomfort; has said *"we may never be able to have sex again."* Hand still sore (wears the strap).n- **Sauna and float may have aggravated the condition** — flagged (see Bob the Builder).n- Self-care holding well: resting a lot (sleeps when children nap / are at daycare), eating well, vitamins, healthy smoothies now including Brazil nuts, hazelnuts, walnuts.n- Kiwifruit encouraging her to contact the **four therapists Origano referred** (EMDR / somatic), believing there's an emotional thread to the physical symptoms; will ask Origano on Thursday for holistic referrals too (naturopath, private GP, homeopath, Chinese medicine, Reiki, somatic). Origano can't take Carciofi herself (one client per family).n- Carciofi has said she **can't continue at the current level of childcare** — body too run down (also Cheryl / Aloyse).nn---n
 ## Children — wake-up log analysis — 11 Jun 2026 (source: "Journal Sleep Analysis June 2026")
 3-month review (late Mar → 10 Jun 2026), Fox & Bunny ~27mo / 2y3m, ex-34-week.
 - **Frequency & ratio:** Caspar accounts for ~80% of night wakings (~4:1 over Phoenix). Caspar's triggers: lost pacifier, full nappy, crying for Daddy. Phoenix usually woken secondarily by Caspar; her own wakes rarer (first-light/parent-triggered).
@@ -2403,3 +2405,52 @@ REVISED GP PRIORITIES (12 Jun) — clobetasol now a STRONG ask, not a maybe:
 - Pelvic floor physio referral — second ask, for coexisting hypertonicity/vestibulodynia layer.
 - Vulval clinic referral — for long-term LS monitoring (LS needs specialist follow-up; small long-term malignancy risk).
 Lesson logged: adversarial passes are only as good as their inputs. Two wrong facts (duration, itch) flipped the conclusion. Always confirm the primary clinical facts before re-weighting a diagnosis.
+## ✅ GP Appointment Outcome (12 Jun 2026)
+Three outcomes secured — a good appointment.
+1. Dermatology referral made. GP not certain it is LS — in her experience she has been more confident when DISTINCT white areas are visible; Hannah's presentation is more GENERALISED whitening, which is less clear-cut. Honest, competent observation. Dermatology/vulval clinic will confirm LS vs lichen planus, ideally with biopsy.
+1. GP agreed the lack of progress on Vagifem points AWAY from pure GSM (or not GSM alone). Aligns with the corrected assessment.
+1. Clobetasol propionate 0.05% (Dermovate) prescribed as empirical trial while awaiting dermatology. Pragmatic and correct — no reason to leave Hannah in pain for months awaiting referral; a therapeutic trial is also diagnostically useful (good response supports LS).
+1. Continue Vagifem for now — reasonable; if any GSM layer underneath, oestrogen still helps and does no harm alongside clobetasol.
+### Dermovate leaflet concern — RESOLVED
+Leaflet says "Do not use to treat itching around your anus or genitals (penis or vagina)." This alarmed Hannah but does NOT apply to her situation. The warning targets UNDIAGNOSED, unsupervised self-treatment of genital itching — the concern being (a) masking an underlying fungal/bacterial infection (steroid worsens infection — same tinea incognito principle as Ollie's shin) and (b) delaying diagnosis. Hannah's case is the opposite: GP-examined, infection ruled out (clear swab, normal pH, failed antifungal), differential considered, and clobetasol specifically prescribed for suspected LS. Clobetasol propionate IS the gold-standard first-line treatment for vulval lichen sclerosus per BAD and BSSVD guidelines. Leaflet warning (unsupervised use) and standard of care (prescribed use) are not in conflict.
+One genuine caveat that DOES apply: do not apply clobetasol over active untreated infection. Hannah's swab clear and pH normal so no active infection currently. Monitoring point: if signs of thrush develop during treatment (cottage-cheese discharge, new different-character itching, white plaques), pause and get a swab — steroid on broken tissue can occasionally allow opportunistic thrush, which would need an antifungal alongside. Not a reason to avoid clobetasol.
+### Clobetasol (Dermovate) — Standard Vulval LS Regimen
+Apply thin layer (~half a fingertip unit) to affected vulval skin once daily at night for 4 weeks. Then alternate days for 4 weeks. Then twice weekly for 4 weeks. Then review (ideally with dermatology seen by then). Many women settle on twice-weekly maintenance long-term. Clean fingertip, wash hands after, small amount goes a long way. A 30g tube should last a long time — getting through it quickly means too much is being used. Continue Vagifem twice weekly alongside.
+### Outstanding after 12 Jun
+- Dermatology/vulval clinic appointment — awaited (NHS referral, likely 3–6 months; consider private dermatology with vulval interest via BSSVD directory [bssvd.org](http://bssvd.org/) for faster diagnosis, ~£150–250)
+- Pelvic floor physiotherapy — ON NHS WAITLIST since May 2026 GP appointment (~1 month so far). NOT outstanding — already actioned. Addresses coexisting hypertonicity/vestibulodynia. Correction: previously mis-logged repeatedly as "not booked"; it was referred in May. Chase if no contact by ~August.
+- Endometriosis investigation — gynaecology review (Mr Narendra Pisal / Mr David Nunns) still pending
+- Newson follow-up — August 2026
+## 🧘 Pelvic Floor — Self-Directed Yoga Programme (13 Jun 2026)
+Context: Hannah did yoga ~4x/week for years; dropped to <1x/week over the last couple of years. This reduction is a plausible contributor to pelvic floor hypertonicity — regular practice had been providing hip mobility, diaphragmatic breathwork (teaches pelvic floor to release on inhale), and nervous-system down-regulation. Caveat: the bigger drivers remain chronic stress (therapeutic parenting, broken sleep) and the pain-guarding cycle from vulval symptoms. Yoga gap is a contributor, not the root. Works alongside physio, not instead of it.
+Key principle: DOWN-TRAINING only — lengthen and release, never clench. NO Kegels, NO strong core work, NO "engage pelvic floor" cues. Hypertonic floor needs the opposite.
+Daily foundation — diaphragmatic breathing (5 min): supine, knees bent, hand on belly. Inhale slow, let belly AND pelvic floor passively balloon down and soften (sitting bones widen). Effortless exhale. Most important single exercise — retrains pelvic floor to release on inhale.
+Releasing poses (15–20 min most days): Child's pose (knees wide); Happy Baby; Reclined Bound Angle (Supta Baddha Konasana, thighs supported on cushions); supported Malasana squat (on block/towel, restful not effortful); Legs Up The Wall; Pigeon / reclined figure-4 (deep hip rotators refer tension to pelvic floor); slow breath-led Cat-Cow. End every session with stillness/savasana — parasympathetic downshift.
+Avoid for now: strong core/abdominal work, intense vinyasa, any "navel in and up" or pelvic-floor-engagement cue, deep unsupported effortful squats.
+Restart target: 3 short restorative/yin sessions per week (sustainable around twins), not straight back to 4x. Search "restorative", "yin", "pelvic floor release" specifically — Yoga with Adriene, Yoga with Kassandra (YouTube, free). Ideal to do in the weeks BEFORE the pelvic floor physio appointment — arrives with breathing grooved and muscles mobile so physio can progress faster.
+## Clobetasol — Application to Vaginal Opening (13 Jun 2026)
+Q: Can clobetasol be applied right at the vaginal opening where worst pain is? A: Yes — the introitus, vestibule, inner labia and fourchette are legitimate, standard targets for vulval LS/LP. The "do not apply internally" caution refers to deep inside the vaginal canal, NOT the opening.
+Boundary: apply to external genital skin and up to/around the vaginal opening (vestibule). Do NOT insert up into the vaginal canal — clobetasol is formulated for skin; vaginal mucosa absorbs much more. Opening/vestibule = fine; deep internal = not what this cream is for.
+Flag: if worst pain is genuinely HIGHER UP inside the canal rather than at the opening, tell the dermatologist — internal vaginal involvement points more toward lichen planus than LS and may need a different preparation (vaginal-specific steroid).
+Application: clean fingertip is the best applicator for the vestibule (control of placement and amount). Thin smear is enough. Apply at night.
+Sequencing: do not apply clobetasol and Vagifem at the same moment in the same spot — space them apart (e.g. clobetasol at night, Vagifem at a different time) so they don't dilute each other at point of contact.
+## 🔬 Lichen Planus — Why Not Flagged Earlier, and Symptom Fit (13 Jun 2026)
+Q: Why wasn't lichen planus (LP) flagged sooner, and do Hannah's symptoms fit it?
+Why LP came in late:
+1. Less common than LS — vulvar LS is considerably more common, so LS is the natural first suspect for white/itchy/atrophic vulval tissue (also why GP reached for LS first).
+1. Early picture pointed elsewhere — working diagnosis was GSM from Slynde for the first stretch, which was reasonable on timing. LP only comes into focus once oestrogen has clearly failed AND the worst-pain-at/inside-the-opening detail emerged (which was recent).
+1. Genuinely under-weighted — the adversarial pass did flag that the LS-vs-LP ranking might be backwards (burning quality + internal location fit LP better), but it was ranked second rather than headline.
+Points that FIT LP:
+- Soreness/burning quality alongside itch — erosive LP is classically painful/burning; LS is more purely itchy
+- Worst pain at/around the vaginal opening — LP characteristically involves the vestibule and can extend INTO the vagina; LS does not
+- Poor oestrogen response — true of both LP and LS (doesn't distinguish, but consistent)
+- Generalised redness with whitening rather than sharply demarcated white patches — GP specifically noted generalised whitening, not distinct porcelain-white plaques. Erosive LP often shows redness with a lacy white (Wickham's striae) border rather than solid white plaques
+Points that fit LP LESS well / unknown:
+- LP often involves other sites — mouth especially (gums, inner cheeks), sometimes scalp/nails/skin. No oral involvement reported. ACTION: check whether Hannah has any mouth soreness, bleeding gums, or lacy white pattern inside cheeks — if yes, raises LP considerably and should be mentioned explicitly to dermatologist.
+- True erosive LP usually shows visible erosions — needs examination to confirm
+Bottom line: LS and LP are close cousins, often confused even by clinicians, overlap heavily, and the empirical first-step treatment is the SAME — high-potency topical steroid (clobetasol), which Hannah now has. Nothing lost by LS being the headline.
+What changes if it IS LP not LS:
+- More likely to need treatment INSIDE the vagina (vaginal steroid preparations/pessaries), not just vulva
+- Stronger association with other-site involvement (mouth) — specialist may look wider
+- Both carry small long-term vulval cancer risk and need ongoing monitoring — dermatology/vulval clinic referral matters either way
+Most useful pre-appointment action: check for oral symptoms (sore patches, lacy white inside cheeks, sensitive/bleeding gums). If present, meaningful pointer toward LP — mention explicitly to dermatologist as it can shift both diagnosis and where they look.

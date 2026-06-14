@@ -1,7 +1,8 @@
-# Bob the Builder — Current State (19 May 2026)
+# Bob the Builder — Current State (13 June 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:13 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-14 06:36 UTC -->
 
+## Update — 13 June 2026 (source: weekly wrap-up)n- **Sauna plan needs a rethink:** Kiwifruit noted this week that the sauna and float may have **aggravated Carciofi's chronic condition** (see Dr Quinn). Reconsider the home-sauna purchase in that light before proceeding; Carciofi's lie-down requirement still stands as the spec if it does go ahead.n- Had a sauna with a Forever Dads peer (Josh — no codename yet, flag) last Sunday; still a personal dream purchase.nn---n
 ---
 ## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
 ### Sauna — vendor research complete (3–5 Jun)

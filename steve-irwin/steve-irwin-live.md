@@ -1,6 +1,6 @@
 # Steve Irwin — Current State (6 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-14 06:38 UTC -->
 
 <!-- ANCHOR -->
 ---
@@ -119,6 +119,14 @@
 - Tips: place parallel to lawn edges, set width/range precisely, water early morning or late evening
 ### Lawn Edging
 - Researched 4cm vs 6cm metal/plastic edging for border between turf and flower bed on gently sloping sandy loam
+### Overseeding — Bluebell Patch Repair (June 2026)
+- **Purchased 13 Jun 2026:** PGS Premium Grass Seed (Elixir Gardens) — 80% Perennial Rye Grass / 20% Strong Creeping Red Fescue, hard-wearing patch repair blend
+- **Purpose:** Fill bare patches left by Spanish bluebell die-back in lawn
+- **Application rate:** 35g/m² for overseeding/patch repair (50g/m² is new-lawn rate — do not use)
+- **Method:** Rake out dead bluebell foliage/thatch from bare patches, scarify surface for soil contact, sow at 35g/m², rake in to 5–10mm depth, firm with back of rake
+- **Watering:** Little and often (2x daily) with oscillating sprinkler to keep top layer consistently moist until germination (5 days–3 weeks per pack, faster in June warmth if watered well)
+- **Aftercare:** Keep kids/robot mower off seeded patches for 4–6 weeks until established
+- **Risk note:** Mid-June timing is sub-optimal vs September overseed (heat/drought risk to seedlings) but pack rated for low-temp germination; proceeding with diligent watering. Keep remaining seed sealed for September top-up if needed.
 ---
 ## Garden — Lawn Mower
 - **Purchased Bosch robot mower** (compact model, suitable for ~33m² lawn)
@@ -186,6 +194,22 @@
 - **Shoreham Recycling Centre** — West Sussex County Council run
 ---
 ## Equipment (Outdoors / Steve Irwin original)
+## Sandstone Sealing Plan (10 Jun 2026)
+- Sealer choice: Floorseal Indian Sandstone Sealer & Colour Intensifier (matt, colour-enhancing) — suits Victorian terrace; subtle finish, no wet-look gloss
+- Process: biocide treatment → pressure wash → seal
+- Order of work: Oli (handyman) to do front yard paving + sealing first; if that goes well, repeat process on back yard patio (currently ~1 year old, needs biocide + pressure wash before sealing as it's outdoor/weathered)
+- Geo-Fix All Weather Mid Grey 14kg (Dortech Direct/MGN) chosen for front yard jointing — check compatibility with sealer before application (some sealers unsuitable over resin-based grout)
+## Front Garden — Slate Tile Inventory (upcycled, 10 Jun 2026)
+- 40×60cm × ~12, 40×40cm × ~7, 40×20cm × ~9, + a few bigger broken pieces
+- Total area ~0.47m² — not enough for path or patio; insufficient for main paving job
+- Confirmed: buy new Green Raj Indian sandstone for front yard; slate reserved for small decorative use/edging
+## Front Garden — Target Dimensions (10 Jun 2026)
+- Path: ~120cm × 4m (ish)
+- Patio/square section: 225cm × 340cm
+## Jointing/Grouting Reference (from back patio landscaper)
+- Back yard Green Raj sandstone jointed with a resin-bound/polymeric jointing compound (brand likely Geofix — marketed with volcanic sand/ash aggregate)
+- Cures over 24–72 hours; flexible, weed-resistant, frost-stable, long-lasting vs traditional mortar pointing
+- Use same product for front yard paving for consistency
 ## Front Garden Storage — Buggy/Bike Store
 **Decision date:** 22 March 2026
 **Unit chosen:** Trimetals 6'4" × 2'9" Metal Bicycle Store — Anthracite

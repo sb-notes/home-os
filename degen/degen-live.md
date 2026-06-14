@@ -1,7 +1,14 @@
-# Degen — Current State (7 Jun 2026)
+# Degen — Current State (13 June 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:13 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-14 06:37 UTC -->
 
+## Update — 13 June 2026 (source: Shoreham Tech — co-founder role; financial flag)
+- **Kiwifruit has accepted a co-founder role in Shoreham Tech and the pending CIC** (was informal advisor). Flagged here for the financial/structural angle.
+- **CIC structure to understand before incorporation:** a Community Interest Company is asset-locked — there is no conventional equity/share-sale upside as with the Rightbrain EMI options. CICs can pay director salaries and (for share-limited CICs) capped dividends, but the majority of profit must be reinvested for community benefit. Co-founder status here is mission/role, not a wealth-building equity stake. Model accordingly; don't treat as comparable to startup equity.
+- **Income angle:** any future income would likely be director's salary or advisory/consulting fees from Shoreham Tech's business-services arm, not capital gains. Currently self-funded by butler; no income to Kiwifruit yet.
+- **To confirm:** (a) is Kiwifruit a director of the CIC on incorporation (filing/Companies House implications), (b) any personal liability/time-cost exposure, (c) interaction with the "side income, 1–2 clients allowed" Rightbrain employment terms. Likely fine but worth a clean check.
+- Full context: [Untitled](https://app.notion.com/p/c574f8f01b9d45e4abd79b2d24f35dd4)
+## Update — 13 June 2026 (source: weekly wrap-up)n- **TDR portfolio rebalance:** moved all ETH out of the TDR portfolio, then re-entered only the weight-matched amount; flipped some ETH into **WLD** and **DRV** (following TDR's entries from a week or two ago); sold the last CMC dust (**ROSE**); moved some USDT to **Kraken**; added **£102** to fund the WLD/DRV buys; added **£600** cash this month (may stretch us). TDR proving more balanced and repeatable than CMC ever was — happy with it.n- Banked ~**£20k of losses** for CGT; the next ~£20k of profit is tax-free. Frames the ~£20k portfolio as "gambling money."n- Reflection: needs to act faster when a TDR alert email arrives (knew the action was needed but lacked time); considering a daily Cowork job to surface TDR emails.n- **Children's investment:** Tamarindo's (Tony — codename per skill table; ⚠️ conflicts with "Joburg" in my notes, confirm) **£18k** (~£9k each) earmarked for **InvestEngine** in **HSBC FTSE All-World**, into **JISAs** once legal guardianship lands.n- **Abundance / property realisation:** the three investment properties are now **positively geared** — Hereford Court ~£1k/month gross profit (mortgage ~£880 + service charge ~£250 vs ~£2,100 rent); Fender Villas mortgage drops in ~2 yrs; Carciofi's Bedford flat remortgage in ~2 yrs returns it to ~£600–700/month. Rightbrain equity may grow enough to fund a NZ move **without** selling — opening the option to sell properties in consecutive years (yrs 5–7) to minimise CGT, and/or hand all three to a managing agent to reclaim time (cost tax-deductible). To be modelled.nn---n
 ---
 ## Journal sync — 31 May–5 Jun 2026 (sources: "Journal Monday" 1 Jun, "Journal Wednesday" 3 Jun, "Journal Thursday" 4 Jun, "Journal Friday" 5 Jun)
 ### 5 Jun — Rightbrain referral bonus scheme

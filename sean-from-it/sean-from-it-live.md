@@ -1,7 +1,14 @@
-# Sean from IT — Current State (6 Jun 2026)
+# Sean from IT — Current State (13 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-14 06:38 UTC -->
 
+## Lawnchair / Monoic icon swap — 13 Jun 2026
+- Kiwifruit's Pixel 8 running **Lawnchair Legacy** (Play Store, last updated Dec 2019 — unsupported v2 codebase, not the actively-developed Lawnchair 15)
+- Issue: two dock icons (Gmail, 1Password area) occasionally swap positions (~3x in 2 weeks)
+- Researched: not a Monoic icon pack issue (theming-only, no position logic). Lawnchair 15 has a similar known open bug (#5651, gesture-nav icon repositioning) but Legacy is a different, dead codebase — root cause likely Legacy's old position-save logic vs modern Android gesture nav
+- **Decision: stay on Lawnchair Legacy + Monoic for now.** Manually re-drag the two icons when it happens (10-second fix, ~weekly). Not worth migrating to Lawnchair 15 (re-theming, layout rebuild, trades for different beta bugs) or buying a new icon pack (wrong layer — wouldn't fix position bug)
+- Watch item: Legacy is unsupported — if a future Android update causes a bigger breakage (not just icon order), fallback plan is migrate to Lawnchair 15 + check Monoic compatibility
+---
 ---
 ## Weekly triage — 6 June 2026
 - Rows reviewed: 2

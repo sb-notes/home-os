@@ -1,7 +1,8 @@
-# Forever Dads — Current State (17 May 2026)
+# Forever Dads — Current State (13 June 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-14 06:37 UTC -->
 
+## Update — 13 June 2026 (source: weekly wrap-up)n- **Session held Wed 10 Jun** — a full PIES check-in. Named honestly: complete exhaustion alongside deep fulfilment; "prison sentence with unruly inmates" at times; a sad / angry inner child he's listening to more; significant anger reduction (hasn't raised his voice at the children in 2–3 weeks).n- **Group action items:** investigate the sauna; schedule a sauna catch-up with the peer; plan occasional **duvet days** with Carciofi when the children are in preschool (reconnect time); **start playing guitar** (named as the last missing self-care piece).n- Walking + 10 min yoga transformative; feeling stronger; half a day off each weekend (float / sauna) making a real difference. Dad guilt cuts both ways (guilty at home when working, guilty at work when not with the kids).nn---n
 <!-- ANCHOR -->
 ---
 ## Journal sync — 12–13 May 2026 (sources: "Journal glorious Tuesday", "Journal weds", "Therapy/Catarina")

@@ -1,7 +1,24 @@
-# Shula RTM — Current State (20 May 2026)
+# Shula RTM — Current State (13 Jun 2026)
 
-<!-- Auto-synced from Notion. Last sync: 2026-06-13 06:14 UTC -->
+<!-- Auto-synced from Notion. Last sync: 2026-06-14 06:38 UTC -->
 
+## Session update — 13 Jun 2026
+- **Neil's AOV/smoke control assessment (WhatsApp, drawing on Jan 2026 site review):** Building layout consistent with CP3-era ventilated lobby design. A single AOV at head of stair is unlikely to provide satisfactory smoke control improvement — AOV vents likely needed in every floor lobby (GF and above), requiring window frame replacement on all floors, not just top of stairs.
+- **Conflict flagged with Harper Stone's 2024 AOV Section 20 Stage 2 Statement of Estimates** (Brighton Fire Alarms, dated 04/11/2024): HS spec only covered 2 new louvre windows at top of stairs, control panel, smoke detectors per floor, 2 call points. Total £16.5k → £18.655k with admin/paymaster fees → £22.386k inc VAT; £20k to come from leaseholders, £2.386k from reserve. If Neil/Terry's wider assessment is correct, HS's spec was inadequate — either Terry has it wrong (risk of overcharging for unnecessary work) or HS/contractors under-surveyed. **Action: go back to Austin Rees/Terry Kinch to reconcile scope before further AOV spend committed.**
+- **Infinity Systems (Ross Pocock) quote received 5 June 2026:** Happy to work with Terry Kinch to oversee Gateway application for both AOV install and door upgrade works. Also quoted to act as principal designer (scope of works, BHCC planning application, BSR Gateway application) plus **10% of total contract costs as project administrator** (spec, tenders, project oversight).
+- Earl Kendrick competitive quote for project management still awaited (as of 13 Jun).
+- **Ollie's response to Neil:** agreed with Neil's assessment; proposed urgent call with Ben Riches and Hannah next week (lunchtime, avoid usual Tuesday slot).
+- **Financial crisis flagged by Neil (separate message, same day):**
+  - Amy promised financial breakdown "by end of day" — not delivered, not first time this has happened.
+  - Open questions for AR: what has AR done to resolve accounts with HS since handover? Where does Galloways fit in the process? Why is legal action against HS only being considered now?
+  - **2H26 service charge must be issued or RTM risks insolvency** — but composition of current funds (reserve vs service charge) still unconfirmed by Amy.
+  - Proposed approach: issue 2H26 demands alongside each leaseholder's HS balance as at 23/03/26; offset credit balances against 2H26 (and potentially further) service charges, reducing income for a period; be transparent with leaseholders that balances may not be 100% accurate, ask leaseholders to confirm their most recent HS balance ahead of the 2H26 issue.
+  - 1H26 hard-copy invoice issue confirmed by Amy as **unrelated** to the HS handover problem — purely an AR failure to action; still don't know who has/hasn't paid 1H26.
+  - Surveys: to progress as affordable — they form part of the safety case the BSR may request.
+  - Fire doors: all OK, subject to the AOV scope question above.
+- **Ollie's plan:** Sunday 12.30–2.30 call with Neil to agree a concrete action plan for next week, ahead of the Ben/Hannah call. Core issues identified: (1) finances unclear — not just an HS problem; (2) need to issue 2H26 service charges; (3) why have 1H26 hard-copy invoices not been posted (3 months overdue)?; (4) what will AR do about the financial position, and by when?
+- **Overall assessment:** AR escalation now required — pattern of unmet promises on financials, unclear Galloways involvement, and slow movement on HS legal action suggests this has not been a priority for AR. AOV scope discrepancy with HS's 2024 spec also needs resolving with AR/Terry before committing further spend on Infinity or Earl Kendrick.
+---
 ## Session update — 10 Jun 2026
 - Flat roof survey received from Hannah (email 9 Jun 2026) — carried out by Ross Pocock / Infinity Surveying on 8 Jun 2026 for insurance purposes
 - Overall result: satisfactory. No significant defects. Mineral felt roof covering, drainage channels, outlets, weathering details, plant room roof and edge details all in satisfactory condition. Rainwater outlet clear.
@@ -339,10 +356,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>RTM application cost per participating leaseholder</td>
 <td>£300 inc VAT</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -391,10 +410,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Outstanding RTM payments</td>
 <td>2 x £300</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -443,10 +464,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>Harper Stone closing balance (their claim)</td>
 <td>£1,634.03</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
@@ -495,6 +518,7 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>AOV installation quotes</td>
 <td>£15,300 – £72,000 ex VAT</td>
 </tr>
@@ -521,10 +545,12 @@ No building condition survey has been commissioned. This is the foundation of th
 </tr>
 </tr>
 </tr>
+</tr>
 <td>BSR Gateway application estimate</td>
 <td>£15,000 – £20,000</td>
 </tr>
 <tr>
+</tr>
 </tr>
 </tr>
 </tr>
